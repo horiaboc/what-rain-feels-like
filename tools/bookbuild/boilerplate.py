@@ -33,6 +33,8 @@ the prose before that edition is published.
 
 from __future__ import annotations
 
+import re
+
 from . import config as c
 
 # Every key is optional except the ones that carry a value from config, so a
@@ -314,9 +316,21 @@ def copyright_blocks(lang: str | None = None) -> list[tuple[str, list[str]]]:
             blocks.append(("", [line("translator")]))
 
     blocks.append(("", [line("cover")]))
-    blocks.append(("cp-imprint", [line("published"), c.IMPRINT_CITY or None]))
+
+    # "Published by Independently published" doubles the word — a self-published
+    # book states the fact by itself, in any language.
+    if c.IMPRINT.strip().lower() in ("independently published",
+                                     "unabhängig veröffentlicht"):
+        blocks.append(("cp-imprint", [c.IMPRINT, c.IMPRINT_CITY or None]))
+    else:
+        blocks.append(("cp-imprint", [line("published"), c.IMPRINT_CITY or None]))
+
     blocks.append(("", [line("edition")]))
-    blocks.append(("", [line("isbn")]))
+    # The ISBN exists only after KDP assigns it. Until then the line is left
+    # off rather than printing a bracketed placeholder; --check still reports
+    # the placeholder so it cannot be forgotten for the paperback rebuild.
+    if not re.search(r"\[[^\]]+\]", c.ISBN_PAPERBACK or ""):
+        blocks.append(("", [line("isbn")]))
     blocks.append(("", [line("printed")]))
 
     out = []

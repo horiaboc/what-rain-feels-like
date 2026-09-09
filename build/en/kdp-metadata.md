@@ -15,7 +15,7 @@ has no publishing API, so this sheet is the input to a manual form.
 | Author (primary) | Horia |
 | Language | English |
 | Publication date | leave blank (KDP uses the approval date) |
-| Publisher | [Independently published] |
+| Publisher | Independently published |
 | ISBN (paperback) | [assigned by KDP at publish] — choose "Get a free KDP ISBN" |
 | ISBN (ebook) | not required; Amazon assigns an ASIN |
 

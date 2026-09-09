@@ -75,13 +75,13 @@ AUTHOR_METADATA = "Horia"
 AUTHOR_SORT = "horia"
 
 # The © line takes the legal name even when the cover carries the pen name.
-AUTHOR_LEGAL = "[Author legal name]"
+AUTHOR_LEGAL = "Horia Bochis"
 
 YEAR = "2026"
 # The edition line ("First edition, 2026.") is language-specific and lives with
 # the rest of the copyright-page boilerplate in boilerplate.py.
-IMPRINT = "[Independently published]"
-IMPRINT_CITY = "[City, Country]"
+IMPRINT = "Independently published"
+IMPRINT_CITY = "Meckesheim, Germany"
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Print specification (KDP paperback) — the physical book, same in any language
