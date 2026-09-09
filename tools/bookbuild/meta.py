@@ -16,19 +16,19 @@ from .sources import Book, blurb_blocks
 # Suggestions only — worth checking against what comparable titles actually
 # rank under before publishing.
 KEYWORDS = [
-    "literary science fiction",
+    "romantic suspense",
     "artificial intelligence novel",
-    "near future Berlin",
     "AI love story",
-    "memory and identity",
+    "love story with a secret",
     "speculative literary fiction",
     "artificial general intelligence",
+    "science fiction romance",
 ]
 
 CATEGORIES = [
-    "FICTION / Literary",
-    "FICTION / Science Fiction / General",
-    "FICTION / Romance / Science Fiction",
+    "Literature & Fiction > Literary Fiction > Mystery, Thriller & Suspense",
+    "Literature & Fiction > Literary Fiction > Romance",
+    "Science Fiction & Fantasy > Science Fiction > General",
 ]
 
 # KDP print cost, US marketplace, black ink on cream paper.

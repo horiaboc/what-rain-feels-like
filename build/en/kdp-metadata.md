@@ -37,19 +37,19 @@ But Iris's memories begin to come apart when she looks at them too closely — a
 
 ## Keywords (7 slots)
 
-1. literary science fiction
+1. romantic suspense
 2. artificial intelligence novel
-3. near future Berlin
-4. AI love story
-5. memory and identity
-6. speculative literary fiction
-7. artificial general intelligence
+3. AI love story
+4. love story with a secret
+5. speculative literary fiction
+6. artificial general intelligence
+7. science fiction romance
 
 ## Categories (up to 3)
 
-1. FICTION / Literary
-2. FICTION / Science Fiction / General
-3. FICTION / Romance / Science Fiction
+1. Literature & Fiction > Literary Fiction > Mystery, Thriller & Suspense
+2. Literature & Fiction > Literary Fiction > Romance
+3. Science Fiction & Fantasy > Science Fiction > General
 
 ## Content and rights
 
