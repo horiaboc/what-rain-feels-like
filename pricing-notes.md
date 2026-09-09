@@ -1,6 +1,6 @@
 # Pricing & Royalty — orientation
 
-Suggested list prices and KDP royalty facts for *What Rain Feels Like* (~78.6k words, ~300 print pages). **Orientation only** — verify current KDP terms at publish time; they change. Figures in USD unless noted.
+Suggested list prices and KDP royalty facts for *What Rain Feels Like* (~78.7k words, 273 print pages). **Orientation only** — verify current KDP terms at publish time; they change. Figures in USD unless noted.
 
 ## Best markets (English edition)
 1. **US (amazon.com)** — largest; most sales.
@@ -19,14 +19,14 @@ Debut sweet spot: ebook **$4.99–$6.99**; can launch lower ($2.99–3.99) to at
 
 ## Your royalty (KDP)
 - **Ebook — 70%** *only if* list price is **$2.99–$9.99** (and equivalent bands in GBP/EUR); outside that band it drops to **35%**. A tiny per-download delivery fee (~$0.06 for this text) comes off the top. **Ebook must be ≥20% cheaper than the paperback** or KDP blocks it.
-- **Paperback — 60% of list − printing cost.** Printing a ~300-page b&w paperback ≈ **$4.45** (US: $0.85 fixed + ~$0.012/page).
+- **Paperback — 60% of list − printing cost.** Printing the 273-page b&w paperback ≈ **$4.13** (US: $0.85 fixed + ~$0.012/page).
 - **Hardcover** — same 60% − higher print cost.
 
 ## Worked examples (net to author)
 | Item | List | Royalty | ~Net |
 |---|---|---|---|
-| Ebook | $4.99 | 70% − delivery | **~$3.40** |
-| Paperback | $14.99 | 60% − ~$4.45 print | **~$4.54** |
+| Ebook | $4.99 | 70% − delivery | **~$3.43** |
+| Paperback | $14.99 | 60% − ~$4.13 print | **~$4.87** |
 | Hardcover | $24.99 | 60% − ~$6.50 print | **~$8.50** |
 
 ## Watch-outs abroad
@@ -34,7 +34,9 @@ Debut sweet spot: ebook **$4.99–$6.99**; can launch lower ($2.99–3.99) to at
 - **Germany: fixed book price** (Buchpreisbindung) for German-language editions — set once, hold it.
 - **ISBN:** free KDP-assigned ISBN at publish for paperback (KDP prints the barcode on the back — keep the bottom-right corner clear); **Kindle needs no ISBN** (Amazon assigns an ASIN). Buy your own ISBN only if you want to be publisher-of-record (optional).
 
-*Last updated: 2026-07-21*
+**Decided at launch (2026-09-11): ebook $4.99 / £3.99 / €4.99; paperback $14.99 / £9.99 / €14.99. All territories.** Optional opening tactic: ebook at $2.99 for the first weeks, then up to $4.99.
+
+*Last updated: 2026-09-11*
 
 ## Printing / fulfillment (added 2026-07-21)
 - **Print on Demand (KDP default):** upload interior + cover PDF once; Amazon prints each paperback/hardcover **per order** and ships it. **No pre-order, no inventory, no upfront cost** ($0 to publish). Print fee is already deducted before royalty (~$4.45 for a ~300pp paperback).

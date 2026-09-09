@@ -63,7 +63,9 @@ def _vs_estimate(print_cost: float) -> str:
 def write_metadata(book: Book, cover: dict) -> None:
     pages = cover["page_count"]
     print_cost = PRINT_FIXED_USD + PRINT_PER_PAGE_USD * pages
-    pb_list = 15.99
+    # Launch prices decided 2026-09-11: debut sweet spot, ebook in the 70%
+    # band and ≥20% under the paperback. Details in pricing-notes.md.
+    pb_list = 14.99
     eb_list = 4.99
 
     kw = "\n".join(f"{i}. {k}" for i, k in enumerate(KEYWORDS, 1))
