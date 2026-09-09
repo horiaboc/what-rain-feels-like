@@ -54,9 +54,13 @@ But Iris's memories begin to come apart when she looks at them too closely — a
 ## Content and rights
 
 - **Publishing rights:** you own the copyright and hold exclusive rights.
-- **AI content disclosure:** answer **yes** — this manuscript is AI-assisted
-  (drafted with an AI collaborator, author-directed) and the **cover art is
-  AI-generated**. KDP asks separately about text and images; disclose both.
+- **AI content disclosure:** answer **yes**. KDP's definitions are strict:
+  content *drafted* by AI is "AI-generated" even after substantial human
+  editing; "AI-assisted" is reserved for text you typed yourself and used AI
+  only to refine. Accordingly: **Text — AI-generated, entire work, with
+  extensive editing. Images — AI-generated (cover art), with extensive
+  editing. Translations — none** (per edition; a translation drafted by AI
+  declares itself the same way).
 - **Age range / low content:** not applicable.
 - **Reading age:** adult.
 
