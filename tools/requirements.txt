@@ -1,0 +1,14 @@
+# Build dependencies for tools/build.py
+#
+#   python3 -m venv .venv
+#   .venv/bin/pip install -r tools/requirements.txt
+#
+# Fonts are vendored in assets/fonts/ rather than taken from the system, so a
+# build produces identical output on any machine.
+
+weasyprint==69.0      # HTML+CSS -> print PDF, embeds font subsets
+pypdfium2==5.13.0     # concatenates the front-matter and body PDFs
+Markdown==3.10.3      # chapter Markdown -> HTML
+pyphen==0.18.1        # hyphenation dictionaries for justified text
+python-docx==1.2.0    # editor DOCX
+pillow==12.3.0        # cover compositing

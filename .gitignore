@@ -2,7 +2,17 @@
 __pycache__/
 *.pyc
 .DS_Store
+.venv/
+
+# Superseded pre-pipeline artifacts (repo root) and probe PDFs stay untracked…
 What-Rain-Feels-Like.epub
 *.pdf
 *.azw3
 *.docx
+
+# …but the built release set is committed, so the finished files can be
+# pulled on a machine without the toolchain. Everything under build/ is
+# regenerable with tools/build.py; only the release outputs are kept.
+build/*
+!build/en/
+!build/en/**

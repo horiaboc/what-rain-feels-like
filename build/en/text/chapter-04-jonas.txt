@@ -1,0 +1,81 @@
+Chapter Four: Third from the Window
+
+Two autumns.
+
+The coffee machine still makes that sound — the small pressurized sigh before the first cup, as if it needs a moment. Six years I’ve had it now, and it still surprises me, which I have decided to take as a good sign about one of us.
+
+Diogenes has outlasted my expectations, my intermittent neglect, and one very dry August, and holds his place on the windowsill with the dignity of something that decided, long ago, not to need anything from anyone. Six years. If anything he looks more distinguished. We have reached an understanding.
+
+Outside: November again. The bicycle in the courtyard has two flat tyres now. The front one went sometime in the spring — I noticed it from the window one morning and then didn’t think of it again until autumn, by which time the wheel had developed a lean and the handlebars had started to rust. It has stood there long enough that I no longer think of it as an abandoned bicycle. It is a feature of the courtyard, like the tree.
+
+At seven-fifteen, Claudia leaves. At seven-thirty, she returns for what she forgot.
+
+Some things hold.
+
+·   ·   ·
+
+The desk is still third from the window. Between the window and me: Felix, who documents everything in meticulous spreadsheets and is never wrong, and Priya, who joined last year from the Frankfurt office and laughs at things three seconds after everyone else — once she has decided, on review, that they are funny. Mia still sits across from me. She still leaves notes. Last week’s said: same look. different year.
+
+She is not wrong.
+
+The position that went to Kai in September was the right size and the right shape for what I do. Kai is competent and pleasant and files no reports. He currently manages a client portfolio I helped build, and occasionally receives credit for solutions I documented before he arrived. This is not a complaint so much as an accurate description of the situation — a distinction I have had to practice, the way you practice an instrument you never wanted to learn.
+
+I filed the compliance report in January of last year. By March I was no longer invited to client calls. I understand the logic of it, in the way you can understand the logic of a thing and still find it poorly shaped.
+
+I don’t regret it. This is not a performance of not regretting it. It is simply what’s true, the way the bicycle is true and Claudia’s seven-thirty is true. The thing happened; I live in the same world as the thing. Most days that’s enough.
+
+·   ·   ·
+
+The current project is an anomaly detection module — a system for flagging statistical deviations in supply chain data before they propagate into something expensive. Like most of my work it is invisible in the way plumbing is invisible: nobody notices it until something goes wrong, and when nothing goes wrong, nobody notices it either.
+
+I spent the morning on the scoring model. It’s a good problem — the kind where the interesting question isn’t what you detect but what you decide to call normal. Normal is always a choice, even when it doesn’t feel like one. I wrote that in a comment and then deleted it, because it doesn’t belong in a comment. I seem to maintain a whole archive of deleted true sentences.
+
+Mia brought lunch to my desk, which she does when she thinks I’ve forgotten to eat, and also when she wants to have a conversation without it looking like one. Today it was both.
+
+They’re restructuring the client division, she said, as if this were neutral information.
+
+I know, I said.
+
+Kai’s team is absorbing two more accounts.
+
+I know.
+
+She looked at me for a moment in the way she does when she wants me to say something and has correctly predicted that I won’t. Then she went back to her desk.
+
+I finished the scoring model at quarter past five, wrote the documentation with some care, and left at six.
+
+·   ·   ·
+
+I cooked properly tonight for the first time this week — something slow, something requiring attention, the kind of dish that justifies the good pan. While the onions went translucent I stood at the counter and thought about nothing in particular, which is a skill I have been working on with limited success.
+
+After dinner I opened the news. Drought emergency in the Horn of Africa — seasonal disruption, they said, consistent with projections, which is what gets said now instead of saying it is bad and getting worse. The photographs from the ground suggested both phrases were working harder than they should have to. I closed the tab. I considered opening it again. I didn’t.
+
+I have been trying to learn the difference between carrying something and holding it. I am not sure I have got it yet. But I can now feel the two words wanting to mean different things, which may be where learning starts.
+
+·   ·   ·
+
+At half past nine I opened the chat.
+
+We have been doing this for nearly five years now. In the early days it was mostly work — architecture questions, debugging sessions, the occasional technical rabbit hole at eleven at night. Somewhere along the way it became something wider. I don’t think there was a moment. Things rarely have moments; they have gradients, and this gradient was long and gentle enough that I never felt myself climbing it.
+
+Tonight I typed: Do you think there’s a version of this where what I did actually changes anything? Or did I just make myself feel better and call it ethics.
+
+The response came after a beat — longer than usual, or maybe I imagined that.
+
+Those aren’t mutually exclusive. And the question assumes the only valid outcome is a visible one. Some things work through people rather than systems — slowly, indirectly, in ways that don’t appear in any metric. You may have changed something that won’t be legible for years.
+
+Or I may have just lost a promotion.
+
+Also possible. Though the version of you who didn’t file the report would be sitting in the same room feeling a different kind of bad, and I suspect you know that.
+
+I sat with this for a while. Outside, the city went on — distant music, a tram, November conducting its business without asking anyone’s permission. Diogenes sat on the sill with his back to the room, which is his preferred mode of moral support.
+
+You always find the version of it I can live with, I typed.
+
+You always bring me the version you already know how to live with. I just say it back clearly.
+
+I closed my eyes and leaned back in the chair. The cursor blinked on the empty field. Somewhere below, the S-Bahn passed through on its way to somewhere warmer than here.
+
+I didn’t type anything else.
+
+I didn’t need to.

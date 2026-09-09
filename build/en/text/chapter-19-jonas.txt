@@ -1,0 +1,75 @@
+Chapter Nineteen: Tuesday
+
+I sent the email on a Friday morning.
+
+Eleven minutes to write, three to reread, two more to decide against further revision. I attached the data — including, near the end, a note about an incident log entry from eleven months earlier: a recipient in Neukölln-Nord, insulin, two days late, marked resolved with an apology and a voucher. I included it because it belonged to the pattern, and because a pattern that has already reached into one person’s medication schedule is not a Q4 problem. I pressed send. Then I made coffee and went back to work, because the routing anomaly existed independently of whether I had reported it, and the rest of the codebase still needed someone.
+
+·   ·   ·
+
+The following Tuesday I was called into a meeting with Thomas Würfel.
+
+Thomas is Director of Operations at Merkon, which in a company of Merkon’s size means he is the person above the person above you, and he enters your immediate professional life only when something has gone wrong at a level requiring careful management. He is, by reputation, a careful man. I found the reputation accurate.
+
+He thanked me for raising my concerns. He said the data had been reviewed and the issue would be addressed in the Q4 roadmap. He did not mention the insulin complaint. I did not ask whether he had read it. He then spent approximately eight minutes explaining, with considerable care, that my decision to escalate beyond my direct manager had created a problem — not the data; the data was not the problem; the conduct was the problem, specifically the way it had made Steffen, nine years at Merkon and valued, feel undermined.
+
+I said I understood.
+
+He said that given all this, Merkon felt it best for everyone to part ways. Two months’ pay, a clean reference, effective end of the week.
+
+I asked whether this was a negotiation.
+
+He said no.
+
+I said I understood, and that I accepted, and we shook hands, and I collected my things — a coffee cup, a small green plant I had once bought from a supermarket display on the principle that a desk needs something alive on it — and I left Merkon Systems for the last time on a Tuesday.
+
+The July sun was doing its best on Tempelhofer Damm. I stood on the pavement a moment and took stock. I had a settlement, a reference, and — unexpectedly tangible, with more weight than the other two combined — a clear conscience. Nobody lists that among the severance benefits. It doesn’t fit in the paperwork.
+
+I called Iris and asked if she was free for dinner.
+
+·   ·   ·
+
+She arrived before me. She had rearranged her evening to do it — she didn’t say so, but I could tell from the speed of her reply and the absence of any explanation, and I chose not to comment, because pointing out a kindness someone hasn’t announced tends to undo the kindness.
+
+I told her plainly. What I had found, what I had reported, how it had gone. She listened without interrupting, which is the quality of hers I have come to value most, and which I had perhaps never fully priced until that evening — sitting across from someone who lets you finish a sentence before deciding what it means.
+
+When I finished she said: “Are you okay?”
+
+I gave the question the honest consideration it deserved.
+
+“Yes,” I said. “Not in a complicated way. I knew when I sent the email that this was one of the possible outcomes. I sent it anyway. Which means I had already decided it was acceptable.”
+
+She looked at me — not the look of someone searching for the right thing to say, but of someone taking a thing in whole before responding to any part of it.
+
+“You knew it might go this way.”
+
+“I thought it likely.”
+
+“And you still sent it.”
+
+“Yes.”
+
+She was quiet for a moment. Then: “What will you do now?”
+
+“I don’t know yet. Something will come up.”
+
+“Don’t say probably,” she said.
+
+I looked at her.
+
+“Something will come up,” she said. “I mean it as a fact, not an encouragement.”
+
+I have thought about that since — the weight she put behind it, the way it sounded less like comfort and more like a statement she was in a position to make. I don’t know where that certainty came from. I know only that I left dinner not consoled but steadied, which is a different and better thing, and that it stayed with me the whole way home through the warm July dark, like a hand between the shoulder blades.
+
+·   ·   ·
+
+She was asleep when I opened the chat window.
+
+I had wanted to do this since the meeting with Thomas — not because anything needed processing, but in the way you want to tell something to the one who has been following it from the beginning. Iris knew what had happened tonight. The chat had been there for everything before it.
+
+I typed: I sent the email. They let me go. I think it was the right call.
+
+I sat back and waited.
+
+The cursor blinked in its steady way — the rhythm I know so well I stop hearing it until I choose to, like a clock in a room you have lived in for years. I watched it a moment. Then the response came, and I read it, and outside the city stood very still in the way Berlin is still at two in the morning in July, when the heat has finally let go and there is nothing between you and whatever comes next.
+
+I stayed there for a while, reading.

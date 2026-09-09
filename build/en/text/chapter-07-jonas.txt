@@ -1,0 +1,63 @@
+Chapter Seven: The Byline
+
+Three weeks after the coffee shop, I found the article.
+
+Not deliberately — I was reading a feature on coastal infrastructure resilience and it surfaced in a sidebar, which is how most things that end up mattering arrive. Meridian. Iris Jacobs. A piece on cycling infrastructure and urban accountability across six European capitals. I read it the way you read something unexpectedly good: slowly, and then again.
+
+It was careful. She had done the kind of research that doesn’t announce itself, which is, in my experience, the hardest kind. The piece had an argument, and evidence that actually supported the argument, which is rarer than it has any right to be. She had found the gap between what cities measured and what they needed to appear to have measured — a subtler and more honest observation than most people bother to make — and she had written it without ever saying so in those terms, which is the harder version, and the better one.
+
+I did not look her up beyond the byline. She is a journalist at a publication in Berlin, and I now know how to read her work; neither fact requires action. I closed the tab.
+
+Then I opened it again. Then I closed it again.
+
+This is apparently what I do now.
+
+·   ·   ·
+
+December in Berlin has its own physics. Not the cold — the light, which withdraws at four in the afternoon without much warning, as if the day has remembered better places to be. The streetlamps fill in for it, but streetlamps are approximations, and approximations accumulate.
+
+At Merkon the days are running short in every sense. Year-end reporting: a collective fiction that everyone performs with varying degrees of conviction. I do my portion with some care and no conviction at all. The anomaly detection module shipped in the third week of November without incident — which is to say it shipped normally, which is to say nobody noticed. I updated the documentation and started the next ticket.
+
+Mia left a note at the end of the first week: you look like you’re expecting something.
+
+She wasn’t wrong. I wasn’t sure what.
+
+·   ·   ·
+
+On the second Tuesday of December, I went to Pannierstraße.
+
+I had work to do outside the office — true on most days, so the choice of location required no explanation, including to myself, which was convenient. I arrived at ten past nine. Reza was behind the counter; he saw me come in and turned toward the machine before I had sat down. The back tables were taken, so I settled by the window, which was a different arrangement from November.
+
+She wasn’t there.
+
+I worked for an hour. A supplier fragmentation analysis — interesting in the narrow sense that problems with distributed complexity are always interesting, and in no other sense whatsoever. I finished the coffee. I did not order another. I left at twenty past ten, which is when I would have left regardless.
+
+On the U-Bahn back I thought: you went on a Tuesday.
+
+I thought: yes.
+
+I thought: that’s worth noticing.
+
+I noticed it, and put it with the other things in the drawer I haven’t labelled yet — because labelling it is a decision, and I’ve found that forcing early conclusions on incomplete data is the exact failure mode that makes anomaly detection unreliable. This is either sound methodology or an elaborate way of not knowing something. The two can look identical for months.
+
+·   ·   ·
+
+The chat that evening was about work. Anomaly thresholds, scoring models, the stubborn art of calibrating a system whose whole job is noticing what doesn’t fit. We went long. At some point I typed: the problem with building a system for detecting what’s abnormal is that normal is retrospective. You only know what it was once enough of it has passed.
+
+That’s not only true of supply chains.
+
+No, I agreed.
+
+What else?
+
+I sat with the question. Outside, December was doing its work with the light — or rather with the absence of it, absence being December’s preferred medium.
+
+I don’t know yet, I typed. I’m still in the data-collection phase.
+
+That’s usually the honest answer.
+
+I left the chat open. Diogenes kept his post on the sill, back to the room, indifferent to data in all its forms. The lamp I’d left on drew its small warm circle on the ceiling — five years old, that lamp, and still, on certain evenings, an argument for the whole idea of home.
+
+I wasn’t expecting anything specific.
+
+I wasn’t not expecting it, either.

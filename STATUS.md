@@ -134,6 +134,8 @@ Iris writes an article — describing the shift from AI to AGI as a public recko
 
 ## Tooling
 
+- **Build pipeline:** `tools/build.py` — compiles `chapters/` + `book-matter/` into `build/en/`: the single-file `manuscript.md`, EPUB, 6×9 print interior PDF, wraparound cover PDF, editor DOCX, and the KDP metadata sheet. Setup and details in `production-notes.md`. Publishing decisions live in `tools/bookbuild/config.py`.
+- **Per-edition:** the build is language-scoped — `--lang de` reads `translations/de/` and `cover/de/`, writes `build/de/`. Adding a translation is one `EDITIONS` entry plus a source directory; see `translation-plan.md`.
 - **Telegram daemon:** `tools/telegram_daemon.py` — sends chapters, collects reader notes into `reader_notes.md`
 - **Bot:** @whatrainbot (token in `.env`, gitignored)
 - **Daemon auto-start:** `SessionStart` hook in `.claude/settings.json`
@@ -143,13 +145,21 @@ Iris writes an article — describing the shift from AI to AGI as a public recko
 
 ## Immediate Next Action
 
-**The first draft is complete — all 55 chapters written and locked (ch46–55 written 2026-07-17/18).** The cover is approved and its lossless master lives in `cover/cover.png` (1024×1536; needs ~2x upscale before print).
+**The first draft is complete — all 55 chapters written and locked.** Editing is in progress. The publishing pipeline is built and working (2026-08-30): `.venv/bin/python tools/build.py` regenerates every format from the chapter sources in ~16s, so editing passes no longer cost anything downstream.
+
+**Current print spec:** 271 pages at 6×9, spine 0.6775", full cover 12.9275 × 9.25in (3878 × 2775 px @ 300 dpi). Print cost ~$4.10.
+
+*(Was 327 pages until 2026-09-07: the interior stylesheet was built without a base URL, so WeasyPrint silently dropped every `@font-face` and set the whole book in the system fallback serif — which also has no italic face installed, so every italic in the book rendered upright. Fixed in `tools/bookbuild/pdf.py`; the interior is now genuinely EB Garamond and 56 pages shorter.)*
+
+Blocking publication — needs the author, not the tooling:
+1. **Copyright-page facts:** legal name, city/country, imprint name (`tools/bookbuild/config.py`). The page itself is now generated per language from `tools/bookbuild/boilerplate.py` — a translation gets its rights page in its own language automatically.
+2. ~~**Back cover art:** text collides with the ISBN barcode zone.~~ **Fixed 2026-09-07** — the cover lettering is now typeset at build time over the text-free art (`tools/bookbuild/covertext.py`), so the back panel lays itself out above the barcode block by construction, the spine is lettered to the current page count, and a translation gets a cover with no new artwork. Check `build/en/What-Rain-Feels-Like_cover-proof.png`.
+3. Optional pages not yet written: dedication, book-level epigraph, acknowledgments. They mount automatically once written.
 
 Candidate next steps, in no committed order:
 1. **Full read-through / revision pass** of ch38–55 in sequence (the Part III sprint) for rhythm, tic-check, and continuity against the earlier Fable restyle.
-2. **Rebuild the EPUB** — now meaningful: the complete book, with the cover embedded.
-3. Front matter: title page, possibly the א as the interior section-break ornament (idea logged 2026-07-16).
-4. Cover typography pass (title upper third, warm off-white humanist serif, straight rain line as cursor under the last word).
-5. Second-book seed (bible-only): the AGI press conference is the opening of any sequel.
+2. Order a KDP proof copy once the cover is fixed.
+3. Translation and voiceover both now have a clean source: `build/text/`.
+4. Second-book seed (bible-only): the AGI press conference is the opening of any sequel.
 
-*Last updated: 2026-07-18*
+*Last updated: 2026-08-30*

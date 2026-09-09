@@ -1,5 +1,5 @@
 # About the Author
 
-_horia is a writer. *What Rain Feels Like* is [his] first novel. [He lives in ____.]
+_horia is a writer. *{{TITLE}}* is a debut novel.
 
-*(Optional but recommended — appears in the back of the book and can also feed your Amazon Author Central bio. Kept deliberately spare to suit a mononym/private byline; expand only as much as you want to reveal. No legal name required here.)*
+*(Deliberately spare, to suit a mononym byline. Add a second line here — where you live, what you're working on — whenever you want to reveal more. No legal name required on this page. This text can also feed your Amazon Author Central bio.)*

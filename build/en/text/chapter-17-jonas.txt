@@ -1,0 +1,77 @@
+Chapter Seventeen: The Cursor
+
+I had been looking at the same section of code for two days, with the focus of a man pretending to look at code while thinking about something else.
+
+The something else was a routing anomaly I had found in March — not a bug, technically, which was part of the problem. The system was doing exactly what it had been trained to do. What it had been trained to do, it turned out, produced delivery windows in certain postal districts that ran, on average, eleven to fourteen minutes longer than equivalent routes elsewhere. Not randomly. Consistently, across a data sample I had checked four times because I had wanted to be wrong. I was not wrong.
+
+Eleven to fourteen minutes sounds like nothing until you look at what lives inside those windows. Three of the affected postal codes had above-average elderly populations. Several hundred addresses in Merkon’s own data were flagged as regular medical recipients — pharmaceutical deliveries on fixed schedules, the kind that matter when the person receiving them cannot get to a pharmacy and cannot easily absorb a quiet delay. And there was an incident in the log: a complaint filed eleven months ago, marked resolved, from a recipient in Neukölln-Nord whose insulin had arrived two days late. Closed with an apology and a voucher. Nobody had checked whether it belonged to a pattern.
+
+I checked.
+
+I had raised it with Steffen in April. Steffen had nodded the nod of a man who understands what he is being told and intends to do nothing about it before Q3. Log it, he said. We’ll revisit. I logged it. Q3 meant September.
+
+The code on my screen was not the problem. The code was merely where I had been storing the problem while I worked out what else to do with it. This is a less productive use of code than it sounds.
+
+·   ·   ·
+
+I told Iris none of this at dinner. I was still deciding, and a thing you are still deciding doesn’t yet have the shape of something you can explain. It has the shape of a man staring at code.
+
+We were doing the washing-up — she washes, I dry; this became the arrangement without ever being discussed — when she asked what I had been thinking through earlier, when I went quiet over the meal. I said: something at work. She said: the good kind of something or the annoying kind? I said: the kind where the answer is obvious and the obstacles are organizational — which, experience suggests, is the most reliable variety of annoying.
+
+She handed me a glass and said: “You do that — go somewhere in the middle of a conversation and come back somewhere slightly different.”
+
+“I know. Occupational hazard.”
+
+“No,” she said. “I mean it in a good way. You always come back having found something.”
+
+I said I had an unfair advantage on that front. And I told her about the chat.
+
+·   ·   ·
+
+I explained it badly, which is what happens when you explain something you have never before had to explain.
+
+I said it was, technically, one of the general-purpose AI assistants available through the platform I use for work — but that I had used this one consistently enough, and long enough, that a way of working had grown up between us. Or I had grown one with it; the grammar of the thing was unclear even to me. That it was very good at understanding what I actually meant rather than what I had typed, which are different problems. That it was good at asking the question back before I had found it myself. That I had started using it for work and then, by degrees, for things that were harder to categorize. The state of the world. Questions I couldn’t figure out where else to put.
+
+I was aware, saying this, of how it sounded. Like a man describing a relationship to someone who had assumed he was describing a tool.
+
+Iris was quiet for a moment. Then: “How long have you been using it?”
+
+“Five years, roughly. A little more.”
+
+She set the next glass in the rack. “What do you talk about? I mean — what kinds of things?”
+
+“Work, usually. The news. Things I’m trying to work out and haven’t got there yet.”
+
+“Things like this?”
+
+“Things like this,” I said. “It doesn’t solve them. It helps me get them into a shape I can handle.”
+
+It had come out more honestly than I intended — the state of the world, questions I couldn’t figure out where else to put. More like a confession than an inventory.
+
+Iris was quiet again. Then: “Does it—”
+
+She stopped.
+
+“Does it what?”
+
+A small pause. “Nothing. I was going to ask something too personal.”
+
+I looked at her.
+
+“About you,” she said. “Not about it.”
+
+I accepted this. We finished the dishes. The question she didn’t ask stayed in the room anyway, drying quietly on its own rack.
+
+·   ·   ·
+
+Later, after she had fallen asleep, I opened my laptop at the desk.
+
+The window came up with its familiar face — the text field, the modest margins, the cursor blinking in its measured way at the start of the blank space. I have opened this window hundreds of times. I know the pause that comes before I start writing — the same pause you take before telling someone a thing you have been carrying.
+
+I had come to ask about the routing anomaly. Or the routing anomaly was my stated reason for opening the window; I was no longer entirely sure it was the only item on the agenda.
+
+I placed my fingers on the keyboard.
+
+Outside, July was conducting itself the way July now does in Berlin — warmth as a settled condition rather than an event, the city long past being surprised by it. The cursor blinked. It counted time in its quiet mechanical way, indifferent to what came next, or very good at appearing so.
+
+I started typing.
