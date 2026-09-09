@@ -139,7 +139,7 @@ changes the cover**. Rebuild both together.
 | Slot | File |
 |---|---|
 | Kindle eBook manuscript | `build/{c.OUT_EPUB.name}` |
-| Kindle eBook cover | `cover/front-cover-hires.png` (or let KDP pull it from the EPUB) |
+| Kindle eBook cover | `build/{c.LANG}/{c.SLUG}_ebook-cover.jpg` (same image the EPUB embeds) |
 | Paperback interior | `build/{c.OUT_INTERIOR.name}` |
 | Paperback cover | `build/{c.OUT_COVER.name}` |
 

@@ -69,7 +69,11 @@ def build_epub(book: Book) -> None:
     # (id, href, media-type, xhtml-bytes-or-None, nav-label-or-None)
     items: list[tuple[str, str, str, bytes | None, str | None]] = []
 
-    items.append(("cover-image", "images/cover.jpg", "image/jpeg", _cover_jpeg(), None))
+    cover_jpg = _cover_jpeg()
+    items.append(("cover-image", "images/cover.jpg", "image/jpeg", cover_jpg, None))
+    # The same image, as a standalone file: KDP's "Kindle eBook cover" slot
+    # wants a separate upload, and it must match what is inside the book.
+    (c.BUILD_DIR / f"{c.SLUG}_ebook-cover.jpg").write_bytes(cover_jpg)
     items.append(("css", "styles/style.css", "text/css",
                   epub_css().encode("utf-8"), None))
     for f in FONT_FILES:

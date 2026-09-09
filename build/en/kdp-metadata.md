@@ -80,7 +80,7 @@ changes the cover**. Rebuild both together.
 | Slot | File |
 |---|---|
 | Kindle eBook manuscript | `build/What-Rain-Feels-Like.epub` |
-| Kindle eBook cover | `cover/front-cover-hires.png` (or let KDP pull it from the EPUB) |
+| Kindle eBook cover | `build/en/What-Rain-Feels-Like_ebook-cover.jpg` (same image the EPUB embeds) |
 | Paperback interior | `build/What-Rain-Feels-Like_interior.pdf` |
 | Paperback cover | `build/What-Rain-Feels-Like_cover.pdf` |
 
