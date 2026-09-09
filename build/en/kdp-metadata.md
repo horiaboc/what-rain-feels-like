@@ -96,7 +96,7 @@ line, the safe area, the spine edges and the ISBN barcode keep-out box.
 | Format | List (US) | Royalty | Print cost | ≈ Net |
 |---|---|---|---|---|
 | Kindle | $4.99 | 70% | — | ~$3.43 |
-| Paperback | $14.99 | 60% | $4.13 | ~$4.87 |
+| Paperback | $16.99 | 60% | $4.13 | ~$6.07 |
 
 At 273 pages the print cost is $4.13 — $0.32 below the
 ~$4.45 `pricing-notes.md` assumed when the book was estimated at 300 pages.

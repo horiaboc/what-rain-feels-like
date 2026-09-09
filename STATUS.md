@@ -145,21 +145,28 @@ Iris writes an article — describing the shift from AI to AGI as a public recko
 
 ## Immediate Next Action
 
-**The first draft is complete — all 55 chapters written and locked.** Editing is in progress. The publishing pipeline is built and working (2026-08-30): `.venv/bin/python tools/build.py` regenerates every format from the chapter sources in ~16s, so editing passes no longer cost anything downstream.
+**PUBLISHING IN PROGRESS.** The Kindle edition is being set up on KDP and goes
+live 2026-09-12. The full ordered sequence — Kindle, paperback, the free
+scaffolding, reviews, promotion, and the Select decision at day 75 — is in
+**`launch-plan.md`**. Follow that; it is the current plan of record.
 
-**Current print spec:** 271 pages at 6×9, spine 0.6775", full cover 12.9275 × 9.25in (3878 × 2775 px @ 300 dpi). Print cost ~$4.10.
+**Immediate next step:** finish and publish the Kindle edition (launch-plan
+Phase 1), then start the paperback (Phase 2). The paperback needs one
+round-trip: KDP assigns the free ISBN partway through setup → put it in
+`tools/bookbuild/config.py` → rebuild → upload *that* interior, so the ISBN
+prints on the copyright page.
 
-*(Was 327 pages until 2026-09-07: the interior stylesheet was built without a base URL, so WeasyPrint silently dropped every `@font-face` and set the whole book in the system fallback serif — which also has no italic face installed, so every italic in the book rendered upright. Fixed in `tools/bookbuild/pdf.py`; the interior is now genuinely EB Garamond and 56 pages shorter.)*
+**Release state (2026-09-11):** 273 pages at 6×9, spine 0.6825", full cover
+12.9333 × 9.25in. Print cost ~$4.13. Prices: ebook $4.99, paperback $16.99.
+Copyright facts set (Horia Bochis / Independently published / Meckesheim,
+Germany). Dedication written. Plagiarism sweep clean (`plagiarism-check.md`).
+Everything publishable is committed under `build/en/`.
 
-Blocking publication — needs the author, not the tooling:
-1. **Copyright-page facts:** legal name, city/country, imprint name (`tools/bookbuild/config.py`). The page itself is now generated per language from `tools/bookbuild/boilerplate.py` — a translation gets its rights page in its own language automatically.
-2. ~~**Back cover art:** text collides with the ISBN barcode zone.~~ **Fixed 2026-09-07** — the cover lettering is now typeset at build time over the text-free art (`tools/bookbuild/covertext.py`), so the back panel lays itself out above the barcode block by construction, the spine is lettered to the current page count, and a translation gets a cover with no new artwork. Check `build/en/What-Rain-Feels-Like_cover-proof.png`.
-3. Optional pages not yet written: dedication, book-level epigraph, acknowledgments. They mount automatically once written.
+Optional pages still unwritten, and fine to leave that way: book epigraph,
+acknowledgments. They mount automatically if ever written.
 
-Candidate next steps, in no committed order:
-1. **Full read-through / revision pass** of ch38–55 in sequence (the Part III sprint) for rhythm, tic-check, and continuity against the earlier Fable restyle.
-2. Order a KDP proof copy once the cover is fixed.
-3. Translation and voiceover both now have a clean source: `build/text/`.
-4. Second-book seed (bible-only): the AGI press conference is the opening of any sequel.
+After launch, in rough priority: the German edition (`translation-plan.md` —
+the pipeline already builds it), book two (the AGI press conference is the
+seed in `bible.md`), audiobook from `build/en/text/`.
 
-*Last updated: 2026-08-30*
+*Last updated: 2026-09-11*

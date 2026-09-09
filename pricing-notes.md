@@ -34,7 +34,17 @@ Debut sweet spot: ebook **$4.99–$6.99**; can launch lower ($2.99–3.99) to at
 - **Germany: fixed book price** (Buchpreisbindung) for German-language editions — set once, hold it.
 - **ISBN:** free KDP-assigned ISBN at publish for paperback (KDP prints the barcode on the back — keep the bottom-right corner clear); **Kindle needs no ISBN** (Amazon assigns an ASIN). Buy your own ISBN only if you want to be publisher-of-record (optional).
 
-**Decided at launch (2026-09-11): ebook $4.99 / £3.99 / €4.99; paperback $14.99 / £9.99 / €14.99. All territories.** Optional opening tactic: ebook at $2.99 for the first weeks, then up to $4.99.
+**Decided at launch (2026-09-11): ebook $4.99 / £3.99 / €4.99; paperback $16.99 / £11.99 / €16.99. All territories.**
+
+Ebook held at $4.99 rather than higher: the 70% band runs to $9.99, but above
+~$5 an unknown author loses more sales than the extra margin returns. Paperback
+raised from $14.99 to $16.99 — print buyers are far less price-elastic, and
+$16.99 is defensible for 273pp trade paperback (~$6.06 net vs ~$4.86).
+
+**No launch-week discount.** A discount needs an audience to convert; with no
+list and no reviews it spends royalty on the earliest buyers and the later
+price rise reads as a downgrade. Discounting waits for reviews — see
+`launch-plan.md` Phase 5.
 
 *Last updated: 2026-09-11*
 
