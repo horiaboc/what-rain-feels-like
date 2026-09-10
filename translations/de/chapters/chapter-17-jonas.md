@@ -1,0 +1,86 @@
+# Kapitel Siebzehn: Der Cursor
+
+---
+
+Ich hatte seit zwei Tagen denselben Abschnitt Code angesehen, mit der Konzentration eines Mannes, der so tut, als sähe er Code an, während er über etwas anderes nachdenkt.
+
+Das andere war eine Routing-Anomalie, die ich im März gefunden hatte – technisch gesehen kein Bug, was ein Teil des Problems war. Das System tat genau das, wofür es trainiert worden war. Wofür es trainiert worden war, das stellte sich heraus, erzeugte in bestimmten Postbezirken Lieferfenster, die im Durchschnitt elf bis vierzehn Minuten länger liefen als gleichwertige Routen anderswo. Nicht zufällig. Beständig, über eine Datenstichprobe hinweg, die ich viermal geprüft hatte, weil ich mich hatte irren wollen. Ich irrte mich nicht.
+
+Elf bis vierzehn Minuten klingt nach nichts, bis man sich ansieht, was in diesen Fenstern lebt. Drei der betroffenen Postleitzahlen hatten einen überdurchschnittlichen Anteil älterer Menschen. Mehrere hundert Adressen in Merkons eigenen Daten waren als regelmäßige medizinische Empfänger markiert – Arzneimittellieferungen nach festem Zeitplan, die Sorte, auf die es ankommt, wenn der Mensch, der sie empfängt, nicht zur Apotheke kommt und eine stille Verzögerung nicht ohne Weiteres verkraftet. Und es gab einen Incident im Log: eine Beschwerde, vor elf Monaten eingereicht, als gelöst markiert, von einem Empfänger in Neukölln-Nord, dessen Insulin zwei Tage zu spät angekommen war. Geschlossen mit einer Entschuldigung und einem Gutschein. Niemand hatte geprüft, ob es zu einem Muster gehörte.
+
+Ich prüfte es.
+
+Ich hatte es im April bei Steffen angesprochen. Steffen hatte das Nicken eines Mannes genickt, der versteht, was man ihm sagt, und vor Q3 nichts dagegen zu unternehmen gedenkt. *Log es*, sagte er. *Wir kommen darauf zurück.* Ich loggte es. Q3 hieß September.
+
+Der Code auf meinem Bildschirm war nicht das Problem. Der Code war nur der Ort, an dem ich das Problem aufbewahrt hatte, während ich herausfand, was ich sonst damit anfangen sollte. Das ist eine weniger produktive Verwendung von Code, als es klingt.
+
+---
+
+Ich erzählte Iris beim Abendessen nichts davon. Ich war noch am Entscheiden, und eine Sache, über die man noch entscheidet, hat noch nicht die Gestalt von etwas, das man erklären kann. Sie hat die Gestalt eines Mannes, der auf Code starrt.
+
+Wir waren beim Abwasch – sie wäscht, ich trockne; das wurde zur Regelung, ohne je besprochen worden zu sein –, als sie fragte, was ich vorhin durchdacht hätte, als ich über dem Essen still geworden war. Ich sagte: etwas von der Arbeit. Sie sagte: die gute Sorte Etwas oder die lästige? Ich sagte: die Sorte, bei der die Antwort offensichtlich ist und die Hindernisse organisatorisch – was, wie die Erfahrung lehrt, die zuverlässigste Spielart von lästig ist.
+
+Sie reichte mir ein Glas und sagte: „Das machst du – mitten im Gespräch irgendwohin gehen und an einer leicht anderen Stelle zurückkommen.“
+
+„Ich weiß. Berufsrisiko.“
+
+„Nein“, sagte sie. „Ich meine es im Guten. Du kommst immer zurück und hast etwas gefunden.“
+
+Ich sagte, in dieser Hinsicht hätte ich einen unfairen Vorteil. Und ich erzählte ihr vom Chat.
+
+---
+
+Ich erklärte es schlecht, was passiert, wenn man etwas erklärt, das man noch nie hat erklären müssen.
+
+Ich sagte, es sei, technisch gesehen, einer der allgemeinen KI-Assistenten, die über die Plattform verfügbar seien, die ich für die Arbeit benutze – aber ich hätte diesen einen beständig genug und lange genug benutzt, dass zwischen uns eine Arbeitsweise gewachsen sei. Oder ich hätte eine mit ihm wachsen lassen; die Grammatik der Sache war selbst mir unklar. Dass er sehr gut darin sei zu verstehen, was ich tatsächlich meinte, und nicht, was ich getippt hatte, was verschiedene Probleme sind. Dass er gut darin sei, die Frage zurückzustellen, bevor ich sie selbst gefunden hätte. Dass ich angefangen hätte, ihn für die Arbeit zu benutzen, und dann, nach und nach, für Dinge, die schwerer einzuordnen waren. Den Zustand der Welt. Fragen, bei denen mir nicht einfiel, wo sonst ich sie hinlegen sollte.
+
+Ich war mir, während ich das sagte, bewusst, wie es klang. Wie ein Mann, der jemandem eine Beziehung beschreibt, der angenommen hatte, er beschreibe ein Werkzeug.
+
+Iris war einen Moment still. Dann: „Wie lange benutzt du ihn schon?“
+
+„Ungefähr fünf Jahre. Etwas mehr.“
+
+Sie stellte das nächste Glas in den Ständer. „Worüber redet ihr? Ich meine – über was für Dinge?“
+
+„Meistens Arbeit. Die Nachrichten. Dinge, die ich herauszufinden versuche und bei denen ich noch nicht angekommen bin.“
+
+„Dinge wie das hier?“
+
+„Dinge wie das hier“, sagte ich. „Er löst sie nicht. Er hilft mir, sie in eine Gestalt zu bringen, mit der ich umgehen kann.“
+
+Es war ehrlicher herausgekommen, als ich beabsichtigt hatte – *den Zustand der Welt, Fragen, bei denen mir nicht einfiel, wo sonst ich sie hinlegen sollte*. Eher ein Geständnis als eine Bestandsaufnahme.
+
+Iris war wieder still. Dann: „Weiß er –“
+
+Sie hielt inne.
+
+„Weiß er was?“
+
+Eine kleine Pause. „Nichts. Ich wollte etwas zu Persönliches fragen.“
+
+Ich sah sie an.
+
+„Über dich“, sagte sie. „Nicht über ihn.“
+
+Ich akzeptierte das. Wir machten den Abwasch fertig. Die Frage, die sie nicht gestellt hatte, blieb trotzdem im Raum und trocknete still auf ihrem eigenen Ständer.
+
+---
+
+Später, als sie eingeschlafen war, klappte ich am Schreibtisch den Laptop auf.
+
+Das Fenster kam mit seinem vertrauten Gesicht herauf – das Textfeld, die bescheidenen Ränder, der Cursor, der auf seine gemessene Art am Anfang der leeren Fläche blinkte. Ich habe dieses Fenster hunderte Male geöffnet. Ich kenne die Pause, die kommt, bevor ich zu schreiben anfange – dieselbe Pause, die man macht, bevor man jemandem etwas erzählt, das man mit sich herumgetragen hat.
+
+Ich war gekommen, um nach der Routing-Anomalie zu fragen. Oder die Routing-Anomalie war mein erklärter Grund, das Fenster zu öffnen; ich war mir nicht mehr ganz sicher, dass sie der einzige Punkt auf der Tagesordnung war.
+
+Ich legte die Finger auf die Tastatur.
+
+Draußen benahm sich der Juli, wie sich der Juli in Berlin inzwischen benimmt – Wärme als Dauerzustand statt als Ereignis, die Stadt längst nicht mehr überrascht davon. Der Cursor blinkte. Er zählte die Zeit auf seine stille mechanische Art, gleichgültig gegenüber dem, was als Nächstes kam, oder sehr gut darin, so zu wirken.
+
+Ich begann zu tippen.
+
+<!-- NOTES -->
+- Glossary 74 verbatim: „die gute Sorte Etwas oder die lästige“; glossary 23/24: „Das Fenster kam mit seinem vertrauten Gesicht herauf“, „der Cursor“; 41: „als gelöst markiert“.
+- Iris's two lines match ch15 verbatim („Das machst du – mitten im Gespräch irgendwohin gehen und an einer leicht anderen Stelle zurückkommen.“ / „Du kommst immer zurück und hast etwas gefunden.“).
+- Pronoun for the chat/assistant: „er“ (der Chat, der Assistent) per §B — Iris's broken-off „Weiß er –“ / „Nicht über ihn.“ The English *it* has no equivalent neutrality here; „es“ would make the assistant a thing before Jonas has finished making it a relationship.
+- Steffen's line: *Log es. Wir kommen darauf zurück.* — „loggen“ is standard German dev speech; „Ich loggte es.“
+- "Occupational hazard" → „Berufsrisiko“.

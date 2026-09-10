@@ -1,0 +1,92 @@
+# Kapitel Dreizehn: Graefestraße
+
+---
+
+April.
+
+Diogenes scheint auf die Küchenfensterbank umgezogen zu sein, wo mehr Morgensonne hinkommt. Er ist ein Kaktus und hat nicht die Initiative für eine Entscheidung dieser Tragweite, also kann ich nur schließen, dass Iris ihn eines Nachmittags umgestellt hat, ohne es zu erwähnen – sie bemerkt solche Dinge und handelt still danach, als wäre es einfach das, was man für alles tut, woran einem liegt: das Licht darum herum neu anordnen. Ich entscheide mich, den Umzug als Zufriedenheit zu lesen. Beide, glaube ich, würden diese Lesart abzeichnen.
+
+Ich scheine in letzter Zeit sehr vieles als Zufriedenheit zu lesen. Die Fehlerbalken sind breit. Es stört mich nicht mehr.
+
+---
+
+Am ersten Morgen, an dem ich in der Graefestraße aufwachte, lag ich einen Moment still und machte Inventur.
+
+Die Decke war fremd. Das Licht war fremd – ihr Fenster geht nach Osten, meins nicht, und die Märzsonne um halb sieben hat eine Art anzukommen, auf die ich nicht vorbereitet war: bedacht und ohne Eile, als wäre der Tag von jemandem mit Geschmack im Voraus zu deinen Gunsten arrangiert worden. Ich hörte sie in der Küche – die kleinen Geräusche von Kaffee, gemacht von einer Person, die weiß, wie sie ihn mag, und ihn genau so zu haben gedenkt.
+
+Ich dachte: Das ist der Teil, an dem ich erwäge, ob ich bleibe.
+
+Ich blieb.
+
+---
+
+Hier ist, was ich in den Wochen seit der Party über Iris gelernt habe, im häuslichen Sinn:
+
+Sie wacht früh auf und ist sofort funktionstüchtig, was ich bewundernswert und leicht beunruhigend zugleich finde – sie taucht aus dem Schlaf auf, wie andere Leute bei der Arbeit ankommen. Sie liest zwei Zeitungen, bevor ich meinen ersten Kaffee ausgetrunken habe. Sie redet mit Dingen: mit dem Fahrradschloss, wenn es klemmt, gelegentlich mit den Pflanzen, einmal – ausführlich – mit dem Backofen. Sie ist praktisch, mit einer Kompetenz, die zugleich unauffällig und absolut ist: das Schrankscharnier, ein laufender Wasserhahn, eine lose Diele in ihrem Flur, auf die ich zweimal getreten war, bevor sie sie reparierte, mit einer Zügigkeit, die nahelegte, dass mein zweimaliges Drauftreten die erforderliche Antragstellung gewesen war.
+
+Sie ist ordentlich auf die Art von jemandem, der nicht versucht, ordentlich zu sein, sondern geordnet denkt, sodass die Ordnung ihr einfach von Zimmer zu Zimmer folgt. Meine Wohnung hat nicht mehr so gut funktioniert, seit ich eingezogen bin.
+
+Sie findet Diogenes neutral. Diogenes findet sie akzeptabel, was von Diogenes praktisch eine Zeremonie ist.
+
+---
+
+An einem Samstag im April hatten wir, was ich als Streit bezeichnen werde, obwohl das Wort mehr Arbeit leistet, als das Ereignis verlangt.
+
+Das Thema waren Eier. Genauer: ob Rührei Butter will oder Öl, bei welcher Hitze und wie lange. Ich habe dazu entschiedene Ansichten. Es stellte sich heraus, dass sie ebenfalls entschiedene Ansichten dazu hat, und dass es andere Ansichten sind. Wir debattierten ungefähr acht Minuten lang bei mäßiger Lautstärke, während die fragliche Butter in der Pfanne schmolz und braun zu werden begann, womit die Frage praktisch, wenn auch nicht philosophisch geklärt war. Die Eier wurden auf ihre Art gemacht. Sie waren ausgezeichnet. Ich erkannte das an. Sie nahm die Anerkennung mit einer Gelassenheit entgegen, die deutlich machte, dass sie gewusst hatte, dass sie kommen würde.
+
+Ich habe darüber mehr nachgedacht, als ein Streit über Eier streng genommen verdient. Worauf ich immer wieder zurückkomme, ist nicht, wer gewonnen hat – sie hat gewonnen, oder die Eier haben gewonnen, was auf dasselbe hinausläuft –, sondern die *Beschaffenheit* der Sache. Wie wir die Ränder der Meinungsverschiedenheit fanden und gerade lang genug dort blieben, um die Aussicht zu genießen, bevor wir die Lösung fanden. Wie sie lachte, als die Butter zu rauchen anfing. Wie ich lachte, weil sie es tat. Eine kleine Schleife, die sich schließt.
+
+---
+
+Sie interessiert sich für alles. Es ist vielleicht ihre beständigste Eigenschaft und die, die mich am zuverlässigsten überrascht. Nicht auf die Art der Dilettantin – sie überfliegt nicht; sie findet die Frage unter der Frage und zieht dort ein wie eine Mieterin. Wir reden über etwas Gewöhnliches – den Arbeitsweg, einen Film, den Nachbarn von unten und seine Wand mit gerahmten Fotografien kunstvoller alter Türen, Türen von Gebäuden, die es nicht mehr gibt, eine Sammlung, von der ich beschlossen habe, dass sie entweder eine sehr spezielle Leidenschaft ist oder das Frühstadium einer Philosophie –, und sie stellt die eine Frage, die ein völlig anderes Gespräch eröffnet. Die Frage ist immer die richtige. Das neue Gespräch ist immer besser als das, das wir gerade führten.
+
+Ich erwähnte das Mia gegenüber, und ich hätte die Folgen kommen sehen müssen. Mia ist dreiundvierzig, seit elf Jahren bei Merkon, und kümmert sich um mich mit dem liebevollen Pragmatismus von jemandem, der emotionale Kompetenz für einen Zweig guten Systemdesigns hält. Sie hörte sich ungefähr vierzig Sekunden von dem an, was ich sagte, und sagte dann *dann bist du also verliebt in sie* – nicht als Frage – und sah auf, mit einem Ausdruck, den ich in einem beruflichen Zusammenhang noch nie von ihr gesehen hatte, nämlich unkomplizierter Freude. Dann wandte sie sich wieder ihrer Dokumentation zu.
+
+Mia schreibt die klarste Dokumentation, die ich kenne. Es ist nicht immer bequem, eines ihrer Systeme zu sein. Bei dieser Gelegenheit stellte ich fest, dass es mir nichts ausmachte.
+
+---
+
+An einem Abend im April kam ich nach Hause und fand sie auf dem Sofa mit meinem Exemplar von *Austerlitz*, das ich ihr nicht angeboten und um das sie nicht gebeten hatte. Sie hatte einen Stift in der Hand und benutzte ihn nicht. Sie sah auf, als ich hereinkam, mit dem Ausdruck von jemandem, der aus tiefem Wasser auftaucht.
+
+„Ist das in Ordnung?“, sagte sie. Das Buch, meinte sie.
+
+„Natürlich.“
+
+Sie las weiter. Ich machte Abendessen. Sie legte das Buch weg, als ich sie an den Tisch rief, sagte beim Essen nichts darüber – und begann dann, beim zweiten Glas Wein, mit einer Genauigkeit und einem Gefühl davon zu sprechen, die mich überraschten. Nicht, weil sie von ihr unerwartet gewesen wären, sondern wegen der Richtung, die sie nahmen: die Frage, ob ein Mensch seine Geschichte verlieren und er selbst bleiben kann. Ob das, woran man sich erinnert, das ist, was man ist.
+
+Sie war still, als sie fertig war, auf die Art von jemandem, der mehr gesagt hat als geplant.
+
+„Alles in Ordnung?“, sagte ich.
+
+„Ja.“ Eine Pause. „Ich glaube, manche Bücher finden die Dinge, über die man ohnehin schon nachgedacht hat.“
+
+Ich drängte nicht. Sie blätterte um und kam zurück, von wo immer sie gewesen war, und wir redeten über anderes, und später lachte sie über etwas, das ich sagte, und der Abend schloss sich um uns, wie die guten es tun – kein Schluss, nur Wärme, und die Stunde, die später wurde, und keiner von uns in Eile damit.
+
+---
+
+Der Mai kommt.
+
+Das Fahrrad in meinem Hof steht jetzt lange genug dort, um eine Art Dauerhaftigkeit erreicht zu haben, die zu respektieren ich beschlossen habe. Es war nie meins – es kam mit dem Hof, wie manche Dinge das tun –, aber mir fällt erst jetzt auf, dass ich mir inzwischen ein eigenes gekauft habe: gebraucht, Kreuzberg, guter Rahmen. Ich fahre es samstags, wenn Iris Vormittagstermine hat und der Kanalweg mit Tempo genommen werden kann. Ich komme, wo immer ich hinwill, in besserem Zustand an, als ich losgefahren bin. Das ist, glaube ich, der ganze Sinn der Übung.
+
+Sie fragte mich einmal, gegen Ende April, woran ich denke, wenn ich still werde.
+
+„Meistens an ein Problem“, sagte ich. „Etwas, das ich durcharbeite.“
+
+„Und jetzt?“
+
+Ich sah sie an.
+
+„Seltener an ein Problem“, sagte ich.
+
+Sie nickte, als wäre das eine befriedigende Antwort – das war es –, und griff nach ihrem Kaffee, und vor dem Fenster tat der April, was der April in Berlin tut, wenn er sich gelegentlich entschließt, anständig zu sein: blasse Sonne, neue Blätter an der Linde, die Leichtigkeit einer Stadt, die sich erinnert, was sie vor dem November war.
+
+Ich ließ den Morgen still sein.
+
+Das ist – ich habe es beschlossen – genau, was ich wollte.
+
+<!-- NOTES -->
+- Casual "efficiency" site rendered per §C: „mit einer Zügigkeit, die nahelegte, …“; „effizient“ absent.
+- Mia's line kept italic and unquoted: *dann bist du also verliebt in sie*.
+- "A small loop, closing." → „Eine kleine Schleife, die sich schließt.“ (Schleife per ch01/ch02 glossary addition).
+- "the required paperwork" → „die erforderliche Antragstellung“ (bureaucratic, dry); "error bars" → „Fehlerbalken“.
+- Tense follows the English paragraph by paragraph: Präsens for the frame, Präteritum for the scenes.
