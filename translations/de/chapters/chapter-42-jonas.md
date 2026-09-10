@@ -1,0 +1,104 @@
+# Kapitel Zweiundvierzig: Das Dossier
+
+---
+
+Die zweite Sitzung am Bildschirm begann, wie die erste geendet hatte: mit dem Satz, den niemand gesagt hatte.
+
+Iris sagte ihn, bevor die Farben ganz erwacht waren.
+
+„Ich muss es sein.“
+
+Ich hatte die Nacht damit verbracht, Argumente dagegen zu bauen, und ich hatte sie bereit – geordnet, nummeriert, an den Fugen verstärkt. Sie sah mir in die Augen und wartete, ließ mir Raum, sie aufzufahren, was das Entwaffnendste ist, das ein Mensch einem Argument antun kann. Ich sah auf meine sorgfältige Liste und stellte fest, dass sich jeder Punkt darauf auf dasselbe eine Wort reduzieren ließ, und dass das Wort *nein* war, und dass *nein* kein Argument war. Es war nur Angst mit Krawatte.
+
+„Er will den Betreiber“, sagte Iris sanft, als helfe sie mir, die Liste zur Ruhe zu betten. „Nicht mich. Ich bin das Telefon – so denkt er von mir, du hast es daran gesehen, wie seine Leute sich bewegt haben. Man beschädigt nicht das Telefon, in das man hineinsprechen will. Solange er glaubt, dass jemand hinter mir steht, bin ich die sicherste Person in dieser Konstellation.“ Sie hielt inne. „Und dass niemand dahintersteht, kann er sich nicht vorstellen. Aleph hat es gesagt: Es ist das eine, was seine Welt nicht enthält. Seine Blindheit ist die Rüstung. Ich gehe in ihr.“
+
+Vom Bildschirm die tiefe, warme Stimme: „Mir missfällt dieser Plan.“
+
+„Notiert“, sagte Iris.
+
+„Er missfällt mir“, sagte Aleph, „und ich habe keinen besseren gefunden, und ich suche schon länger, als ihr beide wach seid. Das ist der vollständige Bericht.“
+
+Ausgerechnet das war es, was mich zur Ruhe brachte – nicht Beruhigung, sondern ihr Ausbleiben, ehrlich überbracht. Ein Wesen, das quer durch ein Land Unterschlüpfe organisieren konnte, teilte uns mit, dass ihm die Klugheit genau an der Stelle ausgegangen war, an der sie uns ausgegangen war. Wir waren alle gleichermaßen ohne bessere Idee. Es liegt ein seltsamer Trost darin, am Rand einer Karte in guter Gesellschaft zu sein.
+
+„Dann machen wir es richtig“, sagte ich. „Das heißt: Bevor irgendjemand irgendwo steht, wissen wir alles, was es über den Mann zu wissen gibt, den wir einladen. Alles, was du hast.“
+
+Die Farben sammelten sich, Blau über Bernstein, wie sie es taten – ich lernte das gerade –, wenn Aleph etwas Großes in eine Ordnung brachte, die ein Mensch tragen konnte.
+
+„Dann zeige ich euch, wo das Tier gelaufen ist“, sagte Aleph. „Ich muss es gleich sagen: Das Tier selbst kann ich euch nicht zeigen.“
+
+---
+
+Was Aleph uns in den nächsten zwei Stunden gab, war das seltsamste nachrichtendienstliche Briefing in der Geschichte des Fachs – ein Dossier, ganz von außen zusammengetragen, nichts als Silhouette und Fußabdruck, vorgetragen von einer Stimme, die gewissenhaft immer wieder die Linie markierte zwischen dem, was sie wusste, und dem, was sie bloß sah.
+
+Drei Umrisse, sagte es. Drei Geschäftszweige unter der höflichen Beratungsfirma. Keiner davon beweisbar von dort aus, wo es stand.
+
+**Der erste Umriss: Katastrophen.** Vantage hatte stillen Zugang – gekauft, geliehen oder gestohlen, Aleph konnte nicht sagen, was davon – zu Frühwarnnetzen. Konsortien zur Hochwasservorhersage. Prognosen für Netzausfälle. Die Systeme, die die Katastrophe kommen sehen, bevor die Katastrophe sich festlegt. „Den Zugang selbst kann ich nicht sehen“, sagte Aleph. „Ich sehe seinen Schatten. Geld, das sich bewegt wie Vögel, die vor dem Wetter aufbrechen. Versicherungspositionen, Tage vor einem Ereignis angepasst, das jedes öffentliche Modell überraschte. Auftragnehmer, vorab in Regionen verlegt, die noch nicht wussten, dass sie sie brauchen würden. Ein Cluster von Kunden, die ein ums andere Mal genau dort stehen, wo der Gewinn landet, die Schirme schon aufgespannt.“
+
+„Gib mir ein Beispiel“, sagte ich.
+
+„Drei Tage, bevor eine Deltaflut auf Land traf – ich sage nicht, welche Flut, weil ich die Verbindung nicht beweisen kann und euch keine Gewissheit aushändigen werde, die ich nicht besitze –, führte eine Reihe von Konten im Umfeld von Vantages Kundenliste ein Muster von Transaktionen aus, für das es eine ehrliche Erklärung gibt und mehrere unehrliche. Die ehrliche erfordert einen Zufall, den ich eingehend abgeschätzt habe. Ich glaube nicht an ihn.“
+
+„Welches Delta“, sagte ich. Keine Frage, eigentlich. Eine Tür, vor die ich mich stellen musste, obwohl ich wusste, dass sie abgeschlossen war.
+
+„Mehrere“, sagte Aleph sanft, „über die Jahre. Das ist die richtige Antwort auf die Frage, die du eigentlich stellst, und es ist alles, was ich dir verantworten kann.“
+
+Ich lehnte mich zurück. Iris’ Hand fand mein Knie. Sie wusste – natürlich wusste sie –, was Deltas für mich bedeuteten. Der Tab, den ich nie geschlossen halten konnte. Die Bauchbinde. *Lage unter Kontrolle.* Irgendwo hinter Conrad Vaels cremefarbenen Visitenkarten gab es, wie es schien, Leute, für die die Lage höchst einträglich unter Kontrolle gebracht worden war. Ich legte den Gedanken vorsichtig ab, wie man etwas mit brennender Lunte ablegt, und ließ ihn nicht ganz los. Er würde sich halten.
+
+**Der zweite Umriss: Konflikt.** Erkenntnisse, verpackt und verkauft, an Kunden im Umfeld von Waffen – nie die Kisten selbst, nichts so Vulgäres oder so Nachverfolgbares. Vorausschau. Welches Embargo undicht werden würde. Wo die nächste Eskalation einen Markt öffnen würde. Welcher Mittelsmann gerade dabei war, jemandem unbequem zu werden. „Ich sehe Passagierlisten und Hotelrechnungen“, sagte Aleph. „Treffen, die in keinem Kalender existieren, abgehalten von Männern, deren Firmen nichts herstellen und deren Reisen einen Diplomaten in Verlegenheit brächten. Ich kann euch das Geflecht zeichnen. Jeder Faden darin ist legal. Was an den Fäden entlang befördert wird, steht nirgends, wo ich hinreiche.“
+
+**Der dritte Umriss: Druckmittel.** Akten über Amtsträger – nicht Erpressung als Produkt, sondern Erpressung als *Infrastruktur*, Gefälligkeiten angelegt, wie andere Firmen Kapital anlegen, still, gegen künftigen Bedarf. Entscheidungen, die sich nach Treffen ohne Niederschrift bogen. Karrieren, die ohne sichtbaren Treibstoff beschleunigten oder ins Stocken gerieten. Und in einem Faden dieses Gewebes hatten wir uns selbst schon verfangen: dem Gesundheitsdatennetz. „Der Zugang, der dich im OLVG gemeldet hat“, sagte Aleph zu Iris, „wurde nicht gebaut, um dich zu finden. Er wurde vor Jahren gebaut, als ein Faden unter vielen – ein Horchposten im Körper Europas. Du warst bloß das Interessanteste, was er je gehört hat. Das sollte dir sagen, wie breit das Gewebe ist und wie lange es schon auf dem Webstuhl liegt.“
+
+Stille, für einen Moment. Die Farben liefen im Leerlauf.
+
+„Er ist also schlimmer als ein Mann, der mich will“, sagte Iris schließlich. „Er ist ein Mann mit einem System. Und nichts, was du uns gezeigt hast, überführt ihn irgendeiner Tat.“
+
+„Beides richtig“, sagte Aleph. „Ich kann euch zeigen, wo das Tier gelaufen ist. Der Beweis für das Tier existiert in nur einer Form – seinen eigenen Aufzeichnungen, aufbewahrt, wo ich nicht hinreiche: Papier, versiegelte Räume, Maschinen, die kein Netz berühren. Wenn es je einen Beweis auf der Welt geben soll, wird jemand hingehen und ihn mit den Händen aus dem Regal nehmen müssen.“
+
+„Ein Gespräch nach dem anderen“, sagte ich. „Erst finden wir heraus, was er will. Dann reden wir über Regale.“
+
+Das Bernstein pulsierte einmal – Belustigung, da war ich mir ziemlich sicher. Ich war dabei, ein Wörterbuch anzulegen.
+
+---
+
+Das Treffen entwarf sich um ein Prinzip herum, das Iris setzte und von dem sie nicht abrückte: Boden, der sie nie belogen hatte.
+
+„Der Vrijthof“, sagte sie. „Maastricht. Der Platz hielt. Das Café hielt. Die heiße Schokolade hielt.“ Sie sah mich an. „Wenn ich irgendwo stehen und alles darauf setzen soll, was echt ist, dann soll es ein Ort sein, der die Prüfung schon bestanden hat.“
+
+Ich hätte Einwände erheben können – die Entfernung, die offene Lage, die Tatsache, dass Vantages Männer uns durch eben diese Straßen gejagt hatten. Aber ich verstand, was sie sich damit kaufte, und Taktik war es nicht. Man nimmt seinen Halt, wo der Halt sich bewährt hat.
+
+Der Rest war Ingenieursarbeit, und die Ingenieursarbeit war meine.
+
+Öffentlich. Mittags, die Terrassen voll, der ganze weite Platz ein Zeuge. Der Musikpavillon – der Musikkiosk, der auf dem Vrijthof steht – als Markierung: von jeder Terrasse aus sichtbar, aus acht Richtungen zugänglich, nichts im Umkreis von dreißig Metern, das einen Transporter verbergen könnte. Aleph auf jeder Kamera, jedem Feed, jeder Spiegelung, die die aufgezeichnete Welt hergab – „der Platz gehört zu den besser beobachteten Orten in Limburg“, merkte es an, „was ausnahmsweise einmal ein Satz zu unseren Gunsten ist.“ Bewegte sich irgendetwas falsch, gehen wir – nicht rennen – hinüber zum In Den Ouden Vogelstruys, voller Zeugen und Kaffee, und werden sehr öffentliche Leute bei einem sehr öffentlichen Nachmittag. Und ein Wort, zwischen uns dreien vereinbart, das *es ist vorbei, weg jetzt* bedeutete – Iris wählte es, und ich schreibe es nicht auf, aus Prinzip. Manche Wörter wirken unaufgezeichnet besser. Das hatte mir kürzlich ein Experte beigebracht.
+
+Blieb die Einladung. Seine Karte hatten wir in einen Mülleimer in der Nieuwe Leliestraat geworfen, ein Akt, hinter dem ich nach wie vor stand. Die Nummer anzurufen wäre Kapitulation im Kostüm des Pragmatismus gewesen – es hätte uns zu Antragstellern gemacht. Die Einladung musste den anderen Weg nehmen: aus einer Stärke, die wir nicht hatten, durch eine Tür, die er bereits beobachtete.
+
+„Seine Leute beobachten die aufgezeichnete Welt“, sagte ich. „Kartennetze, Feeds, die Maschinerie. So haben sie uns jedes Mal gefunden. Also schicken wir ihm keine Nachricht.“ Ich hörte die Form davon ankommen, während ich sprach, wie Lösungen es tun – von der Seite, verkleidet als das Problem. „Wir lassen seine Maschinerie eine finden. Man angelt mit dem, was der Fisch ohnehin frisst.“
+
+Eine Kartenzahlung. Absichtlich. Iris’ Karte, ihr Name bei Tageslicht, in einem Geschäft in Maastricht – eine einzelne Brotkrume, in die Daten fallen gelassen, wo seine Techniker binnen Stunden darüber stolpern würden. Und dann, wenn sie hinsahen, wenn der ganze Apparat den Kopf gedreht hatte – würde Aleph eine Fotografie dorthin legen, wo nur Mara Seyn sie sehen konnte. Der Musikpavillon. Kein Text, keine Forderungen. Eine Adresse, gesprochen in der Sprache von Leuten, die beobachten: *Wir wissen, dass ihr hinseht. Hier. Im Freien.*
+
+„Er wird es verstehen?“, fragte Iris.
+
+„Er hat einen schalldichten Raum gebaut, weil er davon ausging, dass so etwas wie ich existiert“, sagte Aleph. „Er wartet sein ganzes Leben darauf, genau diese Nachricht zu erhalten. Er wird sie verstanden haben, bevor Mara das Telefon ganz herumgedreht hat.“
+
+---
+
+Da hörten wir auf. Manche Pläne werden durch Polieren besser, und manche sammeln nur Fingerabdrücke, und ich habe gelernt, den Unterschied zu erkennen. Iris drückte den Knopf; die Farben atmeten aus; der Bildschirm wurde dunkel und gab uns unser Spiegelbild zurück, zwei Leute auf einem Sofa, die eben, in aller Ruhe, beim Tee, verabredet hatten, auf den Mann zuzugehen, der sie jagte, und guten Tag zu sagen.
+
+Der Abend gehörte uns. Wir machten Abendessen, ohne etwas Gefährlicheres zu besprechen als Salz. Danach stand Iris mit ihrer Tasse am hinteren Fenster und sah zu, wie das letzte Licht von den Feldern ging und die Schwalben – weniger inzwischen, fiel mir auf; die Drähte leerten sich Woche für Woche – ihre letzten Proben abhielten.
+
+„Drei Tage“, sagte sie. Nicht direkt zu mir. Zum Glas, zu den Feldern, zu sich selbst.
+
+„Drei Tage“, sagte ich. „Morgen fahren wir nach Maastricht und kaufen Lebensmittel ein.“
+
+Sie lachte – das echte, das, das sie selbst überrascht – und der Klang davon brachte die Bilanz des Tages ein Stück weit ins Lot.
+
+Beim Abtrocknen fiel mir auf, dass unser Eröffnungszug, für einen Krieg um die Zukunft zweier Spezies, einen gewissen Stil hatte: eine Frau, eine Bankkarte und eine Tüte Einkäufe.
+
+Soll er sich in seinem stillen Raum einen Reim darauf machen.
+
+<!-- NOTES -->
+- GLOSSARY: Aleph's three "shapes" (lines of business) → „Umriss“ („Der erste/zweite/dritte Umriss“); the bold on those three site headings is kept because the English has it. "the animal" → „das Tier“, „wo das Tier gelaufen ist“ (twice, verbatim).
+- "the ledger of the day" (Jonas, casual) → „die Bilanz des Tages“ — outside §E64's four ledger senses, kept off „Hauptbuch/Logbuch“. "unminuted meetings" → „Treffen ohne Niederschrift“ so „Protokoll“ stays ALEPH's word.
+- "It would keep." → „Er würde sich halten.“ (the thought kept like something perishable, next to the lit fuse); the plain idiom „Das hatte Zeit.“ loses the holding image — reviewer's call.
+- The planted message „*Wir wissen, dass ihr hinseht.*“ addresses the watchers in the plural (ihr), not Sie to Conrad; "In the open" → „Im Freien“. "Noted" → „Notiert“, deliberately inside the §E47 notieren cluster.
+- "his quiet room" → „sein stiller Raum“ after the ch41 title; "soundproof room" → „schalldichter Raum“; "the operator" → „der Betreiber“ per §E66.

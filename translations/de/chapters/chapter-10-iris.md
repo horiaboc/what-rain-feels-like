@@ -1,0 +1,74 @@
+# Kapitel Zehn: Das Scharnier
+
+---
+
+Der zweite Spaziergang fand an einem Freitag statt.
+
+Nicht geplant – oder geplant auf die lose Art zweier Menschen, die *Mal wieder spazieren gehen* gesagt haben und sich eine Woche später vor demselben Café wiederfinden, zu ungefähr derselben Uhrzeit, ohne dass ein Vorwand nötig gewesen wäre. Er war schon da, als ich herauskam, im Mantel, den Blick auf dem Telefon, mit der konzentrierten Ausdruckslosigkeit eines Mannes, der in Wirklichkeit nicht auf sein Telefon schaut. Ich sagte seinen Namen. Er sah auf. Wir gingen.
+
+So fing es an, praktisch gesehen. Nicht mit einer Entscheidung. Mit einer Richtung.
+
+---
+
+Im Februar hatten wir eine lose Übereinkunft, die keiner von uns beim Namen nannte.
+
+Dienstags in der Pannierstraße, wie zuvor. Freitagabends, manchmal – ein Spaziergang, gelegentlich ein Abendessen in einem der Lokale am Kanal, in denen man zwei Stunden sitzen kann, ohne dass jemand andeutet, man könnte fertig sein. Er kannte ein Gedicht von Szymborska, das ich nicht kannte, was mich so überraschte, dass ich es aussprach – und es gleich darauf bereute, weil er es auf genau die Art komisch fand, die bedeutete, dass er es behalten würde. So ist er: Er legt Dinge ab, ohne dass man es ihm ansieht. Ein ganzes stilles Archiv, irgendwo hinter dem trockenen Blick, und was darin liegt, erfährt man erst, wenn etwas genau im richtigen Moment wieder herauskommt.
+
+Ich lernte seine besondere Version von Präsenz kennen. Nicht gesprächig – im Gegenteil –, aber beständig, ganz konkret *da*. Er hört zu, wie manche Menschen lesen: mit seiner ganzen Aufmerksamkeit und ohne Rest. Wenn ich etwas sagte, das er nicht erwartet hatte, konnte ich zusehen, wie er nachjustierte und aktualisierte, und bei ihm sah das nach Interesse aus, nicht nach Anstrengung.
+
+Das ist nicht das Übliche. Ich hatte genug Vergleichsdaten, um mir zumindest dessen sicher zu sein.
+
+---
+
+Am dritten Freitag im Februar ging ich in die Weichselstraße.
+
+Aus keinem ausgesprochenen Grund – es war kalt, wir waren unterwegs, seine Wohnung lag in der Richtung, die wir ohnehin eingeschlagen hatten, und keiner von uns schlug vor, haltzumachen. Das Haus hatte einen Innenhof von der Art, wie das alte Berlin sie für sich behält: ein kahler Baum, ein Fahrrad an der Wand, das sich offensichtlich seit Langem nicht bewegt hatte, ein erleuchtetes Fenster im vierten Stock. Ich erkannte den Hof wieder, bevor ich verstand, warum. Dann verstand ich, warum: *ein Fahrrad, das an der hinteren Wand lehnt, ein kahler Baum, ein erleuchtetes Fenster* – genau das hatte ich im November gesehen, von der Straße aus, durch ein Tor, das jemand offen gelassen hatte.
+
+Ich sagte nichts dazu. Manche Zufälle behält man besser für sich, wo sie weiter bedeuten können, was immer sie bedeuten.
+
+Die Wohnung: achtunddreißig Quadratmeter, ein Schreibtisch mit drei offenen Browser-Tabs, die man vom anderen Ende des Zimmers aus sehen konnte, und auf der Fensterbank eine Pflanze von der Sorte, die aus reiner Entschlossenheit überlebt. Der Kaktus hieß, wie sich herausstellte, Diogenes, was er mir ohne Vorrede mitteilte, als bedürfe die Information keiner Begründung. Ich beschloss, dass sie keiner bedurfte.
+
+Es gab eine Schranktür, die aufschwang, sobald die Heizung sich mit einem Klicken einschaltete – ein lockeres Scharnier, die Art von Defekt, die für den unsichtbar wird, der mit ihm lebt. Ich schloss sie. Sie schwang wieder auf. Ich stellte eine einzige Frage, um seinen Werkzeugkasten zu finden, nahm den passenden Schraubenzieher und zog das Scharnier in ungefähr neunzig Sekunden fest.
+
+Er beobachtete das alles von der Küchentür aus.
+
+„Du hast nicht gefragt“, sagte er.
+
+„Es hat mich gestört.“
+
+„Mich stört es seit vier Monaten.“
+
+„Dann gern geschehen“, sagte ich.
+
+Er lachte – nicht das kleine unwillkürliche Lachen, sondern das echte, das mehr Raum einnimmt, als er sich gewöhnlich gestattet. Ich legte es sorgfältig ab, in dem wachsenden Ordner, der seinen Namen trägt.
+
+---
+
+Wir tranken Tee. Wir sprachen über seine Arbeit, dann über meine, dann über etwas, das keiner von uns hinterher rekonstruieren konnte – eines dieser Gespräche, die durch vier Themen wandern und einen mit der Gewissheit zurücklassen, dass etwas Wahres gesagt wurde, ohne dass man sagen könnte, wo.
+
+Es war spät, als ich ging. Später, als ich geplant hatte, wobei ich überhaupt nichts geplant hatte, was auf dasselbe Eingeständnis hinausläuft.
+
+Auf dem Heimweg am Kanal entlang tat ich, was ich immer tue: Ich notierte, was ich dachte. Die Wohnung hatte nach Kaffee gerochen und nach Papier und nach den angesammelten Gewohnheiten eines einzelnen Menschen. Er hatte Tee gemacht, ohne zu fragen, wie ich ihn trinke, und ihn beim ersten Versuch richtig hinbekommen. Diogenes hatte mich von der Fensterbank aus mit der unparteiischen Zurückhaltung eines Wesens betrachtet, das sich noch keine Meinung gebildet hat und sich damit Zeit zu lassen gedenkt.
+
+Das Scharnier. Ich hatte das Scharnier repariert.
+
+Ich notierte, dass ich es gewollt hatte. Dass das Wollen unmittelbar gewesen war, unkompliziert und ganz meins – keine Inszenierung, keine Strategie. Nur: *Das ist ein Problem, das ich lösen kann*, gefolgt von seiner Lösung.
+
+Ich notierte, was das bedeuten könnte, und ging in der Kälte nach Hause, mit etwas, das entweder Glück war oder seine unmittelbare Vorstufe, und beschloss, dass die Unterscheidung warten konnte.
+
+---
+
+Der März kam ohne großes Aufheben.
+
+Dienstagmorgens in der Pannierstraße. Freitagabends. Der gelegentliche Nachmittag, der sich ohne erkennbare Entscheidung in den Abend hinein ausdehnte und dann in die Nacht. Wir stritten über einen Roman, den er gelesen hatte und ich nicht; ich las ihn in vier Tagen und hielt dagegen. Mit dem Ende hatte er recht, und ich sagte es ihm, was er mit einem kleinen Nicken entgegennahm und der Miene eines Mannes, der übt, nicht selbstgefällig zu sein, mit gemischtem Erfolg.
+
+Reza begann, gleich zwei Kaffee zu bringen, wenn er uns zusammen hereinkommen sah. Wir hatten inzwischen eine Verständigung Pannierstraßer Art: knapp, unausgesprochen, vollkommen ausreichend.
+
+Und ich stellte fest, dass ich nicht mehr bemerkte, wenn ich meine Woche umbaute, um Platz für den Freitag zu schaffen. Das schien bedeutsam. Dann schien es normal. Dann schien es das Gewöhnlichste von der Welt zu sein – was, wie ich inzwischen glaube, die bedeutsamen Dinge tun, wenn sie vorhaben zu bleiben.
+
+<!-- NOTES -->
+- GLOSSARY: the italic courtyard echo „*ein Fahrrad, das an der hinteren Wand lehnt, ein kahler Baum, ein erleuchtetes Fenster*“ quotes the November gate scene (ch05); that chapter must carry the same words verbatim.
+- Reserved-phrase site framed as „Wir hatten inzwischen eine Verständigung Pannierstraßer Art: …“ so the fixed string keeps its colon; ch06 should use the identical frame with „Berliner“.
+- „ohne Rest“ for "no remainder" keeps the arithmetic sense as the paragraph's one-too-exact word; „Vergleichsdaten“, „Defekt“, „Vorstufe“ serve the same function elsewhere.
+- „haltzumachen“ for "proposed stopping" keeps the English ambiguity (end the walk / stop at his door).
+- „im vierten Stock“ kept as the English "fourth floor" (European count assumed; check against Jonas's floor elsewhere).
