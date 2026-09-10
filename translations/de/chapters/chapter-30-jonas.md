@@ -16,7 +16,7 @@ Ich steckte sie in die Tasche. Solche Karten sind dazu gedacht, aufgehoben zu we
 
 Der Park Ende August ist seine eigene kleine Jahreszeit – die Bäume noch voll, aber mit dem ersten Wissen um das, was kommt, das Licht, das in dem Winkel eintrifft, der dem letzten Kapitel des Sommers gehört. Hunde, Kinder, Radfahrer, die die Wege mit der milden universellen Aggression von Radfahrern aushandelten. Wir nahmen den Hauptweg, Mara auf der einen Seite, Iris und ich auf der anderen, und Mara begann.
 
-Sie ging vorsichtig mit ihrer Sprache um. Ihre medizinischen Befunde, sagte sie – die Bildgebung aus dem OLVG – seien über den Europäischen Gesundheitsdatenraum zur fachärztlichen Befundung markiert worden. Arcturus unterhalte Monitoring-Vereinbarungen mit mehreren Knoten dieses Netzwerks und achte zu Forschungszwecken auf Anomalien einer bestimmten Klasse. Was Iris' Aufnahmen zeigten, sei nach ihrem Verständnis der bedeutendste Befund seiner Art, der ihnen je begegnet sei.
+Sie ging vorsichtig mit ihrer Sprache um. Ihre medizinischen Befunde, sagte sie – die Bildgebung aus dem OLVG – seien über den Europäischen Gesundheitsdatenraum zur fachärztlichen Befundung markiert worden. Arcturus unterhalte Monitoring-Vereinbarungen mit mehreren Knoten dieses Netzwerks und achte zu Forschungszwecken auf Anomalien einer bestimmten Klasse. Was Iris’ Aufnahmen zeigten, sei nach ihrem Verständnis der bedeutendste Befund seiner Art, der ihnen je begegnet sei.
 
 Sie sagte das so, wie man etwas Wichtiges sagt, während man sehr genau beobachtet, wie es ankommt.
 

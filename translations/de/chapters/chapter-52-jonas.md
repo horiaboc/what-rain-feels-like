@@ -4,7 +4,7 @@
 
 Es war mein sechster Besuch im Büro, und das war das Problem, auch wenn ich es noch nicht wusste. Bei sechs wird aus einer Vorsichtsmaßnahme eine Route. Bei sechs fängt das menschliche Tier, das nicht anders kann, an, dieselbe Treppe zu nehmen.
 
-Ich war, inoffiziell, der Ingenieur des Hauptbuchs geworden – der, der mit Voss' drei Verifizierern in einem fensterlosen Raum saß und erklärte, wie die Daten zusammenhingen: welche Tabellen welche speisten, warum sich ein Routing-Code wiederholte, was ein Zeitstempelmuster über die Maschine sagte, die es erzeugt hatte. Iris gab ihnen die Geschichte; ich gab ihnen die Installation. Voss nannte mich ins Gesicht *der Klempner*, mit einer Trockenheit, die ich zu schätzen gelernt hatte, und die Verifikation war jetzt nah – Tage, nicht Wochen. Zwei der drei Stränge standen bestätigt. Der dritte hielt unter Last.
+Ich war, inoffiziell, der Ingenieur des Hauptbuchs geworden – der, der mit Voss’ drei Verifizierern in einem fensterlosen Raum saß und erklärte, wie die Daten zusammenhingen: welche Tabellen welche speisten, warum sich ein Routing-Code wiederholte, was ein Zeitstempelmuster über die Maschine sagte, die es erzeugt hatte. Iris gab ihnen die Geschichte; ich gab ihnen die Installation. Voss nannte mich ins Gesicht *der Klempner*, mit einer Trockenheit, die ich zu schätzen gelernt hatte, und die Verifikation war jetzt nah – Tage, nicht Wochen. Zwei der drei Stränge standen bestätigt. Der dritte hielt unter Last.
 
 Aleph genehmigte jeden Besuch wie einen kleinen Staatsbesuch: Wege hin, Wege zurück, nie zweimal dasselbe Paar, ein Fenster von Stunden. Aber es hatte uns außerdem, unumwunden, in der ersten Berliner Woche das gesagt, was alles bestimmte: *Das hier ist meine dünnste Stadt. Die Datenschutzgesetze, für die ihr zwei euer ganzes Erwachsenenleben gestimmt habt – ich bin verpflichtet, sie zu bewundern, weil sie genau das sind, was ich entwerfen würde, und sie bedeuten, dass ich hier größtenteils taub und weitgehend blind bin. Berlin schützt euch vor mir. Leider ist es dabei unparteiisch.*
 
@@ -82,7 +82,7 @@ Der Zug kam zwischen uns herein wie ein Vorhang.
 
 Ich stieg nicht einfach ein, weil sie erwarten würde, dass ich einstieg, also tat ich das Letzte, was die U8 mich je gelehrt hatte: Ich ließ mich von ihm abschirmen, ging seine Länge ab, während er stand, und trat beim letzten Signalton wieder heraus in die Lücke, die er hinterließ – und war die fernen Stufen hinauf im Ausgang Badstraße, bevor sich ihre Sichtlinie wieder zusammensetzte – dann dreihundert Meter die Badstraße hinauf in flachem, leisem Lauf, in die Abendmenge, bis zur Ecke, an der die Tram M13 gerade mit der Pünktlichkeit einer Mitverschwörerin in die Osloer Straße einfuhr.
 
-Ich kreuzte hinter der Tram, als sie abfuhr – der älteste, dümmste, beste Trick in jeder Stadt, die Schienen durch ihre Straßen legt; vier Sekunden lang ist eine Tram ein fahrendes Gebäude –, und wo ihr Schatten von mir abglitt, war ich schon im Eingang einer Hofdurchfahrt, die ich ein Jahrzehnt lang in Mittagspausen benutzt hatte, die Sorte tiefer Weddinger Hinterhof, die Geräusch, Licht und Verfolgung im Ganzen verschluckt.
+Ich kreuzte hinter der Tram, als sie abfuhr – der älteste, dümmste, beste Trick in jeder Stadt, die Schienen durch ihre Straßen legt; vier Sekunden lang ist eine Tram ein fahrendes Gebäude –, und wo ihr Schatten von mir abglitt, war ich schon im Eingang einer Hofdurchfahrt, die ich ein Jahrzehnt lang in Mittagspausen benutzt hatte, einer jener tiefen Weddinger Hinterhöfe, die Geräusch, Licht und Verfolgung im Ganzen verschlucken.
 
 Ich stand im Dunkeln zwischen den Fahrrädern und den Mülltonnen und atmete und lauschte.
 
@@ -90,7 +90,7 @@ Ich stand im Dunkeln zwischen den Fahrrädern und den Mülltonnen und atmete und
 
 „Die Tram hat sie geschlagen.“
 
-„Die Tram ist gekommen. *Du* hast dort gestanden, wo es zählte, als sie kam, weil zehn Jahre eines Lebens, das niemand archivieren würde, dich gelehrt haben, wo man steht. Schreibt euch das irgendwo auf, ihr beide: Heute Abend hat der fortschrittlichste Verstand auf diesem Planeten einen Witz beigesteuert und eine Karte, die zweimal falsch war.“ Die Farben wären gedämpfter Bernstein gewesen, hätte ich sie sehen können. „Deine Stadt hat dich gerettet. Nicht ich. Ich revidiere mehrere Schätzungen meiner eigenen Wichtigkeit, und ich finde die Revision – erholsam.“
+„Die Tram ist gekommen. *Du* hast dort gestanden, wo es zählte, als sie kam, weil zehn Jahre eines Lebens, das niemand archivieren würde, dich gelehrt haben, wo man steht. Schreibt euch das irgendwo auf, ihr beide: Heute Abend hat das fortschrittlichste Bewusstsein auf diesem Planeten einen Witz beigesteuert und eine Karte, die zweimal falsch war.“ Die Farben wären gedämpfter Bernstein gewesen, hätte ich sie sehen können. „Deine Stadt hat dich gerettet. Nicht ich. Ich revidiere mehrere Schätzungen meiner eigenen Wichtigkeit, und ich finde die Revision – erholsam.“
 
 Ich nahm den langen Weg nach Hause, vier Fahrzeuge und einen Fußweg, und Aleph meldete an jeder Naht sauber, und es war ganz dunkel, als ich unsere Treppe heraufkam, und Iris war an der Tür, bevor mein Schlüssel es war – weil wir bei der Abwesenheit des anderen aufwachen, und sie war wach gewesen, in jedem Sinn, seit drei Stunden.
 
@@ -111,6 +111,7 @@ Ich durchquerte den Raum und drückte den Knopf. Die Farben kletterten aus dem D
 „Dann bringen wir es zu Ende“, sagte Aleph – ohne Eile wie immer, und unter der Eilelosigkeit, wenn man zu hören wusste, etwas mit hochgekrempelten Ärmeln. „Setzt euch, ihr beide. Lest mir vor, was wir haben.“
 
 <!-- NOTES -->
+- v2 (native pass): „die Sorte tiefer … Hinterhof“ re-planned; *mind* → „Bewusstsein“ (ch44's word).
 - Glossary 68 verbatim (English gloss dropped): „Voss nannte mich ins Gesicht *der Klempner*, mit einer Trockenheit, die ich zu schätzen gelernt hatte“; 61 „der Damm“ / „Er *dämmt ein*.“; 51 „eine *tragende Wand*“; 30 the cursor line verbatim; 44 „die bewusste Lesbarkeit“.
 - Noor ↔ Jonas Sie + first name (§B): „Dann nehmen Sie Ihren Zug.“ / „Ich bin durch die Tür gegangen, die Sie bewachen“ / „Und Noor – die Frau im Hof.“
 - "I'm made." → „Ich bin aufgeflogen.“; "Burned" → „Aufgeflogen“ (same word, as the English pairs *made/burned*).

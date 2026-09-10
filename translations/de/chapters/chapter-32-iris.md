@@ -26,7 +26,7 @@ Mein Kaffee lag auf dem Pflaster. Ich erinnere mich nicht, ihn abgestellt zu hab
 
 Vom Beifahrersitz des Transporters aus, durch die offene Tür, sah eine Frau zu. Dunkles Haar, Anfang dreißig, Augen, die rasche Berechnungen anstellten. Sie stieg nicht aus.
 
-„Iris.“ Jonas' Hand, jetzt fester. „Wir gehen. Jetzt.“
+„Iris.“ Jonas’ Hand, jetzt fester. „Wir gehen. Jetzt.“
 
 Wir gingen.
 

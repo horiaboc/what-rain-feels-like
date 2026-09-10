@@ -110,7 +110,7 @@ Sie sah mich mit etwas an, das ich nicht oft an ihr sehe – keine Angst, nicht 
 
 Sie nickte. Ich konnte sehen, wie sie dieselbe Berechnung anstellte, die ich angestellt hatte, und dort ankam, wo ich angekommen war: zu wenig Information; zu viel Muster, um es abzutun.
 
-„Eine Person“, sagte sie.
+„Eine Person.“
 
 „Eine, die mir aufgefallen ist.“
 

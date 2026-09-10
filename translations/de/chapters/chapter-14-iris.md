@@ -54,7 +54,7 @@ Und doch. Wenn ich weiter hineingehe – nach dem Geruch von etwas greife, dem G
 
 Trauer macht etwas mit der Erinnerung. Das weiß ich. Man behält die Gestalt eines Menschen und verliert die Ränder, und mit der Zeit beginnen selbst die Ränder, die man behalten hat, weich zu werden.
 
-Jonas' Atem wurde neben mir langsamer. Draußen regnete es mit der Gemächlichkeit des frühen Mai, und ich lag da und dachte an Oma Ingrids Deutsch – die genaue Musik davon – und stellte fest, dass ich den Rhythmus vollkommen abrufen konnte.
+Jonas’ Atem wurde neben mir langsamer. Draußen regnete es mit der Gemächlichkeit des frühen Mai, und ich lag da und dachte an Oma Ingrids Deutsch – die genaue Musik davon – und stellte fest, dass ich den Rhythmus vollkommen abrufen konnte.
 
 Nur nicht den Klang.
 

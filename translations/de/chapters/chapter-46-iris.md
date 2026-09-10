@@ -10,7 +10,7 @@ Die Adresse war ein Aktenannex – drei Stockwerke Ablage in einer Straße volle
 
 „Die Schlösser sind elektronisch und alt“, sagte Aleph, „und einmal pro Nacht rufen sie einen Wartungsserver an, um zu fragen, ob sich etwas geändert hat. Vor drei Nächten hat sich etwas geändert. In diesem System gibt es jetzt eine Berechtigung für eine Wartungsfirma, die es nie gegeben hat. Die Tür wird bis drei Uhr morgens an sie glauben. Nach drei wäre es mir lieber, ihr wärt in einem anderen Land.“
 
-Ich argumentierte dafür, selbst hineinzugehen. Ich verlor, zweimal, mit einer Logik, die ich hatte bauen helfen: Die Maschinenarbeit war Jonas' Handwerk und die Straßenarbeit meins, und wenn die Nacht schiefging, war das eine, das nicht in diesem Gebäude sein durfte, wenn sie schiefging, ich. Also saß Jonas vier Tage lang mit dem Laptop am Küchentisch und fuhr einen Geist – Aleph hatte das Aktenterminal in Software nachgebaut, aus Servicehandbüchern und Reparaturbulletins, Menü für Menü –, bis seine Hände aufhörten, seinen Kopf zu befragen.
+Ich argumentierte dafür, selbst hineinzugehen. Ich verlor, zweimal, mit einer Logik, die ich hatte bauen helfen: Die Maschinenarbeit war Jonas’ Handwerk und die Straßenarbeit meins, und wenn die Nacht schiefging, war das eine, das nicht in diesem Gebäude sein durfte, wenn sie schiefging, ich. Also saß Jonas vier Tage lang mit dem Laptop am Küchentisch und fuhr einen Geist – Aleph hatte das Aktenterminal in Software nachgebaut, aus Servicehandbüchern und Reparaturbulletins, Menü für Menü –, bis seine Hände aufhörten, seinen Kopf zu befragen.
 
 „Zwölf Jahre Daten aus Systemen holen, die sie nicht hergeben wollten“, sagte er am letzten Nachmittag und dehnte die Finger wie ein Pianist. „Wenigstens ist dieses hier ehrlich damit, dass es nicht will.“
 
@@ -30,13 +30,13 @@ Die Straße war, als wir sie erreichten, genau wie angekündigt: Bürogebäude a
 
 Ich nahm den Schatten einer Laderampe auf der anderen Seite des Hofs, wo ich die Tür, das Tor und beide dunklen Enden der Straße in einem einzigen unbewegten Blick halten konnte, und dann tat ich die schwerste Arbeit der Nacht, nämlich stillzustehen.
 
-Ich hörte die Tür nachgeben. Ich hörte Jonas' Atem sich verändern, als er hineinging – gleichmäßiger als meiner, was ich mit etwas zwischen Stolz und Empörung zur Kenntnis nahm. Ich hörte das Treppenhaus, seine Schritte an der Kante, wo die Stufen nicht sprechen, einen Flur, eine Tür. Dann das Geräusch, das mir angekündigt worden war: eine alte Maschine, die erwacht, zuerst die Lüfter, der Staub eines Jahrzehnts in den Lagern, eine Maschine aus einer Ära, die Möbeln mehr traute als Software.
+Ich hörte die Tür nachgeben. Ich hörte Jonas’ Atem sich verändern, als er hineinging – gleichmäßiger als meiner, was ich mit etwas zwischen Stolz und Empörung zur Kenntnis nahm. Ich hörte das Treppenhaus, seine Schritte an der Kante, wo die Stufen nicht sprechen, einen Flur, eine Tür. Dann das Geräusch, das mir angekündigt worden war: eine alte Maschine, die erwacht, zuerst die Lüfter, der Staub eines Jahrzehnts in den Lagern, eine Maschine aus einer Ära, die Möbeln mehr traute als Software.
 
 „Sprich, wenn du mich brauchst“, sagte Aleph leise, zu ihm, zu uns beiden. „Sonst halte ich das Schweigen mit euch.“
 
 Elf Minuten lang war da fast nichts. Tasten, in kurzen sparsamen Läufen. Einmal eine Schublade. Ich stand im Dunkeln und tat, was ich tue: Ich zählte. Autos an der fernen Kreuzung: vier, keines wurde langsamer. Erleuchtete Fenster in der Straße: zwei, beide Treppenhäuser. Mein eigenes Herz: erhöht, gleichmäßig, beobachtbar, meins.
 
-Dann Jonas' Stimme, sehr leise. „Es fragt mich etwas, das es nicht fragen sollte. Warte. Ich lese es dir vor.“ Er las es vor – eine Eingabeaufforderung, ein Codepfad, den Alephs Geist ihm nie gezeigt hatte. Es folgten zwei volle Sekunden Stille, und ich will es irgendwo festgehalten wissen, dass das die einzigen zwei Sekunden des ganzen Herbstes waren, in denen ich Aleph Zeit brauchen hörte.
+Dann Jonas’ Stimme, sehr leise. „Es fragt mich etwas, das es nicht fragen sollte. Warte. Ich lese es dir vor.“ Er las es vor – eine Eingabeaufforderung, ein Codepfad, den Alephs Geist ihm nie gezeigt hatte. Es folgten zwei volle Sekunden Stille, und ich will es irgendwo festgehalten wissen, dass das die einzigen zwei Sekunden des ganzen Herbstes waren, in denen ich Aleph Zeit brauchen hörte.
 
 „Das steht in keinem Handbuch, das ich habe“, sagte Aleph. „Ich weiß es nicht.“
 

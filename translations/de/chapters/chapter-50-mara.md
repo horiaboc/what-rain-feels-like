@@ -38,7 +38,7 @@ Sie packt die Orangen aus. Noor setzt linkshändig Kaffee auf. Der Bluterguss en
 
 Noor schweigt einen Moment. Ihre rechte Hand – die bandagierte – ruht auf dem Tisch wie ein eigenes Beweisstück.
 
-„Sie hatte meinen Arm, Ma“, sagt sie schließlich. „Ich bin schon zu Boden gebracht worden. Zweimal. Du kennst beide Male. Beide Male war das, was ich am anderen Ende gespürt habe, ein Mann, der mich löste – Druck, Hebel, Arithmetik, und der Arithmetik ist es egal. Was ich in diesem Hof gespürt habe, war jemand, der die Arithmetik betreibt *und sie hasst*. Sie hat meinen Arm ein Gramm unter der Lösung gehalten, und ich habe gespürt, wie sie sie ausschlug. Ausschlug – wie man beim Abendessen einen Gang ablehnt.“ Sie sieht auf. „Und dann hat sie mir meinen Arm zurückgegeben und ist weggetreten und hat *bitte* gesagt. Und ich sitze die ganze Woche in dieser Wohnung, kühle mein Gesicht und denke: Ich bin jeder Sorte gefährlicher Mensch begegnet, die dieser Kontinent hervorbringt. Niemand hat mir die Sorte beigebracht, die bitte sagt. Was ist sie? Und gib mir nicht die Akte, ich habe die halbe Akte geschrieben. Was jagen wir eigentlich?“
+„Sie hatte meinen Arm, Ma“, sagt sie schließlich. „Ich bin schon zu Boden gebracht worden. Zweimal. Du kennst beide Male. Beide Male war das, was ich am anderen Ende gespürt habe, ein Mann, der mich löste – Druck, Hebel, Arithmetik, und der Arithmetik ist es egal. Was ich in diesem Hof gespürt habe, war jemand, der die Arithmetik betreibt *und sie hasst*. Sie hat meinen Arm ein Gramm unter der Lösung gehalten, und ich habe gespürt, wie sie sie ausschlug. Ausschlug – wie man beim Abendessen einen Gang ablehnt.“ Sie sieht auf. „Und dann hat sie mir meinen Arm zurückgegeben und ist weggetreten und hat *bitte* gesagt. Und ich sitze die ganze Woche in dieser Wohnung, kühle mein Gesicht und denke: Ich bin jeder Sorte gefährlicher Mensch begegnet, die dieser Kontinent hervorbringt. Niemand hat mir die beigebracht, die bitte sagt. Was ist sie? Und gib mir nicht die Akte, ich habe die halbe Akte geschrieben. Was jagen wir eigentlich?“
 
 Und da ist sie – die Frage, für die Mara hundertfünfzig Kilometer mit einer Tüte Orangen gefahren ist, um sie zu beantworten, und die sie nicht beantworten kann.
 
@@ -101,6 +101,7 @@ An der Tür hält Mara sie auf und richtet ihr mit zwei Fingern den Kragen, wie 
 Das Licht geht aus. Die Maas bewegt sich weiter. Und zwei der gefährlichsten Frauen Europas gehen die Treppe hinunter in den Regen, die Mutter zuerst, die Tochter danach, wie sie in alles hineingegangen sind, während irgendwo im Osten, jenseits des flachen dunklen Landes, eine lachende Frau auf einem Fahrrad keine Ahnung hat, dass die Vergangenheit – das eine, das keine Macht der Erde, ihre eingeschlossen, je hat schützen können – sie gerade still zu Ende verraten hat.
 
 <!-- NOTES -->
+- v2 (native pass): one „Sorte“ varied; „jeder Sorte gefährlicher Mensch“ kept — spoken German, Noor's register.
 - Fixed §F Mara sentence verbatim, twice: *Sie haben uns plattgemacht, also haben wir in die Höhe gebaut.*; glossary 60 „die am wenigsten schlechten Hände“ (twice) and „wessen Hände“; 58 echo „Sauberes Hemd, Noor.“
 - Noor's report line matches ch48 verbatim; Conrad's note quotes ch48's „Die Gegenwart gehört ihnen.“
 - Mara ↔ Noor du; „Ma“ kept; meisje kept without italics as the English.

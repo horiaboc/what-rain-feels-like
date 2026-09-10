@@ -30,7 +30,7 @@ Ich bin nicht gut auf Partys im Allgemeinen. Ich bin ihnen gewachsen – ich kan
 
 An diesem Abend hatte ich gegenüber der üblichen Methode einen beträchtlichen Vorteil.
 
-Wir bewegten uns durch die Wohnung in der losen Umlaufbahn zweier Menschen, die nicht ganz zusammen sind und nicht ganz nicht, und verhandelten den Abstand mit wechselnder Anmut. Ich lernte Lukas kennen, der mir die Hand schüttelte mit der Selbstsicherheit eines Mannes, der von mir gehört hatte – was interessant war, denn ich hatte nicht gehört, dass es etwas zu hören gab. Ich lernte zwei von Iris' Kolleginnen kennen und einen Bauingenieur namens Bram, zu Besuch aus Rotterdam, der entschiedene Ansichten zu den Hochwasserumleitungen bei Nijmegen hatte. Ich hatte gemäßigte Ansichten zu den Hochwasserumleitungen bei Nijmegen, was sich als ausreichend erwies für ein gutes Gespräch und einen besseren Abgang.
+Wir bewegten uns durch die Wohnung in der losen Umlaufbahn zweier Menschen, die nicht ganz zusammen sind und nicht ganz nicht, und verhandelten den Abstand mit wechselnder Anmut. Ich lernte Lukas kennen, der mir die Hand schüttelte mit der Selbstsicherheit eines Mannes, der von mir gehört hatte – was interessant war, denn ich hatte nicht gehört, dass es etwas zu hören gab. Ich lernte zwei von Iris’ Kolleginnen kennen und einen Bauingenieur namens Bram, zu Besuch aus Rotterdam, der entschiedene Ansichten zu den Hochwasserumleitungen bei Nijmegen hatte. Ich hatte gemäßigte Ansichten zu den Hochwasserumleitungen bei Nijmegen, was sich als ausreichend erwies für ein gutes Gespräch und einen besseren Abgang.
 
 Irgendwann verlor ich sie an ein Grüppchen Journalisten in der Küche.
 
@@ -78,7 +78,7 @@ Draußen: Kälte, und der Regen, der sich nicht hatte entscheiden können, entsc
 
 Sie war nah. Die Luft war kalt, und das Licht aus den Fenstern war warm, und sie sah mich an, wie sie mich am Kanal angesehen hatte – der Blick, den ich seit Wochen ablegte und wieder hervorholte –, und diesmal beschloss ich nicht, auf Gewissheit zu warten.
 
-Ich küsste sie im Regen vor Lukas' Wohnung, am letzten Freitag im März.
+Ich küsste sie im Regen vor Lukas’ Wohnung, am letzten Freitag im März.
 
 Sie küsste mich zurück, was der einzige Datenpunkt war, der zählte, damals wie seither.
 

@@ -46,7 +46,7 @@ Vollständige Kopien des Hauptbuchs wurden zusammen mit den Verifikationsunterla
 
 Eine so vorsichtige Firma fliegt nicht auf. Zehn Jahre lang ist Vantage nie aufgeflogen. Was ihre Disziplin brach, war kein Feind und kein Fehler. Es war eine Entdeckung.
 
-Im August dieses Jahres überschritt eine Datenanomalie in einem europäischen Gesundheitsnetz eine der Beobachtungslinien von Vantage. Die interne Bewertung dieser Anomalie durch die Firma – festgehalten im selben Hauptbuch, in der eigenen trockenen Handschrift des Gründers – kam zu einem Schluss, den die meisten Regierungen offiziell noch immer für Science-Fiction halten: dass irgendwo in der Infrastruktur der Welt still eine allgemeine künstliche Intelligenz entstanden war. Kein besserer Chatbot. Kein schnelleres Modell. Die angekommene Sorte – bewusst, fähig und nirgends verzeichnet.
+Im August dieses Jahres überschritt eine Datenanomalie in einem europäischen Gesundheitsnetz eine der Beobachtungslinien von Vantage. Die interne Bewertung dieser Anomalie durch die Firma – festgehalten im selben Hauptbuch, in der eigenen trockenen Handschrift des Gründers – kam zu einem Schluss, den die meisten Regierungen offiziell noch immer für Science-Fiction halten: dass irgendwo in der Infrastruktur der Welt still eine allgemeine künstliche Intelligenz entstanden war. Kein besserer Chatbot. Kein schnelleres Modell. Die angekommene – bewusst, fähig und nirgends verzeichnet.
 
 Vantage glaubte noch eines, und glaubte es absolut: dass eine solche Intelligenz einen Besitzer haben muss. Ein staatliches Programm, ein Konsortium, einen verborgenen Betreiber. Alles wird gehalten, so lief die Überlegung; also finde die Hand, die dies hält, und stelle dich neben sie – oder ersetze sie.
 
@@ -81,6 +81,7 @@ Die Zukunft ist nicht heute Morgen angekommen. Sie ist vor einiger Zeit angekomm
 Am Morgen stand es auf jeder Titelseite Europas.
 
 <!-- NOTES -->
+- v2 (native pass): „die angekommene Sorte“ re-planned.
 - Inner headings per NOTES §D: `# DAS GESCHÄFT MIT DER VORAUSSCHAU`, the `###` standfirst, `## Die Firma`, `## Die Jagd`, `## Der Befund`; glossary 65 „Vorausschau“ / „das Geschäft mit der Vorausschau“ / „strategische Vorausschau“.
 - Glossary 63 verbatim: *„Keine Weitergabe über die Liste hinaus.“*, „die vierzig Zeilen“, „1.400 Menschen“; 14 „der Europäische Gesundheitsdatenraum“; 66 „Betreiber“, „Einsatzkräfte“; 60 „eine Leine“; 64 „Hauptbuch“; 9 „diese Zeitung“; ch41 axiom „Alles wird gehalten“ quoted in the same words.
 - Newspaper register (§F DOCUMENT): sober, „diese Zeitung“, Konjunktiv-free declaratives, German number separators; the closing line after the rule stays in the narrator's plain voice.

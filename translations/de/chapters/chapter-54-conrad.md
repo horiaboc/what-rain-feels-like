@@ -77,6 +77,7 @@ Sie nickt. Einmal. Zur Kenntnis genommen.
 Dann steckt sie das Telefon weg und schlägt den Kragen hoch und geht ihre Tochter suchen.
 
 <!-- NOTES -->
+- v2 (native pass): read through, unchanged.
 - Fixed lines verbatim: „Sauberes Hemd, Mara. Wir werden wahre Dinge in hässlichen Räumen sagen.“ (§E 57/58); „die am wenigsten schlechten Hände“ (60); „die Leine“ / „Es gibt keine Leine.“ (60); „Vierzig Zeilen waren der Annex.“ (62); „Alles wird gehalten. Geist ist Wollen.“ (ch41); Mara's ch48 sentence quoted back in her words; the article's three sentences as ch53 prints them.
 - "Five words." → „Vier Wörter.“ — the German message *Sie hatten recht. Danke.* is four words, and the count must be true in the language the reader is reading (ch31's four-word message is unrelated).
 - Conrad ↔ Mara Sie + first name to the end; Conrad ↔ Willem Sie + first name.

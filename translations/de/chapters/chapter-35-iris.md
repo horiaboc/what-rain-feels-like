@@ -82,7 +82,7 @@ Ich meine nicht, dass sie auf eine diagnostische Weise anders war, Falschheit an
 
 Etwas in ihrem Gesicht wurde sofort weicher, das Weichwerden von jemandem, dem gleich die Erlaubnis erteilt wird, über Menschen zu sprechen, die er wirklich gemocht hat. „Gekannt? Ich habe dreißig Jahre neben ihnen gewohnt.“ Sie sah zwischen uns hin und her – mich länger, mit der milden Neugier von jemandem, der ein Gesicht einzuordnen versucht und es nicht ganz schafft. „Kommen Sie besser rein. Ich habe gerade Wasser aufgesetzt.“
 
-Jonas' Hand fand wieder die kleine Kuhle meines Rückens, als wir eintraten. Ich verstand es als Frage und beantwortete sie mit dem kleinstmöglichen Nicken. *Mir geht es gut. Bleib nah.*
+Jonas’ Hand fand wieder die kleine Kuhle meines Rückens, als wir eintraten. Ich verstand es als Frage und beantwortete sie mit dem kleinstmöglichen Nicken. *Mir geht es gut. Bleib nah.*
 
 ---
 

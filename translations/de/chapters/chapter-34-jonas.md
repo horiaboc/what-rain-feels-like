@@ -120,11 +120,11 @@ Wieder eine Pause. „Auch das ist kein ungewöhnlicher Grund, in einer Kirche z
 
 „Ich brauche nur einen Moment“, sagte Iris. „Des Nicht-Bewegens.“
 
-„Dann nehmen Sie ihn“, sagte er.
+„Dann nehmen Sie ihn.“
 
 Er blieb ein paar Minuten, im Schweigen von jemandem, dem Schweigen vertraut ist und der nicht das Bedürfnis hat, es zu füllen. Dann erhob er sich – wieder ein Knarren – und sagte leise: „Friede sei mit Ihnen.“
 
-„Und mit Ihnen“, sagte Iris.
+„Und mit Ihnen.“
 
 Seine Schritte entfernten sich durch das Schiff.
 
@@ -154,7 +154,7 @@ Ich sah sie an.
 
 „Das ist etwas“, sagte ich.
 
-„Es könnte nichts sein“, sagte sie. „Aber es ist anders als Amsterdam. Heerlen kommt mir – näher vor.“
+„Es könnte nichts sein. Aber es ist anders als Amsterdam. Heerlen kommt mir – näher vor.“
 
 Ich sah auf die vorbeiziehenden Felder. Der Zug tat, was Züge tun, nämlich einen stetig auf das zubewegen, was kommt, ob man bereit dafür ist oder nicht.
 

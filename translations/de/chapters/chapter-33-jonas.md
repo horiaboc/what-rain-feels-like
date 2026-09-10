@@ -66,11 +66,11 @@ Tom war in den Fünfzigern, bärtig, Kaffee in der Hand, mit dem gesetzten Blick
 
 „Iris Jacobs“, sagte er. „Civic Tech, vor etwa einem Jahr.“
 
-„Ja“, sagte Iris.
+„Ja.“
 
 Er schüttelte langsam den Kopf. „Ich glaube nicht. Und ich würde mich erinnern – wir hatten in dem Jahr ein kleines Team, zwölf Leute vielleicht. Ich kenne sie alle.“ Er sagte es ohne ein Gramm Unfreundlichkeit, als eine Tatsache, die zu halten ihm leidtat. „Sind Sie sicher, dass es dieses Büro war? Wir haben Leute auf Vertragsbasis, anderswo ansässig – könnte es eine Remote-Regelung gewesen sein?“
 
-„Könnte es gewesen sein“, sagte Iris.
+„Könnte es gewesen sein.“
 
 Es konnte es nicht gewesen sein. Sie hatte mir dieses Büro in Berlin beschrieben, vor Monaten, bevor Amsterdam auch nur eine Idee war – die Schreibtischgruppen, die Kaffeemaschine, die Drinks am Wochenende. Sie hatte es so beschrieben, wie man einen Ort beschreibt, in dem man gestanden hat.
 

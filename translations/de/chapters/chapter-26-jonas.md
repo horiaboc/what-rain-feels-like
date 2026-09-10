@@ -78,7 +78,7 @@ Sie lachte – das echte Lachen, das sie auf dem Weg nach draußen selbst noch �
 
 Als es vorbei war, sah sie einen Moment zum Fenster. Dann: „Wir sollten zu meinen Orten zurück“, sagte sie. „Zu denen, an die ich mich erinnere. Sehen, was hält und was nicht.“
 
-„Ja“, sagte ich. „Das habe ich auch gedacht.“
+„Ja. Das habe ich auch gedacht.“
 
 „Wir müssten länger bleiben.“
 
