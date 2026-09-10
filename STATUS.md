@@ -145,22 +145,34 @@ Iris writes an article — describing the shift from AI to AGI as a public recko
 
 ## Immediate Next Action
 
-**PUBLISHING IN PROGRESS.** The Kindle edition is being set up on KDP and goes
-live 2026-09-12. The full ordered sequence — Kindle, paperback, the free
-scaffolding, reviews, promotion, and the Select decision at day 75 — is in
-**`launch-plan.md`**. Follow that; it is the current plan of record.
+**PUBLISHED.** Both editions are live on KDP — Kindle and the 6×9 paperback.
+`launch-plan.md` is the plan of record from here; the writing is done and the
+remaining work is launch work.
 
-**Immediate next step:** finish and publish the Kindle edition (launch-plan
-Phase 1), then start the paperback (Phase 2). The paperback needs one
-round-trip: KDP assigns the free ISBN partway through setup → put it in
-`tools/bookbuild/config.py` → rebuild → upload *that* interior, so the ISBN
-prints on the copyright page.
+**Immediate next step: launch-plan Phase 3** — Author Central (register on
+amazon.com *and* amazon.de, they are separate), claim the Goodreads author
+profile, verify Look Inside is on, and read the live product page as a
+stranger would. Then Phase 4, which is the only step that materially moves
+anything: write personally to the Telegram readers and ask for honest Amazon
+reviews. Target 10–15. Nothing in Phase 5 starts before that.
 
-**Release state (2026-09-11):** 273 pages at 6×9, spine 0.6825", full cover
-12.9333 × 9.25in. Print cost ~$4.13. Prices: ebook $4.99, paperback $16.99.
-Copyright facts set (Horia Bochis / Independently published / Meckesheim,
-Germany). Dedication written. Plagiarism sweep clean (`plagiarism-check.md`).
-Everything publishable is committed under `build/en/`.
+**Two things left open at publication:**
+
+- **The paperback ISBN never made it onto the copyright page.** Phase 2's
+  round-trip (KDP assigns the free ISBN → `tools/bookbuild/config.py` →
+  rebuild → upload *that* interior) did not happen, so `ISBN_PAPERBACK` is
+  still an unfilled placeholder and the renderer omits the line. Amazon
+  prints the barcode on the cover regardless, so this is not a violation and
+  not urgent — but bookshops and libraries expect it inside the book, and the
+  interior can be replaced after publishing without penalty. Needs the ISBN.
+- **No proof copy was ordered.** Worth buying an author copy at print cost
+  anyway — it is the only way to see ink density and how the type sits.
+
+**Release state (2026-09-10):** 273 pages at 6×9, spine 0.6825", full cover
+12.9333 × 9.25in. Print cost ~$4.13. Prices: ebook $4.99 (~$3.43 net),
+paperback $16.99 (~$6.07 net). Expanded Distribution left off at launch.
+Interior margins corrected for the Print Previewer in `0880ffb` — running
+heads and folios now clear KDP's 0.25" edge by 0.380"/0.340".
 
 Optional pages still unwritten, and fine to leave that way: book epigraph,
 acknowledgments. They mount automatically if ever written.
@@ -169,4 +181,4 @@ After launch, in rough priority: the German edition (`translation-plan.md` —
 the pipeline already builds it), book two (the AGI press conference is the
 seed in `bible.md`), audiobook from `build/en/text/`.
 
-*Last updated: 2026-09-11*
+*Last updated: 2026-09-10*
