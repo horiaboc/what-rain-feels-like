@@ -62,7 +62,7 @@ Ich erfahre seinen Namen nicht. Er fragt nicht nach meinem.
 
 Als ich eine Stunde später mein Notizbuch zuklappe und den Mantel anziehe, ist er noch da und arbeitet. Er sieht nicht auf, als ich an seinem Tisch vorbeigehe, und ich bleibe nicht stehen. Das sind die richtigen Entscheidungen für das, was es war – ein kleiner Austausch zwischen Fremden in einem Café im November, etwas, das passiert und dann aufhört zu passieren.
 
-Draußen ist der Kanal grau, und die Kälte hat die Beschaffenheit des späten Novembers in Berlin – weniger feucht als die Amsterdamer, entschiedener, als hätte sie sich bereits festgelegt und erwarte von einem dasselbe.
+Draußen ist der Kanal grau, und die Kälte ist die des späten Novembers in Berlin – weniger feucht als die Amsterdamer, entschiedener, als hätte sie sich bereits festgelegt und erwarte von einem dasselbe.
 
 Ich schlage mein Notizbuch auf dem Gehweg auf. Die Disziplin.
 
@@ -77,6 +77,7 @@ Ich gehe am Kanal entlang nach Hause. Den langen Weg.
 Ich bin mir nicht sicher, warum ich so viel über einen Fremden aufgeschrieben habe.
 
 <!-- NOTES -->
+- v2 (native pass): „die Beschaffenheit des späten Novembers“ → „die Kälte ist die des späten Novembers“; §C site „knapp, unausgesprochen, vollkommen ausreichend“ unchanged (must match ch10 word for word).
 - "Bangladesh" rendered with the standard German exonym „Bangladesch“ (same rule as Zürich/Luxemburg in the glossary); "Brahmaputra-Delta" and „Bauchbinde“ per NOTES §E.
 - "one counter to another" → „von einem, der zählt, zu einer, die zählt“ — the gendered pair keeps "counter" as a person who counts, not a device.
 - The English slips into past tense inside present narration ("made me ask", "I understood this in two ways") — kept as Präteritum, not smoothed. Last line uses Perfekt („aufgeschrieben habe“) because it is a just-completed act inside present narration, not narrative past.

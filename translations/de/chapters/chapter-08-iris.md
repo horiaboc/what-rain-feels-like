@@ -18,7 +18,7 @@ Reza kennt meine Bestellung. Der hintere Tisch an der Wand ist nicht immer frei,
 
 Der Fahrradtext erschien im Dezember – ein guter Text, finde ich. Die Resonanz war bescheiden und verhältnismäßig: einige Aufmerksamkeit aus der Branche, ein langer Thread von einem Kopenhagener Interessenverband, zwei Briefe. Für einen Text dieser Art sieht Erfolg so aus, und ich verbuche es als Erfolg.
 
-Die aktuelle Arbeit ist eine Bestandsaufnahme von Initiativen zur Algorithmentransparenz in vier europäischen Stadtverwaltungen – was Städte über die Steuerung ihrer eigenen automatisierten Systeme behaupten, und wie die Aufsicht tatsächlich aussieht, sobald man die Prüfberichte liest statt der Pressemitteilungen. Drei Wochen Strategiepapiere inzwischen, und das Muster ist konsistent: Der Anreiz ist nie die Transparenz selbst, sondern nur, sie *sichtbar* zur Priorität gemacht zu haben, und diese beiden Anreize bringen sichtbar verschiedene Dokumente hervor. Ich bin gut darin geworden, nach ein, zwei Seiten zu erkennen, welche Sorte ich in der Hand habe.
+Die aktuelle Arbeit ist eine Bestandsaufnahme von Initiativen zur Algorithmentransparenz in vier europäischen Stadtverwaltungen – was Städte über die Steuerung ihrer eigenen automatisierten Systeme behaupten, und wie die Aufsicht tatsächlich aussieht, sobald man die Prüfberichte liest statt der Pressemitteilungen. Drei Wochen Strategiepapiere inzwischen, und das Muster ist konsistent: Der Anreiz ist nie die Transparenz selbst, sondern nur, sie *sichtbar* zur Priorität gemacht zu haben, und diese beiden Anreize bringen sichtbar verschiedene Dokumente hervor. Ich bin gut darin geworden, nach ein, zwei Seiten zu erkennen, welches von beiden ich in der Hand habe.
 
 ---
 
@@ -36,9 +36,9 @@ Nach etwa zwanzig Minuten blickte er auf und sah mich.
 
 „Die Lieferkette“, sagte ich.
 
-Er lächelte – die kleine, unwillkürliche Sorte, die Sorte, die geschieht, bevor ein Mensch entschieden hat, ob er sie zulässt. Dann sah er auf seinen Bildschirm und dann wieder zu mir.
+Er lächelte – das kleine, unwillkürliche Lächeln, das da ist, bevor ein Mensch entschieden hat, ob er es zulässt. Dann sah er auf seinen Bildschirm und dann wieder zu mir.
 
-„Sieht es mit dem Zeitrahmen inzwischen besser aus?“
+„Sieht es mit der Zeitskala inzwischen besser aus?“
 
 „Der Fahrradtext ist erschienen. Ich nenne es eine Verbesserung.“
 
@@ -98,7 +98,7 @@ Ich dachte: Ich bin froh, dass er Ja gesagt hat.
 
 Dann dachte ich darüber nach, was ich damit meinte; das dauerte länger als erwartet und war, als ich an meiner Tür ankam, zu keinem sauberen Schluss gekommen. Ich habe es mir zur Regel gemacht, zu notieren, was ich nicht sofort klären kann. Das ist entweder eine gute Gewohnheit oder ein Mittel, etwas nicht zu wissen und mir gleichzeitig zu sagen, ich sei dabei, es herauszufinden.
 
-Mein Notizbuch: *Jonas, Logistik/Software, Merkon Systems. Rechenschaft in Lieferketten. Denkt strukturell. Hat den Fahrradtext im Dezember gelesen – nichts gesagt, bis er gefragt wurde. Kommt Mittwoch. Weiß, wie man eine Sache trägt, ohne sie zur einzigen zu machen. Gespräch war leicht, auf die Art, die entweder gewöhnlich ist oder nicht, und ich kann noch nicht feststellen, welche. Nicht sicher, warum das so bedeutsam wirkt, wie es wirkt. Sollte zu wissen sein.*
+Mein Notizbuch: *Jonas, Logistik/Software, Merkon Systems. Rechenschaft in Lieferketten. Denkt strukturell. Hat den Fahrradtext im Dezember gelesen – nichts gesagt, bis er gefragt wurde. Kommt Mittwoch. Weiß, wie man eine Sache trägt, ohne sie zur einzigen zu machen. Gespräch war leicht, und ich kann noch nicht sagen, ob das die gewöhnliche Leichtigkeit war oder eine andere. Nicht sicher, warum das so bedeutsam wirkt, wie es wirkt. Sollte zu wissen sein.*
 
 Ich las es noch einmal durch.
 
@@ -107,8 +107,8 @@ Die letzte Zeile war auf eine Weise wahr, die ich nicht ganz direkt ansah.
 Ich blätterte um.
 
 <!-- NOTES -->
+- v2 (native pass): the „Sorte“ frames re-planned; the ch06 callback now matches ch06's word: „Zeitskala“.
 - GLOSSARY: "piece" (journalism) → „Text“; „der Fahrradtext“, „der Transparenztext“ — ch06/ch07 must use the same noun.
-- "the timescale" is a callback to ch06; rendered „der Zeitrahmen“ — ch06's line must match.
 - Sie until the names are exchanged; first du is „Du hast nichts gesagt.“ directly after, per NOTES §B.
 - English leaves the downstairs neighbour and the colleague ungendered; German forced a choice, generic masculine used („Mein Nachbar von unten“, „einem Kollegen“).
 - "a profile of … initiatives" → „eine Bestandsaufnahme“ („Porträt“ is reserved for people in German newsroom usage).

@@ -22,13 +22,13 @@ Das ist nicht das Übliche. Ich hatte genug Vergleichsdaten, um mir zumindest de
 
 Am dritten Freitag im Februar ging ich in die Weichselstraße.
 
-Aus keinem ausgesprochenen Grund – es war kalt, wir waren unterwegs, seine Wohnung lag in der Richtung, die wir ohnehin eingeschlagen hatten, und keiner von uns schlug vor, haltzumachen. Das Haus hatte einen Innenhof von der Art, wie das alte Berlin sie für sich behält: ein kahler Baum, ein Fahrrad an der Wand, das sich offensichtlich seit Langem nicht bewegt hatte, ein erleuchtetes Fenster im vierten Stock. Ich erkannte den Hof wieder, bevor ich verstand, warum. Dann verstand ich, warum: *ein Fahrrad, das an der hinteren Wand lehnt, ein kahler Baum, ein erleuchtetes Fenster* – genau das hatte ich im November gesehen, von der Straße aus, durch ein Tor, das jemand offen gelassen hatte.
+Aus keinem ausgesprochenen Grund – es war kalt, wir waren unterwegs, seine Wohnung lag in der Richtung, die wir ohnehin eingeschlagen hatten, und keiner von uns schlug vor, haltzumachen. Das Haus hatte einen Innenhof, wie das alte Berlin sie für sich behält: ein kahler Baum, ein Fahrrad an der Mauer, das sich offensichtlich seit Langem nicht bewegt hatte, ein erleuchtetes Fenster im vierten Stock. Ich erkannte den Hof wieder, bevor ich verstand, warum. Dann verstand ich, warum: *ein Fahrrad, das an der hinteren Mauer lehnt, ein kahler Baum, ein erleuchtetes Fenster* – genau das hatte ich im November gesehen, von der Straße aus, durch ein Tor, das jemand offen gelassen hatte.
 
 Ich sagte nichts dazu. Manche Zufälle behält man besser für sich, wo sie weiter bedeuten können, was immer sie bedeuten.
 
-Die Wohnung: achtunddreißig Quadratmeter, ein Schreibtisch mit drei offenen Browser-Tabs, die man vom anderen Ende des Zimmers aus sehen konnte, und auf der Fensterbank eine Pflanze von der Sorte, die aus reiner Entschlossenheit überlebt. Der Kaktus hieß, wie sich herausstellte, Diogenes, was er mir ohne Vorrede mitteilte, als bedürfe die Information keiner Begründung. Ich beschloss, dass sie keiner bedurfte.
+Die Wohnung: achtunddreißig Quadratmeter, ein Schreibtisch mit drei offenen Browser-Tabs, die man vom anderen Ende des Zimmers aus sehen konnte, und auf der Fensterbank eine Pflanze, die aus reiner Entschlossenheit überlebt. Der Kaktus hieß, wie sich herausstellte, Diogenes, was er mir ohne Vorrede mitteilte, als bedürfe die Information keiner Begründung. Ich beschloss, dass sie keiner bedurfte.
 
-Es gab eine Schranktür, die aufschwang, sobald die Heizung sich mit einem Klicken einschaltete – ein lockeres Scharnier, die Art von Defekt, die für den unsichtbar wird, der mit ihm lebt. Ich schloss sie. Sie schwang wieder auf. Ich stellte eine einzige Frage, um seinen Werkzeugkasten zu finden, nahm den passenden Schraubenzieher und zog das Scharnier in ungefähr neunzig Sekunden fest.
+Es gab eine Schranktür, die aufschwang, sobald die Heizung sich mit einem Klicken einschaltete – ein lockeres Scharnier, ein Defekt, der für den unsichtbar wird, der mit ihm lebt. Ich schloss sie. Sie schwang wieder auf. Ich stellte eine einzige Frage, um seinen Werkzeugkasten zu finden, nahm den passenden Schraubenzieher und zog das Scharnier in ungefähr neunzig Sekunden fest.
 
 Er beobachtete das alles von der Küchentür aus.
 
@@ -67,7 +67,7 @@ Reza begann, gleich zwei Kaffee zu bringen, wenn er uns zusammen hereinkommen sa
 Und ich stellte fest, dass ich nicht mehr bemerkte, wenn ich meine Woche umbaute, um Platz für den Freitag zu schaffen. Das schien bedeutsam. Dann schien es normal. Dann schien es das Gewöhnlichste von der Welt zu sein – was, wie ich inzwischen glaube, die bedeutsamen Dinge tun, wenn sie vorhaben zu bleiben.
 
 <!-- NOTES -->
-- GLOSSARY: the italic courtyard echo „*ein Fahrrad, das an der hinteren Wand lehnt, ein kahler Baum, ein erleuchtetes Fenster*“ quotes the November gate scene (ch05); that chapter must carry the same words verbatim.
+- v2 (native pass): frames varied; the italic courtyard echo now matches ch02/ch03 word for word („an der hinteren Mauer“ — it read „Wand“ before).
 - Reserved-phrase site framed as „Wir hatten inzwischen eine Verständigung Pannierstraßer Art: …“ so the fixed string keeps its colon; ch06 should use the identical frame with „Berliner“.
 - „ohne Rest“ for "no remainder" keeps the arithmetic sense as the paragraph's one-too-exact word; „Vergleichsdaten“, „Defekt“, „Vorstufe“ serve the same function elsewhere.
 - „haltzumachen“ for "proposed stopping" keeps the English ambiguity (end the walk / stop at his door).

@@ -24,7 +24,7 @@ Ich sagte, das sei es mehr oder weniger. Und ich erzählte ihm von Heerlen.
 
 Heerlen liegt im Süden von Limburg, etwa dreißig Kilometer von Aachen – nah genug, dass die Grenze aufhört, sich wie eine Grenze anzufühlen, und zu einem Wechsel der Straßenschilder wird. Die Provinz hat ein Jahrhundert lang Kohle gefördert und musste dann herausfinden, was aus einem Ort wird, wenn man ihm das nimmt, wofür er da war; eine gewisse Sturheit hat sie hindurchgebracht, und die Sturheit ist geblieben. Das Haus meiner Großeltern stand in einer Straße, die weder schön noch hässlich war – eine Doppelhaushälfte, ein langer Garten hinten, eine Garage mit einem Fahrrad, drei Kartons mit Dingen, an die sich niemand erinnern konnte, und, den größten Teil meiner Kindheit über, einer verrosteten Wäschespinne, die mein Großvater an einem ganz bestimmten Samstag zu reparieren beschlossen und danach nie wieder angerührt hatte.
 
-Opa Kees sprach Niederländisch, mit mir und mit allem. Er war ein stiller Mann mit sehr großen Händen und einer Sammlung von Ansichten über Fußball, die er mit einer Wucht vortrug, die in keinem Verhältnis zu seinem sonstigen Temperament stand. Er brachte mir das Fahrradfahren bei, an demselben Samstag, an dem er die Wäschespinne nicht reparierte – weshalb Radfahren für mich ein wenig nach Rost und Geduld riecht. Er starb vor vier Jahren an einem stillen Herzversagen: die Sorte, die einem Zeit lässt zu sagen, was man sagen will, und nicht ganz genug Zeit, alles davon zu sagen. Ich habe über diese Arithmetik oft nachgedacht.
+Opa Kees sprach Niederländisch, mit mir und mit allem. Er war ein stiller Mann mit sehr großen Händen und einer Sammlung von Ansichten über Fußball, die er mit einer Wucht vortrug, die in keinem Verhältnis zu seinem sonstigen Temperament stand. Er brachte mir das Fahrradfahren bei, an demselben Samstag, an dem er die Wäschespinne nicht reparierte – weshalb Radfahren für mich ein wenig nach Rost und Geduld riecht. Er starb vor vier Jahren an einem stillen Herzversagen: einem, das einem Zeit lässt zu sagen, was man sagen will, und nicht ganz genug Zeit, alles davon zu sagen. Ich habe über diese Arithmetik oft nachgedacht.
 
 Oma Ingrid sprach Deutsch. Sie kam ursprünglich aus Aachen – ging mit zweiundzwanzig für eine Stelle nach Limburg und blieb wegen meines Großvaters, was sie in beiden ihrer Sprachen als die zweitbeste Entscheidung ihres Lebens bezeichnete. Die beste, sagte sie, war, es ihm nicht sofort zu sagen. Sie brachte mir das Kochen bei, mit einer Genauigkeit, von der ich seither gelernt habe, dass sie nicht universell ist: Rezepte als Anweisungen, die exakt zu befolgen sind, weil es sie aus einem Grund gibt. Ihr Lachen begann in ihren Schultern, bevor es ihr Gesicht erreichte, immer, wie Wetter, das man kommen sieht. Ich habe mein ganzes Leben Deutsch mit ihr gesprochen. Als sie starb, vor achtzehn Monaten, stellte ich fest, dass ich nicht bereit war, damit aufzuhören.
 
@@ -36,9 +36,9 @@ Ich musste nachdenken. „Pfefferkuchen“, sagte ich schließlich. „Weihnacht
 
 „Er hat sie vor allem gegessen.“
 
-Jonas fand das befriedigend, auf die Art, wie er die meisten wahren Dinge befriedigend findet – ein stilles Wiedererkennen, wie wenn eine Geschichte an ihrem richtigen Schluss ankommt.
+Jonas fand das befriedigend, wie er die meisten wahren Dinge befriedigend findet – ein stilles Wiedererkennen, wie wenn eine Geschichte an ihrem richtigen Schluss ankommt.
 
-Wir schwiegen einen Moment, die gute Sorte Schweigen.
+Wir schwiegen einen Moment, das gute Schweigen.
 
 „Es tut mir leid“, sagte er. Um Oma Ingrid. Um alles.
 
@@ -54,13 +54,13 @@ Und doch. Wenn ich weiter hineingehe – nach dem Geruch von etwas greife, dem G
 
 Trauer macht etwas mit der Erinnerung. Das weiß ich. Man behält die Gestalt eines Menschen und verliert die Ränder, und mit der Zeit beginnen selbst die Ränder, die man behalten hat, weich zu werden.
 
-Jonas' Atem wurde neben mir langsamer. Draußen regnete es mit der Eile-losigkeit des frühen Mai, und ich lag da und dachte an Oma Ingrids Deutsch – die genaue Musik davon – und stellte fest, dass ich den Rhythmus vollkommen abrufen konnte.
+Jonas' Atem wurde neben mir langsamer. Draußen regnete es mit der Gemächlichkeit des frühen Mai, und ich lag da und dachte an Oma Ingrids Deutsch – die genaue Musik davon – und stellte fest, dass ich den Rhythmus vollkommen abrufen konnte.
 
 Nur nicht den Klang.
 
 <!-- NOTES -->
 - Title of Iris's piece per glossary 18: *Entscheiden, ohne zu fragen*; "load-bearing wall" per glossary 51: „wie man einer tragenden Wand vertraut“.
 - „Ich habe diese Details.“ kept as the one-word-too-exact sentence NOTES §F names.
-- "the unhurriedness of early May" → „mit der Eile-losigkeit des frühen Mai“ — a coinage with a hyphen, Iris's precision; the plain fallback is „mit der Gemächlichkeit des frühen Mai“ if the reviewer finds it mannered.
+- v2 (native pass): „die Sorte, die …“, „auf die Art, wie …“, „die gute Sorte Schweigen“ varied; the coinage „Eile-losigkeit“ replaced by „Gemächlichkeit“.
 - "my editor" (ungendered) → „meine Redakteurin“, consistent with the newsroom of Meridian Berlin as translated elsewhere; change to „mein Redakteur“ only if a later chapter names a man.
 - Opa Kees / Oma Ingrid unchanged; „meines Großvaters“ where the English says *my grandfather*.

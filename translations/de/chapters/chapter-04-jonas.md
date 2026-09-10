@@ -28,9 +28,9 @@ Ich bereue es nicht. Das ist keine Inszenierung des Nichtbereuens. Es ist einfac
 
 ---
 
-Das aktuelle Projekt ist ein Modul zur Anomalieerkennung – ein System, das statistische Abweichungen in Lieferkettendaten markiert, bevor sie sich zu etwas Teurem auswachsen. Wie das meiste, was ich tue, ist es unsichtbar auf die Art, wie Wasserleitungen unsichtbar sind: Niemand bemerkt es, bis etwas schiefgeht, und wenn nichts schiefgeht, bemerkt es auch niemand.
+Das aktuelle Projekt ist ein Modul zur Anomalieerkennung – ein System, das statistische Abweichungen in Lieferkettendaten markiert, bevor sie sich zu etwas Teurem auswachsen. Wie das meiste, was ich tue, ist es unsichtbar wie eine Wasserleitung: Niemand bemerkt es, bis etwas schiefgeht, und wenn nichts schiefgeht, bemerkt es auch niemand.
 
-Den Vormittag verbrachte ich mit dem Scoring-Modell. Es ist ein gutes Problem – eines von der Sorte, bei der die interessante Frage nicht lautet, was man erkennt, sondern was man beschließt, normal zu nennen. Normal ist immer eine Entscheidung, auch wenn es einem nicht so vorkommt. Ich schrieb das in einen Kommentar und löschte es wieder, weil es in keinen Kommentar gehört. Ich scheine ein ganzes Archiv gelöschter wahrer Sätze zu führen.
+Den Vormittag verbrachte ich mit dem Scoring-Modell. Es ist ein gutes Problem – eines, bei dem die interessante Frage nicht lautet, was man erkennt, sondern was man beschließt, normal zu nennen. Normal ist immer eine Entscheidung, auch wenn es einem nicht so vorkommt. Ich schrieb das in einen Kommentar und löschte es wieder, weil es in keinen Kommentar gehört. Ich scheine ein ganzes Archiv gelöschter wahrer Sätze zu führen.
 
 Mia brachte mir das Mittagessen an den Schreibtisch, was sie tut, wenn sie glaubt, ich hätte vergessen zu essen, und auch, wenn sie ein Gespräch führen will, ohne dass es wie eines aussieht. Heute war es beides.
 
@@ -48,7 +48,7 @@ Um Viertel nach fünf hatte ich das Scoring-Modell fertig, schrieb die Dokumenta
 
 ---
 
-Heute Abend kochte ich zum ersten Mal in dieser Woche richtig – etwas Langsames, etwas, das Aufmerksamkeit verlangt, die Art von Gericht, die die gute Pfanne rechtfertigt. Während die Zwiebeln glasig wurden, stand ich an der Arbeitsplatte und dachte an nichts Bestimmtes, eine Fähigkeit, an der ich mit mäßigem Erfolg arbeite.
+Heute Abend kochte ich zum ersten Mal in dieser Woche richtig – etwas Langsames, etwas, das Aufmerksamkeit verlangt, ein Gericht, das die gute Pfanne rechtfertigt. Während die Zwiebeln glasig wurden, stand ich an der Arbeitsplatte und dachte an nichts Bestimmtes, eine Fähigkeit, an der ich mit mäßigem Erfolg arbeite.
 
 Nach dem Essen öffnete ich die Nachrichten. Dürrenotstand am Horn von Afrika – *saisonale Störung*, hieß es, *im Einklang mit den Prognosen*, was man heute sagt, statt zu sagen, dass es schlimm ist und schlimmer wird. Die Fotos von vor Ort legten nahe, dass beide Formulierungen mehr leisten mussten, als sie sollten. Ich schloss den Tab. Ich überlegte, ihn wieder zu öffnen. Ich tat es nicht.
 
@@ -83,6 +83,7 @@ Ich tippte nichts mehr.
 Ich brauchte es nicht.
 
 <!-- NOTES -->
+- v2 (native pass): „unsichtbar auf die Art, wie …“, „eines von der Sorte, bei der“, „die Art von Gericht, die“ re-planned.
 - Desk line „Der Schreibtisch ist immer noch der dritte vom Fenster.“ matches the §D title; „Der Cursor blinkte im leeren Feld.“ verbatim per §E 25.
 - "filed the compliance report" / "files no reports" rendered „einreichen“ (official filing), not the glossary „ablegen“, which is the drawer/mental sense.
 - "even when it doesn't feel like one" (normal as a choice) → „auch wenn es einem nicht so vorkommt“ per §A: casual *feel like* is not the motif, *sich anfühlen* stays reserved.

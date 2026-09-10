@@ -4,9 +4,9 @@
 
 Die Party war in Prenzlauer Berg, was schon etwas darüber sagte, wer sie gab.
 
-Lukas – Fotograf bei ihrer Zeitung, schon da, bevor sie kam – hatte ein großes Atelierapartment nahe dem Kollwitzplatz, in das vierzig Leute passten, sofern man die Möbel hinausräumte und alle sich einverstanden erklärten, dicht beieinanderzustehen. Beide Bedingungen waren erfüllt. Es gab eine Playlist, die gegen Mitternacht von annehmbar zu seltsam überging, Wein in der Sorte Flaschen, die kein Etikett tragen, und jenes dichte Gewebe aus Gesprächen, das entsteht, wenn ein Raum voller Leute Ende zwanzig kollektiv beschlossen hat, dass dieser Abend zählt.
+Lukas – Fotograf bei ihrer Zeitung, schon da, bevor sie kam – hatte ein großes Atelierapartment nahe dem Kollwitzplatz, in das vierzig Leute passten, sofern man die Möbel hinausräumte und alle sich einverstanden erklärten, dicht beieinanderzustehen. Beide Bedingungen waren erfüllt. Es gab eine Playlist, die gegen Mitternacht von annehmbar zu seltsam überging, Wein in Flaschen ohne Etikett, und jenes dichte Gewebe aus Gesprächen, das entsteht, wenn ein Raum voller Leute Ende zwanzig kollektiv beschlossen hat, dass dieser Abend zählt.
 
-Iris hatte mich drei Tage vorher gefragt. „Eine Sache von einem Freund. Du musst nicht.“ Wie sie *du musst nicht* sagte, war die Art, wie Leute Dinge sagen, zu denen sie lieber ein Ja hören würden.
+Iris hatte mich drei Tage vorher gefragt. „Eine Sache von einem Freund. Du musst nicht.“ Wie sie *du musst nicht* sagte – so sagen Leute Dinge, zu denen sie lieber ein Ja hören würden.
 
 Ich sagte Ja.
 
@@ -34,7 +34,7 @@ Wir bewegten uns durch die Wohnung in der losen Umlaufbahn zweier Menschen, die 
 
 Irgendwann verlor ich sie an ein Grüppchen Journalisten in der Küche.
 
-Ich stand am Fenster und sah den Raum an, ohne ihn zu genau zu betrachten, was die Art ist, wie ich Räume am liebsten ansehe. Unten: Prenzlauer Berg um elf, noch warm von seinem Freitag, noch in Gang. Ein Paar, das einen Hund ausführte, der kein Interesse daran hatte, ausgeführt zu werden. Das Orange der Straßenlaternen in einer Nacht, die sich in Sachen Regen noch nicht entschieden hatte.
+Ich stand am Fenster und sah den Raum an, ohne ihn zu genau zu betrachten; so sehe ich Räume am liebsten an. Unten: Prenzlauer Berg um elf, noch warm von seinem Freitag, noch in Gang. Ein Paar, das einen Hund ausführte, der kein Interesse daran hatte, ausgeführt zu werden. Das Orange der Straßenlaternen in einer Nacht, die sich in Sachen Regen noch nicht entschieden hatte.
 
 Dann war sie neben mir.
 
@@ -103,6 +103,7 @@ Diogenes betrachtete mich von der Fensterbank aus.
 Er wandte sich wieder dem Fenster zu. Manche Daten sprechen für sich.
 
 <!-- NOTES -->
+- v2 (native pass): „die Sorte Flaschen“, „war die Art, wie …“, „was die Art ist, wie …“ re-planned.
 - Ch09 echo held verbatim: „Mal wieder spazieren gehen?“ / „Mal wieder spazieren gehen.“ (title line of ch09).
 - Rain line per glossary 72: „der Regen, der sich nicht hatte entscheiden können, entschied sich endlich“.
 - "filing and returning to" → „ablegte und wieder hervorholte“ (glossary 50, ablegen).

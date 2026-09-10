@@ -2,7 +2,7 @@
 
 ---
 
-Das Kulturforum um sieben im Januar: die Art Kälte, die aus dem Foyer eine Korrektur macht.
+Das Kulturforum um sieben im Januar: eine Kälte, die aus dem Foyer eine Korrektur macht.
 
 Ich war acht Minuten zu früh da, was ich tue, wenn mich etwas wirklich interessiert und ich bereit bin, das zuzugeben, zumindest der Logistik gegenüber. Iris war schon drinnen, im Gespräch mit zwei Leuten, die Lanyards trugen – die gesammelte Aufmerksamkeit von jemandem, der sich durch den Raum zwischen Presse und Noch-nicht-Sitzenden bewegt. Sie sah mich durch die Tür kommen: ein kleines Heben der Hand, *einen Moment*, und dann war sie wieder drin.
 
@@ -16,7 +16,7 @@ Der Film dauerte dreiundneunzig Minuten. Ich sah kein einziges Mal aufs Handy.
 
 Vier Gemeinden. Vier verschiedene Arten, dabei zuzusehen, wie die Systeme, die zum Schutz von Menschen gebaut wurden, entweder halten oder nicht. Ein Dorf hatte sein eigenes Frühwarnnetz gebaut – keine externe Finanzierung, keine zentrale Infrastruktur –, getragen von vierzehn Menschen, die sich bei den Überwachungsschichten abwechselten, einander anlernten und das Wissen weitergaben wie etwas Wertvolles. Was es war.
 
-Es ist ein Unterschied, ob man weiß, dass etwas wahr ist, oder ob man dabei zusieht. Die vierzehn Menschen, die im Morgengrauen ihre Regensachen anziehen. Die besondere Art von Vorbereitung, die auch Liebe ist, ob sie sich je so nennt oder nicht.
+Es ist ein Unterschied, ob man weiß, dass etwas wahr ist, oder ob man dabei zusieht. Die vierzehn Menschen, die im Morgengrauen ihre Regensachen anziehen. Eine Vorbereitung, die auch Liebe ist, ob sie sich je so nennt oder nicht.
 
 Irgendwann wandte Iris sich mir zu, um etwas zu sagen, und hielt inne. Ich weiß nicht, was mein Gesicht gerade tat. Sie drehte sich zurück zur Leinwand.
 
@@ -42,7 +42,7 @@ Ich überlegte, wie ich es sagen konnte, ohne dass es eine Rede wurde. „Das Do
 
 Sie sah mich an. „Du glaubst, verteilt ist immer besser als zentralisiert.“
 
-„Ich glaube, Abhängigkeit ist eine spezielle Art von Risiko, die untergewichtet wird, bis sie es nicht mehr wird.“ Ein Moment. „Vielleicht liege ich falsch.“
+„Ich glaube, Abhängigkeit ist ein Risiko eigener Art, das untergewichtet wird, bis es das nicht mehr wird.“ Ein Moment. „Vielleicht liege ich falsch.“
 
 „Vielleicht“, sagte sie. „Aber mit der Abhängigkeit liegst du nicht falsch.“ Ein Augenblick. „Und die Plattform absorbiert die Fördermittel. Das Dorf ist nicht mehr die Geschichte. Es wird zum Use Case.“
 
@@ -62,7 +62,7 @@ Auf der Fußgängerbrücke am Urbanhafen blieb sie stehen und sah aufs Wasser.
 
 „Jeder Kanal bei Nacht“, sagte sie. „Die Spiegelungen sehen immer mehr nach der Stadt aus als die Stadt selbst. Ehrlicher, irgendwie.“
 
-Ich sah hin. Sie hatte recht – auf die Art, wie zutreffende Beobachtungen über gewöhnliche Dinge recht haben, nämlich vollständig, und erst, nachdem jemand sie ausgesprochen hat.
+Ich sah hin. Sie hatte recht – so, wie zutreffende Beobachtungen über gewöhnliche Dinge recht haben: vollständig, und erst, nachdem jemand sie ausgesprochen hat.
 
 „Amsterdam?“, sagte ich.
 
@@ -82,9 +82,9 @@ Irgendwann fiel mir auf, dass wir erheblich weiter gegangen waren, als es unsere
 
 ---
 
-Wir blieben an der Ecke stehen, an der sie nach Osten abbog und ich weiter nach Norden ging – oder gehen würde, theoretisch; ich hatte nichts entschieden. Es hatte angefangen zu regnen: die feine Januarsorte, die sich nicht festlegt, aber durchhält, und bis man daran denkt, sie zu erwähnen, hat sie ihren Standpunkt schon klargemacht.
+Wir blieben an der Ecke stehen, an der sie nach Osten abbog und ich weiter nach Norden ging – oder gehen würde, theoretisch; ich hatte nichts entschieden. Es hatte angefangen zu regnen: der feine Januarregen, der sich nicht festlegt, aber durchhält, und bis man daran denkt, ihn zu erwähnen, hat er seinen Standpunkt schon klargemacht.
 
-„Du solltest gehen“, sagte sie. Nicht auf eine Art, die hieß, dass sie es wollte.
+„Du solltest gehen“, sagte sie. Nicht so, dass es geheißen hätte, sie wolle es.
 
 „Der Regen meint es nicht ernst“, sagte ich.
 
@@ -92,7 +92,7 @@ Wir blieben an der Ecke stehen, an der sie nach Osten abbog und ich weiter nach 
 
 Wir standen da in dem Regen, der es nicht ernst meinte.
 
-Es gibt eine Art Moment, der gewöhnlich daherkommt und in Wirklichkeit eine Frage ist. Ich erkannte diesen hier als Frage. Ich erkannte auch, dass er eine überlegte Antwort verdiente und dass die überlegte Antwort noch nicht verfügbar war – nicht, weil die Daten nicht ausreichten, sondern weil ich noch nicht zu Ende verstanden hatte, was die Daten *waren*. Einen Schluss auf ein unvollständiges Verständnis zu zwingen ist genau der Fehlermodus, gegen den ich seit drei Jahren Systeme baue.
+Es gibt Momente, die gewöhnlich daherkommen und in Wirklichkeit eine Frage sind. Ich erkannte diesen hier als Frage. Ich erkannte auch, dass er eine überlegte Antwort verdiente und dass die überlegte Antwort noch nicht verfügbar war – nicht, weil die Daten nicht ausreichten, sondern weil ich noch nicht zu Ende verstanden hatte, was die Daten *waren*. Einen Schluss auf ein unvollständiges Verständnis zu zwingen ist genau der Fehlermodus, gegen den ich seit drei Jahren Systeme baue.
 
 „Mal wieder spazieren gehen?“, sagte ich.
 
@@ -109,7 +109,9 @@ Die Frage war notiert.
 Die Antwort war noch nicht verfügbar.
 
 Das ist – das habe ich entschieden – ein vernünftiger Ort, an dem man sein kann.
+
 <!-- NOTES -->
+- v2 (native pass): the „die Art …, die“ frames varied; „die feine Januarsorte“ → „der feine Januarregen“.
 - Rain: the fixed clause „der Regen, der es nicht ernst meinte“ used verbatim at both narration sites; the dialogue pair is „Der Regen meint es nicht ernst“ / „Meint er nicht“ (same verb, present tense).
 - The panel journalist is unmarked for gender in the English; rendered „ein Journalist“ to avoid an unintended parallel with Iris.
 - GLOSSARY: „Single Point of Failure“ and „Use Case“ kept as loanwords (Jonas's dev register; Iris quoting the founder's world); "failure mode" → „Fehlermodus“.

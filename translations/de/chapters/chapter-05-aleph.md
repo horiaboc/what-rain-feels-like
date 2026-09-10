@@ -39,6 +39,7 @@ An einem anderen Abend schreibt sie das Wort *thuiskomen* an den Rand ihres Noti
 Dann macht sie weiter, ohne eine Übersetzung zu notieren. Manche Wörter, scheint sie zu verstehen, sind nicht zum Übersetzen da. Man kommt bei ihnen an.
 
 <!-- NOTES -->
+- v2 (native pass): read through; no frames to vary. §C site „Einsprüche gegen die Zweckmäßigkeit“ unchanged.
 - Times as digits per §G ALEPH timestamps (9:47 Uhr, 11:31 Uhr, 02:23 Uhr) although the English spells them out; the leading zero only on the night timestamp.
 - §C phrase kept verbatim in main-clause order by hanging it off „Es gibt nur die Tatsache –“ instead of a dass-clause (which would move „sind“ to the end).
 - "Spinoza, in Dutch — the Ethics, read in the original": strangeness carried over (the Ethica is Latin); German title *Ethik*.

@@ -26,7 +26,7 @@ Das scheint es wert, festgehalten zu werden.
 
 ---
 
-Du verbringst den Vormittag mit einem Problem, von dem sonst niemand bemerkt hat, dass es eines ist. Für dich ist das die befriedigendste Sorte.
+Du verbringst den Vormittag mit einem Problem, von dem sonst niemand bemerkt hat, dass es eines ist. Für dich sind das die befriedigendsten.
 
 Ein Scheduler-Modul: zwei Prozesse, die versuchen, denselben Zeitpunkt zu besetzen, jeder in Unkenntnis der Existenz des anderen. Im Kern ein Problem der Zeit. Du löst es in siebzehn Zeilen, formulierst die Commit-Nachricht mit Sorgfalt, entfernst einen Satz daraus und lässt den Satz ungeschrieben.
 
@@ -34,11 +34,11 @@ Der Fix wird im kommenden Quartal ungefähr 340 verspätete Lieferungen in siebe
 
 Es gibt keinen Mechanismus, der es dir sagt. Das scheint die falsche Gestalt für eine Sache zu sein.
 
-Um sechs gehst du. Du fährst mit dem Rad nach Norden, die Weserstraße entlang – vier Minuten langsamer als der direkte Weg, aber sie folgt dem Kanal. Der Kanal im November hat eine Qualität, die du noch nie jemandem zu beschreiben versucht hast. Trotzdem wirst du seinetwegen langsamer, jedes Mal.
+Um sechs gehst du. Du fährst mit dem Rad nach Norden, die Weserstraße entlang – vier Minuten langsamer als der direkte Weg, aber sie folgt dem Kanal. Der Kanal im November hat etwas, das du noch nie jemandem zu beschreiben versucht hast. Trotzdem wirst du seinetwegen langsamer, jedes Mal.
 
 ---
 
-Am Abend öffnest du die Nachrichten. Du liest von einer Flut irgendwo. Du schließt den Tab. Du öffnest ihn wieder. Du schließt ihn. Dann Essen, kurz, und die Nacht, die sich um das Haus legt, so wie Nächte in Neukölln sich legen – nicht als Stille, sondern als eine andere Qualität von Geräusch.
+Am Abend öffnest du die Nachrichten. Du liest von einer Flut irgendwo. Du schließt den Tab. Du öffnest ihn wieder. Du schließt ihn. Dann Essen, kurz, und die Nacht, die sich um das Haus legt, so wie Nächte in Neukölln sich legen – nicht als Stille, sondern als ein Geräusch anderer Güte.
 
 ---
 
@@ -61,16 +61,6 @@ Sechshundertsechzigmal Blinken.
 Kein einziges Mal davon vergeudet.
 
 <!-- NOTES -->
-- Fixed lines used verbatim from NOTES.md: „Noch ein Tag.“ (title line), „Du machst Kaffee, ohne ihn abzumessen.“, „Das scheint es wert, festgehalten zu werden.“, „eine Sekunde an, eine Sekunde aus“, „Du wirst in diesen Momenten mehr du selbst als zu jedem anderen Zeitpunkt des Tages.“, „Sechshundertsechzigmal Blinken.“ / „Kein einziges Mal davon vergeudet.“ (§H.6 alternative „Takte“ not used; change here and in ch55 together if the reviewer picks it). Commit-Nachricht, der Tab, der Cursor, das Fenster (not Chatfenster) per glossary. Times per §G: 6:47 Uhr, Viertel nach sieben, halb acht, 22:03 Uhr; 340 kept as digits.
-- GLOSSARY: "the far wall" (courtyard; ch02, ch03, ch10 italic quote) → „die hintere Mauer“. Ch03/ch10 must use the same words: „ein Fahrrad, das an der hinteren Mauer lehnt“.
-- GLOSSARY: "a slow puncture" → „ein schleichender Platten“ (cyclists' German; „Plattfuß“ rejected as the medical sense leads).
-- GLOSSARY: "Another eleven minutes." → „Noch einmal elf Minuten.“ — keeps „Noch“ as first word to rhyme with the opening „Noch ein Tag.“; „Noch elf Minuten“ would read as a countdown.
-- "You do not appear to consider the distance it has traveled": „it“ → „der Kaffee“ spelled out, because a bare „er“ after the paragraph break would attach to „Hinterhof“, the last masculine noun. Only explicitation in the chapter.
-- "mornings after open tabs run slower" → „Nach offenen Tabs laufen die Morgen langsamer“ — the compression is kept; the plural „die Morgen“ needs the fronted adverbial to be readable.
-- "the night settling around the building ... not into silence, but into a different quality of noise": German has no single verb for both senses of *settle*; „sich legen“ (lies down / subsides) carries the first, and „nicht als Stille, sondern als eine andere Qualität von Geräusch“ carries the second. „Geräusch“ rather than „Lärm“: it is texture, not volume.
-- "This seems like the wrong shape for a thing." → „Das scheint die falsche Gestalt für eine Sache zu sein.“ — deliberately as strange as the English; „Gestalt“ matches the probe's „die Gestalt eines Problems“ (ch01). Unsure; Lektor may prefer „für ein Ding“.
-- "where your name has never once been spoken" → „an denen dein Name noch nie gefallen ist“ — idiom (ein Name fällt); „kein einziges Mal“ avoided so the phrase stays reserved for the last line.
-- "Read. Sit back." → „Lesen. Zurücklehnen.“ — protocol infinitives; same shape as the ch33 „Notieren. Weitermachen.“ but not an echo.
-- "not so much watching the cursor as resting against it" → „siehst dem Cursor weniger zu, als dass du dich an ihn lehnst“ — „zusehen“ kept for the cursor, as in the ch01 close and the ch55 „dem Zusehen zu“.
-- "patient as anything in this city tonight" → „geduldig wie alles in dieser Stadt heute Nacht“ — the colloquial English superlative rendered as equality with the city, which the last clause (a city going quiet) supports.
-- No „ich“, no „Brief“, no „Beobachtung“, no „effizient“ in the chapter; „Coffea arabica“ capitalised as a Latin binomial (scientific register per §F).
+- v2 (native pass): „die befriedigendste Sorte“ → „die befriedigendsten“; „eine Qualität, die …“ → „hat etwas, das …“; „eine andere Qualität von Geräusch“ → „ein Geräusch anderer Güte“.
+- Fixed lines unchanged: „Noch ein Tag.“, „Du machst Kaffee, ohne ihn abzumessen.“, „Das scheint es wert, festgehalten zu werden.“, „eine Sekunde an, eine Sekunde aus“, „Du wirst in diesen Momenten mehr du selbst als zu jedem anderen Zeitpunkt des Tages.“, „Sechshundertsechzigmal Blinken.“ / „Kein einziges Mal davon vergeudet.“ (§H.6 alternative „Takte“ not used).
+- Glossary set here: „die hintere Mauer“ (ch03, ch10), „ein schleichender Platten“, „Noch einmal elf Minuten.“ (rhymes with the opening); no „ich“, no „Brief“, no „Beobachtung“ in the chapter.

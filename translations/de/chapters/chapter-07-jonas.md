@@ -6,7 +6,7 @@ Drei Wochen nach dem Café fand ich den Artikel.
 
 Nicht absichtlich – ich las eine Reportage über die Resilienz von Küsteninfrastruktur, und er tauchte in einer Seitenleiste auf; so kommt das meiste an, was am Ende zählt. *Meridian. Iris Jacobs.* Ein Text über Radinfrastruktur und kommunale Rechenschaft in sechs europäischen Hauptstädten. Ich las ihn, wie man etwas liest, das unerwartet gut ist: langsam, und dann noch einmal.
 
-Er war sorgfältig gearbeitet. Sie hatte die Art von Recherche betrieben, die nicht auf sich aufmerksam macht – nach meiner Erfahrung die schwierigste. Der Text hatte eine These und Belege, die diese These tatsächlich stützten, was seltener vorkommt, als es sich gehört. Sie hatte die Lücke gefunden zwischen dem, was Städte maßen, und dem, was sie *nach außen hin* gemessen haben mussten – eine feinere und ehrlichere Beobachtung, als die meisten Leute überhaupt anstellen –, und sie hatte es aufgeschrieben, ohne es je in diesen Worten zu sagen, was die schwierigere Variante ist, und die bessere.
+Er war sorgfältig gearbeitet. Ihre Recherche machte nicht auf sich aufmerksam – nach meiner Erfahrung die schwierigste Art zu recherchieren. Der Text hatte eine These und Belege, die diese These tatsächlich stützten, was seltener vorkommt, als es sich gehört. Sie hatte die Lücke gefunden zwischen dem, was Städte maßen, und dem, was sie *nach außen hin* gemessen haben mussten – eine feinere und ehrlichere Beobachtung, als die meisten Leute überhaupt anstellen –, und sie hatte es aufgeschrieben, ohne es je in diesen Worten zu sagen, was die schwierigere Variante ist, und die bessere.
 
 Über die Autorenzeile hinaus sah ich nicht nach, wer sie war. Sie ist Journalistin bei einer Publikation in Berlin, und ich weiß jetzt, wie man ihre Arbeit liest; aus keiner der beiden Tatsachen ergibt sich Handlungsbedarf. Ich schloss den Tab.
 
@@ -65,6 +65,7 @@ Ich erwartete nichts Bestimmtes.
 Ich erwartete es auch nicht nicht.
 
 <!-- NOTES -->
+- v2 (native pass): „die Art von Recherche, die …“ re-planned; otherwise read through.
 - "that's worth noticing / I noticed it" rendered „Das ist bemerkenswert.“ / „Ich bemerkte es“ to keep the verb echo; the literal sense (worth noticing) is the one intended, not "remarkable".
 - "the days are running short in every sense" → „gehen … zur Neige“, which carries both daylight and deadline in one idiom.
 - "I wasn't not expecting it, either." kept as the stacked negative „auch nicht nicht“ on purpose; the strangeness is the joke.

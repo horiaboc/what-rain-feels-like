@@ -4,7 +4,7 @@
 
 Ich wusste, noch während ich es sagte, dass etwas nicht stimmte.
 
-Nicht falsch war, nicht direkt. Die Münze war liegen geblieben; das war wahr. Aber ich sagte es, und im selben Augenblick verstand ich, dass es die Sorte Sache ist, die die meisten Leute nicht sagen – zutreffend, unnötig, ein klein wenig nach dem Moment eintreffend, in dem es natürlich gewesen wäre, es zu sagen. Jonas sagte *wahrscheinlich*, und wir gingen weiter, und niemand bemerkte etwas, und mir blieb das kleine private Wissen, dass ich es wieder getan hatte.
+Nicht falsch, nicht eigentlich. Die Münze war liegen geblieben; das war wahr. Aber ich sagte es, und im selben Augenblick verstand ich, dass es etwas ist, was die meisten Leute nicht sagen – zutreffend, unnötig, ein klein wenig nach dem Moment eintreffend, in dem es natürlich gewesen wäre, es zu sagen. Jonas sagte *wahrscheinlich*, und wir gingen weiter, und niemand bemerkte etwas, und mir blieb das kleine private Wissen, dass ich es wieder getan hatte.
 
 Das passiert. Nicht oft. Aber ich habe angefangen, es zu bemerken, wie man eine lose Treppenstufe bemerkt – nicht jedes Mal, aber man weiß jetzt, dass sie da ist, und sobald man es weiß, findet der Fuß sie.
 
@@ -28,11 +28,11 @@ Ich habe keinen Namen für das, was ich umkreise. Ich weiß nur, dass ich etwas 
 
 Jonas schlief neben mir ein, und draußen fuhr ein Bus die Weichselstraße entlang, und ich lag im Dunkeln, ohne etwas Bestimmtes, worüber ich nachdenken musste, und dachte trotzdem darüber nach.
 
-Irgendwann ließ ich es los. Oder versuchte es. Es ist nicht die Sorte Sache, die sich klärt, wenn man zu ihr zurückkehrt. Sie sitzt nur da, geduldig wie eine Treppenstufe, und wartet auf den Fuß.
+Irgendwann ließ ich es los. Oder versuchte es. Es ist nichts, was sich klärt, wenn man zu ihm zurückkehrt. Es sitzt nur da, geduldig wie eine Treppenstufe, und wartet auf den Fuß.
 
 <!-- NOTES -->
 - Fixed §E 46 verbatim: *Iris, der nie kalt ist.*; "files a fact into his account" → „ablegt“ (glossary 50).
-- "Not wrong, exactly." → „Nicht falsch war, nicht direkt.“ — the *exactly* hedge is rendered „nicht direkt“ book-wide (see ch01 probe fix).
+- v2 (native pass): „Nicht falsch, nicht eigentlich.“ for *Not wrong, exactly*; the two „Sorte Sache“ frames removed.
 - "the coin had stopped rolling" matches ch15's „liegen geblieben“.
 - "the way you notice a loose stair" → „lose Treppenstufe“, and the last line keeps the same noun: „geduldig wie eine Treppenstufe“.
 - "Something I recognise more from other people's descriptions" — Iris's "feel" (fühlen) is permitted; the ban is ALEPH's only.
