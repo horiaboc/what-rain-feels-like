@@ -6,7 +6,7 @@ Ich hatte seit zwei Tagen denselben Abschnitt Code angesehen, mit der Konzentrat
 
 Das andere war eine Routing-Anomalie, die ich im März gefunden hatte – technisch gesehen kein Bug, was ein Teil des Problems war. Das System tat genau das, wofür es trainiert worden war. Wofür es trainiert worden war, das stellte sich heraus, erzeugte in bestimmten Postbezirken Lieferfenster, die im Durchschnitt elf bis vierzehn Minuten länger liefen als gleichwertige Routen anderswo. Nicht zufällig. Beständig, über eine Datenstichprobe hinweg, die ich viermal geprüft hatte, weil ich mich hatte irren wollen. Ich irrte mich nicht.
 
-Elf bis vierzehn Minuten klingt nach nichts, bis man sich ansieht, was in diesen Fenstern lebt. Drei der betroffenen Postleitzahlen hatten einen überdurchschnittlichen Anteil älterer Menschen. Mehrere hundert Adressen in Merkons eigenen Daten waren als regelmäßige medizinische Empfänger markiert – Arzneimittellieferungen nach festem Zeitplan, die Sorte, auf die es ankommt, wenn der Mensch, der sie empfängt, nicht zur Apotheke kommt und eine stille Verzögerung nicht ohne Weiteres verkraftet. Und es gab einen Incident im Log: eine Beschwerde, vor elf Monaten eingereicht, als gelöst markiert, von einem Empfänger in Neukölln-Nord, dessen Insulin zwei Tage zu spät angekommen war. Geschlossen mit einer Entschuldigung und einem Gutschein. Niemand hatte geprüft, ob es zu einem Muster gehörte.
+Elf bis vierzehn Minuten klingt nach nichts, bis man sich ansieht, was in diesen Fenstern lebt. Drei der betroffenen Postleitzahlen hatten einen überdurchschnittlichen Anteil älterer Menschen. Mehrere hundert Adressen in Merkons eigenen Daten waren als regelmäßige medizinische Empfänger markiert – Arzneimittellieferungen nach festem Zeitplan, solche, auf die es ankommt, wenn der Mensch, der sie empfängt, nicht zur Apotheke kommt und eine stille Verzögerung nicht ohne Weiteres verkraftet. Und es gab einen Incident im Log: eine Beschwerde, vor elf Monaten eingereicht, als gelöst markiert, von einem Empfänger in Neukölln-Nord, dessen Insulin zwei Tage zu spät angekommen war. Geschlossen mit einer Entschuldigung und einem Gutschein. Niemand hatte geprüft, ob es zu einem Muster gehörte.
 
 Ich prüfte es.
 
@@ -18,7 +18,7 @@ Der Code auf meinem Bildschirm war nicht das Problem. Der Code war nur der Ort, 
 
 Ich erzählte Iris beim Abendessen nichts davon. Ich war noch am Entscheiden, und eine Sache, über die man noch entscheidet, hat noch nicht die Gestalt von etwas, das man erklären kann. Sie hat die Gestalt eines Mannes, der auf Code starrt.
 
-Wir waren beim Abwasch – sie wäscht, ich trockne; das wurde zur Regelung, ohne je besprochen worden zu sein –, als sie fragte, was ich vorhin durchdacht hätte, als ich über dem Essen still geworden war. Ich sagte: etwas von der Arbeit. Sie sagte: die gute Sorte Etwas oder die lästige? Ich sagte: die Sorte, bei der die Antwort offensichtlich ist und die Hindernisse organisatorisch – was, wie die Erfahrung lehrt, die zuverlässigste Spielart von lästig ist.
+Wir waren beim Abwasch – sie wäscht, ich trockne; das wurde zur Regelung, ohne je besprochen worden zu sein –, als sie fragte, was ich vorhin durchdacht hätte, als ich über dem Essen still geworden war. Ich sagte: etwas von der Arbeit. Sie sagte: die gute Sorte Etwas oder die lästige? Ich sagte: die, bei der die Antwort offensichtlich ist und die Hindernisse organisatorisch sind – was, wie die Erfahrung lehrt, die zuverlässigste Spielart von lästig ist.
 
 Sie reichte mir ein Glas und sagte: „Das machst du – mitten im Gespräch irgendwohin gehen und an einer leicht anderen Stelle zurückkommen.“
 
@@ -79,6 +79,7 @@ Draußen benahm sich der Juli, wie sich der Juli in Berlin inzwischen benimmt �
 Ich begann zu tippen.
 
 <!-- NOTES -->
+- v2 (native pass): two „Sorte“ frames varied; the fixed glossary line „die gute Sorte Etwas oder die lästige“ stays (it is Iris's and Jonas's shared noun, §E 74).
 - Glossary 74 verbatim: „die gute Sorte Etwas oder die lästige“; glossary 23/24: „Das Fenster kam mit seinem vertrauten Gesicht herauf“, „der Cursor“; 41: „als gelöst markiert“.
 - Iris's two lines match ch15 verbatim („Das machst du – mitten im Gespräch irgendwohin gehen und an einer leicht anderen Stelle zurückkommen.“ / „Du kommst immer zurück und hast etwas gefunden.“).
 - Pronoun for the chat/assistant: „er“ (der Chat, der Assistent) per §B — Iris's broken-off „Weiß er –“ / „Nicht über ihn.“ The English *it* has no equivalent neutrality here; „es“ would make the assistant a thing before Jonas has finished making it a relationship.

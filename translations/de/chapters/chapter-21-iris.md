@@ -4,7 +4,7 @@
 
 Eine Woche vor Amsterdam ertappte ich mich dabei, dass ich mehr daran dachte, als der Anlass es erforderte.
 
-Nicht mit Vorfreude, nicht genau – oder nicht nur. Unter der Vorfreude lief etwas mit, ein tiefer Ton unter der Melodie. Ich schrieb es der Geschichte zu, die noch nicht ganz fertig war, oder dem Druck, eine Woche fort zu sein, während die Deadline weiter auf mich zuging. Das waren vernünftige Erklärungen, und ich nahm sie an, wie man von einem Fremden das Wechselgeld annimmt, ohne es nachzuzählen.
+Nicht gerade mit Vorfreude – oder nicht nur. Unter der Vorfreude lief etwas mit, ein tiefer Ton unter der Melodie. Ich schrieb es der Geschichte zu, die noch nicht ganz fertig war, oder dem Druck, eine Woche fort zu sein, während die Deadline weiter auf mich zuging. Das waren vernünftige Erklärungen, und ich nahm sie an, wie man von einem Fremden das Wechselgeld annimmt, ohne es nachzuzählen.
 
 Am Donnerstagabend saß ich mit meinen Notizen am Schreibtisch und versuchte, mir Amsterdam ins Gedächtnis zu rufen, wie man sich einen vertrauten Ort ins Gedächtnis ruft, bevor man dorthin zurückkehrt – um ihn im Voraus zu spüren, anzukommen vor dem Ankommen. Das Spui am Morgen. Der besondere Winkel des Lichts über den Grachten. Der Geruch der Stadt im Sommer, der etwas Eigenes ist und unverwechselbar. Ich griff danach, und sie kamen, jedes gegenwärtig, jedes erkennbar – und jedes flach, auf eine Weise, die ich mir nicht erklären konnte. Wie Fotografien eines Ortes anstelle des Ortes. Wie Postkarten, die jemand anderes ausgesucht hatte.
 
@@ -51,14 +51,7 @@ So funktioniert das, dachte ich. Man kommt an, und dann erinnert man sich.
 Ich packte zu Ende. Ich ging ins Bett.
 
 <!-- NOTES -->
-- Heading per NOTES.md §D: „Woran man sich erinnert“. The closing line „Man kommt an, und dann erinnert man sich.“ uses the same „man … sich erinnern“ so title and last beat rhyme without being a verbatim quote (ch21 is not on the §D verbatim list).
-- Reserved-word site (NOTES.md §C, ch21): „Zügig, wie ich die meisten Dinge tue“ used verbatim. No „effizient/Effizienz/effektiv“, no „zu perfekt“ anywhere in the chapter.
-- „the piece“ → „die Geschichte“, following the ch20 GLOSSARY note (newsroom sense); „the interviews“ → „die Interviews“.
-- „Amsterdam-adjacent“ → „Großraum Amsterdam.“ — the English coinage has no German shape; the officialese metropolitan-area term is a joke of the same size and dryness in Jonas's mouth (she says „Ich bin hier“, he names the administrative region). Alternative if the editor wants it closer: „Amsterdam-nah.“
-- „Not with anticipation, exactly“ → „Nicht mit Vorfreude, nicht genau“ — same pattern as the probe's „nicht Trost, nicht genau“ (ch01), so the tic is consistent across the book.
-- „the linden still full“ → „die Linde noch in vollem Laub“: a bare „noch voll“ reads as *drunk* in German; „in vollem Laub“ is the smallest phrase that keeps the sense.
-- „his thinking look“ → „seinen Nachdenkblick“ (coined compound, kept as a noun because „not at me but through me“ hangs on it).
-- „an expression I couldn't entirely parse“ → „nicht ganz aufschlüsseln konnte“ — slightly technical verb for Iris's clinical undertow; „deuten“ would be plainer.
-- „timed correctly“ → „zeitlich richtig abgepasst“ (not the Anglicism „getimt“).
-- GLOSSARY: Spui → „das Spui“ (neuter; ch20 already has „am Spui“). GLOSSARY: deadline (Iris's newsroom word) → „die Deadline“.
-- Generic „you“ (accept change from a stranger; call up a familiar place; you arrive, and then you remember) → „man“ throughout, per NOTES.md §B.
+- v2 (native pass): „Nicht mit Vorfreude, nicht genau“ → „Nicht gerade mit Vorfreude“; read through.
+- §C site verbatim: „Zügig, wie ich die meisten Dinge tue“; no „effizient“ in the chapter. Heading per §D; closing line „Man kommt an, und dann erinnert man sich.“ rhymes with the title without quoting it.
+- *the piece* → „die Geschichte“ (as ch20); „Amsterdam-adjacent“ → „Großraum Amsterdam.“ (Jonas's dry administrative joke; alternative „Amsterdam-nah.“); „his thinking look“ → „seinen Nachdenkblick“; „parse“ → „aufschlüsseln“ (Iris's technical verb).
+- Generic *you* → man throughout.

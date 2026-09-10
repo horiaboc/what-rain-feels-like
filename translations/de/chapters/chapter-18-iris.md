@@ -6,7 +6,7 @@ Das Interview mit Reinhardt dauerte zweieinhalb Stunden und verbrauchte ein ganz
 
 Das ist ungewöhnlich. Die meisten Interviews brauchen höchstens ein Notizbuch, der Rest ist Transkription vom Aufnahmegerät. Aber Reinhardt hatte die Angewohnheit, jede Aussage mit einer zweiten zu qualifizieren, die die erste verkomplizierte, und dann mit einer dritten, die die zweite neu rahmte, bis man irgendwo wirklich Interessantem ankam – meist irgendwo, wohin er einen nicht hatte führen wollen. Ich finde solche Leute wertvoll. Sie gehen weiter, als sie beabsichtigen, weil ihnen Genauigkeit wichtiger ist als Position, und ein solcher Mensch kann nicht anders, als einem irgendwann die Wahrheit zu sagen.
 
-Seine Position war zu Beginn klar genug: Europäische Städte haben ein Jahrzehnt damit verbracht, algorithmische Systeme in öffentliche Dienste einzubetten, ohne eine entsprechende Investition in Rechenschaft. Wohnungsvergabe, Leistungsprüfungen, prädiktive Polizeiarbeit unter anderen Namen – Systeme, die Entscheidungen treffen, die tausende Leben berühren, dokumentiert, wo überhaupt dokumentiert, auf Weisen, die proprietär sind oder undurchsichtig oder beides.
+Seine Position war zu Beginn klar genug: Europäische Städte haben ein Jahrzehnt damit verbracht, algorithmische Systeme in öffentliche Dienste einzubetten, ohne eine entsprechende Investition in Rechenschaft. Wohnungsvergabe, Leistungsprüfungen, prädiktive Polizeiarbeit unter anderen Namen – Systeme, die Entscheidungen treffen, die tausende Leben berühren, dokumentiert, wo überhaupt dokumentiert, proprietär oder undurchsichtig oder beides.
 
 Zur Mitte des Interviews war er irgendwo Besserem angekommen: Das grundlegende Problem sei nicht, dass die Systeme sich nicht lesbar machen ließen. Es sei, dass Lesbarkeit nie ein Designkriterium gewesen sei. Sie seien gebaut worden, um zu leisten; Erklärung sei bestenfalls zweitrangig gewesen und schlimmstenfalls in aktiver Spannung zur Leistung. Man könne ein solches System bitten, seine Entscheidung zu erklären – manche würden es versuchen –, aber die Erklärung sei eine Rekonstruktion im Nachhinein. Das System wisse nicht, warum es getan habe, was es getan habe. Es habe es einfach getan.
 
@@ -42,7 +42,7 @@ Er ging früher schlafen als sonst – etwas, das er vor dem Morgen noch fertig 
 
 *Lesbarkeit war nie ein Designkriterium.*
 
-Ich dachte an Jonas, der eine E-Mail abschicken würde, die ihn wahrscheinlich etwas kosten würde, mit dem Gleichmut eines Mannes, der die Rechnung im Voraus durchgeführt und die Kosten für annehmbar befunden hatte. Die Anomalie war real; sie schadete still realen Menschen; und die Tatsache, dass es jemanden weiter oben in Unannehmlichkeiten bringen würde, sie zu beheben, war für ihn keine Eingangsgröße. Er hatte nicht gefragt, was ich dachte. Er bat mich nicht, die Entscheidung gutzuheißen. Er ließ mich wissen, wer er war – was eine andere Sorte Geschenk ist, und eine seltenere.
+Ich dachte an Jonas, der eine E-Mail abschicken würde, die ihn wahrscheinlich etwas kosten würde, mit dem Gleichmut eines Mannes, der die Rechnung im Voraus durchgeführt und die Kosten für annehmbar befunden hatte. Die Anomalie war real; sie schadete still realen Menschen; und die Tatsache, dass es jemanden weiter oben in Unannehmlichkeiten bringen würde, sie zu beheben, war für ihn keine Eingangsgröße. Er hatte nicht gefragt, was ich dachte. Er bat mich nicht, die Entscheidung gutzuheißen. Er ließ mich wissen, wer er war – was ein anderes Geschenk ist, und ein selteneres.
 
 Ich schloss das Notizbuch.
 
@@ -51,6 +51,7 @@ Draußen war der Abend warm, und die Linde im Hof hing in ihrem vollen Sommergew
 Manche Dinge sind einfach, was sie sind. Das genügt. Ich beschließe immer wieder, dass es genügt, und meistens, noch, tut es das.
 
 <!-- NOTES -->
+- v2 (native pass): „eine andere Sorte Geschenk“ and „auf Weisen, die …“ re-planned.
 - Glossary 44 verbatim at all three sites: „Lesbarkeit war nie ein Designkriterium“ (once inside Reinhardt's reported speech in Konjunktiv I: „nie ein Designkriterium gewesen sei“ — the exact form appears in the two direct quotations).
 - „Ich bin gut in diesem Ressort.“ matches ch14 verbatim.
 - Reinhardt's position rendered in Konjunktiv I — the German form of a journalist's reported interview; the English's plain past is not a voice choice there.

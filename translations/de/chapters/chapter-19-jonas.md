@@ -77,6 +77,7 @@ Der Cursor blinkte auf seine gleichmäßige Art – der Rhythmus, den ich so gut
 Ich blieb eine Weile sitzen und las.
 
 <!-- NOTES -->
+- v2 (native pass): read through; „gefestigt“ held as the word ch20 also uses.
 - GLOSSARY: "incident log" / ch17 "an incident in the log" → „das Incident-Log“. Loanword kept deliberately: „Protokoll“ is reserved for ALEPH's record (§E 35) and must not be spent on Merkon's ticket system; ch17 should use the same word. „als gelöst markiert“ per §E 41.
 - GLOSSARY: "steadied" (ch19) / "steadying rather than worried" (ch20) → „gefestigt“; ch20 suggested „Iris habe mich eher gefestigt, als dass sie besorgt gewesen sei“.
 - GLOSSARY: "the right call" (ch19 chat line, ch34) → „die richtige Entscheidung“.

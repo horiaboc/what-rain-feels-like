@@ -38,7 +38,7 @@ Er nahm das ohne Interesse hin, und wir gingen einen anderen Weg. Ich ließ den 
 
 Am Freitag, dem letzten vollen Tag, kochte ich.
 
-Die Wohnung hatte eine richtige Küche, auf die ich die ganze Woche ein Auge gehabt hatte. Jonas saß mit einem Glas Wein an der Küchentheke, mit dieser ihm eigenen Aufmerksamkeit – keine Aufsicht, nur Interesse, so wie er jedem Problem zusieht, das gut gelöst wird. Ich machte *stamppot*, weil ich seit der Landung Lust darauf gehabt hatte, weil die Zutaten da waren und weil es sich auf eine Weise richtig anfühlte, die ich nicht untersuchte. Die Liste der Dinge, die ich nicht untersuchte, hatte inzwischen ihr eigenes Regalbrett.
+Die Wohnung hatte eine richtige Küche, auf die ich die ganze Woche ein Auge gehabt hatte. Jonas saß mit einem Glas Wein an der Küchentheke, mit dieser ihm eigenen Aufmerksamkeit – keine Aufsicht, nur Interesse, so wie er jedem Problem zusieht, das gut gelöst wird. Ich machte *Stamppot*, weil ich seit der Landung Lust darauf gehabt hatte, weil die Zutaten da waren und weil es sich auf eine Weise richtig anfühlte, die ich nicht untersuchte. Die Liste der Dinge, die ich nicht untersuchte, hatte inzwischen ihr eigenes Regalbrett.
 
 Ich arbeitete schnell, das Messer fand seinen Rhythmus. Das habe ich immer gekonnt – in einem Tempo kochen, das Jonas bemerkenswert nennt und das ich immer als Gewohnheit erklärt habe, als Oma Ingrid, als Jahre, in denen ich allein gekocht hatte, ohne einen Grund, langsam zu sein.
 
@@ -56,7 +56,7 @@ Ich ließ Wasser darüberlaufen. Das Brennen setzte planmäßig ein, was auf ein
 
 „Fast nichts“, sagte ich und zeigte es ihm – ein kleiner, sauberer Schnitt, der schon nachließ. Er holte ein Pflaster. Ich deckte den Finger ab und wandte mich wieder dem Grünkohl zu.
 
-Wir aßen am Tisch beim Grachtenfenster, das Abendlicht ließ sich über dem Wasser nieder, und Jonas erzählte mir von einem Druckereibesitzer an der Elandsgracht, der Ansichten über Papiergewichte hatte, die Jonas unerwartet fesselnd gefunden hatte. Ich hörte zu. Ich lachte, wo es komisch war. Ich beantwortete, was er fragte. Das Pflaster an meinem Finger war vorhanden und gewöhnlich. Der *stamppot* war gut. Wir schenkten nach und sahen zu, wie das Licht die Gracht verließ, ohne die geringste Eile.
+Wir aßen am Tisch beim Grachtenfenster, das Abendlicht ließ sich über dem Wasser nieder, und Jonas erzählte mir von einem Druckereibesitzer an der Elandsgracht, der Ansichten über Papiergewichte hatte, die Jonas unerwartet fesselnd gefunden hatte. Ich hörte zu. Ich lachte, wo es komisch war. Ich beantwortete, was er fragte. Das Pflaster an meinem Finger war vorhanden und gewöhnlich. Der *Stamppot* war gut. Wir schenkten nach und sahen zu, wie das Licht die Gracht verließ, ohne die geringste Eile.
 
 ---
 
@@ -79,27 +79,8 @@ Zu perfekt, dachte ich. Zu – effizient.
 Ich klebte das Pflaster wieder an, machte das Licht aus und ging zurück ins Bett.
 
 <!-- NOTES -->
-- Heading per NOTES.md §D: „Kapitel Zweiundzwanzig: Bloemgracht“ (unchanged title).
-- Reserved phrase (NOTES.md §C) verbatim: „Zu perfekt, dachte ich. Zu – effizient.“ — spaced en dash, „effizient“ last word. No other „effizient/Effizienz/effektiv“, no other „zu perfekt“ in the chapter.
-- „Mostly“ occurs three times in the English (twice as a one-word sentence, once „the memory mostly held“). Rendered „überwiegend“ all three times, because the second occurrence is Iris noticing the word her mind chose — it has to be the same word each time. „Überwiegend“ also carries her clinical undertow (a statistical word).
-- „press on it / the other things I was not pressing on“ → „daran rühren / an die ich nicht rührte“ (the German sore-spot idiom; Duden: „an etwas rühren“, accusative). Not the literal „drücken“, which is kept for the physical pressing of thumb and cloth.
-- „it felt right in a way I did not examine“ → „sich … richtig anfühlte“: treated as a felt sense (her body's rightness, the chapter's subject), not the casual „seemed“ that NOTES §A excludes; same reading as ch20's „sich wie das eigene anzufühlen“. Editor may prefer „mir richtig vorkam“ if this is judged casual.
-- „I noted“ (the word; the list) → „registrierte“ both times — Iris's exact verb; „notieren“ is reserved for the ch28/29/33 liturgy „Wir notieren es.“
-- „I issued it to myself“ → „Ich stellte sie mir selbst aus“ (an explanation issued like a document; „selbst“ is licensed by the English emphasis).
-- „keeping a list“ → „eine Liste führte“ — the same verb as ALEPH's ch55 „Ich führe meine Listen“ (glossary 36), deliberately.
-- „city-quiet“ → „stadtstill“ (coined, as the English coins).
-- „No tenderness. No heat.“ → „Kein Druckschmerz. Keine Hitze.“ — „Druckschmerz“ is the one-word-too-exact of that paragraph (she has just pressed her thumb against it).
-- „rolling cut“ → „Wiegeschnitt“ (the German kitchen term for the rocking chef's cut); „kale“ → „Grünkohl“ (boerenkool).
-- „the counter“ → „Küchentheke“ (a bar-style counter one sits at; the probe's „Küchenzeile“ is the worktop).
-- „his own agenda“ → „eigenem Programm“: German „Agenda“ leans toward *ulterior motive*; „Programm“ is what a German says about a day of one's own.
-- „I'm fine / It's fine“ → „Alles in Ordnung / Es ist in Ordnung“: complete sentences per the Iris voice note; „Alles gut“ would be too loose for her.
-- „Let me—“ → „Lass mich –“: broken-off speech with a spaced en dash, per §G (the ellipsis is reserved for trailing-off).
-- „the way the water actually went, which was not the way it went in me“ → „den Verlauf, den das Wasser tatsächlich nahm und der nicht der Verlauf war, den es in mir nahm“ — the strangeness is kept, not repaired.
-- GLOSSARY: Singel (the canal) → „der Singel“, masculine as in German usage (de.wikipedia: „Der Singel ist die innerste Gracht Amsterdams“); „am Singel entlang“. An exception to the „die“-for-canals rule in NOTES §E 20, which covers the -gracht names.
-- GLOSSARY: Elandsgracht → „die Elandsgracht“, „an der Elandsgracht“.
-- GLOSSARY: Athenaeum (the bookshop) → „das Athenaeum“, neuter; „da war es“.
-- GLOSSARY: Amstel 1 → bare address in apposition („in der Digitalabteilung der Stadt, Amstel 1“); no article, no preposition.
-- GLOSSARY: algorithmic accountability → „algorithmische Rechenschaft“ (ties to ch18 „Rechenschaft“); algorithmic transparency → „Algorithmentransparenz“ (as ch20).
-- GLOSSARY: stamppot → stays Dutch, italic as the English, masculine („Der *stamppot* war gut.“).
-- Continuity with ch20/21 held: „die Geschichte“ for *the piece*, „die Digitalabteilung der Stadt“, „im Jordaan“, „am Spui“, „die Westerkerk“, „Waag“ without article, „Oma Ingrid“.
-- Scene breaks: 5 „---“ lines after the heading, as the English.
+- v2 (native pass): read through; *stamppot* capitalised as a German noun (italic as the English), matching ch31/36's „Stamppot“.
+- Reserved phrase (§C) verbatim: „Zu perfekt, dachte ich. Zu – effizient.“ — its only other site is ch47; no other „effizient“ in the chapter.
+- *Mostly* three times → „überwiegend“ each time (the second is Iris noticing the word her own mind chose; it must be the same word). *press on it* → „daran rühren“ (the German sore-spot idiom); *No tenderness* → „Kein Druckschmerz“ (the one-word-too-exact).
+- „registrierte“ for *noted* (the word, the list) — „notieren“ is reserved for the ch28/29/33 liturgy; „eine Liste führte“ shares ALEPH's ch55 verb on purpose.
+- Glossary: „der Singel“ (masc., the one exception to die-for-canals), „die Elandsgracht“, „das Athenaeum“, „Amstel 1“ bare; „Küchentheke“ (bar counter) vs „Küchenzeile“ (worktop); „Wiegeschnitt“, „Grünkohl“; „Lass mich –“ broken off with the en dash.
