@@ -80,7 +80,7 @@ Etwas geht durch sein Gesicht, das sie dort noch nie gesehen hat. Sie braucht ei
 
 „Nein.“ Er schüttelt einmal den Kopf, langsam, sicher. „Fallen schmeicheln einem. Fallen kommen verkleidet als die eigene Klugheit – ein Leck, für das man gearbeitet hat, eine Tür, die angelehnt blieb. Das hier ist das Gegenteil. Das hier sagt: *Eure Klugheit hat nichts gefunden; hier ist alles, freiwillig gegeben; kommt und stellt euch ins Freie, wo wir euch sehen können.*“ Er sieht zu ihr auf. „Das ist keine Falle, Mara. Das ist eine Vorladung. Es gibt einen Unterschied, und der Unterschied ist, wer die Feder führt.“
 
-Er steht auf und geht ans Fenster, die Hände auf dem Rücken, und das graue Licht nimmt ihn auf. Sie wartet. Elf Jahre haben sie die Formen seines Schweigens gelehrt; dieses ist von der Sorte, aus der Anweisungen hervorgehen.
+Er steht auf und geht ans Fenster, die Hände auf dem Rücken, und das graue Licht nimmt ihn auf. Sie wartet. Elf Jahre haben sie die Formen seines Schweigens gelehrt; dieses gehört zu denen, aus denen Anweisungen hervorgehen.
 
 „Keine Teams“, sagt er. „Nicht in Stärke. Sie – auf Abstand, sichtbar, unbewaffnet; wer immer für sie Ausschau hält, soll genau das finden, was wir selbst finden wollen würden. Einer noch, Ihr Bester, weiter draußen, nur Beobachtung.“ Eine Pause. „Und ich am Musikpavillon.“
 
@@ -111,6 +111,7 @@ Zwei Tage.
 Seit elf Jahren führt sie von diesem Gebäude aus Einsätze, und kein einziges Mal, bis zu diesem Abend, hat sie das Gefühl gehabt, dass der Einsatz auch sie führt.
 
 <!-- NOTES -->
+- v2 (native pass): one „von der Sorte“ varied.
 - "The photograph wasn't taken. It was *made*.": German „ein Foto machen“ means taking one, so „gemacht“ would erase the point; rendered „nicht aufgenommen … *erzeugt*“ (generated). Title kept „Die Fotografie“ per §D.
 - "The vantage point?" puns on the firm's name; the pun cannot cross. Rendered „Der Aufnahmeort“ (both sites).
 - GLOSSARY: operations floor → „die Einsatzzentrale“; run operations / the operation → „Einsätze führen“ / „der Einsatz“ — the closing line turns on „führen“ in both directions. Mara ↔ Devos: Sie (Vantage house style; pair not in §B table).

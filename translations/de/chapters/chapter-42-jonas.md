@@ -97,6 +97,7 @@ Beim Abtrocknen fiel mir auf, dass unser Eröffnungszug, für einen Krieg um die
 Soll er sich in seinem stillen Raum einen Reim darauf machen.
 
 <!-- NOTES -->
+- v2 (native pass): read through, unchanged.
 - GLOSSARY: Aleph's three "shapes" (lines of business) → „Umriss“ („Der erste/zweite/dritte Umriss“); the bold on those three site headings is kept because the English has it. "the animal" → „das Tier“, „wo das Tier gelaufen ist“ (twice, verbatim).
 - "the ledger of the day" (Jonas, casual) → „die Bilanz des Tages“ — outside §E64's four ledger senses, kept off „Hauptbuch/Logbuch“. "unminuted meetings" → „Treffen ohne Niederschrift“ so „Protokoll“ stays ALEPH's word.
 - "It would keep." → „Er würde sich halten.“ (the thought kept like something perishable, next to the lit fuse); the plain idiom „Das hatte Zeit.“ loses the holding image — reviewer's call.

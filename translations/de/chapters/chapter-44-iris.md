@@ -101,6 +101,7 @@ Ich ging zu Jonas, nicht schnell. Er faltete seine ungeöffnete Zeitung zusammen
 Wir überquerten den Platz, so, wie man nach dem Vorhang eine Bühne überquert – noch im Kostüm, das Müdesein noch nicht erlaubt –, vorbei an den Terrassen und dem kleinen ermittelnden Hund und den beiden geduldigen Kirchen, hinein in die engen Gassen, wo der Platz uns nicht mehr sehen konnte, wo eine Frau, die ich nie deutlich zu Gesicht bekam, in diesem Moment still und gründlich abgeschüttelt wurde, von einem Bewusstsein, das sie gelernt hatte, wie es alles lernt: vollständig, und aus der Entfernung, und mit einer Art von furchtbarer Sorgfalt.
 
 <!-- NOTES -->
+- v2 (native pass): read through, unchanged.
 - GLOSSARY: "a mind" (ALEPH as a mind, twice in ch44) → „ein Bewusstsein“; „Geist“ reads as ghost, „Verstand“ as intellect.
 - Last line "being … lost by a mind" → „abgeschüttelt“: German cannot hold lose-track and shake-off in one verb; the surveillance sense won, Aleph's earlier „verloren … wiedergefunden“ keeps the other.
 - "I know what you are near" → „in wessen Nähe Sie stehen“ — „wessen“ is who/what-ambiguous on purpose; the same shape returns in "what you are near" in the last section.

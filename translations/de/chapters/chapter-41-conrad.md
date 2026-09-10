@@ -87,6 +87,7 @@ Die Dichtungen lösen sich. Der Korridor nimmt ihn zurück in die aufgezeichnete
 Unten, auf der Rue de la Loi, geht Brüssel seinen Gang: Verkehr, ohne Eile, ahnungslos, der Menschen befördert, die es nicht wissen, vorbei an einem Gebäude, in dem ein Mann, der es ebenfalls nicht weiß, soeben mit großer Intelligenz und vollkommener Überzeugung seine gesamte Firma auf eine Tür ausgerichtet hat, hinter der niemand steht.
 
 <!-- NOTES -->
+- v2 (native pass): read through, unchanged.
 - GLOSSARY: "the recorded world" / "the unrecorded one" → „die aufgezeichnete Welt“ / „die nicht aufgezeichnete“ (four times here; recurs ch42, ch48). Keep verbatim.
 - GLOSSARY: the boxed word *TALK* → *REDEN.* (chapters.md: "the pivot to TALK").
 - GLOSSARY [ECHO ch54]: "Everything is held." → „Alles wird gehalten.“; "Wanting is what minds are." → „Geist ist Wollen.“; "who holds it" → „wer es hält“; "the hand" → „die Hand“. Ch54 quotes both axioms verbatim ("everything is held. Wanting is what minds are.") — hold these forms there. „Geist ist Wollen“ chosen over „Wollen ist, was einen Geist ausmacht“ (calque shape) — aphoristic, Schopenhauer-adjacent, Conrad-sized; no plural „Geister“ (= ghosts).

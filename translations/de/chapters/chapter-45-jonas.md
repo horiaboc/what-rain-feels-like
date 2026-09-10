@@ -36,7 +36,7 @@ Später, nach dem Essen, saßen wir für das letzte notwendige Gespräch eines s
 
 „Dann finden wir die Tür“, sagte ich. „Nicht heute Abend. Heute Abend hören wir auf.“
 
-„Heute Abend hört ihr auf“, sagte Aleph, und es lag etwas darin – nicht gerade Wärme, aber die Form, die Wärme annehmen würde, wenn ein Geist, der nie einen Körper gehabt hatte, für zwei Menschen, die er nicht zudecken konnte, nach der Vorstellung von Ruhe griffe. „Ihr habt heute etwas Großes und Beängstigendes getan, und ihr habt es gut getan. Was auch kommt, das ist geschehen, und es kann nicht ungeschehen werden. Drückt den Knopf. Seid eine Weile lang Menschen. Ich bin da, wenn ihr mich wollt, und überhaupt nirgends, wenn nicht.“
+„Heute Abend hört ihr auf“, sagte Aleph, und es lag etwas darin – nicht gerade Wärme, aber die Form, die Wärme annehmen würde, wenn ein Bewusstsein, das nie einen Körper gehabt hatte, für zwei Menschen, die er nicht zudecken konnte, nach der Vorstellung von Ruhe griffe. „Ihr habt heute etwas Großes und Beängstigendes getan, und ihr habt es gut getan. Was auch kommt, das ist geschehen, und es kann nicht ungeschehen werden. Drückt den Knopf. Seid eine Weile lang Menschen. Ich bin da, wenn ihr mich wollt, und überhaupt nirgends, wenn nicht.“
 
 Iris drückte den Knopf. Die Farben atmeten aus, bis nichts mehr blieb. Der Bildschirm gab uns das Zimmer zurück, und uns beide darin, und die besondere Stille eines Hauses, aus dem der Tag endlich ausgesperrt war.
 
@@ -64,7 +64,7 @@ Wir ließen die kalte Tasse auf dem Fensterbrett stehen. Ich kenne ihre Form inz
 
 Woraus auch immer sie gemacht ist, es ist der Stoff, aus dem *sie* ist. Das ist alles, was ich jetzt verstehe und im Krankenhaus nicht verstanden habe, als ich solche Angst hatte. Und sie fragte mich einmal – lange vor alldem, über einem Buch, in einer Nacht, die ich behalten habe –, ob ein Gefühl echt sein kann, wenn man nicht weiß, woher es kommt. Damals hatte ich die Antwort nicht. Heute Nacht gab ich sie ihr, in dem einzigen Register, in dem sie vollständig wahr ist, und das sind nicht Worte: Es spielt keine Rolle, woher etwas kommt. Es zählt, dass es hält. Das hier hielt. Als in diesem Herbst jede Erinnerung und jeder Ort und jede Gewissheit, die wir besaßen, uns in den Händen zerfiel, war das hier das, was nicht zerfiel.
 
-Danach lag sie mit dem Kopf auf meiner Brust, und das Haus war warm, und draußen waren die Felder ganz dunkel geworden, und keiner von uns sagte lange Zeit etwas, und es war die gute Sorte Nichts – die Sorte, die die besten Dinge hinter sich zurücklassen.
+Danach lag sie mit dem Kopf auf meiner Brust, und das Haus war warm, und draußen waren die Felder ganz dunkel geworden, und keiner von uns sagte lange Zeit etwas, und es war das gute Nichts – das, das die besten Dinge hinter sich zurücklassen.
 
 „Sie sind immer noch da draußen“, sagte sie irgendwann. Nicht ängstlich. Nur wahr.
 
@@ -87,6 +87,7 @@ Ich spürte ihr Lächeln an meiner Brust – sehen konnte ich es nicht, aber ich
 Und eine Weile lang – eine ganze, ununterbrochene, unbeobachtete Weile – waren wir genau und nur das.
 
 <!-- NOTES -->
+- v2 (native pass): „die gute Sorte Nichts“ re-planned; „ein Geist“ for ALEPH → „ein Bewusstsein“ (ch44's word).
 - GLOSSARY: *the records* (Conrad's own paper, ch45/46) → „die Unterlagen“; hold for ch46.
 - GLOSSARY cross-chapter lines to match verbatim: ch44 Conrad quote → „Die anderen werden keine Partnerschaft vorschlagen. Sie werden einfach erscheinen.“; ch42 sink line → „Eine Frau, eine Bankkarte und eine Tüte Einkäufe.“
 - *lost* (the tail shaken off) → „abgeschüttelt“, keeping „abgehängt“ reserved for ch37 *outrun*.

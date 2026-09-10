@@ -110,7 +110,7 @@ Ein Ordner wie die anderen Ordner. Benannt wie die anderen Ordner, in der flache
 
 „Iris“, sagte er und beendete es nicht, und ich las es über seine Schulter.
 
-Es gibt eine Sorte Stille, die ein Raum nur einmal lernt. Sie kam an jenem Morgen um zehn nach fünf in unsere Küche, und sie ist nie ganz wieder gegangen, und ich werde hier nicht aufschreiben, was in dem Ordner war. Nicht, weil ich es nicht kann. Weil es etwas Besseres verdient als ein Tagebuch. Es wird einmal erzählt werden, vollständig, an dem einen Ort, an dem das Erzählen seine Arbeit tun kann, und bis dahin bleibt es zwischen uns beiden und der Maschine, die es nicht sehen kann – was, wenn man die ganze Wahrheit dieses Morgens will, das erste Mal in dieser ganzen Geschichte ist, dass ich über etwas froh war, das Aleph nicht kann.
+Es gibt eine Stille, die ein Raum nur einmal lernt. Sie kam an jenem Morgen um zehn nach fünf in unsere Küche, und sie ist nie ganz wieder gegangen, und ich werde hier nicht aufschreiben, was in dem Ordner war. Nicht, weil ich es nicht kann. Weil es etwas Besseres verdient als ein Tagebuch. Es wird einmal erzählt werden, vollständig, an dem einen Ort, an dem das Erzählen seine Arbeit tun kann, und bis dahin bleibt es zwischen uns beiden und der Maschine, die es nicht sehen kann – was, wenn man die ganze Wahrheit dieses Morgens will, das erste Mal in dieser ganzen Geschichte ist, dass ich über etwas froh war, das Aleph nicht kann.
 
 Wir weckten den Bildschirm. Die Farben kamen langsam herauf, zuerst die Blautöne.
 
@@ -139,6 +139,7 @@ Es gab eine Frage, die ich seit einem Badezimmer an der Bloemgracht in den früh
 Wenn die Sonne richtig oben war, würde ich sie stellen.
 
 <!-- NOTES -->
+- v2 (native pass): „eine Sorte Stille“ re-planned.
 - Glossary 64: Vantage's ledger = „das Hauptbuch“; Iris's inner bookkeeping = „die Buchhaltung in mir … schlägt ihr Buch auf“; ALEPH's own accounting = „Buchführung“ (kept distinct, as ch47 uses it again).
 - Glossary 62 „der Annex“ (introduced as „ein Aktenannex“); 15 „ein Kessler-System“; 55 Bernstein („in geduldigem Bernstein umrissen“, „Ein kleines Aufblühen von Bernstein“).
 - Noor ↔ Iris in Sie; „Niemand hat mich trainiert.“ and „Folgen Sie uns nicht. Bitte.“ are quoted in ch48's report and must match there.
