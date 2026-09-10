@@ -164,6 +164,12 @@ def parse_chapter(path: Path) -> Chapter:
 
     body = "\n".join(lines[1:])
 
+    # Translators leave their notes after a `<!-- NOTES -->` marker at the end
+    # of the file (TRANSLATION-PROMPT.md §6). The marker is a self-contained
+    # comment, so the notes after it are ordinary text: cut them here so they
+    # never reach the book. They are collected by the edition's review notes.
+    body = body.split("<!-- NOTES -->", 1)[0]
+
     # Remove the single title separator that follows the heading, then treat
     # each remaining rule as a scene break.
     body = re.sub(r"\A\s*\n?-{3,}\s*\n", "\n", body, count=1)
@@ -194,7 +200,8 @@ def _substitute(text: str) -> str:
 
 def parse_matter(path: Path) -> MatterPage:
     stem = path.stem
-    text = _substitute(_strip_guidance(path.read_text(encoding="utf-8")))
+    raw = path.read_text(encoding="utf-8").split("<!-- NOTES -->", 1)[0]
+    text = _substitute(_strip_guidance(raw))
     lines = text.split("\n")
 
     heading = ""

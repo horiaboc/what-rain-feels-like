@@ -153,9 +153,9 @@ def build_epub(book: Book) -> None:
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"
       lang="{c.LANGUAGE}">
-<head><meta charset="utf-8"/><title>Contents</title></head>
+<head><meta charset="utf-8"/><title>{esc(c.CONTENTS_LABEL)}</title></head>
 <body>
-  <nav epub:type="toc" id="toc"><h1>Contents</h1>
+  <nav epub:type="toc" id="toc"><h1>{esc(c.CONTENTS_LABEL)}</h1>
     <ol>
 {nav_items}
     </ol>

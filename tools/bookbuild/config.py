@@ -49,18 +49,21 @@ EDITIONS: dict[str, dict] = {
         "isbn_paperback": "9798173180698",
     },
     # German is the priority translation (Berlin setting, second-largest
-    # marketplace). Uncomment and fill in when translations/de/ exists.
-    #
-    # "de": {
-    #     "name": "German",
-    #     "locale": "de-DE",
-    #     "title": "[German title — decide translate vs keep English]",
-    #     "subtitle": "Roman",
-    #     "slug": "Was-Regen-Sich-Anfuehlt",
-    #     "scene_break": "·   ·   ·",
-    #     "isbn_paperback": "[assigned by KDP at publish]",
-    #     "translator": "[Translator name]",   # printed on the copyright page
-    # },
+    # marketplace). Title and closing line are one decision — see
+    # translations/de/NOTES.md before changing either.
+    "de": {
+        "name": "German",
+        "locale": "de-DE",
+        "title": "Wie sich Regen anfühlt",
+        "subtitle": "Roman",
+        "slug": "Wie-Sich-Regen-Anfuehlt",
+        "scene_break": "·   ·   ·",
+        "contents_label": "Inhalt",
+        "isbn_paperback": "[assigned by KDP at publish]",
+        # No translator credit: an AI draft with a native review is not a
+        # translator in the copyright-page sense. Set a name here if a reviewer
+        # takes on the edition as theirs.
+    },
 }
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -140,6 +143,8 @@ EPUB_UUID: str
 # default is a neutral triad. Set it per edition in EDITIONS above.
 SCENE_BREAK: str
 RUNNING_HEAD_RECTO: str
+# Heading of the EPUB table of contents, in the edition's language.
+CONTENTS_LABEL: str
 
 CHAPTERS_DIR: Path
 MATTER_DIR: Path
@@ -183,7 +188,7 @@ ISBN_EBOOK = ""
 def configure(lang: str = BASE_LANG) -> None:
     """Point the build at one edition. Must run before anything is loaded."""
     global LANG, EDITION_NAME, LANGUAGE, TITLE, SUBTITLE, SLUG, ISBN_PAPERBACK
-    global EPUB_UUID, SCENE_BREAK, RUNNING_HEAD_RECTO
+    global EPUB_UUID, SCENE_BREAK, RUNNING_HEAD_RECTO, CONTENTS_LABEL
     global CHAPTERS_DIR, MATTER_DIR, COVER_DIR, BUILD_DIR
     global OUT_MANUSCRIPT, OUT_TEXT_DIR, OUT_EPUB, OUT_INTERIOR
     global OUT_COVER, OUT_DOCX, OUT_METADATA
@@ -206,6 +211,7 @@ def configure(lang: str = BASE_LANG) -> None:
     ISBN_PAPERBACK = ed["isbn_paperback"]
     SCENE_BREAK = ed["scene_break"]
     RUNNING_HEAD_RECTO = ed.get("running_head_recto") or ed["title"]
+    CONTENTS_LABEL = ed.get("contents_label", "Contents")
 
     # Stable per-edition identifier. Deterministic, so rebuilds keep the same
     # id, and distinct, so each translation is its own book to a reader's
