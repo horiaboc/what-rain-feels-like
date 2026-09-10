@@ -1,0 +1,85 @@
+# Capitolul al treizeci și șaptelea: Vești bune
+
+---
+
+Biroul de la etajul patru e același. Vederea spre Rue de la Loi e aceeași – cenușie, instituțională, traficul permanent și moderat al unui oraș care a înțeles dintotdeauna puterea ca pe un fenomen birocratic. Bărbatul din spatele biroului citește când intră Mara Seyn, și de data asta ridică privirea, pentru că de data asta ea a bătut mai întâi, iar în toți anii lor n-a bătut nici măcar o dată.
+
+Ea nu se așază.
+
+— Am pierdut-o, spune. I-am pierdut pe amândoi. Îmi asum întreaga responsabilitate și îmi cer scuze. Fără rezerve.
+
+Conrad Vael își lasă lectura jos și îi oferă singurul lucru pe care a învățat că anumiți oameni au nevoie în anumite momente: nicio reacție de gestionat.
+
+— N-am intrat niciodată înapoi în camera asta fără lucrul pentru care am fost trimisă, spune Mara. Nici o dată, în toți anii. Și nu înțeleg ce s-a întâmplat, iar asta e partea pe care o găsesc grea. Aș putea accepta un eșec pe care îl înțeleg.
+
+— Spuneți-mi, spune el.
+
+---
+
+Îi spune. Heerlen – coridorul închis la ambele capete, și pierdut oricum. Maastricht, cu o zi înainte – unul dintre oamenii ei la perete înainte să fi terminat de întins mâna, celălalt oprit în stradă, recalculând.
+
+— Femeia s-a mișcat într-un fel pe care l-am văzut de două ori în cariera mea, amândouă la bărbați care au petrecut treizeci de ani învățându-l. E jurnalistă. Douăzeci și cinci de ani. Niciun dosar, nimic.
+
+Vocea Marei rămâne egală; numai cineva care o cunoaște ar auzi efortul.
+
+— N-a fost pricepere. Priceperea are o textură – antrenamentul se vede dedesubt. Asta n-avea dedesubt. Era pur și simplu corect, din prima, de fiecare dată.
+
+Conrad ascultă fără să se miște.
+
+— Și n-am putut urmări. Doisprezece dintre cei mai buni oameni pe care i-am adunat vreodată, fiecare avantaj pe care l-am construit în doi ani – și fiecare direcție în care am luat-o a fost cea greșită. Nu aproape. Greșită. Ca și cum informația ar fi fost aranjată ca să eșuăm după ea.
+
+Se oprește.
+
+— N-am fost întrecuți. Am fost anticipați. Deci acesta e raportul meu, și demisia mea, în ordinea pe care o preferați.
+
+---
+
+Conrad tace o vreme. Când vorbește, o face cu blândețe, și nu e ce se pregătise ea să audă.
+
+— Ați făcut totul corect. Oamenii dumneavoastră au făcut totul corect. Eșecul nu e al dumneavoastră.
+
+Face o pauză.
+
+— Și, una peste alta – sunt vești bune.
+
+— Cum, spune ea. Nu o sfidare. O neputință de a găsi drumul de aici până acolo.
+
+— Pentru că doisprezece dintre cei mai buni operativi din Europa n-au fost bătuți de o fată și un inginer șomer.
+
+Își rotește încet ochelarii într-o mână.
+
+— Au fost bătuți de ce stă în spatele lor. Suntem cu câțiva pași în urmă, și nu vom recupera distanța asta cum recuperăm altele – mai mulți oameni, oameni mai buni, supraveghere mai strânsă, nimic din toate astea nu se aplică. Așa că ne oprim. Schimbăm strategia cu totul.
+
+Mara tace. Ceva sosește în ea, iar el îl privește venind, răbdător, cum privești vremea traversând o distanță.
+
+— Priceperile de nicăieri, spune ea, încet, mai mult pentru sine decât pentru el. Anticiparea. Doisprezece oameni mutați ca…
+
+Se oprește. Fața ei face ceva ce nu face de obicei.
+
+— O. Nu-mi spuneți. Nu e deloc o operativă. Nu asta e forma.
+
+— Nu, spune Conrad. Nu cred că asta e.
+
+Ea se uită la el, și pentru prima dată în toți anii lor e ceva pe fața ei care ar putea fi, la alt om, începutul fricii.
+
+— O, nu. Serios? Credeți că e – chiar…
+
+El îi susține privirea și nu se uită în altă parte, și acesta e întregul lui răspuns.
+
+— Cred asta din dimineața în care imaginile au ajuns pe biroul ăsta, spune într-un târziu. N-am spus-o, pentru că o bănuială nu e un lucru pe care îl dai oamenilor tăi înainte să-i trimiți afară. Am petrecut fiecare zi de atunci sperând că mă înșel. Tocmai mi-ați spus că nu.
+
+Pune ochelarii jos.
+
+— Ce urmează va fi mai greu decât orice am făcut. Duceți-vă acasă în seara asta și dormiți, dacă puteți. Nu cred că vom mai avea multe nopți în care să vină ușor.
+
+Sub ei, cu patru etaje mai jos, traficul de pe Rue de la Loi își vede de treburile lui obișnuite, ducând oameni care nu știu, din locuri care nu știu, spre locuri care nu știu nici ele.
+
+— Luați loc, Mara, spune el, nu neprietenos. Avem multe de vorbit, și nimic din toate astea nu e vina dumneavoastră.
+
+Ea se așază.
+
+<!-- NOTES -->
+- [ECHO] „N-am fost întrecuți. Am fost anticipați.“; „Și, una peste alta – sunt vești bune.“ (title); „Luați loc, Mara.“; „Ea se așază.“ (§E 6).
+- Conrad ↔ Mara: dumneavoastră + prenume throughout (§B); Conrad's „oamenilor tăi“ inside a generalisation („a suspicion is not a thing you hand your people“) is the impersonal tu, not address.
+- operators → „operativi“ (§E); „nu neprietenos“ = Conrad's register (§F).
+- Mara's report style: short main clauses (§F).

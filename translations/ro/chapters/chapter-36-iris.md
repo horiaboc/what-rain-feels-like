@@ -1,0 +1,69 @@
+# Capitolul al treizeci și șaselea: Bocholtz
+
+---
+
+Ușa s-a deschis spre ceva ce doar semăna cu căldura. Niciun calorifer ticăind – nu era nevoie, atât de adânc într-un august olandez – dar căldură totuși, construită din alte lucruri: veioze deja aprinse împotriva serii care se stingea, culoare unde nu mă așteptasem la culoare. Un covor roșu-închis cu ocru. O mică gravură înrămată în hol, pe care n-o recunoșteam, dar mi-a plăcut imediat. Nimic nu se potrivea, în felul deliberat în care nu se potrivesc lucrurile într-o casă pe care cineva a mobilat-o cu adevărat, piesă cu piesă, cu gust, nu după o listă – făcut frumos, nu exagerat.
+
+Am stat în hol o clipă lungă fără să mă mișc.
+
+Apoi Jonas mi-a spus pe nume, încet, de undeva puțin dincolo de mine, și când m-am întors se uita la o măsuță de lângă fereastră, unde un cactus stătea într-un ghiveci simplu de teracotă – nu Diogenes, nu aceeași plantă deloc, dar destul de aproape ca formă și urâțenie încăpățânată ca să înțeleg imediat ce tocmai făcuse vocea lui.
+
+— Nu e amuzant, a spus, pe tonul pe care îl folosește pentru lucrurile care nu sunt deloc amuzante.
+
+— Nu, am încuviințat. Nu e.
+
+Era, inconfundabil, un loc pe care îl pregătise cineva. Nu generic – pentru mine. Un cardigan atârna într-un cuier lângă ușă, exact mărimea mea. Un raft din mica sufragerie ținea cărți pe care le recunoșteam, titluri pe care le-aș fi ales pentru mine. Pe blatul din bucătărie, o cutie din ceaiul pe care îl beau cu adevărat, nu un ceai, acela.
+
+Dar nimic din bucătărie nu sugera că cineva fusese acolo de curând – nicio ordine făcută în ultima clipă, niciun miros de ceva gătit, niciun semn al unei mâini trecând prin camere în orele dinaintea noastră. Avea în schimb nemișcarea reținută a unui loc ținut pregătit mult timp și apoi, în tăcere, lăsat singur să aștepte: șters de praf, aerisit, aprovizionat și închis ermetic în spatele unei uși până azi.
+
+N-aveam un răspuns pentru nimic din toate astea. Mi-am pus bagajul jos în holul unei case care mă știa deja mai bine decât mă știam eu însămi, și am ținut plicul la piept, nedeschis, și pentru prima dată de la bucătăria Bernadettei mi-am permis să plâng – nu de durere de data asta, sau nu doar de durere, ci de tandrețea ciudată, insuportabilă, de a fi îngrijită de cineva care nu voia să-și arate fața.
+
+Jonas a venit și m-a luat în brațe, și niciunul n-a spus nimic, iar afară lumina continua să cadă spre seară peste un sat de la marginea țării al cărui nume nu-l știusem în dimineața aceea, într-o casă care așteptase, aparent, exact asta.
+
+---
+
+Am stat așa o vreme – destul ca lumina de afară să-și termine căderea de la cenușiu la ceva mai aproape de albastru, destul ca orice se crăpase în mine în bucătăria Bernadettei să termine de crăpat și să înceapă, foarte încet, să se sudeze în ceva ce puteam purta, nu ceva care mă purta pe mine.
+
+Într-un târziu Jonas s-a tras destul cât să se uite la mine cum trebuie.
+
+— Ți-e foame? a spus, o întrebare atât de absurdă, de obișnuită, într-o casă pe care n-o înțelegeam, într-un sat pe care nu-l aleseserăm, încât am râs – am râs cu adevărat, pentru prima dată în ceea ce părea zile întregi.
+
+— Mor de foame, am spus, și era adevărat, și era și o ușurare să simt din nou ceva atât de simplu ca foamea.
+
+Bucătăria, odată ce am început să ne uităm cum trebuie, l-a făcut să tacă altfel decât cactusul.
+
+Ouă în frigider, și lângă ele bucata de brânză pe care o cumpără el cu adevărat – aceea anume, nu o aproximație de supermarket. Un coș de cartofi tari pe blat, cei pe care îi folosești la stamppot. O cutie de cafea în dulap, măcinată cum o macină el, nu cea gata măcinată de care se plânge când suntem undeva fără aparat, stând lângă o pungă din făina aceea anume de patiserie pe care o folosește în rarele dimineți când se hotărăște să facă ceva de la zero – ceea ce a făcut exact o dată de când suntem împreună, din câte știu, și ceea ce cineva, undeva, știa aparent oricum.
+
+— Bine, a spus, încet, dulapului. Asta e – bine.
+
+Muștarul care îmi place pe aproape orice și pe care nu-l înțelege nimeni altcineva. O pungă de mere. O singură tabletă de ciocolată neagră, șaptezeci la sută – ultimul capriciu pe care mi-l luasem, nici măcar destul de vechi ca să-i spun obicei.
+
+Am stat în mijlocul bucătăriei unui străin și n-am spus nimic o vreme, pentru că nu era nimic util de spus despre a fi cunoscut atât de precis de cineva care nu se prezentase nici măcar o dată.
+
+---
+
+Am făcut ouă, pentru că ouăle păreau lucrul de mărimea potrivită de încercat. Jonas a tăiat pâine și nu s-a certat cu mine despre cum le sparg în tigaie, ceea ce însemna fie că învățase ceva în lunile de când suntem împreună, fie că era pur și simplu prea obosit ca să redeschidă procesul, și oricum ar fi fost, i-am fost recunoscătoare. Am mâncat la măsuța din bucătărie, plicul stând unde îl pusesem cu ore în urmă, nedeschis, între fructieră și fereastră.
+
+Niciunul nu l-a pomenit direct. Am vorbit în schimb despre lucruri mici, sigure – dacă presiunea apei de sus funcționează, dacă obloanele chiar se închid, dacă Bernadette își va aminti de noi cu drag sau cu neliniștea vagă a cuiva care a spus prea multe unor străini. A fost, în felul ei, conversația cea mai obișnuită pe care o avuseserăm în trei săptămâni, și am înțeles, mâncând ouă la o masă pe care cineva o aprovizionase cu muștarul meu, că obișnuitul era rostul. Cineva ne construise o seară în care puteam pur și simplu să luăm cina.
+
+---
+
+Când farfuriile s-au golit, Jonas s-a uitat la plic, apoi la mine, fără să spună nimic, doar punând întrebarea din sprâncene, cum face el.
+
+— Nu în seara asta, am spus.
+
+N-a insistat.
+
+— Bine.
+
+— Nu cred că îl evit, am spus, pentru că voiam să fie adevărat și aveam nevoie să mă aud spunând-o ca să aflu. Doar că nu mai am nimic azi. Orice e acolo o să vrea tot din mine, și nu mai e un tot din mine în seara asta.
+
+— Atunci așteaptă, a spus Jonas, simplu, și a mutat plicul pe blat, în afara liniei directe de vedere a mesei – nu ascuns, doar pus deoparte, considerația tăcută a unui om care înțelegea că unele lucruri trebuie să nu fie privite ca să poți sta cu ele.
+
+Am găsit prosoape într-un dulap de rufe care mirosea a lavandă și nimic altceva, și un pat făcut într-o cameră de sus cu aceeași grijă ca tot restul, și am înțeles, urcând în el, că orice era casa asta – o bunătate, o strategie, amândouă deodată, nu mai conta care, nu în seara asta – făcuse exact ce fusese construită să facă. Pentru o seară, într-un sat de la marginea țării, nu eram vânați. Eram doar obosiți, și hrăniți, și la cald, și împreună, și asta a fost, pentru durata unei seri, de ajuns.
+
+<!-- NOTES -->
+- §C site: „nu era nimic util de spus despre a fi cunoscut atât de precis …“ (no „eficient“).
+- The Diogenes-not-Diogenes cactus; „ghiveci simplu de teracotă“.
+- „the specific one“ → „aceea anume“; „the kind you use for stamppot“ → „cei pe care îi folosești la stamppot“.
+- „să redeschidă procesul“ for „relitigate“.
