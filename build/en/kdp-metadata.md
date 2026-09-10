@@ -16,7 +16,7 @@ has no publishing API, so this sheet is the input to a manual form.
 | Language | English |
 | Publication date | leave blank (KDP uses the approval date) |
 | Publisher | Independently published |
-| ISBN (paperback) | [assigned by KDP at publish] — choose "Get a free KDP ISBN" |
+| ISBN (paperback) | 9798173180698 (assigned by KDP; printed on the copyright page) |
 | ISBN (ebook) | not required; Amazon assigns an ASIN |
 
 ## Description

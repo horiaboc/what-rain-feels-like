@@ -35,6 +35,8 @@ Meckesheim, Germany
 
 First edition, 2026.
 
+ISBN 9798173180698 (paperback)
+
 Printed by Amazon in the region of sale.
 
 

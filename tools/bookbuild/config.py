@@ -46,7 +46,7 @@ EDITIONS: dict[str, dict] = {
         "subtitle": "a novel",
         "slug": "What-Rain-Feels-Like",
         "scene_break": "·   ·   ·",
-        "isbn_paperback": "[assigned by KDP at publish]",
+        "isbn_paperback": "9798173180698",
     },
     # German is the priority translation (Berlin setting, second-largest
     # marketplace). Uncomment and fill in when translations/de/ exists.

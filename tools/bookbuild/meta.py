@@ -36,6 +36,13 @@ PRINT_FIXED_USD = 0.85
 PRINT_PER_PAGE_USD = 0.012
 
 
+
+def _isbn_row() -> str:
+    """Once KDP has assigned the ISBN the setup instruction is noise."""
+    if "[" in (c.ISBN_PAPERBACK or ""):
+        return f'{c.ISBN_PAPERBACK} — choose "Get a free KDP ISBN"'
+    return f"{c.ISBN_PAPERBACK} (assigned by KDP; printed on the copyright page)"
+
 def _blurb() -> str:
     """The description copy from book-matter/blurb.md.
 
@@ -89,7 +96,7 @@ has no publishing API, so this sheet is the input to a manual form.
 | Language | English |
 | Publication date | leave blank (KDP uses the approval date) |
 | Publisher | {c.IMPRINT} |
-| ISBN (paperback) | {c.ISBN_PAPERBACK} — choose "Get a free KDP ISBN" |
+| ISBN (paperback) | {_isbn_row()} |
 | ISBN (ebook) | not required; Amazon assigns an ASIN |
 
 ## Description
