@@ -1,6 +1,6 @@
 # Translation Plan
 
-Approach and priorities for foreign-language editions of *What Rain Feels Like*. Nothing here is committed yet — it's the roadmap for when the English edition is final.
+Approach and priorities for foreign-language editions of *What Rain Feels Like*. The English edition is published (2026-09-10). The German edition is drafted in full — 55 chapters and the book-matter — and built as an EPUB (`build/de/`), awaiting its native review. This file is the roadmap for that review and for the languages after it.
 
 ## Standing decisions
 - **Pen name stays `_horia`** across every language and marketplace — a mononym travels well and keeps the author brand unified worldwide.
@@ -27,10 +27,10 @@ Source text for the translator comes from `build/en/text/` — one markup-free `
 Note: the page count will differ from the English edition (German runs longer), so **each edition has its own spine width** and needs its own cover build.
 
 ## Per-language checklist (when a translation is undertaken)
-- [ ] AI draft of all 55 chapters + book-matter (dedication/epigraph/acknowledgments if written, blurb, bio). The half-title, title page and **copyright page are generated** — the rights page comes out in the edition's own language from `tools/bookbuild/boilerplate.py`, so no one hand-translates it.
-- [ ] Native-speaker review pass (voice, idiom, the motifs above).
-- [ ] Re-check the **title**: "What Rain Feels Like" — decide translate vs keep English. ("Petrichor" chapter title and the Institut name should stay, per the book's own logic.)
-- [ ] Translate the **blurb** (`book-matter/blurb.md`) and the **KDP description**.
+- [x] **German:** AI draft of all 55 chapters + book-matter (2026-09-10; `translations/de/`, notes in `REVIEW-NOTES.md`, decisions in `NOTES.md`). Other languages: [ ] AI draft of all 55 chapters + book-matter (dedication/epigraph/acknowledgments if written, blurb, bio). The half-title, title page and **copyright page are generated** — the rights page comes out in the edition's own language from `tools/bookbuild/boilerplate.py`, so no one hand-translates it.
+- [ ] Native-speaker review pass (voice, idiom, the motifs above). **German: the EPUB is with the reader; §H of `NOTES.md` lists the 13 open questions.**
+- [x] **German title fixed: „Wie sich Regen anfühlt“** (with the closing line, one decision — `NOTES.md` §A). Other languages: [ ] re-check the title — translate vs keep English. ("Petrichor" chapter title and the Institut name should stay, per the book's own logic.)
+- [x] German blurb translated (`translations/de/book-matter/blurb.md`; the KDP description is generated from it). Other languages: [ ]
 - [ ] Check the generated **copyright page** — add a `TEXT` entry in `tools/bookbuild/boilerplate.py` if the language has none (the build reports this), have a native reader check the wording, and set `"translator"` in the edition's `EDITIONS` entry so the credit line prints. Keep `_horia` on cover/spine.
 - [ ] Re-run a light consistency check (names, place-names stay in original form).
 - [x] ~~Separate cover text layer in the target language.~~ Automatic: the cover lettering is typeset at build time from the edition's title and its own `blurb.md`, over the base art. An edition only needs files in `cover/<lang>/` if it wants a *different picture*.
@@ -39,4 +39,4 @@ Note: the page count will differ from the English edition (German runs longer), 
 ## Cost reality
 Full professional literary translation runs ~$6,000–12,000 per language (78.6k words). The AI-assisted + native-review path avoids that; if you ever want a pro translator without cash upfront, a **royalty-share** deal is the model. The user plans AI translation with volunteer native review.
 
-*Last updated: 2026-09-07*
+*Last updated: 2026-09-10*

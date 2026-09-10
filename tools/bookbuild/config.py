@@ -59,6 +59,7 @@ EDITIONS: dict[str, dict] = {
         "slug": "Wie-Sich-Regen-Anfuehlt",
         "scene_break": "·   ·   ·",
         "contents_label": "Inhalt",
+        "byline_prefix": "von",   # the word before the pen name on the cover
         "isbn_paperback": "[assigned by KDP at publish]",
         # No translator credit: an AI draft with a native review is not a
         # translator in the copyright-page sense. Set a name here if a reviewer
@@ -145,6 +146,8 @@ SCENE_BREAK: str
 RUNNING_HEAD_RECTO: str
 # Heading of the EPUB table of contents, in the edition's language.
 CONTENTS_LABEL: str
+# The word before the pen name on the cover ("by _horia" / "von _horia").
+BYLINE_PREFIX: str
 
 CHAPTERS_DIR: Path
 MATTER_DIR: Path
@@ -188,7 +191,7 @@ ISBN_EBOOK = ""
 def configure(lang: str = BASE_LANG) -> None:
     """Point the build at one edition. Must run before anything is loaded."""
     global LANG, EDITION_NAME, LANGUAGE, TITLE, SUBTITLE, SLUG, ISBN_PAPERBACK
-    global EPUB_UUID, SCENE_BREAK, RUNNING_HEAD_RECTO, CONTENTS_LABEL
+    global EPUB_UUID, SCENE_BREAK, RUNNING_HEAD_RECTO, CONTENTS_LABEL, BYLINE_PREFIX
     global CHAPTERS_DIR, MATTER_DIR, COVER_DIR, BUILD_DIR
     global OUT_MANUSCRIPT, OUT_TEXT_DIR, OUT_EPUB, OUT_INTERIOR
     global OUT_COVER, OUT_DOCX, OUT_METADATA
@@ -212,6 +215,7 @@ def configure(lang: str = BASE_LANG) -> None:
     SCENE_BREAK = ed["scene_break"]
     RUNNING_HEAD_RECTO = ed.get("running_head_recto") or ed["title"]
     CONTENTS_LABEL = ed.get("contents_label", "Contents")
+    BYLINE_PREFIX = ed.get("byline_prefix", "by")
 
     # Stable per-edition identifier. Deterministic, so rebuilds keep the same
     # id, and distinct, so each translation is its own book to a reader's

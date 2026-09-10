@@ -187,6 +187,15 @@ heads and folios now clear KDP's 0.25" edge by 0.380"/0.340".
 Optional pages still unwritten, and fine to leave that way: book epigraph,
 acknowledgments. They mount automatically if ever written.
 
+**German edition (2026-09-10):** fully drafted — all 55 chapters and the
+book-matter in `translations/de/`, built to `build/de/Wie-Sich-Regen-Anfuehlt.epub`
+and handed to the native reader. Decisions and glossary in
+`translations/de/NOTES.md` (title „Wie sich Regen anfühlt“, ALEPH says *du*,
+reserved phrase „Zu perfekt. Zu – effizient.“); translator notes per chapter
+in `translations/de/REVIEW-NOTES.md`; 13 open questions for the reviewer in
+NOTES.md §H. Structural check clean (`tools/check_translation.py de`).
+Not yet: the review pass, a German ISBN, the paperback build (own spine).
+
 After launch, in rough priority: the German edition (`translation-plan.md` —
 the pipeline already builds it), book two (the AGI press conference is the
 seed in `bible.md`), audiobook from `build/en/text/`.

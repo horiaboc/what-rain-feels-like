@@ -71,8 +71,8 @@ TEXT: dict[str, dict[str, str]] = {
         "reserved": (
             "Alle Rechte vorbehalten. Kein Teil dieses Buches darf ohne vorherige "
             "schriftliche Genehmigung des Autors in irgendeiner Form oder mit "
-            "irgendwelchen Mitteln — elektronisch, mechanisch, durch Fotokopie, "
-            "Aufzeichnung oder auf andere Weise — reproduziert, in einem "
+            "irgendwelchen Mitteln – elektronisch, mechanisch, durch Fotokopie, "
+            "Aufzeichnung oder auf andere Weise – reproduziert, in einem "
             "Datenverarbeitungssystem gespeichert oder übertragen werden, "
             "ausgenommen kurze Zitate in Rezensionen."
         ),
