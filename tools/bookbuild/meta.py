@@ -142,12 +142,12 @@ changes the cover**. Rebuild both together.
 
 | Slot | File |
 |---|---|
-| Kindle eBook manuscript | `build/{c.OUT_EPUB.name}` |
+| Kindle eBook manuscript | `build/{c.LANG}/{c.OUT_EPUB.name}` |
 | Kindle eBook cover | `build/{c.LANG}/{c.SLUG}_ebook-cover.jpg` (same image the EPUB embeds) |
-| Paperback interior | `build/{c.OUT_INTERIOR.name}` |
-| Paperback cover | `build/{c.OUT_COVER.name}` |
+| Paperback interior | `build/{c.LANG}/{c.OUT_INTERIOR.name}` |
+| Paperback cover | `build/{c.LANG}/{c.OUT_COVER.name}` |
 
-Check `build/{c.SLUG}_cover-proof.png` before uploading — it draws the trim
+Check `build/{c.LANG}/{c.SLUG}_cover-proof.png` before uploading — it draws the trim
 line, the safe area, the spine edges and the ISBN barcode keep-out box.
 
 ## Pricing (orientation — confirm against `pricing-notes.md`)

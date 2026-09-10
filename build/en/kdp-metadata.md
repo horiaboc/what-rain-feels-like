@@ -83,12 +83,12 @@ changes the cover**. Rebuild both together.
 
 | Slot | File |
 |---|---|
-| Kindle eBook manuscript | `build/What-Rain-Feels-Like.epub` |
+| Kindle eBook manuscript | `build/en/What-Rain-Feels-Like.epub` |
 | Kindle eBook cover | `build/en/What-Rain-Feels-Like_ebook-cover.jpg` (same image the EPUB embeds) |
-| Paperback interior | `build/What-Rain-Feels-Like_interior.pdf` |
-| Paperback cover | `build/What-Rain-Feels-Like_cover.pdf` |
+| Paperback interior | `build/en/What-Rain-Feels-Like_interior.pdf` |
+| Paperback cover | `build/en/What-Rain-Feels-Like_cover.pdf` |
 
-Check `build/What-Rain-Feels-Like_cover-proof.png` before uploading — it draws the trim
+Check `build/en/What-Rain-Feels-Like_cover-proof.png` before uploading — it draws the trim
 line, the safe area, the spine edges and the ISBN barcode keep-out box.
 
 ## Pricing (orientation — confirm against `pricing-notes.md`)

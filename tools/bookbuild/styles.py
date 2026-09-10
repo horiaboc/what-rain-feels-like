@@ -49,6 +49,7 @@ def print_css() -> str:
     font-family: {STACK};
     font-size: 9.5pt;
     margin-top: 0.18in;
+    vertical-align: top;
   }}
 }}
 
@@ -64,6 +65,7 @@ def print_css() -> str:
     content: string(runverso, first-except);
     font-family: {STACK}; font-size: 9pt;
     letter-spacing: 0.06em; margin-bottom: 0.20in;
+    vertical-align: bottom;
   }}
 }}
 
@@ -75,6 +77,7 @@ def print_css() -> str:
     content: string(runrecto, first-except);
     font-family: {STACK}; font-size: 9pt;
     font-style: italic; margin-bottom: 0.20in;
+    vertical-align: bottom;
   }}
 }}
 
