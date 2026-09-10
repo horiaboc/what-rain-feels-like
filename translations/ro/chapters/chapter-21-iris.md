@@ -1,0 +1,61 @@
+# Capitolul al douăzeci și unulea: Ce îți amintești
+
+---
+
+Cu o săptămână înainte de Amsterdam, m-am trezit gândindu-mă la el mai mult decât cerea ocazia.
+
+Nu cu nerăbdare, mai exact – sau nu doar. Ceva curgea pe sub nerăbdare, o notă joasă sub melodie. Am pus-o pe seama textului, care nu era chiar terminat, sau a presiunii de a lipsi o săptămână în timp ce termenul continua să meargă spre mine. Erau explicații rezonabile, și le-am acceptat, cum accepți restul de la un străin fără să-l numeri.
+
+Joi seara am stat la birou cu notițele și am încercat să chem Amsterdamul cum chemi un loc familiar înainte să te întorci în el – să-l simt dinainte, să ajung înainte de a ajunge. Spui dimineața. Înclinația anume a luminii de pe canal. Mirosul orașului vara, care e un lucru al lui și de neconfundat. Am întins mâna după ele și au venit, fiecare prezent, fiecare identificabil – și fiecare plat, într-un fel pe care nu mi-l puteam explica. Ca fotografiile unui loc în locul locului. Ca vederi alese de altcineva.
+
+Lipsesc de ceva vreme, mi-am spus. Aproape un an la Berlin. Memoria se șterge.
+
+E adevărat. Am pus-o deoparte.
+
+Pusul deoparte devenea una dintre priceperile mele mai exersate. Undeva înțelegeam că grămada crește. Nu m-am dus s-o număr.
+
+---
+
+Jonas era la masa din bucătărie când am intrat, lucrând la ceva ce nu trebuia să termine și pe care îl termina oricum, pentru că asta e relația lui cu lucrurile neterminate. Făcuse ceai – al meu deja pe blat, cronometrat corect, un mic miracol continuu pe care am încetat să-l mai găsesc atât de remarcabil pe cât merită.
+
+— Te-ai dus undeva, a spus, fără să ridice privirea.
+
+— Sunt aici.
+
+— Mm.
+
+A întors o pagină.
+
+— Undeva pe lângă Amsterdam.
+
+M-am așezat în fața lui și mi-am înfășurat mâinile în jurul cănii. Afară, curtea juca sfârșitul de august: ultima căldură a verii, teiul încă plin, lumina făcându-se aurie puțin mai devreme în fiecare seară, ca și cum anul ar fi început, în tăcere, să-și facă bagajele. Jonas a ridicat privirea și mi-a aruncat privirea lui gânditoare – nu la mine, ci prin mine, spre orice lămurea el pe partea cealaltă.
+
+— Emoții? a spus.
+
+— Pentru text, am spus. Interviurile.
+
+A dat din cap ca și cum ar fi fost răspunsul complet și s-a întors la pagina lui, iar eu mi-am băut ceaiul și am lăsat Amsterdamul să aștepte. Unul dintre noi, măcar, era dispus.
+
+---
+
+Mi-am făcut bagajul în seara aceea. Iute, cum fac mai toate lucrurile, și am terminat înainte ca Jonas să fi început, cum se întâmplă de obicei. M-a privit o clipă din ușă cu o expresie pe care n-am putut-o descifra pe deplin – ceva între afecțiune și atenție, privirea unui om care memorează ceva fără să vrea.
+
+— Ce? am spus.
+
+— Nimic, a spus. Ești foarte bună la asta.
+
+— La bagaje?
+
+— La mai toate, a spus, și s-a dus să-și caute propria geantă.
+
+Am stat o clipă cu o cămașă împăturită în mâini și m-am gândit la Amsterdamul care aștepta la capătul unui zbor pe care nu-l luasem încă – un apartament pe un canal lângă care nu mai stătusem de peste un an, străzi pe care le știam și pe care aveam să le știu din nou din clipa în care aș fi fost în ele.
+
+Așa funcționează, m-am gândit. Ajungi, și apoi îți amintești.
+
+Am terminat bagajul. M-am culcat.
+
+<!-- NOTES -->
+- §C site: „Iute, cum fac mai toate lucrurile“ (no „eficient“).
+- „Pusul deoparte“ — Iris's nominalised verb (as „Observatul“ in ch03, „vrutul“ in ch10).
+- „the way you accept change from a stranger“ / „the way you call up a familiar place“ → „cum accepți …“ / „cum chemi …“.
+- „Emoții?“ for „Nervous?“ — the Romanian idiom for pre-event nerves.

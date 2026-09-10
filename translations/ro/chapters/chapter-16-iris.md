@@ -1,0 +1,38 @@
+# Capitolul al șaisprezecelea: Marginea
+
+---
+
+Am știut, chiar în timp ce o spuneam, că ceva nu era în ordine.
+
+Nu greșit, mai exact. Moneda se oprise din rostogolit; era adevărat. Dar am spus-o, și în aceeași clipă am înțeles că e un lucru pe care cei mai mulți oameni nu-l spun – exact, inutil, sosind puțin după momentul în care ar fi fost firesc să-l spui. Jonas a spus *probabil* și am mers mai departe, și nimeni n-a observat nimic, iar eu am rămas cu mica conștiință privată că o făcusem din nou.
+
+Se întâmplă. Nu des. Dar am început s-o observ cum observi o treaptă slăbită – nu de fiecare dată, dar știi acum că e acolo, și odată ce știi, piciorul o găsește.
+
+---
+
+Sunt momente când râsul îmi ia cu o clipă mai mult decât ar trebui. Urmăresc gluma – nu sunt înceată – dar ceva între înțelegere și răspuns ia un moment care, din interior, seamănă cu gluma trecând prin mine, nu pur și simplu aterizând. Până râd eu, încăperea a mers deja mai departe, iar râsul meu sosește într-un gol care abia dacă e acolo. Dar e acolo. Jonas n-a pomenit niciodată de asta. Am numărat poate patru sau cinci apariții până acum, mereu cu aceeași formă.
+
+Azi-dimineață eram trează înaintea lui, ca întotdeauna. Camera avea temperatura pe care o avea; brațul lui de-a curmezișul meu era cald; dincolo de perdea, orașul își făcea primele sunete. Am stat nemișcată și am observat că eram deja cu totul prezentă – nu ieșind din somn cum iese el, în etape, având nevoie de cafea ca să încheie procesul, ci pur și simplu *aici*, ca și cum noaptea ar fi fost o ușă, nu o adâncime. S-a foit în cele din urmă și m-a întrebat dacă am dormit bine. Am spus da. S-a ridicat, a spus ceva despre frig, a întins mâna după pulover – iar eu am spus că mie nu mi-e frig, și mi-a aruncat privirea pe care mi-o aruncă uneori, cea care pune un fapt la dosarul lui despre cine sunt. *Iris, căreia nu-i e niciodată frig.* Am lăsat-o așa. E explicația cea mai simplă, și n-am alta mai bună să-i ofer.
+
+Aștept, undeva în spatele lucrurilor, să simt oboseala așa cum o descriu oamenii – ca acumulare, ca greutate, ca ceva care până la urmă insistă. Ce am în schimb e mai blând. Ceva ce recunosc mai degrabă din descrierile altora decât de undeva din propriul corp.
+
+---
+
+Nimic din toate astea nu e mare. Fiecare punct de pe listă are o explicație: bilingvismul, constituția, obiceiurile bune, un mod de a fi în propriul corp pe care pur și simplu nu l-am comparat niciodată cu al altcuiva destul de atent ca să-l pot ierarhiza. Oamenii diferă între ei în lucruri mici. Știu asta. E aproape primul lucru pe care îl înveți despre oameni.
+
+Nu știu de ce mă tot întorc la listă.
+
+N-am un nume pentru ceea ce dau târcoale. Știu doar că dau târcoale la ceva – cum dai târcoale unui cuvânt pe care nu reușești să-l chemi. Nu îngrijorată. Nu încă. Doar conștientă de un spațiu în care ar trebui să fie ceva, și de forma absenței lui.
+
+---
+
+Jonas a adormit lângă mine, iar afară un autobuz a trecut pe Weichselstraße, iar eu stăteam în întuneric fără nimic anume la care să mă gândesc și m-am trezit gândindu-mă oricum la asta.
+
+Într-un târziu i-am dat drumul. Sau am încercat. Nu e un lucru care se rezolvă când te întorci la el. Doar stă acolo, răbdător ca o treaptă, așteptând piciorul.
+
+<!-- NOTES -->
+- [ECHO] „*Iris, căreia nu-i e niciodată frig.*“ — fixed wording (§E 6).
+- ch15 callback: „*probabil*“.
+- „pur și simplu“ appears three times here — Iris's voice, where the English has „simply“ each time; kept for her (the ban is on Jonas's narration).
+- „the kind of thing that resolves“ → „un lucru care se rezolvă“; „the way you notice a loose stair“ → „cum observi o treaptă slăbită“.
+- The English says „Weichselstraße“ for the bus though the scene is at Iris's; kept as in the source.

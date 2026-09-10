@@ -65,6 +65,17 @@ EDITIONS: dict[str, dict] = {
         # translator in the copyright-page sense. Set a name here if a reviewer
         # takes on the edition as theirs.
     },
+    "ro": {
+        "name": "Romanian",
+        "locale": "ro-RO",
+        "title": "Cum se simte ploaia",
+        "subtitle": "roman",
+        "slug": "Cum-Se-Simte-Ploaia",
+        "scene_break": "·   ·   ·",
+        "contents_label": "Cuprins",
+        "byline_prefix": "de",
+        "isbn_paperback": "[assigned by KDP at publish]",
+    },
 }
 
 # ─────────────────────────────────────────────────────────────────────────────

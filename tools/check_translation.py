@@ -38,8 +38,7 @@ RULES = {
     },
     "ro": {
         "label_re": re.compile(r"^# Capitolul [a-zăâîșț ]+(?::\s+.+)?$"),
-        "bad_typography": [("—", "em dash in narration (Romanian dialogue dash only at line start)"),
-                           ("\"", "straight double quote (use „…”)"),
+        "bad_typography": [("\"", "straight double quote (use „…”)"),
                            ("ş", "cedilla ș (use comma-below)"), ("ţ", "cedilla ț (use comma-below)")],
         "ratio": (0.9, 1.3),
         "tics": ["de fapt", "genul de", "un fel de", "felul în care", "care ", "am spus", "a spus"],
@@ -89,6 +88,10 @@ def main(lang: str) -> int:
             n = body.count(needle)
             if n:
                 issues.append(f"{what} ×{n}")
+        if lang == "ro":
+            stray = sum(1 for l in body.split("\n") if "—" in l.lstrip()[1:])
+            if stray:
+                issues.append(f"em dash inside a line ×{stray} (dialogue dash only at line start; use – for pauses)")
         for name in NAMES:
             n_en, n_de = en.count(name), body.count(name)
             if n_en and not n_de:
