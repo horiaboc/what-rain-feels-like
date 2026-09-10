@@ -16,3 +16,4 @@ What-Rain-Feels-Like.epub
 build/*
 !build/en/
 !build/en/**
+translations/de/CONTRACT.md

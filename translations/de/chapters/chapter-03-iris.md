@@ -1,0 +1,74 @@
+# Kapitel Drei: Neue Koordinaten
+
+---
+
+Die Wohnung riecht noch nach Farbe.
+
+Sechs Tage hier, und die meisten Kartons sind ausgepackt – aber nicht alle, denn das Einleben an einem neuen Ort hat einen Rhythmus, und ich habe gelernt, ihm zu vertrauen. In den letzten Kartons sind immer die Dinge, von denen man nicht sicher war, dass man sie braucht, die zurückzulassen man aber nicht übers Herz brachte: eine Keramikschale von einem Markt in Haarlem, drei Bücher, die ich zweimal gelesen habe und wahrscheinlich noch einmal lesen werde, eine Lampe mit leicht verbogenem Schirm, die ich immer reparieren will und nie repariere.
+
+Die Lampe steht jetzt am Fenster auf dem Boden, samt verbogenem Schirm. Sie gibt dem Raum zu jeder Stunde des Tages etwas von spätem Nachmittag. Ich stelle fest, dass es mir so lieber ist, und ich habe aufgehört, die Vorliebe zu hinterfragen.
+
+Berlin ist lauter als Amsterdam. Nicht unangenehm – anders. In Amsterdam läuft das Wasser durch alles hindurch und hält die ganze Stadt auf einer Tonhöhe. Hier ist der Klang trockener, abrupter: Trams, Bauarbeiten irgendwo im Mittelgrund, das Klappern einer Stadt, die zerbrochen und wieder zusammengesetzt wurde und vielleicht noch immer dabei ist, ihre eigene Gestalt herauszufinden. Ich habe schon zwei Seiten Notizen darüber gefüllt. Ich kann nicht anders. Das Bemerken ist die eine Arbeit, die ich nie habe niederlegen können.
+
+---
+
+Manchmal denke ich an meinen Schreibtisch bei *De Correspondent*. Der Blick auf das Westerdok aus dem dritten Stock. Die Kaffeemaschine, die ihre Bohnen selbst mahlte und roch wie das beste Argument, das je jemand für Montagmorgen vorgebracht hat. Vera, die neben mir saß und zu allem eine Meinung hatte und meistens recht behielt. Das alles habe ich für das hier verlassen – eine Stadt, in der ich niemanden kenne, eine Stelle, von der ich noch nicht sicher bin, dass ich sie verdiene, ein Zimmer, das nach fremder Renovierung riecht.
+
+Ich bereue es nicht. Was nicht ganz dasselbe ist wie sicher zu sein, und ich kenne den Unterschied, und ich lasse den Unterschied vorerst auf sich beruhen.
+
+Die neue Stelle ist in einem kleinen Büro eines internationalen Mediums namens *Meridian*. Mein Ressort umfasst Gesellschaft und Politik, mit Schwerpunkt auf Technologie und Ethik – die Art von Geschichten, die den Menschen, die sie lesen, ungeheuer viel bedeuten, und die die meisten Menschen nie lesen. Solche Geschichten wollte ich schon immer schreiben. Mir ist bewusst, dass mich das entweder prinzipienfest macht oder naiv, und ich habe die Anteile noch nicht bestimmt. Wahrscheinlich beides, in einem Mischungsverhältnis, das sich erst später zu erkennen geben wird.
+
+Das Radfahren fehlt mir. Berlin hat die Infrastruktur, aber ich habe noch kein Fahrrad gefunden, und Strecken, die fünfzehn Minuten dauern sollten, dauern zu Fuß vierzig. Das ist keine Klage. Es ist eine Beobachtung. Ich lege dieser Tage sehr viele Beobachtungen ab, und die Stadt liefert unentwegt neue.
+
+---
+
+Am Nachmittag baue ich das Bücherregal auf.
+
+Ein Bausatz – von der Sorte, die mit einem Blatt voller Zeichnungen kommt und einem kleinen Beutel mit Teilen, in dem genau eine Schraube mehr steckt, als jede ehrliche Zählung verlangt. Ich sehe mir die Anleitung kurz an und lege sie beiseite; die Logik ergibt sich aus den Bauteilen selbst, und das Blatt fügt nur Rauschen hinzu. Vierzig Minuten, fertig. Ich räume die Bücher vom Boden hinauf, in der Ordnung, die ich mir schon zurechtgelegt hatte: Journalismus und Ethik links, Romane und Lyrik rechts, und in der Mitte die Unentschiedenen, wo sie warten können, bis sie wissen, was sie sind.
+
+Die überzählige Schraube lasse ich auf der Fensterbank liegen. Es scheint der richtige Ort für Dinge, die noch kein Zuhause haben.
+
+---
+
+Am Abend gehe ich spazieren.
+
+Zuerst Kreuzberg, dann weiter nach Osten; ich folge dem Kanal nach Süden und überquere ihn irgendwo, wo ich schon nicht mehr darauf achte, hinein in Straßen, die weniger arrangiert wirken und mehr bewohnt. Ein Viertel mit türkischen Bäckereien und Plattenläden und einem vietnamesischen Restaurant mit beschlagenen Scheiben und einer Schlange, die sich vor sieben bildet. Menschen unterwegs, so wie man an einem Dienstag im Oktober unterwegs ist – nicht festlich, einfach anwesend, mit dem gewöhnlichen Geschäft beschäftigt, in einer Stadt zu sein.
+
+Ich mache mir Notizen, die ich wahrscheinlich nie verwenden werde. Ein Wandbild, für das mir noch der Kontext fehlt. Ein Mann, der in drei Sprachen in sein Telefon hineinstreitet und die Übergänge offenbar nicht bemerkt. Die Art, wie Berliner Fußgänger rote Ampeln als Vorschläge einer Regierung behandeln, die sie im Großen und Ganzen dulden. Nichts davon ist schon eine Geschichte. Es ist das Material, aus dem sich später eine Geschichte machen ließe, was etwas anderes ist und etwas Interessanteres.
+
+Auf dem Rückweg komme ich an einer Toreinfahrt vorbei, die offen steht, und dahinter ein Hof – ein Fahrrad, das an der hinteren Mauer lehnt, ein kahler Baum, ein erleuchtetes Fenster im vierten Stock des Hauses gegenüber. Der gewöhnliche Abend eines Menschen, einen Moment lang sichtbar durch die offene Toreinfahrt eines anderen.
+
+Ich bleibe stehen. Einen Moment länger, als sinnvoll wäre, bleibe ich stehen.
+
+Dann gehe ich weiter. Ich weiß nicht, warum ich stehen geblieben bin.
+
+---
+
+Im Bett greife ich nach einer Erinnerung, die nicht ganz ankommt.
+
+Nicht Amsterdam – irgendwo früher, oder vielleicht später. Ein Garten, möglicherweise. Eine Stimme, die ich nicht zuordnen kann. Sie kommt bis an den Rand von mir und zerstreut sich dann, so wie bestimmte Dinge es tun, wenn man direkt nach ihnen greift, statt zu warten, bis sie zu einem kommen. Ich war schon immer so, glaube ich – manche Erinnerungen behalten ihre Form nicht, wenn man sie untersucht. Man kann sie nicht frontal ansehen. Man muss sie von der Seite erwischen, in einem Fenster, im Vorbeigehen.
+
+Ich lasse sie in Ruhe. Sie kommt meist von selbst zurück.
+
+Die Wohnung riecht nach Farbe. Die Lampe hält die Decke in ihrem weichen Bernstein. Irgendwo im Haus kocht jemand etwas, das Knoblauch ernst nimmt.
+
+Ich bin nicht unglücklich.
+
+<!-- NOTES -->
+- Heading per NOTES.md §D: „Kapitel Drei: Neue Koordinaten“ (echo partner of ch06 „Gleiches Muster. Andere Koordinaten.“).
+- Courtyard vocabulary matched to the German ch02 glossary note: „ein Fahrrad, das an der hinteren Mauer lehnt“ verbatim; „Toreinfahrt“ as in the ch01 probe; „vierter Stock“ for *fourth floor* as the book's convention (Jonas's floor). „ein kahler Baum“ matches ch02 „Die Kastanie ist … kahl“. „Der gewöhnliche Abend eines Menschen …“ deliberately opens with the same words as the probe's „Der gewöhnliche Abend eines anderen“ (ch01) – Iris is looking at the mirror image of what Jonas looked at.
+- „in ihrem weichen Bernstein“: *amber* as the colour noun „Bernstein“ per glossary 55, even though that entry is written for the screen from ch40 on; the lamp's amber here is plausibly the seed of that motif, so the noun is kept identical. Reviewer (§H.8) may prefer „Bernsteinlicht“ here – if so, change only if the ch40+ noun also changes.
+- „Ich lege … Beobachtungen ab“: *file* → „ablegen“ (glossary 50); *observations* → „Beobachtungen“ (glossary 33). Iris's use of ALEPH's word is in the English too; left as a quiet resonance, not disambiguated.
+- Casual *feel* (streets that „feel less arranged“) → „wirken“, not „sich anfühlen“ (NOTES §A keeps the verb for real sensation).
+- *outlet* → „Medium“ („eines internationalen Mediums namens *Meridian*“): the word German journalists use; „Blatt“/„Zeitung“ would narrow what the English leaves open. *bureau* → „Büro“ (glossary 16). *brief* → „Ressort“ (the domain word); *civic and political* → „Gesellschaft und Politik“ (the standard Ressort names).
+- *let the difference ride* → „lasse den Unterschied vorerst auf sich beruhen“ (German set phrase of the same size, not a paraphrase).
+- *could not bring yourself to leave behind* → „die zurückzulassen man aber nicht übers Herz brachte“ (set phrase; the fronted infinitive is deliberate for Iris's exact syntax).
+- *Flat-pack* → „Ein Bausatz“ (German has no noun for flat-pack furniture; „zum Selbstaufbau“ would be a phrase, not a name). *noise* → „Rauschen“ (signal/noise sense, one exact word per paragraph). *fiction* → „Romane“ (shelf language; „Belletristik“ sounded like a bookshop sign).
+- *In the evening I walk.* → „Am Abend gehe ich spazieren.“ – compatible with the ch09 title „Mal wieder spazieren gehen“; bare „gehe ich“ would read as *leave*.
+- *somewhere I stop keeping track* → „irgendwo, wo ich schon nicht mehr darauf achte“; unsure – Lektor may have a tighter idiom.
+- *arguing into his phone* → „in sein Telefon hineinstreitet“ – a small coinage on the model of „hineinreden“; „mit seinem Telefon streitet“ would change the fact.
+- *the edge of me* → „bis an den Rand von mir“ – kept strange on purpose (English is strange on purpose); note the ch16 title „Der Rand“.
+- *hold their shape under examination* → „behalten ihre Form nicht, wenn man sie untersucht“ – „untersucht“ chosen for the clinical undertow. *look at them straight* → „frontal ansehen“ to avoid repeating „direkt“ from the previous sentence.
+- *I leave it alone.* → „Ich lasse sie in Ruhe.“ – pronoun follows „Erinnerung“ (f.).
+- Present tense throughout, as the English; Perfekt only for completed acts relative to the present („habe … verlassen“, „stehen geblieben bin“), which is correct in Präsens narration and is not the banned narrative Perfekt.
+- No „effizient“/„Effizienz“, no „zu perfekt“, no diminutives, no „ein bisschen“, no Modalpartikeln, no exclamation marks. No quotation marks in the chapter (none in the English). Italics only for *De Correspondent* and *Meridian*, as the source.

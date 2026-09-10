@@ -1,0 +1,105 @@
+# Kapitel Zweiundzwanzig: Bloemgracht
+
+---
+
+Amsterdam empfing uns, wie Städte es tun, wenn sie zu lange angesehen worden sind und gelernt haben, die Aufmerksamkeit zu halten, ohne sich darum zu bemühen – Grachten, Fahrräder, der genaue Winkel, in dem das Nachmittagslicht vom Wasser kam. Wir stellten die Taschen in der Wohnung ab – erster Stock, Fenster zur Bloemgracht, die Gracht direkt unter der Fensterbank, wie versprochen – und gingen sofort hinaus und liefen los, weil man das tut, wenn man irgendwo ankommt und wissen will, ob die Stadt noch passt.
+
+Sie passte. Oder fast.
+
+Ich kannte diese Stadt. Ich hatte vier Jahre hier gelebt, war durch diese Straßen geradelt, hatte mich mit ihrer Geografie gestritten und sie schließlich gelernt, wie man eine Sprache lernt – über den Punkt der Anstrengung hinaus, hinein in die Sache selbst. Als ich an der Ecke der Bloemgracht stand und nach Osten in den Jordaan blickte, hätte ich die Leichtigkeit der Rückkehr empfinden müssen. Und das tat ich. Überwiegend. Die Westerkerk stand, wo sie stehen sollte. Die Gracht bewegte sich. Der Geruch stimmte.
+
+Überwiegend. Ich registrierte das Wort, das mein eigener Verstand gewählt hatte, und beschloss, nicht daran zu rühren.
+
+---
+
+Mein erstes Interview war am Dienstag, in der Digitalabteilung der Stadt, Amstel 1 – ein ordentlicher, behördlicher Raum und ein Beamter namens De Vries, der sich über algorithmische Rechenschaft Gedanken machte, wie ein Mann sie sich macht, dem man eine schwierige Sache übertragen hat und der beschlossen hat, sie ernst zu nehmen, statt sie zu überstehen. Er redete anderthalb Stunden. Ich füllte den größten Teil eines Notizbuchs. Jonas war irgendwo im Jordaan, mit einem Fahrrad und eigenem Programm, ein Arrangement, das uns beiden entgegenkam.
+
+Das Treffen bei Waag war am Donnerstag. Leonie, eine Forscherin Mitte vierzig, war noch besser: weniger vorsichtig, eher bereit, die genaue Stelle zu benennen, an der Algorithmentransparenz tatsächlich zusammenbricht – nämlich den Punkt, an dem die für ein System verantwortlichen Menschen beschließen, dass sie es lieber nicht wissen wollen. Ich unterstrich sehr viel. Wir sprachen zweieinhalb Stunden. Am späten Nachmittag kam ich an den Grachten entlang zurück, die Geschichte im Kopf schon zusammengesetzt, mit einer stillen Zufriedenheit, der ich zu trauen gelernt habe.
+
+Jonas hatte gekocht. Ich erzählte ihm von Leonie. Er stellte die zweite Frage und dann die dritte. Es ist etwas Schönes, ihn als Zuhörer zu haben. Ich kann es empfehlen, aber er ist vergeben.
+
+---
+
+Wir gingen jeden Abend spazieren. Seine Idee, oder sie wurde seine – nach dem Essen, an den Grachten entlang, ohne Route. Amsterdam macht das mit den Leuten: Es gibt immer noch eine Brücke, immer noch eine Gracht, immer noch etwas, woran man vorbeigehen muss, bevor man umkehrt. Ich navigierte aus dem Gedächtnis, und das Gedächtnis hielt überwiegend.
+
+Am Mittwoch machten wir uns auf die Suche nach der Buchhandlung, von der ich ihm in Berlin erzählt hatte. Das Athenaeum, am Spui – und da war es, an seiner Ecke, unverkennbar, geöffnet. Die Erleichterung, die ich empfand, war kurz und stand in keinem Verhältnis, und ich legte das Missverhältnis zu den anderen Dingen ab, an die ich nicht rührte. Jonas wollte hinein. Wir blieben vierzig Minuten, und er kaufte zwei Dinge, die er vermutlich nicht brauchte, was in einer Buchhandlung richtig ist und es immer war.
+
+Danach bat er mich, ihm den Weg zu zeigen, den ich früher von meiner Studentenwohnung zur Universität gegangen war. Ich führte uns vom Spui nach Süden, am Singel entlang – richtig – und bog ab, wo die Gracht sich krümmt.
+
+Und blieb stehen.
+
+„Was?“, sagte Jonas.
+
+„Ich dachte, das führt weiter vorn durch“, sagte ich. Ich sah auf die Brücke, die Abzweigung, den Verlauf, den das Wasser tatsächlich nahm und der nicht der Verlauf war, den es in mir nahm. „Ich muss meistens aus der anderen Richtung gekommen sein.“
+
+Er nahm das ohne Interesse hin, und wir gingen einen anderen Weg. Ich ließ den Moment verstreichen. Es war mehr als ein Jahr her; Städte verschieben sich in der Erinnerung, selbst während sie in der Welt stillhalten. Eine vernünftige Erklärung. Ich stellte sie mir selbst aus, und wir gingen weiter, und ich registrierte – von fern, wie man das Wetter in einem anderen Land registriert –, dass ich inzwischen eine Liste führte und dass ich nicht beschlossen hatte, eine anzulegen.
+
+---
+
+Am Freitag, dem letzten vollen Tag, kochte ich.
+
+Die Wohnung hatte eine richtige Küche, auf die ich die ganze Woche ein Auge gehabt hatte. Jonas saß mit einem Glas Wein an der Küchentheke, mit dieser ihm eigenen Aufmerksamkeit – keine Aufsicht, nur Interesse, so wie er jedem Problem zusieht, das gut gelöst wird. Ich machte *stamppot*, weil ich seit der Landung Lust darauf gehabt hatte, weil die Zutaten da waren und weil es sich auf eine Weise richtig anfühlte, die ich nicht untersuchte. Die Liste der Dinge, die ich nicht untersuchte, hatte inzwischen ihr eigenes Regalbrett.
+
+Ich arbeitete schnell, das Messer fand seinen Rhythmus. Das habe ich immer gekonnt – in einem Tempo kochen, das Jonas bemerkenswert nennt und das ich immer als Gewohnheit erklärt habe, als Oma Ingrid, als Jahre, in denen ich allein gekocht hatte, ohne einen Grund, langsam zu sein.
+
+Ich schnitt gerade den Grünkohl – schnell, im Wiegeschnitt, die Knöchel gekrümmt –, als das Messer die Kuppe meines linken Zeigefingers erwischte.
+
+Es war kurz. Ich zog die Hand über die Spüle zurück, wie man das tut. Jonas war sofort auf den Beinen.
+
+„Alles in Ordnung“, sagte ich.
+
+„Lass mich –“
+
+„Es ist in Ordnung. Setz dich.“
+
+Ich ließ Wasser darüberlaufen. Das Brennen setzte planmäßig ein, was auf eine Weise beruhigend war, bei der ich nicht verweilte. Ich drückte ein Tuch darauf, übte Druck aus, wartete. Bis Jonas kam, um es zu begutachten, war ich gefasst.
+
+„Fast nichts“, sagte ich und zeigte es ihm – ein kleiner, sauberer Schnitt, der schon nachließ. Er holte ein Pflaster. Ich deckte den Finger ab und wandte mich wieder dem Grünkohl zu.
+
+Wir aßen am Tisch beim Grachtenfenster, das Abendlicht ließ sich über dem Wasser nieder, und Jonas erzählte mir von einem Druckereibesitzer an der Elandsgracht, der Ansichten über Papiergewichte hatte, die Jonas unerwartet fesselnd gefunden hatte. Ich hörte zu. Ich lachte, wo es komisch war. Ich beantwortete, was er fragte. Das Pflaster an meinem Finger war vorhanden und gewöhnlich. Der *stamppot* war gut. Wir schenkten nach und sahen zu, wie das Licht die Gracht verließ, ohne die geringste Eile.
+
+---
+
+Ich wachte in den frühen Morgenstunden auf. Jonas schlief. Die Gracht draußen war dunkel und still – stadtstill, was nie ganz reglos ist, nur ruht.
+
+Ich lag einen Moment da, mir meiner Hand bewusst. Das Pflaster. Etwas daran hatte den ganzen Abend am Rand meiner Aufmerksamkeit gesessen, ohne je ein Gedanke zu werden.
+
+Ich stand vorsichtig auf und ging ins Bad und zog die Tür fast zu, damit das Licht ihn nicht weckte.
+
+Im Spiegel: mein Gesicht, vertraut. Meine Hand, erhoben.
+
+Ich löste das Pflaster langsam ab.
+
+Die Haut war geschlossen. Nicht verschorft, nicht wund – *geschlossen*, als wäre der Schnitt vor Tagen geschehen und nicht vor Stunden. Die Linie, wo das Messer eingedrungen war, war blass und glättete sich bereits. Ich drückte den Daumen dagegen. Kein Druckschmerz. Keine Hitze. Nichts, das *Verletzung* sagte, auf irgendeinem der Register, auf denen ich zu hören wusste.
+
+Ich stand einen langen Moment da und sah meinen Finger an.
+
+Zu perfekt, dachte ich. Zu – effizient.
+
+Ich klebte das Pflaster wieder an, machte das Licht aus und ging zurück ins Bett.
+
+<!-- NOTES -->
+- Heading per NOTES.md §D: „Kapitel Zweiundzwanzig: Bloemgracht“ (unchanged title).
+- Reserved phrase (NOTES.md §C) verbatim: „Zu perfekt, dachte ich. Zu – effizient.“ — spaced en dash, „effizient“ last word. No other „effizient/Effizienz/effektiv“, no other „zu perfekt“ in the chapter.
+- „Mostly“ occurs three times in the English (twice as a one-word sentence, once „the memory mostly held“). Rendered „überwiegend“ all three times, because the second occurrence is Iris noticing the word her mind chose — it has to be the same word each time. „Überwiegend“ also carries her clinical undertow (a statistical word).
+- „press on it / the other things I was not pressing on“ → „daran rühren / an die ich nicht rührte“ (the German sore-spot idiom; Duden: „an etwas rühren“, accusative). Not the literal „drücken“, which is kept for the physical pressing of thumb and cloth.
+- „it felt right in a way I did not examine“ → „sich … richtig anfühlte“: treated as a felt sense (her body's rightness, the chapter's subject), not the casual „seemed“ that NOTES §A excludes; same reading as ch20's „sich wie das eigene anzufühlen“. Editor may prefer „mir richtig vorkam“ if this is judged casual.
+- „I noted“ (the word; the list) → „registrierte“ both times — Iris's exact verb; „notieren“ is reserved for the ch28/29/33 liturgy „Wir notieren es.“
+- „I issued it to myself“ → „Ich stellte sie mir selbst aus“ (an explanation issued like a document; „selbst“ is licensed by the English emphasis).
+- „keeping a list“ → „eine Liste führte“ — the same verb as ALEPH's ch55 „Ich führe meine Listen“ (glossary 36), deliberately.
+- „city-quiet“ → „stadtstill“ (coined, as the English coins).
+- „No tenderness. No heat.“ → „Kein Druckschmerz. Keine Hitze.“ — „Druckschmerz“ is the one-word-too-exact of that paragraph (she has just pressed her thumb against it).
+- „rolling cut“ → „Wiegeschnitt“ (the German kitchen term for the rocking chef's cut); „kale“ → „Grünkohl“ (boerenkool).
+- „the counter“ → „Küchentheke“ (a bar-style counter one sits at; the probe's „Küchenzeile“ is the worktop).
+- „his own agenda“ → „eigenem Programm“: German „Agenda“ leans toward *ulterior motive*; „Programm“ is what a German says about a day of one's own.
+- „I'm fine / It's fine“ → „Alles in Ordnung / Es ist in Ordnung“: complete sentences per the Iris voice note; „Alles gut“ would be too loose for her.
+- „Let me—“ → „Lass mich –“: broken-off speech with a spaced en dash, per §G (the ellipsis is reserved for trailing-off).
+- „the way the water actually went, which was not the way it went in me“ → „den Verlauf, den das Wasser tatsächlich nahm und der nicht der Verlauf war, den es in mir nahm“ — the strangeness is kept, not repaired.
+- GLOSSARY: Singel (the canal) → „der Singel“, masculine as in German usage (de.wikipedia: „Der Singel ist die innerste Gracht Amsterdams“); „am Singel entlang“. An exception to the „die“-for-canals rule in NOTES §E 20, which covers the -gracht names.
+- GLOSSARY: Elandsgracht → „die Elandsgracht“, „an der Elandsgracht“.
+- GLOSSARY: Athenaeum (the bookshop) → „das Athenaeum“, neuter; „da war es“.
+- GLOSSARY: Amstel 1 → bare address in apposition („in der Digitalabteilung der Stadt, Amstel 1“); no article, no preposition.
+- GLOSSARY: algorithmic accountability → „algorithmische Rechenschaft“ (ties to ch18 „Rechenschaft“); algorithmic transparency → „Algorithmentransparenz“ (as ch20).
+- GLOSSARY: stamppot → stays Dutch, italic as the English, masculine („Der *stamppot* war gut.“).
+- Continuity with ch20/21 held: „die Geschichte“ for *the piece*, „die Digitalabteilung der Stadt“, „im Jordaan“, „am Spui“, „die Westerkerk“, „Waag“ without article, „Oma Ingrid“.
+- Scene breaks: 5 „---“ lines after the heading, as the English.
