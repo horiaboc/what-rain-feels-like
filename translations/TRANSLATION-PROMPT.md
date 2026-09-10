@@ -171,3 +171,36 @@ One boundary the editor may not cross alone: §3's fixed names. Allusive names
 with a domesticated form in the target language (Diogenes → Diogenész in
 Hungarian) are a per-edition decision for the author, recorded in `NOTES.md`,
 not an editor's call.
+
+## 8. The procedure, per language — passes until it reads native
+
+Standing order from the author (2026-09-10): a translation is finished only
+when it reads as if written in the target language — 9.5 out of 10 or
+better as prose in that language, not as a rendering. Names, places and the
+deliberately foreign words (§3) are the only things allowed to read as
+imported. Run as many passes as that takes, one chapter at a time, in one
+working context; never fan out to parallel agents.
+
+1. **Decisions first.** `NOTES.md` for the edition: title ↔ closing line,
+   the T–V register for every pair, the reserved phrase and the word banned
+   elsewhere, chapter labels, glossary of every seeded echo, voice notes in
+   the target language's own terms, typography.
+2. **Draft** — the full chapter, faithful, in the fixed decisions.
+3. **Native pass (§7)** — with the source beside it: calques, set phrases,
+   clause architecture, verb aspect, register, domain words, hedges.
+4. **Tic pass.** Count the translator's own fingerprints across the whole
+   book with `tools/check_translation.py <lang>` — the frames a native
+   writer would vary (German: „die Sorte X, die …“, „Beschaffenheit“,
+   „auf die Art, wie“, „nicht direkt“; each language gets its own list) —
+   and the trailing afterthought clauses that copy an English *which …*.
+   Reduce them to what a native text would carry; vary, don't just delete.
+5. **Inquit pass.** Thin *said I / said she* to the density of the target
+   language's fiction once speakers are clear; German drops roughly a third.
+6. **Gates.** Structure (scene breaks, headings), typography, names, the
+   reserved word's count, the title phrase's sites, the concealment rule for
+   the early ALEPH chapters. All must be clean before a build.
+7. **Read-through** of the chapters the passes touched most, for rhythm —
+   the quiet last sentences must still drop.
+
+Then build, then the native reader. Their marked passages go back into the
+tic list for the next language.

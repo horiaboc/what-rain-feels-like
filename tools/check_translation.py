@@ -31,6 +31,18 @@ RULES = {
                            ("\"", "straight double quote (use „…“)"),
                            (" - ", "hyphen used as dash")],
         "ratio": (0.85, 1.25),
+        # Translator fingerprints a native writer would vary. Counted
+        # book-wide; the number is the report, the target is "few".
+        "tics": ["die Sorte", "Beschaffenheit", "auf die Art", "nicht direkt",
+                 ", was ", "sagte ich", "sagte sie"],
+    },
+    "ro": {
+        "label_re": re.compile(r"^# Capitolul [a-zăâîșț ]+(?::\s+.+)?$"),
+        "bad_typography": [("—", "em dash in narration (Romanian dialogue dash only at line start)"),
+                           ("\"", "straight double quote (use „…”)"),
+                           ("ş", "cedilla ș (use comma-below)"), ("ţ", "cedilla ț (use comma-below)")],
+        "ratio": (0.9, 1.3),
+        "tics": ["de fapt", "genul de", "un fel de", "felul în care", "care ", "am spus", "a spus"],
     },
 }
 
@@ -90,6 +102,13 @@ def main(lang: str) -> int:
             problems += 1
         print(f"{src.name:26s} {sb_en:>4d}/{sb_de:<4d} {w_en:>6d}/{w_de:<6d} {ratio:>6.2f}  {'; '.join(issues)}")
     print(f"\n{len(en_files)} chapters, {problems} with issues")
+    tics = rules.get("tics")
+    if tics:
+        text = "".join(p.read_text(encoding="utf-8").split("<!-- NOTES -->", 1)[0]
+                       for p in sorted(tgt.glob("chapter-*.md")))
+        print("\ntic counts (book-wide):")
+        for t in tics:
+            print(f"  {t!r:16s} {text.count(t):5d}")
     return 1 if problems else 0
 
 
