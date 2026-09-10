@@ -118,3 +118,56 @@ phrase the text visibly leans on. Known pairs to protect:
 - Every edition then receives a **native-speaker review pass** (voice, idiom,
   the devices above) before it is built for publication. The AI draft alone
   is not the edition.
+
+## 7. The native-idiom pass (Lektorat) — mandatory, separate from drafting
+
+A single translation pass produces text that is faithful and grammatical and
+still reads as *translated*. Native reviewers describe it the same way in
+every language: "some idioms and habits don't quite fit." The remedy is not a
+better first pass but a **second pass with a different job**, done with the
+source open beside the draft, by a translator (or model) told to act as a
+native literary editor and to change nothing about *what* is said.
+
+Hunt, sentence by sentence:
+
+- **Fixed phrases carried word for word.** For every English set phrase
+  ("patience of a saint", "no one in particular", "lose track", "middle
+  distance"), ask what the target language's *own* set phrase of the same size
+  is, and use that even when its image differs. Never a longer paraphrase —
+  length inflation is itself a loss of restraint.
+- **Source punctuation copied.** Dash form and spacing, quotation marks,
+  comma rules (before conjunctions, before a year, before subordinate
+  clauses). Apply the target norms mechanically after drafting.
+- **English clause architecture.** Stacked relative and nominal clauses
+  ("the one I get when…", "whatever he is late for", "any of the things
+  that…") must be re-planned from the target grammar, never rendered clause
+  for clause.
+- **Verb prefixes and aspect.** English simple verbs usually need a specific
+  prefixed or aspectual form in the target language. Check every verb of
+  motion or change for the form a native writer would use *in that context*.
+- **Participles and "and"-chains** ("comes back smelling of…", "carrying X
+  and Y and the expressions of…") mis-resolved into purpose clauses or
+  agreement conflicts.
+- **Translationese register.** Uniform formal relative pronouns, nominal
+  style, officialese synonyms where the narrator is warm and spoken. Match the
+  voice; reserve the formal forms for the voice that is meant to be slightly
+  more precise, and record the split in the edition's `NOTES.md`.
+- **Domain words.** Tech, media and everyday-technology terms in the form the
+  target-language community actually uses (concurrency, edge case, chyron,
+  typing in a chat, the news), not a dictionary gloss. Officialese must be
+  re-made as the target language's own officialese so deadpan jokes land.
+- **Hedges that crept in.** Diff each sentence against the source for added
+  intensifiers, articles, connectives ("rather", "again", "meanwhile") and
+  remove any the source does not license.
+- **Clock and time expressions** in the native colloquial form unless the
+  voice is explicitly clinical; fix the choice in `NOTES.md`.
+
+Then a **fidelity check** — adversarial, paragraph by paragraph against the
+source — confirms the editor changed *how* and not *what*: nothing dropped,
+nothing added, no fact or hedge altered, no restraint amplified, every §3–§5
+term intact. The editor and the checker must not be the same pass.
+
+One boundary the editor may not cross alone: §3's fixed names. Allusive names
+with a domesticated form in the target language (Diogenes → Diogenész in
+Hungarian) are a per-edition decision for the author, recorded in `NOTES.md`,
+not an editor's call.
