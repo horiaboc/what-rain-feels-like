@@ -14,7 +14,7 @@ Wir nahmen, so viel das Tageslimit erlaubte, bedankten uns und gingen.
 
 ---
 
-Ohne Karte eine Unterkunft zu finden war ein eigenes Projekt. Hotels sind 2034 nicht für Bargeld gebaut – die Buchungssysteme, die Türschlösser, die Frühstücksregistrierung, alles läuft über Identitätsprüfung, die eine Karte im Zentrum haben will. Wir gingen drei Straßen vom Vrijthof weg, fort von den offensichtlichen Unterkünften, und fanden, was wir suchten, im Schaufenster eines Tabakladens: eine handgeschriebene Karte, die altmodische Sorte, die ein Zimmer für die Nacht anbot. Privathaus. Eine Telefonnummer.
+Ohne Karte eine Unterkunft zu finden war ein eigenes Projekt. Hotels sind 2034 nicht für Bargeld gebaut – die Buchungssysteme, die Türschlösser, die Frühstücksregistrierung, alles läuft über Identitätsprüfung, die eine Karte im Zentrum haben will. Wir gingen drei Straßen vom Vrijthof weg, fort von den offensichtlichen Unterkünften, und fanden, was wir suchten, im Schaufenster eines Tabakladens: eine handgeschriebene Karte, altmodisch, die ein Zimmer für die Nacht anbot. Privathaus. Eine Telefonnummer.
 
 Die Frau, die abnahm, war in den Siebzigern und vollkommen ungerührt von unserem Mangel an Buchungsbestätigung, Online-Profil oder erklärbarem Grund, mit zwei Taschen und einer Vorliebe für Bargeld in Maastricht zu sein. Sie gab uns ein Zimmer im zweiten Stock mit Blick auf einen kleinen Garten, einen Schlüssel an einem physischen Schlüsselring und eine Uhrzeit fürs Frühstück. Sie verlangte keinen Ausweis. Ob das Vertrauen war oder Gleichgültigkeit, war nicht klar und auch nicht wichtig.
 
@@ -32,11 +32,11 @@ Ich sah sie an.
 
 ---
 
-Das Café war genau da, wo es sein sollte – ein altes Gebäude am Vrijthof, innen niedrige Decken, dunkles Holz, die gesetzte Wärme eines Ortes, der seit sehr langer Zeit Menschen bewirtet und vorhat, damit fortzufahren. Wir fanden einen Tisch am Fenster. Iris sah den Raum an, wie sie die ganze Woche Räume angesehen hatte, mit dieser sorgfältig messenden Beschaffenheit, das Vorhandene gegen das gelesen, was sie in sich trug.
+Das Café war genau da, wo es sein sollte – ein altes Gebäude am Vrijthof, innen niedrige Decken, dunkles Holz, die gesetzte Wärme eines Ortes, der seit sehr langer Zeit Menschen bewirtet und vorhat, damit fortzufahren. Wir fanden einen Tisch am Fenster. Iris sah den Raum an, wie sie die ganze Woche Räume angesehen hatte, mit diesem sorgfältig messenden Blick, das Vorhandene gegen das gelesen, was sie in sich trug.
 
 Sie bestellte heiße Schokolade.
 
-Sie kam in einer breiten Keramiktasse, dick, die echte Sorte. Sie legte die Hände darum und sah sie an und sah dann aus dem Fenster auf den Vrijthof und sagte einen Moment nichts.
+Sie kam in einer breiten Keramiktasse, dick, die echte. Sie legte die Hände darum und sah sie an und sah dann aus dem Fenster auf den Vrijthof und sagte einen Moment nichts.
 
 „Und?“, sagte ich.
 
@@ -76,7 +76,7 @@ Wir gingen nach links.
 
 ---
 
-Die Basilika Unserer Lieben Frau, Stern des Meeres, ist eine romanische Kirche am Onze Lieve Vrouweplein – dunkler Stein, alt jenseits der üblichen Bedeutung von alt, die Sorte Gebäude, die so viel Zeit aufgenommen hat, dass sie eine eigene Schwerkraft entwickelt hat. Die Tür stand offen. Wir gingen hinein.
+Die Basilika Unserer Lieben Frau, Stern des Meeres, ist eine romanische Kirche am Onze Lieve Vrouweplein – dunkler Stein, alt jenseits der üblichen Bedeutung von alt, ein Gebäude, das so viel Zeit aufgenommen hat, dass es eine eigene Schwerkraft entwickelt hat. Die Tür stand offen. Wir gingen hinein.
 
 Drinnen: kühl, dämmrig, der Geruch von Kerzenwachs und Jahrhunderten von Stein. Touristen, die sich leise bewegten. Eine Seitenkapelle mit Votivkerzen. Hinten, an der Nordwand entlang, eine Reihe barocker Beichtstühle – dunkles geschnitztes Holz, schwere Vorhänge, die aufmerksame Stille von Möbeln, die für einen einzigen Zweck gebaut sind.
 
@@ -163,6 +163,7 @@ Ich sah auf die vorbeiziehenden Felder. Der Zug tat, was Züge tun, nämlich ein
 Sie nickte. Sie sah zum Fenster. Draußen tat Limburg sein stilles Ding, und Heerlen kam näher, und was immer die Straßen bereithielten, wir würden es herausfinden.
 
 <!-- NOTES -->
+- v2 (native pass): three „Sorte“ frames and one „Beschaffenheit“ re-planned.
 - §C ch34 site: „mit der besonderen Zielsicherheit von jemandem, für den das erste Mal die Übung war und dies die Anwendung ist“ — „effizient“ absent.
 - "One that holds." / "Two that hold." → „Eine, die hält.“ / „Zwei, die halten.“ (feminine: die Erinnerung).
 - "the right call from both of us" → „die richtige Entscheidung“ (ch19 glossary).

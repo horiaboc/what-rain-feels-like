@@ -4,7 +4,7 @@
 
 Der Arzttermin war morgen. Heute gehörte uns.
 
-Mit Iris’ Kopf ging es besser – nicht vorbei, aber von der Sorte Schmerz, die ankündigt, dass sie einen noch ein paar Tage begleiten wird, und sich ansonsten meist im Hintergrund hält. Am Morgen bewegte sie sich mit etwas, das ihrer gewohnten Ökonomie nahekam, durch die Wohnung. Sie machte Kaffee. Sie aß. Sie sah hinaus auf die Gracht und sagte: „Schifffahrtsmuseum.“
+Mit Iris’ Kopf ging es besser – nicht vorbei, aber ein Schmerz, der ankündigt, dass er einen noch ein paar Tage begleiten wird, und sich ansonsten meist im Hintergrund hält. Am Morgen bewegte sie sich mit etwas, das ihrer gewohnten Ökonomie nahekam, durch die Wohnung. Sie machte Kaffee. Sie aß. Sie sah hinaus auf die Gracht und sagte: „Schifffahrtsmuseum.“
 
 „Das Scheepvaartmuseum?“
 
@@ -24,7 +24,7 @@ Sie hielt ihren Kaffee und sah aus dem Fenster. „Ich will noch einmal hin. Ich
 
 ---
 
-Wir nahmen die Tram nach Osten und gingen das letzte Stück am Oosterdok entlang zu Fuß. Das Museum ist ein ehemaliges Marinemagazin – streng, heller Stein, niederländisch auf die Art von Institutionen, die seit langer Zeit wichtig sind und keinen Anlass sehen, das zu erwähnen. Die *Amsterdam* lag am Steg, genau da, wo sie sein sollte. Ich verbuchte das als Information und sagte nichts dazu.
+Wir nahmen die Tram nach Osten und gingen das letzte Stück am Oosterdok entlang zu Fuß. Das Museum ist ein ehemaliges Marinemagazin – streng, heller Stein, niederländisch wie Institutionen, die seit langer Zeit wichtig sind und keinen Anlass sehen, das zu erwähnen. Die *Amsterdam* lag am Steg, genau da, wo sie sein sollte. Ich verbuchte das als Information und sagte nichts dazu.
 
 Auf dem Weg hinein sah ich ihn.
 
@@ -126,7 +126,7 @@ Wir kamen aus dem Museum in den vollen Nachmittag hinaus. Das Oosterdok ging sei
 
 Die Frau wartete am Fuß der Museumstreppe.
 
-Nicht der Mann – eine Frau. In den Vierzigern, gut gekleidet auf die Art von jemandem, für den gute Kleidung eine berufliche und keine persönliche Angelegenheit ist. Sie sah auf ihr Handy, und dann, als wir die unterste Stufe erreichten, sah sie uns an, und das Handy war weg, und der Übergang zwischen beidem hatte keinerlei Naht.
+Nicht der Mann – eine Frau. In den Vierzigern, gut gekleidet wie jemand, für den gute Kleidung eine berufliche und keine persönliche Angelegenheit ist. Sie sah auf ihr Handy, und dann, als wir die unterste Stufe erreichten, sah sie uns an, und das Handy war weg, und der Übergang zwischen beidem hatte keinerlei Naht.
 
 „Frau Jacobs“, sagte sie. Ihr Englisch war präzise, mit leichtem Akzent – belgisch, vielleicht französisch. „Verzeihen Sie, dass ich Sie auf diese Weise anspreche. Könnten wir vielleicht miteinander sprechen?“
 
@@ -141,6 +141,7 @@ Iris sah auf die Karte. Dann auf die Frau. Dann auf mich.
 „Guten Tag, Frau Seyn“, sagte sie.
 
 <!-- NOTES -->
+- v2 (native pass): three „Sorte“/„auf die Art von“ frames re-planned.
 - "We had today." → „Heute gehörte uns.“ — the literal „Wir hatten heute“ reads as an unfinished sentence in German; the idiom keeps the size and the drop.
 - Mara's "Ms. Jacobs" / "Ms. Seyn" → „Frau Jacobs“ / „Frau Seyn“ (Sie, per NOTES §B); the fact that she speaks English is kept in the narration line „Ihr Englisch war präzise“.
 - GLOSSARY: the Oosterdok → „das Oosterdok“ (am Oosterdok); the Frederiksplein → „der Frederiksplein“; the jetty (the Amsterdam's berth) → „der Steg“ / „Oststeg“; VOC East Indiaman → „Ostindienfahrer der VOC“.

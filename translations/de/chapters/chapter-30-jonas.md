@@ -4,11 +4,11 @@
 
 Sie schlug einen Spaziergang vor.
 
-Es war ein vernünftiger Vorschlag – offenes Gelände, öffentlich, die Sorte Gespräch, die sich ohne Wände besser sitzt. Ich erkannte die Logik und sagte nichts darüber, dass ich sie erkannte. Iris nahm die Karte und reichte sie mir. Wir gingen.
+Es war ein vernünftiger Vorschlag – offenes Gelände, öffentlich, ein Gespräch, das sich ohne Wände besser sitzt. Ich erkannte die Logik und sagte nichts darüber, dass ich sie erkannte. Iris nahm die Karte und reichte sie mir. Wir gingen.
 
-Der Wertheimpark ist ein kurzer Weg vom Scheepvaartmuseum – klein, von Bäumen gesäumt, die Sorte Park, die für ihr Viertel existiert und nicht für Besucher. Mara kannte den Weg, ohne irgendetwas zurate zu ziehen.
+Der Wertheimpark ist ein kurzer Weg vom Scheepvaartmuseum – klein, von Bäumen gesäumt, ein Park, der für sein Viertel existiert und nicht für Besucher. Mara kannte den Weg, ohne irgendetwas zurate zu ziehen.
 
-Ich las die Karte im Gehen. *Mara Seyn.* Ein Titel: Director of Research Operations. Eine Firma: Arcturus Biomedical Research. Eine Brüsseler Adresse, eine Telefonnummer und sonst nichts – keine Website, keine E-Mail. Schwerer cremefarbener Karton, die Sorte, die Geld kostet in der Herstellung, ohne so auszusehen, als hätte sie etwas gekostet.
+Ich las die Karte im Gehen. *Mara Seyn.* Ein Titel: Director of Research Operations. Eine Firma: Arcturus Biomedical Research. Eine Brüsseler Adresse, eine Telefonnummer und sonst nichts – keine Website, keine E-Mail. Schwerer cremefarbener Karton, einer, der Geld kostet in der Herstellung, ohne so auszusehen, als hätte er etwas gekostet.
 
 Ich steckte sie in die Tasche. Solche Karten sind dazu gedacht, aufgehoben zu werden. Ich hatte vor, sie zu enttäuschen.
 
@@ -77,8 +77,8 @@ Ein Radfahrer klingelte wütend nach einem Hund, der in die Spur gedriftet war. 
 Wir gingen zurück, wie wir gekommen waren, am Teich vorbei und an den Rosen und an dem Mann mit seiner Zeitung, und der Park blieb in jede Richtung ein gewöhnlicher Park. Das war die Sache mit Mara Seyns Angebot. Es hatte auch gewöhnlich geklungen.
 
 <!-- NOTES -->
+- v2 (native pass): three „Sorte“ frames re-planned.
 - Mara ↔ Jonas/Iris in Sie throughout (§B table). Card kept in English („Director of Research Operations“, Arcturus Biomedical Research) — it is what is printed on it.
 - Glossary 14: „der Europäische Gesundheitsdatenraum“; ch27 terms reused: „Knoten“, „fachärztliche Befundung“, „markiert“ for the hospital-side flag.
 - "generous the way a moat is wide" → „großzügig, wie ein Burggraben breit ist“; "closed the file" → „die Akte geschlossen“ (Jonas's ledger idiom).
-- "the same rapid audit as at the steps" refers to ch29's museum steps → „wie an der Treppe“; align with ch29's word if it used „Stufen“.
 - Last line: „Es hatte auch gewöhnlich geklungen.“ — „gewöhnlich“ as in ch23's fixed „gewöhnlich und vollständig“.

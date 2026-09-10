@@ -2,7 +2,7 @@
 
 ---
 
-Wir verließen die Wohnung um Viertel vor neun mit Kaffee zum Mitnehmen – Pappbecher, die Sorte, deren Pappmanschette nie ganz reicht. Jonas hatte zwei Straßen weiter einen Laden gefunden, der früh öffnete. Der Morgen war grau und mild, die Bloemgracht um diese Zeit still, ein Radfahrer, der mit der eiligen Sicherheit eines Mannes vorbeifuhr, der genau dieses Wasser tausendmal entlanggefahren ist.
+Wir verließen die Wohnung um Viertel vor neun mit Kaffee zum Mitnehmen – Pappbecher, deren Manschette nie ganz reicht. Jonas hatte zwei Straßen weiter einen Laden gefunden, der früh öffnete. Der Morgen war grau und mild, die Bloemgracht um diese Zeit still, ein Radfahrer, der mit der eiligen Sicherheit eines Mannes vorbeifuhr, der genau dieses Wasser tausendmal entlanggefahren ist.
 
 Das UMC liegt im Südosten der Stadt. Wir hatten anderthalb Stunden eingeplant, was reichlich war. Jonas hatte die Route auf dem Telefon. Ich kannte die grobe Richtung – oder glaubte es, eine Unterscheidung, auf die ich angefangen hatte, genau zu achten.
 
@@ -12,7 +12,7 @@ Ich dachte nicht an den Transporter.
 
 ---
 
-Die Gasse lag am Kloveniersburgwal, ein schmaler Einschnitt zwischen zwei Gebäuden, der zu einer Parallelstraße durchführte. Jonas hatte sie genommen, weil die Karte sie eine Abkürzung nannte. Es war die Sorte Durchgang, die jede alte Stadt sich hält – zweckmäßig, unauffällig, ein wenig zu still, als hätte die Stadt ihn genau hierfür beiseitegelegt.
+Die Gasse lag am Kloveniersburgwal, ein schmaler Einschnitt zwischen zwei Gebäuden, der zu einer Parallelstraße durchführte. Jonas hatte sie genommen, weil die Karte sie eine Abkürzung nannte. Es war ein Durchgang, wie jede alte Stadt ihn sich hält – zweckmäßig, unauffällig, ein wenig zu still, als hätte die Stadt ihn genau hierfür beiseitegelegt.
 
 Wir waren auf halbem Weg, als ich den Motor hörte.
 
@@ -122,7 +122,7 @@ Wir blieben eine Stunde. Jonas arbeitete die Optionen methodisch durch, was er t
 
 „Du bleibst irgendwo in der Öffentlichkeit“, sagte er. „Der Markt am Waterlooplein. Belebt, offen, von Leuten umgeben. Vierzig Minuten, und ich bin zurück.“
 
-Ich setzte zum Widerspruch an, und er sah mich mit einer Beschaffenheit an, die nicht unfreundlich war und auch nicht offen für Änderungen.
+Ich setzte zum Widerspruch an, und er sah mich mit einem Blick an, der nicht unfreundlich war und auch nicht offen für Änderungen.
 
 „Du hast heute Morgen einen Mann zu Boden gebracht“, sagte er. „Mir ist klar, dass du auf dich aufpassen kannst. Ich gehe trotzdem allein, weil eine Person weniger auffällt als zwei, und eine Person, die sich leise bewegt, noch weniger.“ Eine Pause. „Außerdem muss jemand den Tisch halten.“
 
@@ -132,7 +132,7 @@ Ich sah mich um. Wir saßen in einem Café.
 
 ---
 
-Er fand mich dort, dreiundvierzig Minuten später, mit beiden Taschen und einer leicht außer Atem geratenen Beschaffenheit, die er nicht zur Kenntnis zu nehmen gedachte.
+Er fand mich dort, dreiundvierzig Minuten später, mit beiden Taschen und leicht außer Atem, was er nicht zur Kenntnis zu nehmen gedachte.
 
 „Verdächtiges Fahrzeug“, sagte er und setzte sich. „Dunkler Kombi, zwei Straßen von der Wohnung. Konnte nicht hineinsehen.“
 
@@ -151,6 +151,7 @@ Draußen betrieb der Waterlooplein seinen geschäftigen, fröhlichen Handel. Ein
 Ich hielt meinen Kaffee und sah der Stadt zu und versuchte zu bestimmen, wie viel Angst ich hatte. Die ehrliche Antwort: mehr, als ich zeigte, und weniger, als ich vorhergesagt hätte. Beides stimmte zugleich – was unter den Umständen ein vernünftiger Ort zum Leben schien.
 
 <!-- NOTES -->
+- v2 (native pass): two „Sorte“ frames and two „Beschaffenheit“ re-planned.
 - §C sites rendered as fixed: „Groß, sachlich, mit der geübten Ökonomie von Männern …“ and „Und – gezielter, als das Training erklärt.“ — „effizient“ absent from the chapter.
 - "And we see what holds." → „Und wir sehen, was hält.“ — the *holds* motif (ch34 „Eine, die hält.“ / „Zwei, die halten.“) uses *halten* throughout.
 - "Noted" → „Notiert“ (as ch42); "We'll figure it out." → „Wir finden es heraus.“ (ch35's „Ich finde es irgendwann heraus.“ uses the same verb).

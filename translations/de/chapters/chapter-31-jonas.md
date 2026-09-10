@@ -2,7 +2,7 @@
 
 ---
 
-Iris hatte das Restaurant nebenbei erwähnt, Wochen vor Amsterdam – ein Lokal im Jordaan, in das sie mit Kommilitonen gegangen war, unauffällig von außen, die Sorte, die sich nicht anzukündigen braucht. De Reiger, in der Nieuwe Leliestraat. Sie hatte das Essen so beschrieben, wie sie die Dinge beschreibt, an die sie sich wirklich erinnert: konkret, ohne Aufführung. Den Stamppot. Einen bestimmten Tisch am Fenster.
+Iris hatte das Restaurant nebenbei erwähnt, Wochen vor Amsterdam – ein Lokal im Jordaan, in das sie mit Kommilitonen gegangen war, unauffällig von außen, eines, das sich nicht anzukündigen braucht. De Reiger, in der Nieuwe Leliestraat. Sie hatte das Essen so beschrieben, wie sie die Dinge beschreibt, an die sie sich wirklich erinnert: konkret, ohne Aufführung. Den Stamppot. Einen bestimmten Tisch am Fenster.
 
 Wir fanden es ohne Schwierigkeit. Von außen war es genau, wie sie gesagt hatte – eine schmale braune Caféfront, der Name in schlichten Lettern über der Tür, Licht, das warm durchs Glas kam. Sie blieb einen Moment am Eingang stehen und las das Gebäude, wie sie die ganze Woche Gebäude gelesen hatte: Zeile für Zeile, gegen ein Original, das nur sie sehen konnte.
 
@@ -54,7 +54,7 @@ Sie sah mich an. „Du hast schon entschieden.“
 
 „Ich glaube, *du* hast schon entschieden“, sagte ich. „Ich sage es nur klar zurück.“
 
-Sie schwieg einen Moment. Dann setzte sich etwas in ihrem Gesicht – nicht direkt Erleichterung; eher die Stille einer Entscheidung, die fertig getroffen ist und aufhören kann, um Aufmerksamkeit zu bitten.
+Sie schwieg einen Moment. Dann setzte sich etwas in ihrem Gesicht – nicht eigentlich Erleichterung; eher die Stille einer Entscheidung, die fertig getroffen ist und aufhören kann, um Aufmerksamkeit zu bitten.
 
 „Das UMC“, sagte sie.
 
@@ -71,6 +71,7 @@ Auf dem Weg hinaus blieb ich am Mülleimer an der Ecke der Nieuwe Leliestraat st
 Auf der anderen Straßenseite, dreißig Meter zurück, stand eine Frau am Schaufenster eines geschlossenen Blumenladens und sah auf ihr Telefon. Sie sah nicht auf ihr Telefon. Sie sah zu, wie der Mann etwas in den Mülleimer warf. Sie notierte die Uhrzeit. Sie schickte eine Nachricht aus vier Wörtern, steckte das Telefon weg und ging in die Gegenrichtung, ohne Eile, bis die Straße sie vollständig verschluckt hatte.
 
 <!-- NOTES -->
+- v2 (native pass): „die Sorte, die …“ and „nicht direkt“ varied.
 - Dutch names unchanged: De Reiger, Nieuwe Leliestraat, Jordaan („der Jordaan“ per ch20 glossary), Stamppot („den Stamppot“, masculine as in Dutch usage among German speakers).
 - "We sat with that." → „Wir ließen das sacken.“ (ch26's rendering of the same idiom).
 - "The awning used to be green." → „Die Markise war früher grün.“ — a remembered-detail line; ch33's "Thursdays were Fridays" belongs to the same family.

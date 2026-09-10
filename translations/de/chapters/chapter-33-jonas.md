@@ -8,7 +8,7 @@ Iris saß neben mir und sah die Straßen an. Sie war seit dem Café stiller gewe
 
 „Erzähl mir, woran du dich erinnerst“, sagte ich. „An das Büro.“
 
-Sie überlegte. „Großraum. Schreibtische in losen Gruppen. Eine Küche hinten – gute Kaffeemaschine, die Sorte, die ganze Bohnen nimmt.“ Eine Pause. „Donnerstags gab es informelle Feierabenddrinks. Nur die Redaktion. Irgendjemand brachte immer Bitterballen mit.“
+Sie überlegte. „Großraum. Schreibtische in losen Gruppen. Eine Küche hinten – gute Kaffeemaschine, eine, die ganze Bohnen nimmt.“ Eine Pause. „Donnerstags gab es informelle Feierabenddrinks. Nur die Redaktion. Irgendjemand brachte immer Bitterballen mit.“
 
 „An wen erinnerst du dich?“
 
@@ -114,11 +114,12 @@ Ich sah sie an. Sie hatte Angst – mehr, als sie in der Gasse gezeigt hatte, me
 
 Sie nickte.
 
-Ich nahm meine Tasche. Sie nahm ihre. Wir gingen zur Tramhaltestelle, und die Stadt bewegte sich um uns, und keiner von uns sagte eine Weile etwas, was das Richtige war, um es zu sagen.
+Ich nahm meine Tasche. Sie nahm ihre. Wir gingen zur Tramhaltestelle, und die Stadt bewegte sich um uns, und keiner von uns sagte eine Weile etwas, was genau das Richtige zu sagen war.
 
 Was immer die Orte für uns bereithielten, wir würden hinfahren und in ihnen stehen.
 
 <!-- NOTES -->
+- v2 (native pass): „die Sorte, die …“ and the trailing *which*-clause re-planned.
 - Glossary 47 liturgy form verbatim: „Notieren. Weitermachen.“; ch28/29's „Wir notieren es. Wir machen weiter.“ is the sentence form of the same pair.
 - Glossary 51: „Diese hier war tragend.“; §C ch33 site: „dunkelhaarig, zügig, mit der leichten Zerstreutheit …“.
 - The "holds" motif: „sehen, was hält“ (ch32) — matches ch34's „Eine, die hält.“
