@@ -107,6 +107,7 @@ Eine Brücke ist kein Soldat, dachte ich. Aber sie ist dennoch das, worüber bei
 Ich ging, um beim Tee zu helfen.
 
 <!-- NOTES -->
+- v2 (native pass): read through, unchanged.
 - "guessing that shows its work" → „Raten, das seinen Rechenweg zeigt“ – the German maths-class idiom of the same size.
 - Kept the source's bold on **Vantage Strategic** (the English has it); §G "no bold" read as "add none".
 - GLOSSARY: operational director → „operative Direktorin“; safe houses → „Unterschlüpfe“; private intelligence → „privater Nachrichtendienst“.

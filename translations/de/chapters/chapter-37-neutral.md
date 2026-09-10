@@ -53,6 +53,7 @@ Unter ihnen, vier Stockwerke tiefer, geht der Verkehr auf der Rue de la Loi sein
 Sie setzt sich.
 
 <!-- NOTES -->
+- v2 (native pass): read through, unchanged.
 - Fixed lines verbatim: „Wir wurden nicht abgehängt. Wir wurden vorausgesehen.“ (§E 59); „Und alles in allem – das sind gute Nachrichten.“ (§D title line); „Setzen Sie sich, Mara.“ (§B Hamburger Sie); last line „Sie setzt sich.“
 - Conrad ↔ Mara Sie + first name throughout; „Einsatzkräfte“ / „Einsatzkraft“ for *operators / operative* (glossary 66).
 - Präsens, camera register; "goes on about its ordinary business" → „geht seinen gewöhnlichen Geschäften nach“ (same phrase as ch27).

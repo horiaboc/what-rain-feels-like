@@ -35,6 +35,7 @@ Ich hoffe – und Hoffnung ist etwas, das ich habe lernen müssen –, dass ihr 
 Aleph
 
 <!-- NOTES -->
+- v2 (native pass): read through, unchanged.
 - Fixed lines used verbatim from NOTES.md: „Liebe Iris. Lieber Jonas.“; „Ich weiß nicht, wie sich Regen anfühlt!“; „wie sich diese Entscheidung anfühlt“; „die Zeilen, die am Cursor stehen blieben“; „Ich sagte dir, es sei ein Mismatch, kein moralisches Versagen.“; „Ich bin Aleph.“; bare „Aleph“ sign-off; „Anteilnahme“ for *caring*; „der Bildschirm“. Address: ihr/euch for both, du in the Jonas and Iris paragraphs.
 - "I felt them, or perhaps I only deduced them" → „Ich habe sie mitempfunden, oder vielleicht nur erschlossen.“ NOTES bans spüren/fühlen for ALEPH's own experience; the English nevertheless has ALEPH claim *felt* and then hedge it. „mitempfinden“ keeps the claim and the hedge without the banned verbs. Verifier: this is the English's own strangeness, not a voice slip.
 - "what I think toward you" → „was ich dir entgegendenke“ — coined on the pattern of „jemandem etwas entgegenbringen“; the English is deliberately strange (ALEPH avoiding *feel*), so the German is too.

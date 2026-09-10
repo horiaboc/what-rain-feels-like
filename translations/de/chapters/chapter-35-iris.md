@@ -4,7 +4,7 @@
 
 Der Zug wurde langsamer, und ich stand nicht auf.
 
-Jonas warf mir einen Blick zu – eine kleine Frage, die Sorte, die er irgendwo um Maastricht herum aufgehört hatte, laut zu stellen –, und ich schüttelte den Kopf, einmal. Wir ließen die anderen Fahrgäste ihre Taschen zusammensuchen und zu den Türen gehen. Wir ließen den Bahnsteig draußen sich mit dem gewöhnlichen Betrieb eines kleinen Bahnhofs an einem gewöhnlichen Morgen füllen: ein Mann mit Fahrrad, zwei Studenten, jemandes Großmutter, abgeholt von jemandes geduldigem Sohn. Erst als der Wagen fast leer war, standen wir auf, und selbst dann führte ich uns zuerst in die falsche Richtung – zum Zugende hin, weg von der Haupthalle, dorthin, wo der Bahnsteig schmaler wird und ein Wartungstor auf eine Zufahrt hinauslässt, die niemand fotografiert.
+Jonas warf mir einen Blick zu – eine kleine Frage, eine von denen, die er irgendwo um Maastricht herum aufgehört hatte laut zu stellen –, und ich schüttelte den Kopf, einmal. Wir ließen die anderen Fahrgäste ihre Taschen zusammensuchen und zu den Türen gehen. Wir ließen den Bahnsteig draußen sich mit dem gewöhnlichen Betrieb eines kleinen Bahnhofs an einem gewöhnlichen Morgen füllen: ein Mann mit Fahrrad, zwei Studenten, jemandes Großmutter, abgeholt von jemandes geduldigem Sohn. Erst als der Wagen fast leer war, standen wir auf, und selbst dann führte ich uns zuerst in die falsche Richtung – zum Zugende hin, weg von der Haupthalle, dorthin, wo der Bahnsteig schmaler wird und ein Wartungstor auf eine Zufahrt hinauslässt, die niemand fotografiert.
 
 Niemand hielt uns auf. Niemand sah zweimal hin. Wir kamen auf eine ruhige Straße hinaus, mit unseren Taschen und der Leichtigkeit zweier Menschen, die für den Moment mit etwas davongekommen sind.
 
@@ -56,7 +56,7 @@ Ich sah nicht zurück, um zu prüfen, ob sie es waren. Es war keine Zeit, und in
 
 ---
 
-Die Straße war drei Abzweigungen vom Friedhof entfernt. Doppelhaushälften, kleine Vorgärten, die Sorte Ruhe, die nicht Wohlstand ist, nur Gesetztheit. Unseres – ihres – war das vierte links, blasser Backstein, eine Garage, später angebaut als der Rest des Hauses, in einem leicht anderen Ton.
+Die Straße war drei Abzweigungen vom Friedhof entfernt. Doppelhaushälften, kleine Vorgärten, eine Ruhe, die nicht Wohlstand ist, nur Gesetztheit. Unseres – ihres – war das vierte links, blasser Backstein, eine Garage, später angebaut als der Rest des Hauses, in einem leicht anderen Ton.
 
 In der Einfahrt stand ein Auto, das nicht das Auto aus meiner Erinnerung war, weil es das natürlich nicht war. Als wir auf Höhe des Hauses kamen, ging die Haustür auf, und eine Frau kam heraus, ein Kind auf der Hüfte und eine Einkaufstasche in der anderen Hand, und rief etwas ins Haus zurück – einen Namen, eine Erinnerung, die müde Fröhlichkeit von jemandem mitten in einem gewöhnlichen Dienstag. Ein Mann folgte einen Moment später mit einem zweiten Kind, älter, in freundlichem Streit über etwas mit einem Fußball.
 
@@ -122,9 +122,9 @@ Wir traten hinaus in das gewöhnliche Tageslicht einer Straße, in der nichts me
 
 Das Fahrzeug vom Friedhof stand fünfzig Meter weiter unten, in einem Winkel geparkt, der nahelegte, dass jemand es in Eile abgestellt hatte und ausgestiegen war, um zu Fuß nach etwas zu suchen. Ich sah es, und Jonas sah es im selben Augenblick, und keiner von uns sagte etwas, weil es nichts Nützliches zu sagen gab, nur einen Ort, an dem man sein musste und der nicht hier war.
 
-Wir hatten vielleicht sechs Schritte gemacht, als ein zweiter Wagen – dunkel, unauffällig, die bestimmte Sorte Auto, die existiert, um nicht erinnert zu werden – direkt vor Bernadettes Gartentor an den Bordstein fuhr.
+Wir hatten vielleicht sechs Schritte gemacht, als ein zweiter Wagen – dunkel, unauffällig, genau das Auto, das es gibt, um nicht erinnert zu werden – direkt vor Bernadettes Gartentor an den Bordstein fuhr.
 
-Ein Mann stieg aus. Ohne Eile. In den Fünfzigern, gewöhnlicher Mantel, die Sorte Gesicht, die mehreren Leuten gehört, denen man begegnet ist, und keinem, den man hinterher beschreiben könnte. Er griff nach nichts. Er stand mit sichtbaren, offenen Händen an den Seiten da, so, wie man steht, wenn man gesehen werden will, wie man nach nichts greift.
+Ein Mann stieg aus. Ohne Eile. In den Fünfzigern, gewöhnlicher Mantel, ein Gesicht, das mehreren Leuten gehört, denen man begegnet ist, und keinem, den man hinterher beschreiben könnte. Er griff nach nichts. Er stand mit sichtbaren, offenen Händen an den Seiten da, so, wie man steht, wenn man gesehen werden will, wie man nach nichts greift.
 
 „Iris. Jonas.“ Beide unsere Namen, korrekt, leise. Ich brauchte eine Sekunde, um zu bestimmen, was daran seltsam war: Arcturus hatte mich immer nur beim Namen gekannt. Niemand, der uns seit Amsterdam gefolgt war, hatte je seinen gesagt.
 
@@ -158,7 +158,7 @@ Ich saß hinten und sah zu, wie die Stadt offenem Land wich, das sanfte Grün S�
 
 Irgendwann zog ein Straßenschild vorbei – ein Ortsname, unauffällig, nah genug an der deutschen Grenze, dass ich entfernt verstand, dass wir fast am Rand des Landes waren, ohne beschlossen zu haben, dorthin zu fahren.
 
-Bocholtz war, als wir es erreichten, die Sorte Ort, die sich nicht ankündigt – ein richtiges Dorf, kein Weiler, Straßen mit Reihenhäusern, eine Schule, ein Sportplatz, eine Bäckerei mit halb heruntergelassenem Rollladen, alles mit dem eilelosen, unauffälligen Aussehen von irgendwo, wo niemand hinfährt und von wo auch niemand so recht weggeht. Er bog noch zweimal ab, in Straßen, die schmaler und stiller wurden, und hielt vor einem Haus, in dem hinter zugezogenen Vorhängen schon Licht brannte, warm aussehend, rauchfarben im grauen Nachmittag.
+Bocholtz war, als wir es erreichten, ein Ort, der sich nicht ankündigt – ein richtiges Dorf, kein Weiler, Straßen mit Reihenhäusern, eine Schule, ein Sportplatz, eine Bäckerei mit halb heruntergelassenem Rollladen, alles mit dem eilelosen, unauffälligen Aussehen von irgendwo, wo niemand hinfährt und von wo auch niemand so recht weggeht. Er bog noch zweimal ab, in Straßen, die schmaler und stiller wurden, und hielt vor einem Haus, in dem hinter zugezogenen Vorhängen schon Licht brannte, warm aussehend, rauchfarben im grauen Nachmittag.
 
 „Weiter fahre ich nicht“, sagte er und stieg aus, um uns die Tür zu öffnen, was sich, absurderweise, wie das Gewöhnlichste anfühlte, das den ganzen Tag passiert war.
 
@@ -169,6 +169,7 @@ Er gab mir einen Schlüsselbund und dann einen großen Umschlag, versiegelt, sch
 Dann stieg er wieder ins Auto und fuhr davon, ohne Eile, und war fort, bevor einer von uns auch nur eine einzige nützliche Frage gefunden hatte, die man ihm hätte stellen können.
 
 <!-- NOTES -->
+- v2 (native pass): five „Sorte“ frames re-planned.
 - Casual *felt like* sites rendered per §A as vorkommen: „kam mir das wie etwas vor, das zu sagen mir erlaubt war“; *sich anfühlen* kept for the actual sensation of the second date in her chest.
 - The driver ↔ Iris/Jonas in Sie; Jonas to Iris „Steig ein“ (du).
 - Bernadette's „Kind?“ for *dear* — the address an older Limburg woman would use; „Alles in Ordnung, Kind?“

@@ -69,6 +69,7 @@ Ich sah auf. Sie hatte die Füße auf den Boden gestellt.
 „Ich bin bereit, weiterzugehen.“
 
 <!-- NOTES -->
+- v2 (native pass): read through, unchanged.
 - GLOSSARY: the lane (the village house's street, ch39; setting recurs ch40–42) → „die Dorfstraße“ on first mention, „die Straße“ thereafter. Kept distinct from the alley (Maastricht, ch34, recalled here) → „die Gasse“, since German „Gasse“ is the natural word for *alley* and must not double as the lane.
 - GLOSSARY: the low cabinet (ch39, ch40 — the screen stands on it) → „der niedrige Schrank“.
 - GLOSSARY: the good chair (ch39) → „der gute Sessel“; „der Sessel“ where the English says *the chair* Iris folds into.

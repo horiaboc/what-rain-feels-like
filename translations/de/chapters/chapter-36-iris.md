@@ -2,7 +2,7 @@
 
 ---
 
-Die Tür öffnete sich auf etwas, das sich nur wie Wärme anfühlte. Kein tickender Heizkörper – kein Bedarf, so tief in einem niederländischen August –, aber Wärme trotzdem, gebaut aus anderen Dingen: Lampen, die gegen den dämmernden Abend schon brannten, Farbe, wo ich keine Farbe erwartet hatte. Ein Teppich in tiefem Rot und Ocker. Ein kleiner gerahmter Druck im Flur, den ich nicht erkannte und sofort mochte. Nichts passte zusammen auf die bewusste Art, wie Dinge in einem Zuhause nicht zusammenpassen, das jemand tatsächlich eingerichtet hat, Stück für Stück, mit Geschmack statt nach Liste – gut gemacht, nicht übertrieben.
+Die Tür öffnete sich auf etwas, das sich nur wie Wärme anfühlte. Kein tickender Heizkörper – kein Bedarf, so tief in einem niederländischen August –, aber Wärme trotzdem, gebaut aus anderen Dingen: Lampen, die gegen den dämmernden Abend schon brannten, Farbe, wo ich keine Farbe erwartet hatte. Ein Teppich in tiefem Rot und Ocker. Ein kleiner gerahmter Druck im Flur, den ich nicht erkannte und sofort mochte. Nichts passte zusammen, so bewusst, wie Dinge in einem Zuhause nicht zusammenpassen, das jemand tatsächlich eingerichtet hat, Stück für Stück, mit Geschmack statt nach Liste – gut gemacht, nicht übertrieben.
 
 Ich stand lange im Flur, ohne mich zu bewegen.
 
@@ -30,7 +30,7 @@ Irgendwann löste sich Jonas weit genug, um mich richtig anzusehen. „Hunger?�
 
 Die Küche, als wir anfingen, richtig hinzusehen, machte ihn auf eine andere Art still als der Kaktus.
 
-Eier im Kühlschrank, und daneben der Block Käse, den er tatsächlich kauft – der bestimmte, nicht die Supermarktannäherung daran. Ein Korb festkochender Kartoffeln auf der Küchenzeile, die Sorte für Stamppot. Eine Dose Kaffee im Schrank, gemahlen, wie er ihn mahlt, nicht die vorgemahlene Sorte, über die er sich beschwert, wenn wir irgendwo ohne Maschine sind, neben einer Tüte des besonderen Gebäckmehls, das er an den seltenen Morgen benutzt, an denen er beschließt, etwas von Grund auf zu backen – was er, seit wir zusammen sind, meines Wissens genau einmal getan hat, und wovon irgendjemand, irgendwo, offenbar trotzdem wusste.
+Eier im Kühlschrank, und daneben der Block Käse, den er tatsächlich kauft – der bestimmte, nicht die Supermarktannäherung daran. Ein Korb festkochender Kartoffeln auf der Küchenzeile, wie man sie für Stamppot nimmt. Eine Dose Kaffee im Schrank, gemahlen, wie er ihn mahlt, nicht das Vorgemahlene, über das er sich beschwert, wenn wir irgendwo ohne Maschine sind, neben einer Tüte des besonderen Gebäckmehls, das er an den seltenen Morgen benutzt, an denen er beschließt, etwas von Grund auf zu backen – was er, seit wir zusammen sind, meines Wissens genau einmal getan hat, und wovon irgendjemand, irgendwo, offenbar trotzdem wusste.
 
 „Okay“, sagte er leise, zum Schrank. „Das ist – okay.“
 
@@ -59,6 +59,7 @@ Er drängte nicht. „Okay.“
 Wir fanden Handtücher in einem Wäscheschrank, der nach Lavendel und sonst nichts roch, und ein gemachtes Bett in einem Zimmer oben, mit derselben Sorgfalt wie alles andere, und ich verstand, als ich hineinstieg, dass dieses Haus, was immer es war – eine Freundlichkeit, eine Strategie, beides zugleich, es spielte keine Rolle mehr, welches, nicht heute Abend –, genau das getan hatte, wofür es gebaut worden war. Für einen Abend, in einem Dorf am Rand des Landes, wurden wir nicht gejagt. Wir waren nur müde und satt und warm und zusammen, und das war, für die Länge eines Abends, genug.
 
 <!-- NOTES -->
+- v2 (native pass): „auf die bewusste Art, wie“, „die Sorte für“, „die vorgemahlene Sorte“ re-planned.
 - §C ch36 site: „ließ sich … nichts Zweckmäßiges sagen“ — „effizient“ absent.
 - "something that only felt like warmth" → „etwas, das sich nur wie Wärme anfühlte“ — real sensation, *sich anfühlen* by design; the two other *felt like* sites in the chapter are likewise sensations (eggs as the right size, days).
 - *waxy potatoes* → „festkochender Kartoffeln“ (the correct German type word; „mehligkochend“ would be floury).
