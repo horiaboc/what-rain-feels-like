@@ -2,7 +2,7 @@
 
 ---
 
-In der Czaar Peterstraat gab es ein Café, das früh öffnete, und das brauchten wir – einen Ort, an dem man mit einem Kaffee sitzen konnte und der kein Krankenhausflur war, einen Ort, an dem die Stadt unter Beweis stellen konnte, dass sie noch immer ihren Geschäften nachging. Wir fanden es auf dem Weg vom OLVG; Iris ging vorsichtig, das Tempo gab ihr Kopf vor. Sie hatte die wachsame Art von jemandem, der sich in einem Körper zurechtfinden muss, der kürzlich bewiesen hat, dass er für Überraschungen gut ist.
+In der Czaar Peterstraat gab es ein Café, das früh öffnete, und das brauchten wir – einen Ort, an dem man mit einem Kaffee sitzen konnte und der kein Krankenhausflur war, einen Ort, an dem die Stadt unter Beweis stellen konnte, dass sie noch immer ihren Geschäften nachging. Wir fanden es auf dem Weg vom OLVG; Iris ging vorsichtig, das Tempo gab ihr Kopf vor. Sie hatte die Wachsamkeit von jemandem, der sich in einem Körper zurechtfinden muss, der kürzlich bewiesen hat, dass er für Überraschungen gut ist.
 
 Wir nahmen einen Fenstertisch. Draußen: eine Gracht, eine Brücke, das flache Amsterdamer Licht eines Morgens Ende August. Ein Mann radelte vorbei, hinter sich eine Kiste Brot festgeschnallt. Die Stadt, gleichgültig und treu, tat, was sie seit jeher tut – was an diesem Morgen weniger wie Gleichgültigkeit wirkte und mehr wie ein Versprechen.
 
@@ -14,7 +14,7 @@ Ich hatte die ganze Nacht darüber gesessen.
 
 Die Worte waren in der Reihenfolge geblieben, in der Maes sie gesagt hatte: die Knochendichte, die Gleichmäßigkeit, die Konnektivität des Kortex, die Schürfwunden, die sich schneller schlossen, als sie sollten. Ich hatte die Sequenz wieder und wieder durchlaufen lassen, so wie man einen Satz durchlaufen lässt, den man nicht parsen kann, in der Hoffnung, die Wiederholung würde die Grammatik losrütteln. Hatte sie nicht. Womit ich am Morgen dastand, war einfacher und schwerer als jede Theorie: Ich wusste nicht, was mit Iris nicht stimmte – oder ob *nicht stimmen* überhaupt der richtige Ausdruck war –, und das Nichtwissen saß in mir wie ein Stein, für den ich keine Tasche hatte.
 
-Ich machte mir Sorgen um sie. Das war alles. Nicht neugierig. Nicht analytisch. Besorgt, auf die flache, genaue Art, in der man um einen Menschen Angst hat, den man liebt. Die Befunde waren kein Rätsel; sie waren ihr Körper – der Körper des Menschen, neben dem ich seit Monaten einschlief –, und etwas darin war anders, als wir beide es verstanden hatten, und ich wusste noch nicht, was das für sie bedeutete.
+Ich machte mir Sorgen um sie. Das war alles. Nicht neugierig. Nicht analytisch. Besorgt, flach und genau, wie man um einen Menschen Angst hat, den man liebt. Die Befunde waren kein Rätsel; sie waren ihr Körper – der Körper des Menschen, neben dem ich seit Monaten einschlief –, und etwas darin war anders, als wir beide es verstanden hatten, und ich wusste noch nicht, was das für sie bedeutete.
 
 „Du hast nicht geschlafen“, sagte Iris.
 
@@ -58,7 +58,7 @@ Sie sah mich an.
 
 „Was auch immer das ist. Eine genetische Erkrankung, etwas, das noch niemand gesehen hat, etwas ohne Kategorie – ich bin da. Ich werde keine Angst vor dir bekommen, und ich werde nicht durcheinanderkommen mit dem, was ich fühle. Ich weiß, was ich fühle.“ Ich hielt inne. „Du bedeutest mir zu viel. Dieser Teil steht nicht zur Überarbeitung.“
 
-Sie wurde still. Ihre Augen taten das, was sie manchmal tun – nicht sich füllen, nicht direkt; sich klären. Sehr gegenwärtig werden, als wollten sie etwas behutsam aufnehmen und an einen geschützten Ort legen.
+Sie wurde still. Ihre Augen taten das, was sie manchmal tun – nicht sich füllen, nicht eigentlich; sich klären. Sehr gegenwärtig werden, als wollten sie etwas behutsam aufnehmen und an einen geschützten Ort legen.
 
 „Das sollst du wissen“, sagte ich. „Vor allem anderen. Du sollst es einfach wissen.“
 
@@ -90,7 +90,7 @@ Sie sah mich an.
 
 ---
 
-Wir gingen zurück in die Wohnung, und sie schlief – richtig, den Schlaf von jemandem, der eine Nacht lang in Abständen überwacht wurde und nun den echten braucht. Ich saß am Küchentisch, draußen die Gracht, und überlegte mir, was wir tun würden. Die Überweisungen würden in ein, zwei Tagen da sein – Orthopädie und Neurologie, hatte Maes gesagt. Ich las über das Amsterdam UMC nach: ein großes Universitätsklinikum, genau die Art von Ort für Befunde ohne Kategorie. Ich machte eine Liste: was wir wussten, was die Ärzte gesagt hatten, was zu fragen uns noch nicht eingefallen war. In mancher Hinsicht war es eine kurze Liste. In anderer war es die längste Liste, die ich je gemacht habe.
+Wir gingen zurück in die Wohnung, und sie schlief – richtig, den Schlaf von jemandem, der eine Nacht lang in Abständen überwacht wurde und nun den echten braucht. Ich saß am Küchentisch, draußen die Gracht, und überlegte mir, was wir tun würden. Die Überweisungen würden in ein, zwei Tagen da sein – Orthopädie und Neurologie, hatte Maes gesagt. Ich las über das Amsterdam UMC nach: ein großes Universitätsklinikum, genau der Ort für Befunde ohne Kategorie. Ich machte eine Liste: was wir wussten, was die Ärzte gesagt hatten, was zu fragen uns noch nicht eingefallen war. In mancher Hinsicht war es eine kurze Liste. In anderer war es die längste Liste, die ich je gemacht habe.
 
 Als sie am späten Nachmittag aufwachte, war das Licht im Fenster golden geworden. Sie kam aus dem Schlafzimmer und blieb einen Moment in der Tür stehen, unsicher, wie man es ist, wenn tiefer Schlaf einen in ein fremdes Zimmer entlässt – und dann fand sie mich am Tisch, und die Unsicherheit legte sich.
 
@@ -98,11 +98,12 @@ Als sie am späten Nachmittag aufwachte, war das Licht im Fenster golden geworde
 
 „Gern“, sagte sie.
 
-Sie saß, während ich ihn machte. Dann saßen wir zusammen am Fenster über der Gracht – das späte Licht auf dem Wasser, die Stadt draußen mit ihren eigenen Angelegenheiten beschäftigt –, und ich reichte ihr die Tasse, und sie hielt sie mit beiden Händen, und wir waren still auf die Art von zwei Menschen, die gesagt haben, was gesagt werden musste, und es nicht zweimal sagen müssen.
+Sie saß, während ich ihn machte. Dann saßen wir zusammen am Fenster über der Gracht – das späte Licht auf dem Wasser, die Stadt draußen mit ihren eigenen Angelegenheiten beschäftigt –, und ich reichte ihr die Tasse, und sie hielt sie mit beiden Händen, und wir waren still wie zwei Menschen, die gesagt haben, was gesagt werden musste, und es nicht zweimal sagen müssen.
 
 Was auch immer als Nächstes kam, die Ausführungsreihenfolge stand fest: Sie zuerst. Das Rätsel danach.
 
 <!-- NOTES -->
+- v2 (native pass): five „Art von …“ / „nicht direkt“ frames re-planned.
 - "Whatever this turns out to be" rendered as the bare „Was auch immer das ist.“ so the §D title line appears verbatim in the body; "turns out" is carried by the list of possibilities that follows.
 - "the order of operations was settled" → „die Ausführungsreihenfolge stand fest“: the engineer's word keeps the last-line joke; „Reihenfolge der Operationen“ avoided because in a hospital chapter it reads as surgeries.
 - "sitting with it" (three sites) → „darüber gesessen“ for the night/chair sites (keeps the literal chair), „Ich ließ das sacken“ for the beat after „Genug für ein Muster“.

@@ -9,6 +9,7 @@ Um 02:14 Uhr erscheint ein schwaches Licht am Schlüsselbein entlang, unter der 
 Das Zimmer wird wieder dunkel. Keiner von beiden rührt sich. Sein Arm bleibt, wo er war. Die Nacht geht weiter, gewöhnlich und vollständig.
 
 <!-- NOTES -->
+- v2 (native pass): read through, unchanged.
 - Fixed line from NOTES.md §E 49 used verbatim: „Die Nacht geht weiter, gewöhnlich und vollständig.“ Heading per §D. Timestamp „02:14 Uhr“ per §G (ALEPH's timestamps).
 - GLOSSARY: "collarbone" → „Schlüsselbein“. Recurs in ch12 („the curve of my collarbone“), ch47 twice („beneath your left collarbone“, „under my collarbone“), ch55 („under the left collarbone“) — „unter dem linken Schlüsselbein“ at those sites. Here the English says *the* collarbone with no possessive; the German keeps the bare article so whose it is stays unsaid.
 - GLOSSARY: "houseboats" → „Hausboote“ (Amsterdam chapters).

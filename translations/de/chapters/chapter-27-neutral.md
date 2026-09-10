@@ -31,6 +31,7 @@ Er sagt: „Finden Sie sie.“
 Sie nimmt das Tablet und geht. Die Tür schließt sich. Der Verkehr auf der Rue de la Loi geht weiter, ohne Eile, uninformiert, seinen gewöhnlichen Geschäften nach.
 
 <!-- NOTES -->
+- v2 (native pass): read through, unchanged.
 - Times kept with the leading zero („09:47 Uhr“) as in the English: these are system timestamps, not prose clock times.
 - „Ein Patient“: generic masculine kept so the gender is not tipped before „Finden Sie sie.“; the record register justifies it.
 - GLOSSARY: monitoring layer → „Monitoring-Schicht“; node → „Knoten“; the hospital's own flag is „markiert“ so that „Meldung“ stays Vantage's word (§E 67).

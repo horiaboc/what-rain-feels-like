@@ -26,7 +26,7 @@ Innerhalb einer Stunde holten sie mich zum Scan.
 
 Die Maschine war laut. Ich lag mit geschlossenen Augen darin und verfolgte die Sequenzen nach Gehör – verschiedene Töne für verschiedene Arbeit, die Liege, die sich dazwischen leicht verschob. Ich konzentrierte mich auf das Stillhalten, das leichter ist als sein Ruf, wenn Bewegung wehtut.
 
-Woran ich dachte, da drin: die Mauer am Ende der Straße. Der Brunnen, der keiner war. Nicht das Unstimmige selbst – ich hatte das Unstimmige verarbeitet und beiseitegelegt –, sondern das Beiseitelegen. Das Automatische daran. Als gäbe es irgendwo in mir einen Mechanismus, genau darauf trainiert, und als wäre er so reibungslos eingerastet, dass ich das Klicken beinahe überhört hätte.
+Woran ich dachte, da drin: die Wand am Ende der Straße. Der Brunnen, der keiner war. Nicht das Unstimmige selbst – ich hatte das Unstimmige verarbeitet und beiseitegelegt –, sondern das Beiseitelegen. Das Automatische daran. Als gäbe es irgendwo in mir einen Mechanismus, genau darauf trainiert, und als wäre er so reibungslos eingerastet, dass ich das Klicken beinahe überhört hätte.
 
 Die Maschine machte ihr letztes Geräusch. Die Liege schob mich zurück hinaus in die Welt.
 
@@ -44,7 +44,7 @@ Irgendwann sagte er: „Du musst nicht reden.“
 
 „Ich weiß“, sagte ich noch einmal.
 
-Er sah mich an, mit jener Art von Aufmerksamkeit, die nach nichts sucht – nur Anwesenheit, ausgerichtet. Dann sah er wieder zum Vorhang, still, und seine Hand blieb, wo sie war. Die Hand war der Satz. Ich las ihn mehrmals.
+Er sah mich an, mit einer Aufmerksamkeit, die nach nichts sucht – nur Anwesenheit, ausgerichtet. Dann sah er wieder zum Vorhang, still, und seine Hand blieb, wo sie war. Die Hand war der Satz. Ich las ihn mehrmals.
 
 ---
 
@@ -56,7 +56,7 @@ Ich sagte: gut.
 
 Sie sagte: allerdings.
 
-Sie sagte, die Bildgebung habe Befunde gezeigt, die sie besprechen wolle, und sie ging vorsichtig mit ihrer Sprache um, in der Art von jemandem, der jedes Wort erst wählt, wenn er bei ihm angekommen ist – das absichtlich nicht alarmierende Register, das selbst schon eine Art Alarm ist.
+Sie sagte, die Bildgebung habe Befunde gezeigt, die sie besprechen wolle, und sie ging vorsichtig mit ihrer Sprache um, wie jemand, der jedes Wort erst wählt, wenn er bei ihm angekommen ist – das absichtlich nicht alarmierende Register, das selbst schon eine Art Alarm ist.
 
 Ihre Knochenstruktur ist nicht typisch, sagte sie. Die Dichte ist erheblich höher als normal – weit außerhalb des erwarteten Bereichs – und sie ist ungewöhnlich gleichmäßig. Knochen ist normalerweise unregelmäßig. Er variiert; er trägt eine Art inneres Gerüst. Ihrer zeigt das nicht. Nicht ungesund. Einfach – anders als alles in unseren Referenzdaten.
 
@@ -125,9 +125,11 @@ Er blieb die Nacht über auf dem Stuhl. Ich glaube nicht, dass er viel schlief. 
 Am Morgen entließen sie mich. Hinter dem Fenster begann die Stadt ihren gewöhnlichen Tag, das Grachtenlicht blass und exakt. Jonas ging Kaffee suchen, während ich mich anzog, und kam mit zwei Bechern zurück und einem entschuldigenden Gesichtsausdruck, was deren mutmaßliche Qualität betraf, und ich dachte: Was auch immer die Befunde bedeuten, was auch immer kommt – daran halte ich mich fest. Daran. Am Kaffee und am entschuldigenden Blick und an der Hand, die die ganze Nacht in Reichweite blieb.
 
 Wir gingen zusammen hinaus in den Amsterdamer Morgen.
+
 <!-- NOTES -->
+- v2 (native pass): „in der Art von jemandem“, „jener Art von Aufmerksamkeit“ re-planned; „die Wand am Ende der Straße“ now matches ch24.
 - "of course" rendered „natürlich“ at all three sites; being one word, "phrase" became „Wort“ in the paragraph about it. GLOSSARY: of course (Iris's reflex, ch25 on) = natürlich.
 - Dr. Maes's speech kept as unmarked direct/indirect speech without quotation marks, as the English; Sie per §B. GLOSSARY: the attending = der behandelnde Arzt.
 - "enough to sleep on": German has no "sleep on it" idiom of this shape; kept the mattress image („genug, um darauf zu schlafen“).
-- "the wall at the end of the street" → „die Mauer“ (verifier to check ch24 for Mauer vs. Wand); "the fountain that wasn't" → „Der Brunnen, der keiner war.“
+- "the fountain that wasn't" → „Der Brunnen, der keiner war.“
 - "cleared me to leave" → „entließen sie mich“; "the small hours" → „in den frühen Morgenstunden“; "a monitor on my finger" → „ein Clip am Finger“; "a line" → „ein Zugang“.

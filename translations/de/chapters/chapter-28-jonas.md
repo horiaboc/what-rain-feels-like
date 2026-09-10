@@ -121,6 +121,7 @@ Zwei Tage bis zum UMC. Morgen, wenn der Kopf es zuließ, hatte sie mir eine Stad
 Draußen tat die Gracht, was Grachten tun, nämlich in Bewegung bleiben und still bleiben – ein Grundsatz, den ich allmählich zu bewundern begann.
 
 <!-- NOTES -->
+- v2 (native pass): read through, unchanged.
 - "canal" is „Gracht“ throughout (Amsterdam usage; matches §E 20 „an der Bloemgracht“); "the place" opens as „der Laden“ before the café is named.
 - "a tooth that has begun to feel loose" → „der angefangen hat zu wackeln“ (Wackelzahn idiom); keeps *sich anfühlen* reserved for the motif.
 - "That's the bar we're clearing / It's a reasonable bar" → Messlatte exchange; "Might just be wrong / Might be" → „Ich könnte mich einfach irren“ / „Könntest du“.

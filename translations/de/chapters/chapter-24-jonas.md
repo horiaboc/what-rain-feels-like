@@ -30,7 +30,7 @@ Iris fuhr voraus und führte mich durch Straßen, die sie offenbar in einem frü
 
 „Länger, nächstes Mal“, stimmte sie zu.
 
-Wir fuhren weiter. Der Leidseplein und die Straßen dahinter – ihr Studentenviertel. Sie ging mit mir eine Straße entlang, die sie, wie sie sagte, gut kannte, und erzählte von dem Haus, in dem sie gewohnt hatte, von einem Winter, den sie dort verbracht hatte, von einer Buchhandlung zwei Straßen weiter, die bis spät geöffnet gewesen war. Sie war entspannt auf die Art eines Menschen, der über Boden geht, den er kennt.
+Wir fuhren weiter. Der Leidseplein und die Straßen dahinter – ihr Studentenviertel. Sie ging mit mir eine Straße entlang, die sie, wie sie sagte, gut kannte, und erzählte von dem Haus, in dem sie gewohnt hatte, von einem Winter, den sie dort verbracht hatte, von einer Buchhandlung zwei Straßen weiter, die bis spät geöffnet gewesen war. Sie war entspannt wie ein Mensch, der über Boden geht, den er kennt.
 
 Oder zu kennen glaubt.
 
@@ -101,6 +101,7 @@ Iris sagte, natürlich.
 Und so kam es, dass wir unseren letzten Tag in Amsterdam im OLVG verbrachten statt an den Grachten. Nicht die Führung, die sie geplant hatte. Aber die, wie sich herausstellen sollte, die uns die Stadt unter der Stadt zeigte – die, die auch auf keiner Karte steht.
 
 <!-- NOTES -->
+- v2 (native pass): „auf die Art eines Menschen“ re-planned; the street ends at „einer Wand“ (a facade) — ch25 recalls it with the same word.
 - "filed" → „abgeliefert“ (newsroom usage); "a thing that doesn't add up" → the German set phrase „eine Rechnung, die nicht aufgeht“.
 - GLOSSARY: tram tracks → „Tramgleise“ (matches the ch52 title), tram rail → „Tramschiene“; articles fixed: „der Jordaan“, „der Leidseplein“, „der Noordermarkt“.
 - "the doctor" (gender unstated in English) rendered „der Arzt“; align with ch25 if the OLVG doctor is named or female there.
