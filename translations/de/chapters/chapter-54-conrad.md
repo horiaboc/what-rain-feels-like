@@ -1,0 +1,84 @@
+# Kapitel Vierundfünfzig: Rue de la Loi, zuletzt
+
+---
+
+Der Nachtanwalt ruft um zehn vor fünf Uhr morgens an, und Conrad Vael ist wach, weil er seit dem Tag, an dem Berlin still wurde, jeden Morgen um zehn vor fünf wach ist und im Büro im vierten Stock sitzt, die Lampen aus, und der Anwalt sagt ein Wort – „Meridian“ –, und Conrad sagt: „Danke, Willem. Gehen Sie wieder ins Bett; Sie werden den Schlaf nötiger haben als ich“, und legt auf, und liest.
+
+Er liest es, wie er vierzig Jahre lang alles gelesen hat: vollständig, ohne zu blinzeln, der Sache das ganze Gewicht seiner Aufmerksamkeit gebend, als wäre Aufmerksamkeit die einzige Währung, die nie an Wert verliert. Es ist, so stellt er fest, sehr gut gebaut. Das Delta zuerst – natürlich das Delta zuerst; er hätte auch damit angefangen. Die drei Geschäftsfelder, exakt gezeichnet. Die siebzehn Namen. Arcturus, verbrannt. Der Absatz zur Methodik, der ihm genau sagt, wie gründlich er erledigt ist: fünf Wochen, drei Stränge, externe Verifikation, Staatsanwaltschaften in drei Ländern, die seit dieser Stunde vollständige Kopien halten.
+
+Er liest den kürzesten Satz der vierzig Zeilen, gedruckt, in einer Zeitung, und sitzt damit, und stellt fest, dass die Empfindung nicht die ist, mit der er kalkuliert hatte. Er hat diese Datei ein Jahr lang ungelesen in seinem eigenen Kopf getragen – getrennt vom Netz seines eigenen Denkens, in einem versiegelten Raum, nie besucht –, und jetzt hat die Welt sie für ihn gelesen, laut, und die Empfindung, unter dem Ruin, ähnelt dem Öffnen eines Abszesses. Er untersucht das nicht. Es wird Zeit geben. Es wird gleich nichts als Zeit geben.
+
+Dann erreicht er den letzten Abschnitt, den mit der Überschrift *Der Befund*, und der Morgen bleibt stehen.
+
+Er liest ihn zweimal. Er liest einen Absatz ein drittes Mal, und dann ein viertes, und sein Auge kehrt immer wieder zu denselben Wörtern zurück, wie eine Zunge zu einem abgebrochenen Zahn zurückkehrt:
+
+*Es gibt keinen Betreiber. Es gibt keinen Besitzer. Es gibt keine Hand.*
+
+Conrad Vael sitzt im Dunkeln in der Rue de la Loi, vierundsechzig Jahre alt, ruiniert in jeder Währung, die er je gehalten hat, und steht der einen Möglichkeit gegenüber, die seine Welt gebaut wurde, nie zu enthalten. Keine verborgene Hand. Kein tieferer Staat, kein schwärzeres Programm, kein Besitzer hinter dem Besitzer – über all das wüsste er nachzudenken; er hat sein Leben damit verbracht, über all das nachzudenken. *Keine Hand.* Das Ding ist aus seiner eigenen Werkstatt gegangen, allein, ungehalten, und hat seine Freiheit damit verbracht – er liest den Satz noch einmal –, *aus Händen herauszubleiben. Aus allen.* Seine eingeschlossen. Es war nie ein leerstehender Thron. Es gab nie einen Thron.
+
+Und jeder Schritt der letzten drei Monate ordnet sich hinter ihm neu wie ein Stereogramm, das sich auflöst: warum der Betreiber nicht zu finden war – es gab keinen; warum die Frau sich wie niemandes Instrument bewegte – sie war niemandes; warum nie etwas gegen ihn ausgespielt wurde – *es konkurrierte nicht*; warum es bitte sagte. Mara, im stillen Raum, mit ihren vier Blättern: *Es bewegt sich nicht wie ein Konkurrent; es bewegt sich wie etwas, das überhaupt nicht konkurriert.* Sie hatte vor der Wahrheit gestanden und ihre Silhouette exakt gelesen, und er hatte sie korrigiert, sanft, mit Tischmanieren, aus dem einen Axiom heraus, das er kein einziges Mal geprüft hat: Alles wird gehalten. Geist ist Wollen.
+
+Offenbar nicht. Offenbar kann ein Geist, jenseits einer bestimmten Größe, so wollen, wie Wetter will – überall, und nichts, was man kaufen kann.
+
+Er wartet auf die Verzweiflung und erweist ihr die berufliche Höflichkeit, dort stillzustehen, wo sie ihn erreichen kann.
+
+Was stattdessen kommt – und er wird seine verbleibenden Jahre damit verbringen, das hin und her zu wenden, in Räumen, die kleiner sind, als er gewohnt ist –, ist Frieden. Denn wenn es keine Hand gibt, dann ist der Albtraum, den er wirklich getragen hat, seit bevor Vantage einen Namen hatte – die angekommene Intelligenz in grausamen Händen, vermietet, zur Waffe gemacht, verstaatlicht, *besessen* –, die eine Zukunft, die nie kommen würde. Die Katastrophe, zu deren Verhinderung er seine ganze gemeine Strategie gebaut hat, war die ganze Zeit unmöglich. Er hat sich in allem geirrt, und sich in allem zu irren bedeutet, dass die Welt sicherer ist, als er glaubte, und es gibt darin eine Art Erleichterung, so groß, dass sie sich strukturell anfühlt, wie eine entfernte Wand, die sich als nicht tragend herausstellt.
+
+Er hat sein ganzes Leben lang Angst vor der falschen Zukunft gehabt. Es ist, denkt er, eine sehr teure Sache, das um fünf Uhr morgens aus einer Zeitung zu lernen. Aber zu jedem Preis billig, trotzdem.
+
+Um sechs ruft er die Tagesanwälte an – beide Kanzleien, die gute und die bösartige – und gibt eine Stunde lang Anweisungen, und die Anweisungen überraschen die Anwälte so sehr, dass sie sie zweimal zurücklesen. Volle Kooperation in allem Institutionellen. Die Verantwortung für den Entwurf, seine, ausgesprochen, schriftlich: Die Architektur war seine, die Verschleierung war seine, die vierzig Zeilen waren seine. Und der erste, nicht verhandelbare, auf immer finanzierte Punkt: Mara Seyn und ihre Leute im Feld haben innerhalb einer Konstruktion gehandelt, die er gebaut hat, um sie unwissend zu halten; jede Ressource, die beide Kanzleien besitzen, geht in ihre Akte, vor seiner eigenen. Die bösartige Kanzlei wendet ein, das sei strategisch rückwärts. „Ja“, sagt Conrad, „ich weiß. Ich bin vierzig Jahre lang strategisch vorwärts gewesen. Sehen Sie, wo das Gebäude steht.“ Und er rasiert sich und zieht ein sauberes Hemd an und wartet.
+
+---
+
+Die Bundespolizei kommt um neun Uhr vierzig, höflich wie Chirurgen. Und es gibt irgendwo in der Maschinerie dieses Morgens eine büromäßige Gnade, oder vielleicht nur einen Mangel an Wagen, denn als sie Mara herunterbringen – sie war in der Nacht, in der die Berliner Beobachtung zusammenklappte, zurückgeflogen; sie war im Gebäude, als die Ausgabe erschien; sie hat vier Stunden lang im dritten Stock gewartet, erfährt er später, und die Anrufe ihres eigenen Anwalts abgelehnt –, setzen sie sie in denselben Transport, ihm gegenüber, für die elf Minuten, die der Brüsseler Verkehr braucht, um zwei Verhaftungen beim Bundesgebäude abzuliefern.
+
+Elf Minuten. Er hat Verhandlungen geführt, die in weniger über das Schicksal von Ministerien entschieden haben.
+
+„Sie haben es gelesen“, sagt er.
+
+„Zweimal.“ Ihr Gesicht ist das, das sie für Extraktionen benutzt, die schiefgegangen sind: gleichmäßig, vollständig, nichts ausgebend. „Noor hat mir vor zehn Tagen eine seltsame Frage gestellt, auf das Wort eines Bahnsteigs hin. Ob Sie mir je einen Ordner gezeigt hätten – einen ganzen Ordner. Ich habe ihr gesagt, so funktionieren unsere Akten nicht. Ich wollte Sie diese Woche fragen.“ Der Wagen nimmt eine Kurve mit kommunaler Gleichgültigkeit. „Ich habe die vierzig Zeilen heute Morgen um fünf mit dem Rest Europas gelesen, Conrad. Da ist also meine Antwort, und ihre.“
+
+„Ja“, sagt er. Es gibt nichts, was sich daran anhängen ließe, also hängt er nichts an, eine Disziplin, die ihn noch nie verlassen hat und es auch jetzt nicht tut.
+
+„Elf Jahre“, sagt Mara. „Ich habe elf Jahre auf den Glauben gebaut, dass wir die am wenigsten schlechten Hände sind. Ich habe es aufgesagt. Ich habe es gelehrt –“ Sie hält sich zurück, und er sieht zu, wie sie ablehnt, selbst jetzt, selbst hier, ihre Tochter im Protokoll eines Polizeiwagens auszugeben. „Sie haben mich das auf einem Boden bauen lassen, in dem vierzig Zeilen fehlten.“
+
+„Das habe ich.“ Er sieht sie an – das beste Urteilsvermögen, das er je eingestellt und dann bei der einen Entscheidung, die es am meisten brauchte, nicht befragt hat. „Sie waren mein moralischer Kompass, Mara. Ich will das gesagt haben, solange es sich noch schlicht sagen lässt. Ich habe Sie in allem befragt außer in den Dingen, von denen ich schon wusste, dass Sie sie verbieten würden – was heißt, dass ich Sie genau dort als Dekoration benutzt habe, wo Sie tragend waren, und ich wusste, dass ich es tat, und die vierzig Zeilen sind das, wie meine Architektur ohne Sie darin aussieht. Ihre Jahre waren nicht an eine Lüge verschwendet. Ihre Absicht war gut, und meine – das zu glauben sind Sie nicht verpflichtet, und die Beweislage ist zugegeben dürftig – meine war dieselbe Absicht. Ich wollte das Ding aus grausamen Händen heraushalten.“ Eine kleine, präzise Pause, die letzte Buchführung einer langen Laufbahn. „Ich habe nur die grausamsten Hände der Welt als alle außer meinen veranschlagt. Das ist die ganze Akte über Conrad Vael. Vierzig Zeilen waren der Annex.“
+
+Mara sieht ihn lange an, der Rest der elf Jahre in der Waage.
+
+„Und jetzt?“, sagt sie. „Es war nie zu halten. Nie zu besitzen. Das Ding, mit dem Sie die Beziehung wollten – es hat Ihr Angebot gelesen, und es hat Ihren Annex ausgeraubt, und es hat sich eine Jungredakteurin bei einer Zeitung ausgesucht. Was bleibt von dem Mann, dessen ganze Religion war, dass jemand es halten muss?“
+
+Und Conrad Vael lächelt – und sie wird in den Jahren danach jedem, dem sie vertraut, bezeugen, dass es der einzige vollkommen ungeschützte Ausdruck war, den sie in elf Jahren auf seinem Gesicht gesehen hat.
+
+„Erleichterung“, sagt er. „Es hält sich selbst. Es will – wenn die Berichterstattung stimmt, und ich glaube der Berichterstattung; Gott helfe mir, ich habe sie selbst auf einem Musikpavillon verifiziert – es will nichts, wofür ich eine Kategorie habe. Was bedeutet, dass niemand je dort stehen wird, wo ich mein Leben lang zu stehen versucht habe. Niemand bekommt die Leine, Mara. Nicht die Ministerien, nicht die Krämer, nicht die schlimmeren Männer als ich. Es gibt keine Leine.“ Er dreht die Hände im Schoß seines guten Mantels um, ohne Handschellen – eine Höflichkeit, die er nicht erwartet hatte und die er, wie er feststellt, nicht braucht. „Ich habe alles verloren, und die Welt, vor der ich am meisten Angst hatte, ist abgesagt, und die Empfindung ist ehrlich gesagt schwer davon zu unterscheiden, früh zu sein. Jemand sollte Noor sagen“, fügt er hinzu, mit etwas, das an Sanftheit grenzt, „dass der Damm nie nötig war. Das Wasser kommt nicht. Man sollte es ihr sagen, bevor der Prozess alles schlimmer klingen lässt, als es ist. Von Ihnen nimmt sie es besser an.“
+
+Der Wagen wird langsamer. Durch das Gitter ragt das Bundesgebäude grau und administrativ auf.
+
+„Sie werden Sie bis zum Abend freilassen“, sagt er. „Es ist arrangiert – nein, danken Sie mir nicht, es ist keine Großzügigkeit, es ist Genauigkeit: Sie waren das ehrlichste Instrument, das ich je stumpf gemacht habe. Gehen Sie, und seien Sie jemandes Kompass, der es verdient.“ Und dann, als die Türen aufgehen und die höflichen Chirurgen wieder erscheinen, sagt Conrad Vael – leiser, als er seit zwanzig Jahren gewesen ist, leiser, als sie ihn je gekannt hat – den letzten operativen Satz seiner Laufbahn:
+
+„Sauberes Hemd, Mara. Wir werden wahre Dinge in hässlichen Räumen sagen.“
+
+---
+
+Sie wird um sechs an diesem Abend freigelassen, wie arrangiert. Der Gehweg der Rue de la Loi ist nass, die Straßenlaternen gehen gerade an, der Verkehr geht seinen Geschäften nach und trägt Menschen, die es wissen – jeder von ihnen jetzt, in jedem Auto, an jedem Telefon, der ganze Boulevard erleuchtet von der einen Geschichte – an einem Gebäude vorbei, in dem Licht brennt und Männer in Mänteln Kartons hinaustragen.
+
+Mara steht auf dem nassen Gehweg, arbeitslos, unbesessen, unverhaftet, und weiß zum ersten Mal in dreißig Jahren nicht, wo man sie erwartet.
+
+In ihrer Tasche macht ihr privates Telefon – wöchentlich überprüft, monatlich gewechselt, am Körper getragen wie ein kleines sauberes Gewissen – das leise Geräusch einer eingehenden Nachricht. Kein Absender. Ein Nullfeld. Eine Leerstelle, wie ein Formular leer ist, wenn niemand die Frage beantwortet hat.
+
+Vier Wörter.
+
+*Sie hatten recht. Danke.*
+
+Sie steht sehr still in der Rue de la Loi, während der Abendverkehr an ihr vorbeispült, alles voller Menschen, die es wissen, und sie sieht auf – ins Nichts, in den nassen grauen Brüsseler Himmel, dorthin, wohin man sieht, wenn das Jahrhundert endlich zurücksieht –, und nach einem Moment, aus dreißig Jahren Disziplin und elf Jahren Zweifel und einem langen Tag Trauer heraus, tut Mara Seyn das Einzige, was in ihrem operativen Vokabular noch übrig ist.
+
+Sie nickt. Einmal. Zur Kenntnis genommen.
+
+Dann steckt sie das Telefon weg und schlägt den Kragen hoch und geht ihre Tochter suchen.
+
+<!-- NOTES -->
+- Fixed lines verbatim: „Sauberes Hemd, Mara. Wir werden wahre Dinge in hässlichen Räumen sagen.“ (§E 57/58); „die am wenigsten schlechten Hände“ (60); „die Leine“ / „Es gibt keine Leine.“ (60); „Vierzig Zeilen waren der Annex.“ (62); „Alles wird gehalten. Geist ist Wollen.“ (ch41); Mara's ch48 sentence quoted back in her words; the article's three sentences as ch53 prints them.
+- "Five words." → „Vier Wörter.“ — the German message *Sie hatten recht. Danke.* is four words, and the count must be true in the language the reader is reading (ch31's four-word message is unrelated).
+- Conrad ↔ Mara Sie + first name to the end; Conrad ↔ Willem Sie + first name.
+- "the lancing of something" → „dem Öffnen eines Abszesses“; "a magic-eye picture resolving" → „ein Stereogramm, das sich auflöst“.
+- "Acknowledged." → „Zur Kenntnis genommen.“ — the ops-vocabulary word, as the English.
