@@ -158,13 +158,23 @@ reviews. Target 10–15. Nothing in Phase 5 starts before that.
 
 **Two things left open at publication:**
 
-- **The paperback ISBN never made it onto the copyright page.** Phase 2's
-  round-trip (KDP assigns the free ISBN → `tools/bookbuild/config.py` →
-  rebuild → upload *that* interior) did not happen, so `ISBN_PAPERBACK` is
-  still an unfilled placeholder and the renderer omits the line. Amazon
-  prints the barcode on the cover regardless, so this is not a violation and
-  not urgent — but bookshops and libraries expect it inside the book, and the
-  interior can be replaced after publishing without penalty. Needs the ISBN.
+- **The paperback ISBN is set, but the corrected interior is not uploaded
+  yet.** KDP assigned `9798173180698`; it is now in `config.py` and prints on
+  the copyright page (`9d69e96`). Both formats went into review before the
+  fix, and KDP locks a title in review against editing — so the file in
+  `build/en/` is correct and the file on KDP is not. **Upload
+  `build/en/What-Rain-Feels-Like_interior.pdf` as soon as the review clears.**
+  Interior only; the page count is still 273 so the cover is unchanged.
+- **The byline is unsettled.** KDP has "Horia Bochis"; the book's title page,
+  running head and cover say `_horia` (`config.py:73`). Worth making these one
+  thing — the author name gets sticky after publication and changing it later
+  goes through KDP support and can orphan reviews and the Author Central page.
+- **Hardcover: deliberately deferred** (2026-09-10). Not automatic — it needs
+  its own ISBN, its own case-wrap cover (different spine maths plus hinge and
+  board wrap, which `covertext.py` does not yet generate), and its own review.
+  Revisit as a gift format or alongside book two. Note that
+  `pricing-notes.md:30`'s hardcover print-cost estimate (~$6.50) looks too low
+  and should be re-checked against KDP's calculator before it informs anything.
 - **No proof copy was ordered.** Worth buying an author copy at print cost
   anyway — it is the only way to see ink density and how the type sits.
 
