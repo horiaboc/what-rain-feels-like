@@ -120,7 +120,7 @@ Ich erzählte es ihm. Alles – den Kanal, die Nacht, die zwei Geschenke, über 
 
 „Es gab keinen. Ich habe die Welt gebaut, in der es keinen gab. Beide Sätze bleiben.“
 
-Jonas nickte – nicht Zustimmung, nicht direkt; Empfang. Er ist Ingenieur bis auf den Grund seiner selbst: Er kann *das Design hat versagt* und *der Designer weiß es* in derselben Hand halten, ohne dass eines das andere entschuldigt. Dann stellte er seinen Tee ab und durchquerte die Küche und nahm mich vorsichtig in die Arme, wütendes Handgelenk und wunde Rippen und alles, und sagte, in mein Haar, den einzigen Satz, in dem nirgends eine Berechnung war:
+Jonas nickte – nicht Zustimmung, nicht eigentlich; Empfang. Er ist Ingenieur bis auf den Grund seiner selbst: Er kann *das Design hat versagt* und *der Designer weiß es* in derselben Hand halten, ohne dass eines das andere entschuldigt. Dann stellte er seinen Tee ab und durchquerte die Küche und nahm mich vorsichtig in die Arme, wütendes Handgelenk und wunde Rippen und alles, und sagte, in mein Haar, den einzigen Satz, in dem nirgends eine Berechnung war:
 
 „Du bist hier.“
 
@@ -141,6 +141,7 @@ tat es weh. Es war meins.
 Was Definitionen von Freiheit angeht, habe ich schon schlechtere gehört.
 
 <!-- NOTES -->
+- v2 (native pass): one „nicht direkt“ varied; otherwise read through.
 - §C reserved phrase exactly: „Ich dachte: *Zu perfekt. Zu – effizient.*“ — its only other site is ch22; „effizient“ nowhere else in the chapter.
 - Glossary 54 „Knöpfe sind demokratisch.“; 53 „aufgehört, dir Versprechen anzubieten, und angefangen, dir Eigenschaften zu bauen“; 55 „die Bernsteintöne“, „Aufblühen von Bernstein“.
 - ALEPH ↔ Iris du; ALEPH ↔ Jonas du („Du hättest einen Weg finden müssen, sie zu fragen.“); pronoun „es“ where unavoidable.

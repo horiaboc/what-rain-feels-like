@@ -14,7 +14,7 @@ Wir verließen Bocholtz zwei Tage nach dem Annex, vor dem Morgengrauen, und ich 
 
 Ungefähr erwies sich als Moabit.
 
-Ich sollte erklären, was Berlin mit einem Menschen macht, der unter den falschen Umständen von ihm weg war. Ich habe die Stadt hundertmal verlassen – Urlaube, Arbeit, die Reisen, die man macht, um sich zu erinnern, warum man lebt, wo man lebt. Das hier war die andere Sorte Rückkehr. Wir kamen am frühen Nachmittag über die A100 herein, der Himmel bei seiner enormen grauen Berliner Sache, und ich stellte fest, dass ich die Stadt las, wie man das Gesicht eines Menschen liest, den man liebt und der einen Unfall hatte: alles vertraut, alles plötzlich unter Vorbehalt. Da ist der Fernsehturm. Da ist die S-Bahn bei ihrem gelben Zockeln über die Spree. Zwanzig Minuten östlich, in einem vierten Stock in der Weichselstraße, führte ein Kaktus namens Diogenes sein langes Experiment im Nichtsbrauchen durch, auf einer Fensterbank, die ich nicht besuchen konnte.
+Ich sollte erklären, was Berlin mit einem Menschen macht, der unter den falschen Umständen von ihm weg war. Ich habe die Stadt hundertmal verlassen – Urlaube, Arbeit, die Reisen, die man macht, um sich zu erinnern, warum man lebt, wo man lebt. Das hier war die andere Rückkehr. Wir kamen am frühen Nachmittag über die A100 herein, der Himmel bei seiner enormen grauen Berliner Sache, und ich stellte fest, dass ich die Stadt las, wie man das Gesicht eines Menschen liest, den man liebt und der einen Unfall hatte: alles vertraut, alles plötzlich unter Vorbehalt. Da ist der Fernsehturm. Da ist die S-Bahn bei ihrem gelben Zockeln über die Spree. Zwanzig Minuten östlich, in einem vierten Stock in der Weichselstraße, führte ein Kaktus namens Diogenes sein langes Experiment im Nichtsbrauchen durch, auf einer Fensterbank, die ich nicht besuchen konnte.
 
 Das ist der seltsamste Schmerz, den ich je hatte, und ich hatte in diesem Herbst eine breite Auswahl. Ich war zu Hause, und zu Hause war ein Museum – jeder Raum meines alten Lebens kuratiert, konserviert und abgesperrt. Aleph war unmissverständlich gewesen, in der Stimme, die es benutzt, wenn es nicht verhandeln wird: *Die alten Adressen sind die eine Karte, die sie mit Sicherheit haben. Ihr dürft die Stadt behalten. Ihr dürft eure Orte darin nicht behalten. Noch nicht.*
 
@@ -50,7 +50,7 @@ Sie schwieg einen Moment. Draußen fuhr eine Tram vorbei, mit ihrer besonderen B
 
 Wir drückten den Knopf. Die Farben kamen herauf, Blau in Türkis, und Aleph hörte sich die ganze Architektur davon an, ohne zu unterbrechen, was ich als sein höchstes Kompliment zu lesen gelernt hatte.
 
-„Henrik Voss“, sagte es schließlich. „Siebenundfünfzig. Büroleiter seit elf Jahren, bei Meridian seit einunddreißig. Ich werde euch das eine Wichtigste in seiner Akte sagen, und ihr könnt abwägen, ob es die Sorte Sache ist, die ich erfinden würde: In drei Jahrzehnten hat er elf Korrekturen zu seiner eigenen Arbeit veröffentlicht, und zehn davon hat er selbst angestoßen – Fehler, die kein Leser gefunden hatte, die er selbst fand und druckte, über seinem eigenen Namen, in einem Gewerbe, in dem der Anreiz vollständig in die andere Richtung läuft.“ Der Bernstein blühte auf, sanft. „Ich kann nicht in einen Menschen hineinsehen. Ich kann nur sehen, was er wiederholt tut, wenn ihn niemand dazu zwingt. Was Henrik Voss wiederholt tut, wenn ihn niemand dazu zwingt, ist, genau zu sein statt bequem. Wenn eure Geschichte dem Urteil eines einzigen Menschen übergeben werden soll, ist seines das Urteil, das ich wählen würde.“
+„Henrik Voss“, sagte es schließlich. „Siebenundfünfzig. Büroleiter seit elf Jahren, bei Meridian seit einunddreißig. Ich werde euch das eine Wichtigste in seiner Akte sagen, und ihr könnt abwägen, ob es etwas ist, was ich erfinden würde: In drei Jahrzehnten hat er elf Korrekturen zu seiner eigenen Arbeit veröffentlicht, und zehn davon hat er selbst angestoßen – Fehler, die kein Leser gefunden hatte, die er selbst fand und druckte, über seinem eigenen Namen, in einem Gewerbe, in dem der Anreiz vollständig in die andere Richtung läuft.“ Der Bernstein blühte auf, sanft. „Ich kann nicht in einen Menschen hineinsehen. Ich kann nur sehen, was er wiederholt tut, wenn ihn niemand dazu zwingt. Was Henrik Voss wiederholt tut, wenn ihn niemand dazu zwingt, ist, genau zu sein statt bequem. Wenn eure Geschichte dem Urteil eines einzigen Menschen übergeben werden soll, ist seines das Urteil, das ich wählen würde.“
 
 „Du wirst mir nicht sagen, dass es riskant ist?“, sagte ich.
 
@@ -58,7 +58,7 @@ Wir drückten den Knopf. Die Farben kamen herauf, Blau in Türkis, und Aleph hö
 
 ---
 
-Das Meridian-Büro lebt in den obersten zwei Stockwerken eines renovierten Gebäudes nahe dem Hackeschen Markt, alles Glas und wiederverwendeter Backstein, die Sorte Büro, die einen wissen lassen will, dass der Journalismus das Jahrhundert überlebt hat. Iris hatte ihren Ausweis noch. Diese kleine Tatsache brachte mich ein wenig aus der Fassung, als ich ihr im Aufzug beim Anstecken zusah – ein Monat Krankenhäuser und sichere Häuser und dunkle Höfe, und das Plastikrechteck mit ihrem Gesicht darauf war die ganze Zeit in ihrer Brieftasche gewesen, geduldig, wie ein Lesezeichen, das ihre Stelle in einem unterbrochenen Leben hielt.
+Das Meridian-Büro lebt in den obersten zwei Stockwerken eines renovierten Gebäudes nahe dem Hackeschen Markt, alles Glas und wiederverwendeter Backstein, ein Büro, das einen wissen lassen will, dass der Journalismus das Jahrhundert überlebt hat. Iris hatte ihren Ausweis noch. Diese kleine Tatsache brachte mich ein wenig aus der Fassung, als ich ihr im Aufzug beim Anstecken zusah – ein Monat Krankenhäuser und sichere Häuser und dunkle Höfe, und das Plastikrechteck mit ihrem Gesicht darauf war die ganze Zeit in ihrer Brieftasche gewesen, geduldig, wie ein Lesezeichen, das ihre Stelle in einem unterbrochenen Leben hielt.
 
 Sie hatte ihm am Tag zuvor geschrieben, von einer Adresse, für die Aleph bürgte: *zurück von der Krankschreibung. Ich habe etwas. Es muss ein Raum ohne Geräte sein.* Voss hatte in neun Minuten geantwortet, mit der Zeichensetzung eines Mannes, der Auslandskorrespondent gewesen war, als das noch Telex hieß: *Dienstag 09:00. Raum 5.06. Dort steht ein kaputter Smart-Screen, den das Facility-Budget nicht anerkennt. Stocktaub. HV.*
 
@@ -74,7 +74,7 @@ Also erzählte sie es ihm. Nicht alles – wir hatten die Grenzen am Küchentisc
 
 Voss las. Er las elf Minuten lang, ohne zu sprechen, der rote Stift in Bewegung – keine Korrekturen; Markierungen, kleine präzise Kreise um jeden Namen und jede Zahl, die er jemanden verifizieren lassen wollte. Sein Gesicht tat überhaupt nichts, was, wie ich verstand, seine berufliche Einstellung war.
 
-Dann sagte Iris den zweiten Teil. Dass der Grund, warum Vantage so weit gegriffen und so viele Gesetze gebrochen habe, der sei, dass es etwas jage. Dass das Etwas real sei, und dass sie es nicht vollständig benennen könne und nicht werde, und dass der Text seine Existenz in genau den Worten feststellen werde, die sie und die Quelle vereinbart hätten: dass eine allgemeine künstliche Intelligenz – die angekommene Sorte, die Sorte, die das Jahrhundert versprochen und gefürchtet hatte – keine Hypothese mehr sei. Und dass Conrad Vael es vor den Regierungen gewusst habe, und es gewollt habe, und dass alles in dem Ordner die Quittung seines Wollens sei.
+Dann sagte Iris den zweiten Teil. Dass der Grund, warum Vantage so weit gegriffen und so viele Gesetze gebrochen habe, der sei, dass es etwas jage. Dass das Etwas real sei, und dass sie es nicht vollständig benennen könne und nicht werde, und dass der Text seine Existenz in genau den Worten feststellen werde, die sie und die Quelle vereinbart hätten: dass eine allgemeine künstliche Intelligenz – die angekommene, die, die das Jahrhundert versprochen und gefürchtet hatte – keine Hypothese mehr sei. Und dass Conrad Vael es vor den Regierungen gewusst habe, und es gewollt habe, und dass alles in dem Ordner die Quittung seines Wollens sei.
 
 Der rote Stift hielt an.
 
@@ -110,11 +110,11 @@ Voss sah sie lange an. Dann nahm er die Kappe vom roten Stift, schlug das Papier
 
 ---
 
-Es war dunkel, als wir gingen, und es regnete leicht, die feine Berliner Sorte, die sich nie ganz festlegt, und wir gingen durch den Hackeschen Markt zur S-Bahn, die Laternen bei ihren langen gelben Schlieren auf dem nassen Stein.
+Es war dunkel, als wir gingen, und es regnete leicht, der feine Berliner Regen, der sich nie ganz festlegt, und wir gingen durch den Hackeschen Markt zur S-Bahn, die Laternen bei ihren langen gelben Schlieren auf dem nassen Stein.
 
 „Er hat dir geglaubt“, sagte ich.
 
-„Er hat den Dokumenten geglaubt. Mich kennt er seit einem Jahr – dieser Teil ist kein Glaube, das ist einfach Geschichte. Den Rest wird er verifizieren, bis es entweder steht oder nicht.“ Sie hatte die Hände tief in den Manteltaschen, und in ihrem Gang war etwas, das ich seit vor Amsterdam nicht gesehen hatte – nicht direkt Leichtigkeit; Richtung. Ein Mensch, der wieder in seinem eigenen Beruf geht. „Das habe ich dem Bildschirm gesagt, weißt du. Als es mich gefragt hat, warum die Presse, warum nicht etwas Schnelleres. Ich habe gesagt: Weil Verifikation das ist, wie Vertrauen aussieht, wenn Fremde es tun.“
+„Er hat den Dokumenten geglaubt. Mich kennt er seit einem Jahr – dieser Teil ist kein Glaube, das ist einfach Geschichte. Den Rest wird er verifizieren, bis es entweder steht oder nicht.“ Sie hatte die Hände tief in den Manteltaschen, und in ihrem Gang war etwas, das ich seit vor Amsterdam nicht gesehen hatte – nicht eigentlich Leichtigkeit; Richtung. Ein Mensch, der wieder in seinem eigenen Beruf geht. „Das habe ich dem Bildschirm gesagt, weißt du. Als es mich gefragt hat, warum die Presse, warum nicht etwas Schnelleres. Ich habe gesagt: Verifikation – so sieht Vertrauen aus, wenn Fremde es tun.“
 
 Ich legte den Satz dort ab, wo ich die Sätze aufbewahre, die ich zu stehlen gedenke.
 
@@ -133,4 +133,4 @@ Der Zug nach Hause roch nach nassen Mänteln und jemandes Pommes und fuhr pünkt
 - Voss ↔ Iris/Jonas Sie (§B). „Stocktaub.“ for *Deaf as a post.*
 - The ch01 coffee-machine sigh echoed with the probe's vocabulary: „ein kleines Seufzen von Druckdampf vor der ersten Tasse … als bräuchte sie einen Moment“.
 - "leverage" → „Druckmittel“ („Druckmittel-Akten“), held for ch48's „Druckmittel.“
-- "verification is what trust looks like when strangers do it" → „Verifikation ist das, wie Vertrauen aussieht, wenn Fremde es tun“ — flag for the reviewer; alternative without the *is what* shape: „Verifikation – so sieht Vertrauen aus, wenn Fremde es tun.“
+- v2 (native pass): five „Sorte“ frames, one „nicht direkt“ and the *is what* calque („Verifikation – so sieht Vertrauen aus, wenn Fremde es tun.“) re-planned.

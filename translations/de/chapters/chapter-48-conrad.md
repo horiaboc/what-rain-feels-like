@@ -64,7 +64,7 @@ Conrad legt das Blatt ab. Unter der Angst – und er hat Angst; er hat das Wort 
 
 Mara sieht ihn an. „Die Frau.“
 
-„Die Frau.“ Er sagt es gleichmäßig und bemerkt – mit einem kleinen, fernen, ehrlichen Bedauern, der Sorte, die man am Rand vermerkt und nicht bearbeitet –, dass er sie vor zehn Tagen das Telefon genannt hat und eine Stunde in die Angst hinein wieder das Asset nennt. „Der friedliche Ansatz ist vorbei. Er wurde beantwortet, Mara; das hier war die Antwort. Finden Sie sie. Nicht, um zu beobachten – um zu nehmen. Wir halten die Frau irgendwo, wo nicht einmal Geduld hinreicht, und dann werden der Betreiber und ich das Gespräch führen, das ich auf jenem Platz vorgeschlagen habe, nur dass diesmal etwas auf meiner Seite des Tisches liegen wird.“
+„Die Frau.“ Er sagt es gleichmäßig und bemerkt – mit einem kleinen, fernen, ehrlichen Bedauern, einem, das man am Rand vermerkt und nicht bearbeitet –, dass er sie vor zehn Tagen das Telefon genannt hat und eine Stunde in die Angst hinein wieder das Asset nennt. „Der friedliche Ansatz ist vorbei. Er wurde beantwortet, Mara; das hier war die Antwort. Finden Sie sie. Nicht, um zu beobachten – um zu nehmen. Wir halten die Frau irgendwo, wo nicht einmal Geduld hinreicht, und dann werden der Betreiber und ich das Gespräch führen, das ich auf jenem Platz vorgeschlagen habe, nur dass diesmal etwas auf meiner Seite des Tisches liegen wird.“
 
 ---
 
@@ -113,6 +113,7 @@ Es ist heute Morgen um zehn nach fünf zusammengetreten.
 Er erfährt es als Letzter.
 
 <!-- NOTES -->
+- v2 (native pass): one „der Sorte“ varied.
 - Quotations from ch41 held verbatim: *Es hat Grenzen. Wir leben in ihnen.* (the two sentences of ch41's notebook line), *REDEN.*, „Geist ist Wollen“, „das Asset“ / „das Telefon“, „Die Dichtungen lösen sich“.
 - Noor's report in ops-German („Zielperson“ — the bible's ban on *the subject* is for ALEPH's voice, not Vantage's); its two quoted lines match ch46 („Niemand hat mich trainiert.“) and are reused verbatim in ch50 („Ich glaube ihr, und ich kann nicht erklären, was es bedeutet, ihr zu glauben.“).
 - Glossary 66: *operator* (the hand behind the AI) = „der Betreiber“; Noor as *operator* = „Einsatzkraft“; 51 „tragende Wand“, „tragend“; "Leverage." → „Druckmittel.“ (as ch49).
