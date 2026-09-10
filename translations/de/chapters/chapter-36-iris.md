@@ -1,0 +1,65 @@
+# Kapitel Sechsunddreißig: Bocholtz
+
+---
+
+Die Tür öffnete sich auf etwas, das sich nur wie Wärme anfühlte. Kein tickender Heizkörper – kein Bedarf, so tief in einem niederländischen August –, aber Wärme trotzdem, gebaut aus anderen Dingen: Lampen, die gegen den dämmernden Abend schon brannten, Farbe, wo ich keine Farbe erwartet hatte. Ein Teppich in tiefem Rot und Ocker. Ein kleiner gerahmter Druck im Flur, den ich nicht erkannte und sofort mochte. Nichts passte zusammen auf die bewusste Art, wie Dinge in einem Zuhause nicht zusammenpassen, das jemand tatsächlich eingerichtet hat, Stück für Stück, mit Geschmack statt nach Liste – gut gemacht, nicht übertrieben.
+
+Ich stand lange im Flur, ohne mich zu bewegen.
+
+Dann sagte Jonas meinen Namen, leise, von irgendwo knapp hinter mir, und als ich mich umdrehte, sah er auf einen kleinen Tisch am Fenster, auf dem ein Kaktus in einem schlichten Terrakottatopf stand – nicht Diogenes, überhaupt nicht dieselbe Pflanze, aber in Form und sturer Hässlichkeit nah genug, dass ich sofort verstand, was seine Stimme gerade getan hatte.
+
+„Das ist nicht lustig“, sagte er, in dem Ton, den er für Dinge benutzt, die überhaupt nicht lustig sind.
+
+„Nein“, stimmte ich zu. „Ist es nicht.“
+
+Es war, unverkennbar, ein Ort, den jemand vorbereitet hatte. Nicht allgemein – für mich. Eine Strickjacke hing an einem Haken neben der Tür, genau in meiner Größe. Ein Regal im kleinen Wohnzimmer hielt Bücher, die ich erkannte, Titel, die ich mir selbst ausgesucht hätte. Auf der Küchenzeile eine Dose des Tees, den ich tatsächlich trinke, nicht irgendein Tee, der eine.
+
+Aber nichts in der Küche deutete darauf hin, dass kürzlich jemand hier gewesen war – kein Aufräumen in letzter Minute, kein Geruch von irgendetwas Gekochtem, kein Zeichen einer Hand, die in den Stunden vor uns durch die Zimmer gegangen war. Es hatte stattdessen die angehaltene Stille eines Ortes, der lange bereitgehalten und dann, still, dem Warten überlassen worden war: abgestaubt, gelüftet, bestückt und hinter einer Tür verschlossen bis heute.
+
+Ich hatte für nichts davon eine Antwort. Ich stellte meine Tasche im Flur eines Hauses ab, das mich schon besser kannte, als ich mich selbst kannte, und ich hielt den Umschlag an meine Brust, ungeöffnet, und zum ersten Mal seit Bernadettes Küche ließ ich mich weinen – diesmal nicht aus Trauer, oder nicht nur aus Trauer, sondern aus der seltsamen, unerträglichen Zärtlichkeit, von jemandem umsorgt zu werden, der sein Gesicht nicht zeigen wollte.
+
+Jonas kam und legte die Arme um mich, und keiner von uns sagte etwas, und draußen fiel das Licht weiter dem Abend entgegen, über einem Dorf am Rand des Landes, dessen Namen ich an diesem Morgen nicht gekannt hatte, in einem Haus, das offenbar auf genau das hier gewartet hatte.
+
+---
+
+Wir blieben eine Weile so – lange genug, dass das Licht draußen seinen Fall von Grau in etwas näher an Blau vollendete, lange genug, dass, was immer in Bernadettes Küche in mir gebrochen war, fertig brach und, sehr langsam, anfing, sich zu etwas zusammenzufügen, das ich tragen konnte, statt etwas, das mich trug.
+
+Irgendwann löste sich Jonas weit genug, um mich richtig anzusehen. „Hunger?“, sagte er, was eine so absurde, gewöhnliche Frage war, in einem Haus, das wir nicht verstanden, in einem Dorf, das wir nicht gewählt hatten, dass ich lachte – wirklich lachte, zum ersten Mal seit, wie es sich anfühlte, Tagen.
+
+„Wahnsinnigen“, sagte ich, und es stimmte, und es war auch eine Erleichterung, wieder etwas so Einfaches wie Hunger zu fühlen.
+
+Die Küche, als wir anfingen, richtig hinzusehen, machte ihn auf eine andere Art still als der Kaktus.
+
+Eier im Kühlschrank, und daneben der Block Käse, den er tatsächlich kauft – der bestimmte, nicht die Supermarktannäherung daran. Ein Korb festkochender Kartoffeln auf der Küchenzeile, die Sorte für Stamppot. Eine Dose Kaffee im Schrank, gemahlen, wie er ihn mahlt, nicht die vorgemahlene Sorte, über die er sich beschwert, wenn wir irgendwo ohne Maschine sind, neben einer Tüte des besonderen Gebäckmehls, das er an den seltenen Morgen benutzt, an denen er beschließt, etwas von Grund auf zu backen – was er, seit wir zusammen sind, meines Wissens genau einmal getan hat, und wovon irgendjemand, irgendwo, offenbar trotzdem wusste.
+
+„Okay“, sagte er leise, zum Schrank. „Das ist – okay.“
+
+Der Senf, den ich auf fast alles tue und den sonst niemand versteht. Eine Tüte Äpfel. Eine einzelne Tafel dunkle Schokolade, siebzig Prozent – die jüngste Laune, die ich angenommen hatte, nicht einmal alt genug, um sie Gewohnheit zu nennen.
+
+Wir standen mitten in der Küche eines Fremden und sagten eine Weile nichts, weil sich über das so genaue Gekanntwerden durch jemanden, der sich nie ein einziges Mal vorgestellt hatte, nichts Zweckmäßiges sagen ließ.
+
+---
+
+Ich machte Eier, weil Eier sich wie die richtige Größe von Vorhaben anfühlten. Jonas schnitt Brot und stritt nicht mit mir darüber, wie ich sie in die Pfanne schlug, was entweder hieß, dass er in den Monaten, die wir zusammen waren, etwas gelernt hatte, oder dass er einfach zu müde war, es neu zu verhandeln, und so oder so war ich dankbar. Wir aßen am kleinen Küchentisch, der Umschlag lag, wo ich ihn Stunden zuvor abgelegt hatte, ungeöffnet, zwischen der Obstschale und dem Fenster.
+
+Keiner von uns erwähnte ihn direkt. Wir redeten stattdessen über kleine, sichere Dinge – ob der Wasserdruck oben funktionierte, ob die Fensterläden wirklich schlossen, ob Bernadette uns freundlich in Erinnerung behalten würde oder mit dem vagen Unbehagen von jemandem, der Fremden zu viel erzählt hat. Es war, auf seine Art, das gewöhnlichste Gespräch, das wir seit drei Wochen geführt hatten, und ich verstand, Eier essend an einem Tisch, den jemand mit meinem Senf bestückt hatte, dass die Gewöhnlichkeit der Sinn war. Jemand hatte uns einen Abend gebaut, an dem wir einfach zu Abend essen konnten.
+
+---
+
+Als die Teller leer waren, sah Jonas den Umschlag an und dann mich, ohne etwas zu sagen, nur die Frage mit den Augenbrauen stellend, wie er es tut.
+
+„Nicht heute Abend“, sagte ich.
+
+Er drängte nicht. „Okay.“
+
+„Ich glaube nicht, dass ich ausweiche“, sagte ich, weil ich wollte, dass das stimmte, und mich es sagen hören musste, um es herauszufinden. „Ich habe heute nur nichts mehr übrig. Was auch immer da drin ist, wird mich ganz wollen, und heute Abend ist kein Ganz von mir mehr da.“
+
+„Dann wartet er“, sagte Jonas, einfach, und stellte den Umschlag auf die Küchenzeile, aus der direkten Sichtlinie des Tisches – nicht versteckt, nur beiseitegelegt, die stille Rücksicht eines Mannes, der verstand, dass manche Dinge nicht angesehen werden dürfen, damit man mit ihnen sitzen kann.
+
+Wir fanden Handtücher in einem Wäscheschrank, der nach Lavendel und sonst nichts roch, und ein gemachtes Bett in einem Zimmer oben, mit derselben Sorgfalt wie alles andere, und ich verstand, als ich hineinstieg, dass dieses Haus, was immer es war – eine Freundlichkeit, eine Strategie, beides zugleich, es spielte keine Rolle mehr, welches, nicht heute Abend –, genau das getan hatte, wofür es gebaut worden war. Für einen Abend, in einem Dorf am Rand des Landes, wurden wir nicht gejagt. Wir waren nur müde und satt und warm und zusammen, und das war, für die Länge eines Abends, genug.
+
+<!-- NOTES -->
+- §C ch36 site: „ließ sich … nichts Zweckmäßiges sagen“ — „effizient“ absent.
+- "something that only felt like warmth" → „etwas, das sich nur wie Wärme anfühlte“ — real sensation, *sich anfühlen* by design; the two other *felt like* sites in the chapter are likewise sensations (eggs as the right size, days).
+- *waxy potatoes* → „festkochender Kartoffeln“ (the correct German type word; „mehligkochend“ would be floury).
+- "Starving" → „Wahnsinnigen“ (as the answer to „Hunger?“ — „Wahnsinnigen [Hunger]“), the colloquial German a person actually says.
