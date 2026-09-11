@@ -204,3 +204,81 @@ working context; never fan out to parallel agents.
 
 Then build, then the native reader. Their marked passages go back into the
 tic list for the next language.
+
+## 9. The native rewrite — from 9.5 to 9.8
+
+What §7–§8 cannot reach is sentence architecture: clause order, participial
+tails, comma-spliced runs, the given-before-new order of German and Romanian
+prose, the cadence of a paragraph's last sentence. A polish pass cannot
+remove them, because the polisher is still looking at the English sentence.
+§9 removes the sentence from view.
+
+**The instruction in one line: don't translate the paragraph — brief a
+native author on it, then write it blind.**
+
+### 9.1 Unit = the paragraph, never the sentence
+
+For each paragraph, build a *brief* from the source, then close the source
+and write from the brief. The brief holds:
+
+- **What it says** — facts, images, numbers, names, in order.
+- **What it does** — the beat: a joke landing, a feeling withheld, a turn,
+  a callback; which sentence carries the weight.
+- **What it must keep verbatim** — glossary phrases, seeded echoes, the
+  fixed lines (§4–§5, `NOTES.md`), italics sites, anything the reserved-
+  phrase and title-phrase gates check.
+- **Its shape** — sentence count within one or two, where the short
+  sentence falls, whether it ends on a noun or a verb, how much of the
+  paragraph is one sentence.
+- **Dialogue** — each line's speech act (assent, deflection, a question
+  under a question), not its wording; the T–V register of the pair.
+
+Then: *close the English; write this paragraph as [voice] would have
+written it in [language].* Nothing may be added or dropped; everything may
+be re-ordered, re-cut, re-clausen. The book's own strangeness (§9.3) stays.
+
+### 9.2 The native sheet — the only file open while writing
+
+`translations/<lang>/NATIVE-SHEET.md`, kept short so it costs nothing to
+hold in context. It carries, per language:
+
+1. **Voice exemplars** — original paragraphs *written natively* in each
+   voice (Jonas, Iris, Aleph, Conrad, Mara): the target for rhythm and
+   sentence-length variance, not for wording. They are not from the book
+   and must never be quoted into it.
+2. **The calque list** — the English-isms this language keeps producing,
+   with the native move for each.
+3. **The deliberate-strangeness list** — what stays odd because the book
+   made it odd.
+4. **Rhythm rules** — where the language puts new information; when a
+   participial tail becomes its own sentence; when an English semicolon
+   becomes a full stop; the paragraph-final cadence (short, ending on the
+   weighted word).
+
+`NOTES.md` is consulted only when a brief flags a fixed phrase.
+
+### 9.3 Two audits after the write, in this order
+
+- **Fidelity.** Every item of the brief ticked in the rewrite: facts,
+  images, numbers, names, echoes verbatim, italics on the same words, each
+  dialogue line's speech act intact, register intact. A rewrite that is
+  lovelier and lost a beat fails.
+- **Nativeness.** Read-aloud test — no sentence needs the English to parse.
+  Sentence-length variance of the paragraph against the voice exemplar.
+  Frame tics at zero (`tools/check_translation.py <lang>`). Inquit density
+  inside the voice's band. No sentence left in English word order where the
+  language would front the new information.
+
+### 9.4 The measure
+
+Not a self-rating. Three rewritten paragraphs mixed with three from a
+comparable native novel, given to the reader blind: can they pick the
+translations? At 9.8 they cannot, or only by content. Their picks go back
+into the calque list.
+
+### 9.5 Sequencing
+
+One chapter per step: brief → write → audits → commit, in the main
+context, no fan-out. Start with one chapter per language and let the author
+judge the difference before the rest of the book goes through it. Budget
+about twice a translation pass per chapter.

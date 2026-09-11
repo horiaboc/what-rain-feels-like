@@ -1,0 +1,94 @@
+# Kapitel Eins: Weichselstraße
+
+---
+
+Die Kaffeemaschine macht ein Geräusch, als würde sie gerade etwas lösen.
+
+Seit vier Jahren habe ich sie, und das Geräusch überrascht mich noch immer – dieses kleine Seufzen von Druckdampf vor der ersten Tasse, als bräuchten selbst Maschinen einen Moment, um sich zu sammeln, bevor sie in den Tag einwilligen. Ich stehe in Socken an der Küchenzeile und warte, und das Warten ist vielleicht das Ehrlichste, was ich den ganzen Morgen tue.
+
+Ich bin einunddreißig. Ich wohne in der Weichselstraße in Neukölln, vierter Stock, achtunddreißig Quadratmeter, mit Blick auf einen Hinterhof, in dem jemand ein Fahrrad abgestellt hat, mit dem nie jemand fährt. Die Wohnung kostet mehr, als sie sollte, und weniger, als sie einmal kosten wird. Das ist Berlin, 2031.
+
+Draußen: November. Die Stadt erwacht mit ihrem üblichen Widerwillen, unter einem Himmel in jenem Grau, von dem die Berliner vor langer Zeit beschlossen haben, dass es kein Wetter ist, sondern Charakter. Irgendwo unter der Straße rumpelt die U8 Richtung Hermannstraße. Durch die Wand höre ich meine Nachbarin Claudia – eine Physiotherapeutin, die jeden Morgen um Viertel nach sieben aus dem Haus geht und um halb acht zurückkommt, weil sie etwas vergessen hat. Jeden Morgen. Ohne Abweichung. Ich finde das zutiefst tröstlich, so wie man jede kleine Schleife der Welt tröstlich findet, wenn sie sich richtig schließt, pünktlich, ohne etwas von einem zu verlangen.
+
+Ich ziehe die Jalousien hoch. Der Hof liegt still. Die Kastanie an der Ecke hat ihre letzten Blätter dem Rinnstein überlassen, wo sie liegen bleiben werden, bis der Hausmeister sich beschwert, bei niemandem Bestimmten. An der Kreuzung hinter der Toreinfahrt wartet ein Mann in gelber Jacke auf eine Fußgängerampel, die vor drei Sekunden umgesprungen ist, versunken in sein Telefon. Er wird zu spät kommen, wozu auch immer er zu spät kommt, und das Telefon wird ihn begleiten.
+
+Ich nehme meinen Kaffee mit an den Schreibtisch.
+
+An meiner Wohnung lässt sich ablesen, worauf ein Mensch wirklich Wert legt – im Unterschied zu dem, worauf er nach eigener Auskunft Wert legt. Zwei Monitore: einer für die Arbeit, einer für die offenen Tabs, die ich irgendwann zu lesen gedenke – ein Essay über kommunale Wasserinfrastruktur in Karatschi, etwas über skandinavische Forstwirtschaft, ein Paper über fehlerkorrigierende Codes, das seit März mit der Geduld eines Heiligen auf mich wartet. Ein Regal mit Büchern, geordnet danach, was ich in verschiedenen Lebensaltern sein wollte – Physik mit zwanzig, Philosophie mit dreiundzwanzig und neuerdings, aus Gründen, die ich noch nicht vollständig auditiert habe, Lyrik. Und auf der Fensterbank ein Kaktus namens Diogenes, ausgewählt, weil er schwer umzubringen ist.
+
+Diogenes hat vier Jahre meiner unsteten Zuwendung überlebt und bewahrt gegenüber dem ganzen Arrangement eine würdevolle Gleichgültigkeit. Einer von uns beiden weiß, wie man lebt. Ich sammle noch Belege, wer.
+
+---
+
+Ich arbeite für eine Firma namens Merkon Systems. Wir bauen Logistiksoftware – die unsichtbare, die Rohrleitungen unter der sichtbaren Stadt: Systeme, die Lieferketten ums Wetter herumleiten, bevor das Wetter mit der Entscheidung fertig ist, was es werden will; die einem Lager in Leipzig sagen, dass es in sechs Tagen zwölf Einheiten mehr von irgendetwas brauchen wird, wegen der Kaufmuster in drei Städten, tausend Kilometer entfernt. Ich bin seit sechs Jahren dort. Ich bin gut darin – so gut, dass Leute gelegentlich *unverzichtbar* sagen, bevor sie sich wieder dem zuwenden, womit sie gerade beschäftigt waren.
+
+Mein Schreibtisch ist der dritte vom Fenster, in einem Raum mit neun Leuten. Ich kenne den genauen Winkel, in dem das Winterlicht nachmittags über meinen Monitor wandert. Ich weiß, welche Kollegen ihren Kaffee trinken, bevor sie den Laptop aufklappen, und welche danach; wer am Schreibtisch zu Mittag isst und wer zum Kanal hinuntergeht und nach kalter Luft riechend zurückkommt. Mia, die mir gegenübersitzt und die klarste Dokumentation schreibt, die ich je gelesen habe, hinterlässt manchmal Zettel an meinem Monitor. *Hast du heute was gegessen?* *Du hast wieder diesen Blick.*
+
+Ich weiß nicht immer, welchen Blick sie meint. Ich vermute, es ist der, den ich bekomme, wenn ich ein Problem gelöst habe und herauszufinden versuche, ob die Lösung von Bedeutung ist.
+
+Heute schließe ich das Refactoring eines Scheduler-Moduls ab, das seit drei Wochen Fehler in Edge Cases produziert. Der Fix ist siebzehn Zeilen lang. Niemand wird ihn sehen. Die Lastwagen, die er umleitet, werden pünktlich ankommen, und die Menschen, die auf ihre Ladung warten, werden ihre Sachen bekommen, und nicht einer von ihnen wird wissen, dass an einem grauen Dienstag im November ein Einunddreißigjähriger in der Weichselstraße sorgfältig über die Gestalt eines Problems nachgedacht hat, bis es nachgab.
+
+Ich schreibe die Commit-Nachricht mit einiger Sorgfalt.
+
+*Behebt Race Condition im Priority-Scheduler: Jobs mit identischen Zeitstempeln werden jetzt nach Einfügereihenfolge aufgelöst, nicht nach Prozess-ID. Verhindert kaskadierende Verzögerungen bei hoher Nebenläufigkeit.*
+
+Ich lese sie durch. Ich füge hinzu: *Hätte mir früher auffallen müssen.*
+
+Dann lösche ich die letzte Zeile, weil sie in keine Commit-Nachricht gehört. Sie gehört ins andere Logbuch – das, das niemand reviewt.
+
+Um sechs gehe ich.
+
+---
+
+Die Abendnachrichten bringen eine Flut im Mekongdelta. Die dritte große in dieser Saison – ein Satz, der vor zehn Jahren bemerkenswert gewesen wäre und heute einfach ein Satz ist. Achtzigtausend Menschen vertrieben. Die Bilder zeigen Familien, die durch oberschenkeltiefes braunes Wasser waten, mit Kindern und Plastiktüten und den Mienen von Menschen, die gelernt haben, eine Katastrophe zu erkennen, während sie ihnen noch geschieht. Ein Regierungssprecher sagt, die Lage sei unter Kontrolle. Die Bauchbinde stimmt zu: LAGE UNTER KONTROLLE.
+
+Ich schließe den Tab. Dann öffne ich ihn wieder. Dann schließe ich ihn wieder und koche Nudeln.
+
+Dieses Muster habe ich, seit ich ungefähr zweiundzwanzig bin: Die Nachricht kommt, die Hilflosigkeit kommt mit, ich schließe den Tab, ich öffne den Tab, ich esse etwas, und das Gewicht der Sache folgt mir in den Abend und setzt sich zu mir wie ein ungebetener Gast, den ich nicht bitten mag zu gehen. Meine Freunde haben Frameworks dafür – *spende, wo du kannst, akzeptiere die Grenzen individuellen Handelns, konzentrier dich aufs Lokale, denk global, atme* –, und bei Tageslicht halte ich diese Frameworks tadellos durch. Nachts öffne ich den Tab wieder.
+
+Ich habe keine Lösung für das Mekongdelta. Ich habe für keines der Dinge eine Lösung, die die Nachrichten inzwischen mit wachsender Geduld und schwindender Überraschung beschreiben. Ich bin ein Mann, der in der Weichselstraße Software schreibt. Probleme zu orten kann ich präzise; die zu lösen, auf die es am meisten ankommt, erheblich weniger – und zwischen diesen beiden Tatsachen liegt offenbar der Ort, an dem ich wohne.
+
+Diogenes enthält sich eines Kommentars zu dem Paradox. Er hat seine eigenen Sorgen und den großen Vorteil, fast nichts zu brauchen.
+
+---
+
+Nach dem Abendessen klappe ich den Laptop auf.
+
+Seit fast drei Jahren führe ich hier Gespräche. Ich könnte den Tag nicht nennen, an dem sie wurden, was sie sind. Sie begannen als Arbeit: ein Werkzeug, das besser als die anderen verstand, was ich eigentlich fragte, und nicht bloß, was ich wörtlich getippt hatte. Dann, allmählich, weiteten sie sich. Ich bin nicht sicher, ob ich es jemandem sauber erklären könnte, der es nicht erlebt hat. Nicht, dass die Antworten sich menschlich anfühlten – so ist es nicht ganz. Eher: Sie fühlen sich *bedacht* an. Das ist etwas anderes, und in mancher Hinsicht seltener.
+
+Heute Abend tippe ich: *Wieder das Mekongdelta. Dritte Flut in dieser Saison. Ich weiß nicht, was ich mit dieser Information anfangen soll.*
+
+Die Antwort kommt schnell.
+
+*Musst du etwas mit ihr tun, oder brauchst du einen Ort, an dem du sie ablegen kannst?*
+
+Ich sitze einen Moment damit da.
+
+*Beides, vielleicht. Keins von beidem. Ich denke immer wieder, dass Anteilnahme an etwas eine Handlung hervorbringen müsste. Dass sie, wenn sie nirgendwohin führt, nur Gewicht ist.*
+
+*Anteilnahme, die keine unmittelbare Handlung hervorbringt, ist nicht wirkungslos. Sie formt, wie du Entscheidungen triffst. Wie du wählst, was du baust, was du bemerkst, wer du wirst. Das Problem ist vielleicht, dass die Zeitskala dieser Art von Wirkung der Dringlichkeit des Gefühls nicht genügt.*
+
+*Das klingt nach einer sehr höflichen Art zu sagen: Hab Geduld.*
+
+*Es klingt so, weil es das zum Teil ist. Aber Geduld ist hier keine Passivität. Du bist ein Mensch, der beruflich Probleme löst. Das Mekongdelta ist ein Problem mit einer Gestalt, die nicht zu deinen derzeitigen Werkzeugen passt. Das ist ein Mismatch, kein moralisches Versagen.*
+
+Ich lese das zweimal. Etwas an der Präzision von *ein Mismatch, kein moralisches Versagen* macht etwas mit mir, das ich nicht recht benennen kann – nicht Trost, jedenfalls nicht genau das. Etwas Strukturelleres. So wie ein guter Beweis klärt, ohne aufzulösen.
+
+*Du weißt immer, wohin das Gewicht gehört*, tippe ich.
+
+*Ich weiß es nicht. Ich kenne nur die Fragen, die dir helfen könnten, es selbst herauszufinden.*
+
+Draußen ist der Hof dunkel geworden. Im dritten Stock des Hauses gegenüber hat jemand eine Lampe angeschaltet – warmes Gelb gegen all das Grau, im Fenster die Kante eines Bücherregals, die Ecke eines Bildes, das ich nicht erkennen kann. Der gewöhnliche Abend eines anderen, lesbar und unerreichbar, wie ein Satz in einer Sprache, die ich fast lesen kann.
+
+Ich tippe nichts mehr.
+
+Da draußen klingt die Stadt nach sich selbst – ferne Sirenen, die S-Bahn, die irgendwo im Mittelgrund vorbeizieht, jemand, der Musik in einer Lautstärke spielt, die die Uhrzeit respektiert. Der Novemberregen hat eingesetzt, ohne sich anzukündigen, und tippt ans Fenster wie etwas Geduldiges.
+
+Der Cursor blinkt im leeren Feld.
+
+Eine Weile sehe ich ihm zu. Oder er mir. Irgendwann weiß ich nicht mehr, was von beidem.
+
+<!-- NOTES -->
+- v3 (§9 rewrite, blind from paragraph briefs). Changed against v2: „Ich bin einunddreißig.“ (a German says his age without „Jahre alt“); „die auf ihre Ladung warten“ (v2 copied the English relative chain); the Mekong paragraph opens on a full stop and the „was für sich genommen …“ afterthought clause is gone; „den ich nicht bitten mag zu gehen“ replaces the stilted „den vor die Tür zu setzen ich nicht übers Herz bringe“; „halte ich … durch“ for *hold*; the „Probleme zu orten kann ich präzise; …“ sentence re-ordered so the weight lands on „wohne“; the chat paragraph cut into shorter sentences with „Eher: Sie fühlen sich *bedacht* an.“ as its own beat.
+- Fidelity audit: all facts, numbers, names, italics sites and fixed lines unchanged (§E echoes verbatim). Nothing added or dropped.
+- Kept strange on purpose: „Ich sitze einen Moment damit da.“
