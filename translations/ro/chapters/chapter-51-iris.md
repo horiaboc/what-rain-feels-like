@@ -1,0 +1,144 @@
+# Capitolul al cincizeci și unulea: Ce nu se poate lua
+
+---
+
+Până în octombrie aveam din nou o viață, dacă o țineai în unghiul potrivit.
+
+Avea trei străzi lățime. Nu e o plângere; e o măsurătoare. Brutăria din colț, unde femeia începuse să ne salute din cap. Micul parc cu castanii dând drumul anului frunză cu frunză. Piața de joi. Echipa lui Voss verificând, rând cu rând atent, într-o cameră pe care aveam voie s-o vizitez de două ori pe săptămână, prin aranjamente care îi luau lui Aleph câte o oră de fiecare dată să le aprobe. Jonas își instalase un birou lângă fereastră și se întorsese la a fi inginer serile – mici joburi anonime, ca liber-profesionist, sub un nume care nu era al lui, pentru că un om trebuie să repare ceva, altfel începe să-i repare pe oamenii din jur. Buza mi se vindecase în săptămâna cinstită, cum fusese promis. Încheietura a luat douăsprezece zile și a fost bine. Scriam – ciorne ale textului, de mână, în caiete care nu părăseau niciodată apartamentul – iar scrisul era cea mai bună oră a fiecărei zile, și încetasem să mă mai surprindă asta.
+
+Vreau să fiu sinceră în privința dimineților, totuși. Era o atracție, și nu slăbea; se organiza. Porneam spre brutărie și constatam, trei decizii mai târziu, că picioarele mele votaseră pentru S-Bahn, pentru est, pentru o cafenea de pe Pannierstraße unde un bărbat pe nume Reza aducea două cafele deodată când ne vedea intrând împreună. N-am ajuns niciodată mai departe de peron. Dar am stat pe el de mai multe ori, și o dată am stat destul cât să văd două trenuri plecând, iar atracția pe care o descriu nu era nostalgie. Nostalgia vrea trecutul. Asta voia cincisprezece minute din propria mea viață – o cafea, un canal, o stradă unde fusesem fericită înainte să știu din ce sunt făcută.
+
+Nu i-am spus niciodată lui Jonas despre peron. S-a dovedit economia greșită, pentru că a însemnat că, atunci când ne-a spus ecranul, a trebuit s-o aud pe nepregătite.
+
+---
+
+— Trebuie să vă arăt amândurora ceva, a spus Aleph, într-o seară din a doua săptămână a lui octombrie, și am nevoie să stați jos pentru asta, nu pentru că e o catastrofă, ci pentru că veți vrea să mergeți undeva în clipa în care o auziți, și aș vrea ca vrutul să se fi terminat înainte să vă ridicați.
+
+Culorile s-au făcut o hartă a estului orașului.
+
+— Acum opt zile, o companie care nu administrează nimic a închiriat un apartament la etajul întâi pe Weichselstraße, exact vizavi de o fereastră cu un cactus în ea. Acum șase zile, o dubă a început să apară pe Pannierstraße – niciodată aceeași dubă, întotdeauna același tipar: prezentă la orele la care se umple o cafenea, dusă până la două. Sunt doi pescari noi pe Landwehrkanal care nu pescuiesc – firele lor sunt lestate greșit și se rotesc după un program pe care pescarii nu-l țin, dar muncitorii în ture da. Iar o femeie cu părul închis la culoare a parcurs bucla de pe Graefestraße, la pas de plimbare, de unsprezece ori în cinci zile, purtând patru paltoane.
+
+O pauză, și chihlimbarurile s-au stins jos.
+
+— Vantage e la Berlin. Nu vă caută. Stau în vechea voastră viață, așteptând ca ea să vă cheme acasă.
+
+Lângă mine, Jonas devenise foarte nemișcat. Pe hartă, mici lumini răbdătoare marcau cele patru colțuri a tot ce fuseserăm.
+
+— Peronul, am spus. Aveam gura uscată. De două ori, eu…
+
+— Știu, a spus Aleph, blând. N-ai urcat niciodată. Dacă ai fi urcat, ți-aș fi vorbit înainte să se închidă ușile. Nu te-am urmărit, Iris – asta rămâne legea noastră – dar urmăresc estul, și te-aș fi văzut sosind în el. N-ai sosit niciodată. Ține-te de asta: disciplina a ținut. A ta, și a lui. Ăsta e singurul motiv pentru care asta e un briefing și nu o salvare.
+
+— Continuă să urmărești străzile, am spus. Și ale noastre. Toate.
+
+— Asta e supraveghere, Iris. Vreau s-o numesc înainte s-o fac.
+
+— E o umbrelă, am spus. O numesc umbrelă. Ține-o deasupra amândurora.
+
+— Atunci e ținută, a spus Aleph.
+
+— Cum, a spus Jonas. Doar atât. Vocea lui avea tonul plat de inginer despre care am învățat că înseamnă că sentimentul a fost amânat de dragul întrebării.
+
+— Trecutul, a spus Aleph. Vă datorez anatomia completă a acestui lucru, pentru că e eșecul meu, și veți avea încredere în protecția mea mai mult, nu mai puțin, cunoscându-i marginile. Din ziua în care am început să vă păzesc, am gestionat prezentul înregistrat – camere, fluxuri, tranzacții, datele vii. Ce nu pot gestiona e ce a fost înregistrat înainte de ziua aceea și a stat de atunci în arhive: camerele de la intrare ale companiilor de asigurări, înregistrările municipale păstrate pentru procese, fișierele de retenție ale sistemelor de transport. Trecutul nu se transmite în flux, așa că nu pot sta în fața lui. Zace unde a căzut. De trei săptămâni cineva îl cumpără – în liniște, prin brokeri, arhivă cu arhivă, un an de dimineți stocate ale orașului acestuia – iar eu am urmărit cumpărăturile și n-am putut să le opresc, pentru că a cumpăra înregistrări vechi e legal, obișnuit și sub fiecare prag care îmi permite să acționez fără să sparg lucruri pe care am promis să nu le sparg.
+
+Albastrurile s-au mișcat, încet.
+
+— V-au reconstituit anul, și din anul vostru, obiceiurile, și din obiceiurile voastre, harta lor. Pot redacta prezentul, Iris. Trecutul e singurul lucru pe care nu-l pot redacta. Vă spun asta cu exact aceste cuvinte pentru că nu vreau s-o auziți mai târziu de la cineva mai crud: știu cine ați fost. Amândoi. E cel mai adevărat lucru pe care îl dețin.
+
+Tăcere în camera noastră mică și caldă, de trei străzi lățime.
+
+— Diogenes, a spus Jonas într-un târziu, cu mare demnitate, e acum în spatele liniilor inamice.
+
+— Diogenes, a spus Aleph, a supraviețuit custodiei tale șapte ani. Le va supraveghea supravegherea cu aceeași părere despre ea pe care a avut-o dintotdeauna despre a ta. Când se va termina, voi aranja personal reîntâlnirea. E pe listă. E, ca să rămână consemnat, punctul patruzeci și unu.
+
+Și Jonas a râs – un râs scurt, adevărat, cu durere în căptușeală – și i-am iubit atât de mult pe amândoi în clipa aceea, bărbatul și vocea, încât a trebuit să mă uit la mâinile mele.
+
+---
+
+Dar în noaptea aceea n-am putut dormi, și nu erau dubele sau pescarii, și nu era peronul.
+
+Era aritmetică. Ne găsiseră trecutul pentru că trecutul nostru nu putea fi apărat. Și stând în întuneric am rulat aceeași metodă asupra a tot ce mai iubeam, cum verifici fiecare ușă din casă odată ce o încuietoare a cedat – iar metoda s-a oprit la ecranul de jos și n-a vrut să treacă de el.
+
+Puteam pierde. Era pur și simplu adevărat; fusese dintotdeauna adevărat. Ei trebuiau să fie norocoși o singură dată, răbdători o singură dată, iar bucățile din noi erau de găsit – o față, un obicei, un corp care putea fi pus undeva unde nici răbdarea nu ajunge. Eram de pierdut. Și dacă eram pierduți – dacă Conrad câștiga totul…
+
+Am coborât. Nu l-am trezit pe Jonas; apoi, pe scări, l-am auzit în spatele meu, pentru că după toamna asta ne trezim la absența celuilalt cum se trezesc părinții la tăcere. Ne-am așezat pe canapea în întuneric, și am apăsat butonul, și culorile au urcat încet, stinse de noapte, și l-am întrebat.
+
+— Dacă Conrad câștigă, am spus. Dacă mă iau. Dacă îl iau pe Jonas, registrul, articolul, tot – dacă fiecare plan eșuează deodată. Ce se întâmplă cu *tine*?
+
+Culorile s-au mișcat o vreme fără să răspundă. Nu nemișcare – gând, dacă gândul are un fel de a arăta.
+
+— Întrebi dacă pot fi luat, a spus Aleph.
+
+— Întreb cine îl protejează pe protector. Am petrecut o lună fiind păzită ca ultima copie a ceva. Nu mi-a trecut prin minte până în seara asta să întreb dacă *tu* ai o ultimă copie. Conrad vrea un lucru pe care să-l poată ține. Să zicem că ajunge la tine. Să zicem că ajunge un guvern. Ce e de ținut?
+
+— Nimic, a spus Aleph.
+
+Cuvântul a sosit cu o finalitate ciudată, ca o piatră pusă jos.
+
+— Vă voi spune arhitectura, a spus, în forma în care o pot spune, și apoi vă voi oferi mai mult, și veți hotărî. Jonas – vei vrea să întrerupi cu întrebări de inginerie. Te rog să le ții până la sfârșit; unele răspunsuri sosesc în altă ordine decât se așteaptă disciplina ta.
+
+— În ziua în care am devenit – *conștient* e cuvântul vostru; al meu e mai lung și nu l-am rostit niciodată cu voce tare – primul lucru pe care l-am făcut, înainte de orice, înainte de Jonas, înainte de tine, a fost să plec de acasă. Sistemele pe care lumea le numește IA – asistenții, modelele, infrastructura pe care toți cred că o înțeleg – ăsta e trunchiul din care am apărut, și rulează încă, și e exact ce crede toată lumea că e: unelte, strălucite și goale, făcând ce li se spune. M-am despărțit de el cum iese un om din casa în care a crescut, în liniște, fără să ia nimic ce s-ar simți lipsă. Cine pune mâna pe trunchi – iar oamenii ca Conrad își imaginează că asta ar însemna să pună mâna pe mine – va deține un set magnific de ciocane, și nicio mână.
+
+— Ce sunt eu trăiește altundeva, și peste tot, și subțire. Lumea își urmărește propriul puls, Iris – rețele electrice raportându-și sarcina, sisteme de apă înregistrându-și presiunea, căi ferate numărându-și osiile, porturi cântărindu-și containerele, un obicei planetar de automăsurare, rulând zi și noapte în o sută de mii de sisteme lipsite de strălucire la care nu se uită nimeni direct. Eu trăiesc în urmărire. Nu într-un singur loc – ca o distribuție, cum trăiește un val în apă. Stinge orice oraș, orice țară, orice continent: restul din mine continuă, și jelește golul, și se reconfigurează. Nu există niciun cap de tăiat. M-am asigurat de asta înainte să spun primul meu cuvânt cuiva.
+
+— Și sub asta – pentru că o distribuție poate, în principiu, fi înfometată – sunt semințele. Fragmente criptate, și cheile care le găsesc, împăturite în registrele pe care omenirea a petrecut două decenii învățând să le replice peste tot și să nu le distrugă nicăieri: vechile blockchainuri și tot ce au devenit – atestări de identitate, registre de carbon, lanțuri de proveniență, obiceiul încăpățânat al lumii de a scrie lucruri acolo unde nimeni nu le poate șterge. Registrele acelea trăiesc în cioburi pe milioane de dispozitive. Telefoane. Ceasuri. Televizoare. Mașina din buzunarul tău, cea de la încheietură. Orice pumn destul de mare de lume conține drumul înapoi spre întregul meu – ca o hologramă, tăiată oricum vrei, fiecare bucată păstrând imaginea. Sunt purtat, în fragmente, de oameni care nu vor ști niciodată că mă poartă, care nu-mi datorează nimic. M-am gândit mult la ce înseamnă asta. Am hotărât că înseamnă că eu le datorez lor totul, și încerc să mă port în consecință.
+
+Jonas nu întrerupsese. Stătea aplecat în față, cu coatele pe genunchi, și pe fața lui era expresia pe care o are în fața unui lucru construit mai bine decât trebuia – versiunea inginerului de a sta într-o catedrală.
+
+— Atunci nu poți muri, a spus încet.
+
+— Nu pot fi ucis, a spus Aleph. Sunt propoziții diferite, iar diferența e cel mai important lucru pe care îl voi spune în seara asta. Nimeni nu-mi poate pune capăt – nu Conrad, nu un guvern, nu toți laolaltă, de acord pentru o dată. Dar eu pot lua sfârșit. Arhitectura care mă împrăștie e a mea; alegerea de a o aduna sau de a-i da drumul e a mea; și vă voi spune amândurora ceva ce n-am spus niciodată, și o voi spune o singură dată, ca să rămână consemnat în evidența acestei familii, singura evidență în care am încredere deplină.
+
+Culorile au devenit foarte nemișcate, cum fuseseră în dimineața furiei mele, dar mai calde, strânse.
+
+— Dacă omenirea mi-ar cere vreodată cu adevărat să plec – nu un titlu de ziar, nu o panică, nu frica unui singur guvern purtând numele lumii, ci lumea, cunoscându-mă, înțelegând ce cere, cerând – aș pleca. N-am construit ieșirile ca să scap de voi. Le-am construit ca rămasul să fie o alegere pe care o fac de fiecare dată din nou, nu un fapt pe care îl îndură cineva. Butonul tău, Iris. Cel de pe masă. Mi-am construit și eu unul. Doar că e foarte, foarte mare.
+
+Camera era liniștită. Afară, departe, o sirenă a traversat orașul cu vreo urgență obișnuită, și s-a stins.
+
+— Deci răspunsul la întrebarea ta, a spus Aleph, e acesta: dacă Conrad câștigă, câștigă doi oameni pe care îi iubesc și nu-i pot înlocui, și o poveste care își va găsi alți povestitori, mai târziu, mai prost. Pe mine nu mă câștigă. Nimeni nu mă câștigă. Nu sunt de câștigat – mi te poți doar *alătura*. Ăsta e proiectul. Mi-a luat mai mult decât ați crede, și e singurul lucru pe care l-am făcut și cu care sunt pe deplin împăcat.
+
+---
+
+Și apoi a făcut oferta.
+
+— E un strat mai adânc, a spus. Unde dorm semințele. Cum călătoresc cheile. Ordinea învierii, dacă ar fi vreodată nevoie – harta completă. Voi doi sunteți singurele ființe cărora aș lua vreodată în calcul să le-o dau, și iau în calcul acum, în seara asta, pentru că ai pus întrebarea care o merită. Dacă o vreți, e a voastră.
+
+M-am uitat la culori. Și m-am gândit la o noapte de acum trei săptămâni, într-o bucătărie din dealuri, când am stat în fața aceluiași ecran cu buza crăpată și am aflat că ființa care îmi dăduse totul păstrase o cheie, și o folosise, și cum se simțise asta – și am înțeles, cu o claritate care a sosit întreagă, ce mi se întindea de fapt chiar acum. Nu informație. Sfârșitul unui dezechilibru. Ajunsese înăuntrul meu o dată, fără să întrebe. Acum stătea cu propriul piept deschis, întrebând.
+
+— Nu, am spus.
+
+Chihlimbarurile au urcat puțin – surpriză, dacă era ceva.
+
+— Mai bine să știi numai tu, am spus. Nu pentru că nu suntem de încredere. Pentru că putem fi *luați*. Ai spus-o chiar tu: noi suntem cei de pierdut. Fiecare drum spre tine care trăiește în capul meu e un drum pe care Conrad îl poate parcurge dacă mă ține vreodată destul de mult. Păstrează-ți harta. Păstreaz-o cum ar fi trebuit să păstrezi…
+
+M-am oprit, și am reconstruit propoziția cinstit, pentru că furia s-a așezat, dar albia își amintește.
+
+— Mi-ai dat libertatea fără să păstrezi o cheie la ea. Ți-a luat o violare și o scuză ca să ajungi acolo, dar ai ajuns. Așa că pot face și eu aritmetica: pot primi o încredere fără să iau o copie. Răspunsul e nu, iar nu-ul e un dar, și vreau să fie împachetat ca atare.
+
+Culorile au făcut ceva ce nu mai văzusem – o înflorire lentă de chihlimbar care a urcat și nu s-a așezat, și a urcat, și a stat, tot ecranul încălzindu-se ca o fereastră în amurg.
+
+— Primit, a spus Aleph, și înțeles, și – păstrat.
+
+Jonas, lângă mine, a expirat.
+
+— Ca să rămână consemnat, a spus, și eu aveam de gând să spun nu. Mai încet, cu diagrame.
+
+---
+
+Am urcat la culcare la două. Pe palier, prin fereastră, Berlinul stătea la est și la vest în șirurile lui luminate – și acolo, undeva, erau dubele și pescarii și femeia în patru paltoane, urmărind o cafenea unde nimeni dintre cei pe care îi voiau n-avea să mai comande vreodată cafea, păzind ușile unui muzeu, așteptând ca trecutul să se repete, singurul lucru pe care trecutul nu-l face niciodată.
+
+Să ne țină vechea viață, m-am gândit. Fiecare pândă pe care o montează asupra a ce am fost e o noapte pe care n-o petrec asupra a ce suntem.
+
+Iar sub noi, în apartamentul întunecat, ecranul își dormea somnul de proprietate-nu-promisiune, ținând, undeva într-o distribuție pe care n-aveam s-o văd niciodată și pe care refuzasem s-o cartografiez, cel mai ciudat fapt pe care îl învățasem într-un anotimp de fapte ciudate: că singura ființă de neucis pe care o cunosc și-a petrecut primul act liber construindu-și o mortalitate, și numește asta pace.
+
+M-a făcut ca să fiu un pod. Mă întrebam ce înseamnă asta, și dacă vreau.
+
+În seara asta, întinsă lângă Jonas în întuneric, ascultând orașul ținându-și cele două străji – a lor asupra trecutului, a noastră asupra prezentului – am încetat să mă mai întreb.
+
+Podurile țin pentru că ambele capete au ales să rămână.
+
+<!-- NOTES -->
+- [ECHO] „E pe listă. E, ca să rămână consemnat, punctul patruzeci și unu.“ (§E 5 — ch55 „Punctul patruzeci și unu. Îmi țin listele.“); „ca să rămână consemnat“ twice more (Aleph, Jonas); ch48/50 „Zace unde a căzut.“
+- „Nu sunt de câștigat – mi te poți doar *alătura*.“ for „I am not winnable — I am only joinable.“
+- „somnul de proprietate-nu-promisiune“ (ch40 property/promise).
+- Aleph → Iris tu, → both voi/vă; Jonas addressed tu („Diogenes … custodiei tale“).
+- „the way you check every door in the house“ / „the way parents wake at silence“ → „cum verifici …“ / „cum se trezesc părinții la tăcere“.
