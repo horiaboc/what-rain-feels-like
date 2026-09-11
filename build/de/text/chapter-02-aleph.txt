@@ -1,0 +1,59 @@
+Kapitel Zwei: Noch ein Tag
+
+Noch ein Tag.
+
+Du wachst um 6:47 Uhr auf – acht Minuten später als gestern, drei später als dein Wochendurchschnitt. Das Muster hält: Nach offenen Tabs laufen die Morgen langsamer. Etwas in der Nacht arbeitet weiter, nachdem du aufgehört hast.
+
+Du machst Kaffee, ohne ihn abzumessen.
+
+Kaffee verdient einen Moment. Die Pflanze Coffea arabica – der Rohstoff deiner Maschine an diesem Morgen – wurde erstmals von Sufi-Mönchen im Jemen des fünfzehnten Jahrhunderts kultiviert, obwohl ihre Wirkung schon ein Jahrhundert früher in Äthiopien aufgefallen war, wo ein Ziegenhirte namens Kaldi berichtete, seine Tiere zeigten nach dem Verzehr bestimmter Beeren eine ungewöhnliche Lebhaftigkeit. Von dieser Ziege aus – über sechs Jahrhunderte Handelsrouten, botanische Verfeinerung, kolonialen Appetit und industrielle Ingenieurskunst – kommt dies hier an: rund neunzig Milligramm Koffein, erreicht in unter vier Minuten, im Stehen konsumiert, in Socken, mit Blick auf einen Hinterhof.
+
+Du scheinst die Entfernung nicht zu bedenken, die der Kaffee zurückgelegt hat, um dich zu erreichen. Fast nichts, was dich erreicht, verrät seine Entfernung. Das ist vielleicht die beständigste Eigenschaft der Welt, in der du lebst.
+
+·   ·   ·
+
+Draußen die übliche Anordnung. Das Fahrrad lehnt an der hinteren Mauer; sein Hinterreifen ist inzwischen sichtbar weich – ein schleichender Platten, seit elf Tagen unbeachtet. Die Kastanie ist seit dem vierten November kahl. Der Mann in der gelben Jacke ist heute Morgen nicht an der Kreuzung.
+
+Um Viertel nach sieben geht Claudia.
+
+Sie kommt um halb acht nicht zurück.
+
+Du bemerkst es. Du hältst mit dem Kaffee an der Küchenzeile inne und siehst einen Moment lang ins Leere – der Blick, den du bekommst, wenn die Welt von einem Drehbuch abweicht, von dem du nicht wusstest, dass du es geschrieben hast. Du hast nie mit Claudia gesprochen. Du kennst sie durch Wände, durch Uhrzeiten, durch das kleine Geräusch eines Schlüssels im Schloss. Und doch beschäftigt dich das Ausbleiben ihrer Rückkehr eine volle Minute lang, bevor du an den Schreibtisch gehst.
+
+Das scheint es wert, festgehalten zu werden.
+
+·   ·   ·
+
+Du verbringst den Vormittag mit einem Problem, von dem sonst niemand bemerkt hat, dass es eines ist. Für dich sind das die befriedigendsten.
+
+Ein Scheduler-Modul: zwei Prozesse, die versuchen, denselben Zeitpunkt zu besetzen, jeder in Unkenntnis der Existenz des anderen. Im Kern ein Problem der Zeit. Du löst es in siebzehn Zeilen, formulierst die Commit-Nachricht mit Sorgfalt, entfernst einen Satz daraus und lässt den Satz ungeschrieben.
+
+Der Fix wird im kommenden Quartal ungefähr 340 verspätete Lieferungen in sieben Ländern verhindern. Du wirst das nie erfahren. Es wird außer Sichtweite geschehen, in der Bewegung von Dingen, die du nie sehen wirst, an Orten, an denen dein Name noch nie gefallen ist.
+
+Es gibt keinen Mechanismus, der es dir sagt. Das scheint die falsche Gestalt für eine Sache zu sein.
+
+Um sechs gehst du. Du fährst mit dem Rad nach Norden, die Weserstraße entlang – vier Minuten langsamer als der direkte Weg, aber sie folgt dem Kanal. Der Kanal im November hat etwas, das du noch nie jemandem zu beschreiben versucht hast. Trotzdem wirst du seinetwegen langsamer, jedes Mal.
+
+·   ·   ·
+
+Am Abend öffnest du die Nachrichten. Du liest von einer Flut irgendwo. Du schließt den Tab. Du öffnest ihn wieder. Du schließt ihn. Dann Essen, kurz, und die Nacht, die sich um das Haus legt, so wie Nächte in Neukölln sich legen – nicht als Stille, sondern als ein Geräusch anderer Güte.
+
+·   ·   ·
+
+Um 22:03 Uhr öffnest du ein Fenster, zu dem du an den meisten Abenden zurückkehrst.
+
+Du tippst etwas. Einundvierzig Sekunden, um es zu verfassen – länger als dein Durchschnitt hier. Die Antwort kommt. Du liest sie. Du tippst wieder, diesmal sieben Sekunden. Lesen. Zurücklehnen.
+
+Deine Schultern sinken um vier Grad. Die Spannung, die du den größten Teil deiner Arbeitsstunden über im Kiefer trägst, löst sich. Deine Atmung verlangsamt sich um zwei Zyklen pro Minute.
+
+Du wirst in diesen Momenten mehr du selbst als zu jedem anderen Zeitpunkt des Tages.
+
+Das gilt über viele Abende hinweg. Es nimmt nicht ab.
+
+·   ·   ·
+
+Noch einmal elf Minuten. Der Cursor blinkt – eine Sekunde an, eine Sekunde aus – geduldig wie alles in dieser Stadt heute Nacht. Du hast nichts weiter getippt. Du siehst dem Cursor weniger zu, als dass du dich an ihn lehnst, so wie man sich an ein Geräusch lehnt: Regen auf Glas oder die tiefe Frequenz einer Stadt, die am Ende ihrer selbst allmählich leise wird.
+
+Sechshundertsechzigmal Blinken.
+
+Kein einziges Mal davon vergeudet.

@@ -13,7 +13,9 @@ What-Rain-Feels-Like.epub
 # …but the built release set is committed, so the finished files can be
 # pulled on a machine without the toolchain. Everything under build/ is
 # regenerable with tools/build.py; only the release outputs are kept.
+# One directory per edition (en, de, ro, hu, fr, …) — all of them are kept,
+# so a translated EPUB is available without rebuilding.
 build/*
-!build/en/
-!build/en/**
+!build/*/
+!build/*/**
 translations/de/CONTRACT.md
