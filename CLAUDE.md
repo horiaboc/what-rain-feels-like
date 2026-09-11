@@ -64,6 +64,25 @@ When the user says **"print"** a chapter or file, output the full text verbatim 
 
 When the user asks for a translation or a new-language edition, invoke the `translate` skill (`.claude/skills/translate/SKILL.md`) — it is the entry point to `translations/TRANSLATION-PROMPT.md` and carries the standing rules (no delegation, sequential, 9.5–9.8 native bar, email the EPUB).
 
+## Models — content vs structure
+
+**Fable 5.1 at `/effort max` writes every word of the book**, in any language.
+Opus 5 (or whatever is convenient) may do structural work once the text is
+finished: build pipeline, edition config, `tools/check_translation.py`, git,
+packaging, STATUS/docs, REVIEW-NOTES generation.
+
+**Before any operation that would change book content — a chapter file,
+book-matter, a phrase in the text — say so and wait**, so the session can be
+switched to Fable 5.1 first. This includes content edits that arrive disguised
+as structural work: a checker failure whose fix is a reworded sentence, a gate
+violation, a typography problem only fixable in the chapter file, a heading that
+will not parse. Mixing models inside one book causes voice drift no checker
+catches.
+
+Note: "ultracode" is not a separate toggle — it is an effort level bundling
+xhigh thinking with agent fan-out. Use `max` instead: one level deeper, no
+delegation, consistent with the no-delegation rule.
+
 ## Writing Rules
 
 - Read `bible.md` before writing or continuing any chapter
