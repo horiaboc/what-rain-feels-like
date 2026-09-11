@@ -26,7 +26,7 @@ Singurul fișier deschis în timpul rescrierii. Exemplarele sunt originale, scri
 
 > La 23:12 închizi tabul în care de patru zile stătea deschis un articol despre pânza freatică din Andaluzia. Nu l-ai citit. L-ai ținut deschis, ceea ce e altceva și, în cazul tău, mai frecvent: o fereastră pe care n-o închizi ca să nu dispară lucrul din spatele ei.
 
-> Cafeaua pe care o bei a fost culeasă în Huila, la 1.700 de metri, de oameni ale căror nume nu apar pe niciun ambalaj. Nimic din toate astea nu știi. Aproape nimic din ce ajunge la tine nu-ți spune pe unde a venit. Poate că asta e proprietatea cea mai constantă a lumii în care trăiești.
+> Cafeaua pe care o bei a fost culeasă în Huila, la 1.700 de metri, de oameni ale căror nume nu apar pe niciun ambalaj. Nimic din toate astea nu știi. Aproape nimic din ce ajunge la tine nu-ți spune pe unde a venit. Drumul nu e trecut pe ambalaj.
 
 **CONRAD** — limbaj elevat, dumneavoastră + prenume, conjunctivul vorbirii indirecte, „nu neprietenos“.
 

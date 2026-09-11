@@ -77,6 +77,18 @@ EDITIONS: dict[str, dict] = {
         "title_lines": ["Cum", "se simte", "ploaia"],
         "isbn_paperback": "[assigned by KDP at publish]",
     },
+    "hu": {
+        "name": "Hungarian",
+        "locale": "hu-HU",
+        "title": "Milyen érzés az eső",
+        "subtitle": "regény",
+        "slug": "Milyen-Erzes-Az-Eso",
+        "scene_break": "·   ·   ·",
+        "contents_label": "Tartalom",
+        "byline_prefix": "",
+        "title_lines": ["Milyen", "érzés", "az eső"],
+        "isbn_paperback": "[assigned by KDP at publish]",
+    },
 }
 
 # ─────────────────────────────────────────────────────────────────────────────

@@ -43,6 +43,13 @@ RULES = {
         "ratio": (0.9, 1.3),
         "tics": ["de fapt", "genul de", "un fel de", "felul în care", "care ", "am spus", "a spus"],
     },
+    "hu": {
+        "label_re": re.compile(r"^# [A-ZÁÉÍÓÖŐÚÜŰ][a-záéíóöőúüű]+ fejezet(: .+)?$"),
+        "bad_typography": [("\"", "straight double quote (use „…”)"),
+                           ("\u201c", "English opening quote “ (use „)")],
+        "ratio": (0.70, 1.15),
+        "tics": ["az a fajta", "olyan, amely", "ami azt illeti", "valahogy", "egyszerűen", "mondtam", "mondta"],
+    },
 }
 
 
@@ -88,12 +95,14 @@ def main(lang: str) -> int:
             n = body.count(needle)
             if n:
                 issues.append(f"{what} ×{n}")
-        if lang == "ro":
-            stray = sum(1 for l in body.split("\n") if "—" in l.lstrip()[1:])
+        if lang in ("ro", "hu"):
+            stray = sum(1 for l in body.split("\n") if "—" in l.lstrip()[1:] or (lang == "hu" and "—" in l))
             if stray:
                 issues.append(f"em dash inside a line ×{stray} (dialogue dash only at line start; use – for pauses)")
+        # Hungarian suffixes lengthen a final a/e (Claudia → Claudiát); compare on a folded copy
+        body_names = body.replace("á", "a").replace("é", "e") if lang == "hu" else body
         for name in NAMES:
-            n_en, n_de = en.count(name), body.count(name)
+            n_en, n_de = en.count(name), body_names.count(name)
             if n_en and not n_de:
                 issues.append(f"name lost: {name}")
         w_en, w_de = words(en), words(de)

@@ -234,7 +234,7 @@ def render_front(panel_w: int, panel_h: int) -> Image.Image:
         if i + 1 < len(lines):
             y += round(cap * LINE_STEP * (weights[i] + weights[i + 1]) / 2)
 
-    byline = f"{c.BYLINE_PREFIX} {c.AUTHOR_DISPLAY}"
+    byline = f"{c.BYLINE_PREFIX} {c.AUTHOR_DISPLAY}".strip()
     bf = _fit_width(byline, REGULAR, round(text_w * 0.55), round(panel_h * 0.030))
     _draw_over(canvas, art, (panel_w // 2, panel_h - _px(c.BLEED_IN + BYLINE_UP_IN)),
                byline, bf, pal)
@@ -415,7 +415,7 @@ def render_back(panel_w: int, panel_h: int) -> Image.Image:
         return h, items
 
     # Shrink the body until tagline, blurb and byline all clear the barcode.
-    byline = f"{c.BYLINE_PREFIX} {c.AUTHOR_DISPLAY}"
+    byline = f"{c.BYLINE_PREFIX} {c.AUTHOR_DISPLAY}".strip()
     while body_f.size > 26:
         height, items = block_height()
         by_f = _font(REGULAR, round(body_f.size * 1.5))

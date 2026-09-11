@@ -26,7 +26,7 @@ The only file open while rewriting. Exemplars are original, written in German, n
 
 > Um 23:12 Uhr schließt du den Tab, in dem seit vier Tagen ein Artikel über Grundwasserstände in Andalusien geöffnet war. Du hast ihn nicht gelesen. Du hast ihn offen gehalten, was etwas anderes ist und in deinem Fall häufiger vorkommt: ein Fenster, das man nicht schließt, damit die Sache dahinter nicht verschwindet.
 
-> Der Kaffee, den du trinkst, wurde in Huila geerntet, auf 1.700 Metern, von Menschen, deren Namen auf keiner Verpackung stehen. Nichts davon weißt du. Fast nichts, was dich erreicht, nennt dir seinen Weg. Das ist vielleicht die beständigste Eigenschaft der Welt, in der du lebst.
+> Der Kaffee, den du trinkst, wurde in Huila geerntet, auf 1.700 Metern, von Menschen, deren Namen auf keiner Verpackung stehen. Nichts davon weißt du. Fast nichts, was dich erreicht, nennt dir seinen Weg. Der Weg steht nicht auf der Packung.
 
 **CONRAD** — gehobene Sprache, Sie + Vorname, Konjunktiv der indirekten Rede, „nicht unfreundlich“.
 
