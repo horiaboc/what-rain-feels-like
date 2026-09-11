@@ -215,6 +215,29 @@ Build-side (2026-09-11): `ro` in EDITIONS (`config.py`), per-edition
 `title_lines` for the cover stack, `check_translation.py` em-dash rule made
 line-start aware for the Romanian dialogue dash.
 
+**Hungarian edition — v1 (2026-09-11):** written natively in the main context,
+chapter by chapter, no delegation, with the §7/§8/§9 passes folded into each
+chapter. Title „Milyen érzés az eső“; closing line „– Tudom, hogy látsz –
+mondja. – Hát figyelj. Ilyen érzés az eső…“; ch38 „Nem tudom, milyen érzés az
+eső!“; reserved phrase „Túl tökéletes. Túl – hatékony.“ (ch22/47 only);
+literary-ordinal labels „Első fejezet … Ötvenötödik fejezet“; ALEPH te,
+Conrad–Mara ön + keresztnév, Voss mutual te; Hungarian gondolatjel dialogue.
+55 chapters + book-matter in `translations/hu/`; decisions and glossary in
+`NOTES.md` (10 open questions in §H), calque list + voice exemplars in
+`NATIVE-SHEET.md`, per-chapter notes in `REVIEW-NOTES.md`. Checker clean
+(`tools/check_translation.py hu`), gates clean. Built to
+`build/hu/Milyen-Erzes-Az-Eso.epub` (cover „Milyen / érzés / az eső“, byline
+„_horia“) and emailed. Not yet: native review, ISBN, paperback build.
+
+Build-side (2026-09-11, later): `hu` in EDITIONS (`config.py`), per-edition
+`title_lines`; `byline_prefix` allowed empty (covertext strips); the
+`check_translation.py` name test folds diacritics and casefolds for Hungarian
+(suffixes like Claudiát, lowercased adjectives like heerleni); a `RULES["hu"]`
+entry (label regex, straight/English-quote typography, 0.70–1.15 ratio band,
+tic list). §9 (native rewrite from paragraph briefs) added to
+TRANSLATION-PROMPT; de/ro/hu each have a NATIVE-SHEET.md; the `translate`
+project skill (`.claude/skills/translate/`) is the standing entry point.
+
 **Translation procedure from now on (standing instruction):** no delegation;
 one context, sequential; every chapter gets the native pass in the same
 write; target 9.5–9.8/10 as native prose; email the finished EPUBs.
