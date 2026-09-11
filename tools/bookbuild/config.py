@@ -89,6 +89,18 @@ EDITIONS: dict[str, dict] = {
         "title_lines": ["Milyen", "érzés", "az eső"],
         "isbn_paperback": "[assigned by KDP at publish]",
     },
+    "fr": {
+        "name": "French",
+        "locale": "fr-FR",
+        "title": "Ce que ça fait, la pluie",
+        "subtitle": "roman",
+        "slug": "Ce-Que-Ca-Fait-La-Pluie",
+        "scene_break": "·   ·   ·",
+        "contents_label": "Table des matières",
+        "byline_prefix": "de",
+        "title_lines": ["Ce que", "ça fait", "la pluie"],
+        "isbn_paperback": "[assigned by KDP at publish]",
+    },
 }
 
 # ─────────────────────────────────────────────────────────────────────────────

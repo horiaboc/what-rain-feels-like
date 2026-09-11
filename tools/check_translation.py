@@ -50,6 +50,18 @@ RULES = {
         "ratio": (0.70, 1.15),
         "tics": ["az a fajta", "olyan, amely", "ami azt illeti", "valahogy", "egyszerűen", "mondtam", "mondta"],
     },
+    "fr": {
+        "label_re": re.compile(r"^# Chapitre [a-zé\- ]+?(?:[ \u00a0\u202f]:\s+.+)?$"),
+        "bad_typography": [("\"", "straight double quote (use « … »)"),
+                           ("\u201c", "English opening quote “ (use «)"),
+                           (" ?", "regular space before ? (run tools/fr_typo.py)"),
+                           (" !", "regular space before ! (run tools/fr_typo.py)"),
+                           (" :", "regular space before : (run tools/fr_typo.py)"),
+                           (" ;", "regular space before ; (run tools/fr_typo.py)"),
+                           ("« ", "regular space after « (run tools/fr_typo.py)")],
+        "ratio": (0.9, 1.4),
+        "tics": ["le genre de", "une sorte de", "la façon dont", "la manière dont", "en quelque sorte", "en fait", "pas vraiment", "dis-je", "dit-elle", "dit-il"],
+    },
 }
 
 
@@ -95,7 +107,7 @@ def main(lang: str) -> int:
             n = body.count(needle)
             if n:
                 issues.append(f"{what} ×{n}")
-        if lang in ("ro", "hu"):
+        if lang in ("ro", "hu", "fr"):
             stray = sum(1 for l in body.split("\n") if "—" in l.lstrip()[1:] or (lang == "hu" and "—" in l))
             if stray:
                 issues.append(f"em dash inside a line ×{stray} (dialogue dash only at line start; use – for pauses)")
