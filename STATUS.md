@@ -187,17 +187,40 @@ heads and folios now clear KDP's 0.25" edge by 0.380"/0.340".
 Optional pages still unwritten, and fine to leave that way: book epigraph,
 acknowledgments. They mount automatically if ever written.
 
-**German edition (2026-09-10):** fully drafted — all 55 chapters and the
-book-matter in `translations/de/`, built to `build/de/Wie-Sich-Regen-Anfuehlt.epub`
-and handed to the native reader. Decisions and glossary in
-`translations/de/NOTES.md` (title „Wie sich Regen anfühlt“, ALEPH says *du*,
-reserved phrase „Zu perfekt. Zu – effizient.“); translator notes per chapter
-in `translations/de/REVIEW-NOTES.md`; 13 open questions for the reviewer in
-NOTES.md §H. Structural check clean (`tools/check_translation.py de`).
-Not yet: the review pass, a German ISBN, the paperback build (own spine).
+**German edition — v2 (2026-09-10):** all 55 chapters through the full
+native pass (TRANSLATION-PROMPT §7/§8): frame tics („die Sorte X, die …“,
+„Beschaffenheit“, „auf die Art“, „nicht direkt“) removed or re-planned,
+typography and inquits settled, cross-chapter echoes reconciled. Checker
+clean, gates clean (effizient only ch22/47; title phrase only ch38/55).
+Built to `build/de/Wie-Sich-Regen-Anfuehlt.epub` and emailed. Decisions in
+`translations/de/NOTES.md`; per-chapter notes in `REVIEW-NOTES.md` (v2); the
+reviewer's open questions in NOTES.md §H. Not yet: the native review pass, a
+German ISBN, the paperback build (own spine).
+
+**Romanian edition — v1 (2026-09-11):** written natively in the main context,
+chapter by chapter, with the §7/§8 passes folded into each chapter. Title
+„Cum se simte ploaia“; closing line „— Știu că mă vezi, spune ea. Așa că
+ascultă. Îți spun acum cum se simte ploaia…“; ch38 „Nu știu cum se simte
+ploaia!“; reserved phrase „Prea perfect. Prea – eficient.“ (ch22/47 only);
+literary ordinals „Capitolul întâi … al cincizeci și cincilea“; ALEPH tu,
+Conrad–Mara dumneavoastră + prenume; Romanian dialogue dash. 55 chapters +
+book-matter in `translations/ro/`, decisions and glossary in `NOTES.md`
+(12 open questions in §H), per-chapter notes in `REVIEW-NOTES.md`. Checker
+clean (`tools/check_translation.py ro`), gates clean. Built to
+`build/ro/Cum-Se-Simte-Ploaia.epub` (cover lettering „Cum / se simte /
+ploaia“, byline „de _horia“) and emailed together with the German v2.
+Not yet: the native review pass, ISBN, paperback build.
+
+Build-side (2026-09-11): `ro` in EDITIONS (`config.py`), per-edition
+`title_lines` for the cover stack, `check_translation.py` em-dash rule made
+line-start aware for the Romanian dialogue dash.
+
+**Translation procedure from now on (standing instruction):** no delegation;
+one context, sequential; every chapter gets the native pass in the same
+write; target 9.5–9.8/10 as native prose; email the finished EPUBs.
 
 After launch, in rough priority: the German edition (`translation-plan.md` —
 the pipeline already builds it), book two (the AGI press conference is the
 seed in `bible.md`), audiobook from `build/en/text/`.
 
-*Last updated: 2026-09-10*
+*Last updated: 2026-09-11*

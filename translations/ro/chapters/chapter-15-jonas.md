@@ -4,7 +4,7 @@
 
 Iunie a venit cu siguranța unui oraș care a hotărât să fie din nou frumos, după deliberări îndelungate și câteva voturi eșuate în comisii.
 
-Am mers la Winterfeldtmarkt în prima sâmbătă – Schöneberg, un drum rezonabil pentru o piață rezonabilă, una care există de destul timp ca să aibă caracterul așezat, nu curatoriat. Ea nu mai fusese. Eu fusesem rar, mereu cu senzația vagă că sunt cineva care ar trebui să vină mai des – o deficiență pe care am rezolvat-o acum prin metoda inedită de a veni mai des.
+Am mers la Winterfeldtmarkt în prima sâmbătă – Schöneberg, un drum rezonabil pentru o piață rezonabilă, una care există de destul timp ca să aibă caracterul așezat, nu curatoriat. Ea nu mai fusese. Eu fusesem rar, mereu cu senzația vagă că sunt cineva care ar trebui să vină mai des – o lipsă pe care am rezolvat-o acum prin metoda inedită de a veni mai des.
 
 Se mișcă prin piețe altfel decât prin alte mulțimi – mai încet, cu mai multă atenție. Se oprește la tarabele cu legume cu interesul cuiva care nu cumpără nimic, dar vrea să înțeleagă logica aranjamentului. Pune vânzătorilor întrebări cum pun jurnaliștii întrebări: nu ca să recolteze informații pentru uz imediat, ci pentru că a întreba e ce faci când te interesează. Bărbatul care vindea ulei de măsline în sticle etichetate de mână i-a spus despre presarea la rece mai mult decât îi spusese probabil propriei familii, într-un amestec de germană și italiană pe care l-a urmărit fără efort aparent.
 

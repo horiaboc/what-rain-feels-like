@@ -180,6 +180,8 @@ def _title_lines(title: str) -> list[str]:
     only works for a title that breaks three ways; anything else falls back to
     an even two- or one-line stack.
     """
+    if getattr(c, "TITLE_LINES", None):
+        return list(c.TITLE_LINES)
     words = title.split()
     if len(words) == 4:
         return [words[0], words[1], " ".join(words[2:])]
