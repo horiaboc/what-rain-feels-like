@@ -34,37 +34,37 @@ Iris écrivait dans son carnet. Puis elle n'écrivait plus. J'ai jeté un œil 
 
 Après, sur les marches dehors – assez froid pour voir son souffle –, elle a dit :
 
-— 
+— Tu t'es tu.
 
-— 
+— Oui.
 
-— 
+— Pourquoi ?
 
 J'ai réfléchi à la manière de le dire sans en faire un discours.
 
-— 
+— Le village a construit quelque chose qui marche parce que *ce sont eux* qui l'ont construit. Les quatorze personnes le connaissent. Elles se sont formées entre elles. Le protocole est à elles – il vit en elles, pas dans un système.
 
 Une pause.
 
-— 
+— Une plateforme qui absorbe le problème absorbe aussi le savoir. Les quatorze personnes cessent de savoir comment fonctionne l'alerte précoce et commencent à savoir comment faire un rapport à la plateforme. Et alors la plateforme est le point de défaillance unique.
 
 Elle m'a regardé.
 
-— 
+— Tu penses que le distribué est toujours mieux que le centralisé.
 
-— 
+— Je pense que la dépendance est un risque d'une nature particulière, qu'on sous-pondère jusqu'à ce qu'on ne le fasse plus.
 
 Un temps.
 
-— 
+— Je peux me tromper.
 
-— 
+— Tu peux, a-t-elle dit. Mais sur la dépendance, tu ne te trompes pas.
 
 Un moment.
 
-— 
+— Et la plateforme absorbe le financement. Le village cesse d'être l'histoire. Il devient un cas d'usage.
 
-— 
+— Quelque chose comme ça.
 
 Elle l'a dit sans chaleur, ce qui est la seule façon de dire une chose pareille quand on y a réfléchi plus d'une soirée. J'ai eu l'impression que c'était son cas.
 
@@ -78,23 +78,23 @@ Il n'y avait pas de plan – c'était simplement la direction où nous allions t
 
 Elle s'est arrêtée sur la passerelle de l'Urbanhafen et a regardé l'eau.
 
-— 
+— Tous les canaux, la nuit, a-t-elle dit. Les reflets ressemblent toujours plus à la ville que la ville elle-même. Plus honnêtes, on dirait.
 
 J'ai regardé. Elle avait raison – comme ont raison les observations exactes sur les choses ordinaires, c'est-à-dire complètement, et seulement après que quelqu'un les a dites.
 
-— 
+— Amsterdam ? ai-je dit.
 
-— 
+— Entre autres.
 
 Elle m'a jeté un coup d'œil.
 
-— 
+— Tu fais ça, toi ? T'arrêter pour remarquer des choses ?
 
-— 
+— En général sur des données.
 
 Elle y a réfléchi.
 
-— 
+— C'est peut-être la même chose.
 
 Nous avons continué.
 
@@ -108,21 +108,21 @@ Je l'ai interrogée sur le papier sur la transparence. Elle m'a parlé des quatr
 
 Nous nous sommes arrêtés au coin où elle tournait vers l'est et où je continuais vers le nord – ou aurais continué, en théorie ; je n'avais rien décidé. Il s'était mis à pleuvoir : cette pluie fine de janvier qui ne s'engage pas mais persiste, et le temps qu'on pense à la mentionner, elle a déjà fait valoir son point.
 
-— 
+— Tu devrais y aller, a-t-elle dit. Pas d'une manière qui voulait dire qu'elle le souhaitait.
 
-— 
+— Elle n'est pas sérieuse, cette pluie, ai-je dit.
 
-— 
+— Non, a-t-elle admis.
 
 Nous sommes restés là, sous la pluie pas sérieuse.
 
 Il y a des moments qui se présentent comme ordinaires et qui sont en fait une question. J'ai reconnu celui-ci comme une question. J'ai aussi reconnu qu'elle méritait une réponse réfléchie, et que la réponse réfléchie n'était pas encore disponible – non que les données fussent insuffisantes, mais parce que je n'avais pas fini de comprendre ce que les données *étaient*. Forcer une conclusion sur une compréhension incomplète est exactement le mode de défaillance que je passe trois ans à construire des systèmes pour prévenir.
 
-— 
+— On se refait une marche, un de ces jours ? ai-je dit.
 
 Elle m'a regardé d'une manière que j'ai classée et à laquelle je reviens depuis, par intervalles.
 
-— 
+— Oui, a-t-elle dit. On se refait une marche.
 
 ---
 
@@ -137,9 +137,9 @@ La réponse n'était pas encore disponible.
 C'est – ai-je décidé – un endroit raisonnable où être.
 
 <!-- NOTES -->
-- Title = Iris's last line verbatim: « On se refait une marche. » (question and answer share the words, as in the English).
-- « la pluie pas sérieuse » ×3 (§E) – the phrase to hold if it returns.
+- Title = Iris's last line verbatim: «  On se refait une marche. » (question and answer share the words, as in the English).
+- «  la pluie pas sérieuse » ×3 (§E) – the phrase to hold if it returns.
 - tu between Jonas and Iris throughout (post-ch08).
-- Narrative beats in speech paragraphs (« A pause. », « A beat. », « A moment. », « She glanced at me. ») set as their own paragraphs so the cadratin stays unambiguous.
+- Narrative beats in speech paragraphs («  A pause. », «  A beat. », «  A moment. », «  She glanced at me. ») set as their own paragraphs so the cadratin stays unambiguous.
 - « a specific kind of risk » → « un risque d'une nature particulière » (no « genre de »); « use case » → « un cas d'usage »; « single point of failure » → « le point de défaillance unique »; « scale » → « passer à l'échelle ».
-- « en fait » appears once in Jonas's narration (« qui sont en fait une question ») – the English *in fact*, not the filler; the checker counts it.
+- «  en fait » appears once in Jonas's narration («  qui sont en fait une question ») – the English *in fact*, not the filler; the checker counts it.

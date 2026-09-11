@@ -34,13 +34,13 @@ J'ai passé la matinée sur le modèle de scoring. C'est un bon problème – de
 
 Mia m'a apporté le déjeuner à mon bureau, ce qu'elle fait quand elle pense que j'ai oublié de manger, et aussi quand elle veut avoir une conversation sans que ça en ait l'air. Aujourd'hui, c'était les deux.
 
-— 
+— Ils restructurent la division clients, a-t-elle dit, comme si c'était une information neutre.
 
-— 
+— Je sais, ai-je dit.
 
-— 
+— L'équipe de Kai absorbe deux comptes de plus.
 
-— 
+— Je sais.
 
 Elle m'a regardé un instant comme elle le fait quand elle veut que je dise quelque chose et qu'elle a correctement prédit que je ne le ferai pas. Puis elle est retournée à son bureau.
 
@@ -84,6 +84,6 @@ Je n'en avais pas besoin.
 
 <!-- NOTES -->
 - The English italicises Mia's spoken lines; French marks speech with the cadratin, so the italics are dropped there (the dash is the marker) – hold this for every spoken exchange the English sets in italics.
-- « le rapport de conformité » (§E); « lisible » seeds ch18/ch52; « Le curseur clignotait dans le champ vide. » = ch01's sentence in the past.
-- « porter / tenir » for carrying / holding; keep the pair if it returns.
-- Jonas's chat line keeps « juste » once (it is inside the typed message, not the narration).
+- «  le rapport de conformité » (§E); «  lisible » seeds ch18/ch52; «  Le curseur clignotait dans le champ vide. » = ch01's sentence in the past.
+- «  porter / tenir » for carrying / holding; keep the pair if it returns.
+- Jonas's chat line keeps «  juste » once (it is inside the typed message, not the narration).

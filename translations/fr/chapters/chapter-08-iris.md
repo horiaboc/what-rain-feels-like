@@ -32,17 +32,17 @@ Je ne le surveillais pas. J'avais conscience de lui comme on a conscience d'une 
 
 Au bout d'une vingtaine de minutes, il a levé les yeux et m'a vue.
 
-— 
+— La journaliste, a-t-il dit. Pas comme une question.
 
-— 
+— La chaîne d'approvisionnement, ai-je dit.
 
 Il a souri – le petit sourire involontaire, celui qui arrive avant qu'une personne ait décidé de l'autoriser. Puis il a regardé son écran, et de nouveau moi.
 
-— 
+— Ça s'arrange, l'échelle de temps ?
 
-— 
+— Le papier sur le vélo est paru. J'appelle ça une amélioration.
 
-— 
+— Félicitations.
 
 Un seul hochement de tête, décidé. Puis il est retourné à son écran, et moi au mien.
 
@@ -52,17 +52,17 @@ Une heure plus tard, nous parlions.
 
 J'avais mentionné le papier sur la transparence quand il m'avait demandé ce que je lisais – un rapport d'audit municipal de Tallinn, qui n'est pas un document que la plupart des gens qualifieraient d'intéressant, et il m'a posé la question avec ce qui ressemblait à une curiosité réelle plutôt qu'à de la politesse. Puis nous discutions de l'écart structurel entre ce que les gouvernements disent de la redevabilité algorithmique et ce que leurs audits révèlent en réalité, et ses opinions avaient une précision qui m'a surprise.
 
-— 
+— Tu réfléchis beaucoup à ça, ai-je dit. Pour quelqu'un qui travaille dans les chaînes d'approvisionnement.
 
-— 
+— Je réfléchis à ce que je vois.
 
 Il a réfléchi.
 
-— 
+— La chaîne d'approvisionnement est une version de la question. Comment rendre comptable quelque chose d'invisible. Comment savoir si un système fait ce qu'il prétend faire.
 
 Une pause.
 
-— 
+— Le problème est le même. Le secteur est différent.
 
 J'ai écrit cela dans mon carnet, et je lui ai dit que je le faisais. Il a trouvé ça drôle d'une manière qui laissait entendre que c'était aussi un peu vrai.
 
@@ -70,13 +70,13 @@ Il s'appelait Jonas.
 
 Moi Iris, ai-je dit. Il a levé les yeux de son écran.
 
-— 
+— Je sais, a-t-il dit. J'ai lu le papier sur le vélo. En décembre. La signature.
 
 Je l'ai regardé. Il connaissait mon nom depuis un mois et m'appelait *la journaliste*.
 
-— 
+— Tu n'as rien dit.
 
-— 
+— Tu n'as rien demandé.
 
 C'était, ai-je décidé, un point recevable. Je l'ai trouvé inopinément drôle, et je le lui ai dit, et il a reçu l'information comme un homme à qui l'on remet un petit prix sans qu'il soit sûr d'avoir concouru.
 
@@ -88,15 +88,15 @@ Je ne l'avais pas encore donnée à un collègue.
 
 Je ne sais pas exactement quand j'ai décidé de la proposer à Jonas à la place. Quelque part dans la conversation, c'était devenu la suite logique – pas fabriquée, simplement la continuation d'une conversation qui n'avait pas encore trouvé d'endroit naturel où s'arrêter. Il connaissait le sujet. Il y tenait, de la façon qui n'a pas besoin de s'annoncer.
 
-— 
+— C'est une soirée presse, ai-je dit. Table ronde après. Ça risque d'être long.
 
 Il a regardé les détails que j'avais notés dans la marge d'une page de carnet.
 
-— 
+— Ça commence à quelle heure ?
 
-— 
+— Sept heures.
 
-— 
+— J'y serai, a-t-il dit.
 
 ---
 
@@ -118,7 +118,7 @@ J'ai tourné la page.
 
 <!-- NOTES -->
 - GLOSSARY: « le papier sur le vélo », « le papier sur la transparence » — ch06/ch07 use the same noun. Profile → « un état des lieux »; audit reports → « les rapports d'audit ».
-- vous until the names are exchanged; first tu is « Tu n'as rien dit. » / « Tu n'as rien demandé. » – but « Tu réfléchis beaucoup à ça » comes earlier: after an hour of talk, two thirty-year-olds in a Berlin café would have crossed; the reviewer may prefer the switch exactly at the names (§H).
-- ch06 callback matches ch06's words: « l'échelle de temps ».
+- vous until the names are exchanged; first tu is «  Tu n'as rien dit. » / «  Tu n'as rien demandé. » – but «  Tu réfléchis beaucoup à ça » comes earlier: after an hour of talk, two thirty-year-olds in a Berlin café would have crossed; the reviewer may prefer the switch exactly at the names (§H).
+- ch06 callback matches ch06's words: «  l'échelle de temps ».
 - English leaves the downstairs neighbour and the colleague ungendered; French forced a choice, generic masculine used.
-- « la façon qui n'a pas besoin de s'annoncer », « de la façon qui est soit ordinaire soit autre » – « la façon qui », not « la façon dont »; the checker's frame does not fire.
+- «  la façon qui n'a pas besoin de s'annoncer », «  de la façon qui est soit ordinaire soit autre » – «  la façon qui », not «  la façon dont »; the checker's frame does not fire.

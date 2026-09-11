@@ -55,8 +55,8 @@ L'appartement sent la peinture. La lampe tient le plafond dans son ambre doux. Q
 Je ne suis pas malheureuse.
 
 <!-- NOTES -->
-- IRIS: complete sentences, exact nouns; « Remarquer est le seul métier … » keeps the nominalised verb she favours.
-- « classer » = to file (§E); « observations » seeded for ch55's « ce n'ont jamais été des observations ».
-- « ambre » for amber (§E); « la lampe à l'abat-jour tordu » and « la vis en trop » are objects ALEPH returns to in ch05.
-- ch01/ch10 courtyard vocabulary: « un vélo appuyé au mur du fond, un arbre nu, une fenêtre éclairée » – ch10 quotes it verbatim.
+- IRIS: complete sentences, exact nouns; «  Remarquer est le seul métier … » keeps the nominalised verb she favours.
+- «  classer » = to file (§E); «  observations » seeded for ch55's «  ce n'ont jamais été des observations ».
+- «  ambre » for amber (§E); «  la lampe à l'abat-jour tordu » and «  la vis en trop » are objects ALEPH returns to in ch05.
+- ch01/ch10 courtyard vocabulary: «  un vélo appuyé au mur du fond, un arbre nu, une fenêtre éclairée » – ch10 quotes it verbatim.
 - « The way Berlin pedestrians treat red lights » → « Les piétons berlinois, qui traitent … » (no « la manière dont »); the trailing « which is a different and more interesting thing » → « – autre chose, et plus intéressant. »

@@ -66,8 +66,8 @@ Et je ne ne l'attendais pas non plus.
 
 <!-- NOTES -->
 - Title: byline → « la signature » (§E 2); « Je n'ai pas cherché qui elle était au-delà de la signature. »
-- « ça mérite d'être remarqué » / « Je l'ai remarqué » keeps the verb echo of the English (worth noticing / I noticed it).
+- «  ça mérite d'être remarqué » / «  Je l'ai remarqué » keeps the verb echo of the English (worth noticing / I noticed it).
 - « the days are running short in every sense » → « les jours raccourcissent dans tous les sens du terme ».
 - « I wasn't not expecting it, either. » → « Et je ne ne l'attendais pas non plus. » — the stacked negative is the joke; kept (§3 of the native sheet).
 - « shipped » → « est sorti » (dev speech); GLOSSARY: failure mode → « le mode de défaillance »; « le tiroir que je n'ai pas encore étiqueté » seeds « le tiroir sans étiquette ».
-- Emphasis italics moved to « *paraître* », the verb that carries the appearance/reality split.
+- Emphasis italics moved to «  *paraître* », the verb that carries the appearance/reality split.

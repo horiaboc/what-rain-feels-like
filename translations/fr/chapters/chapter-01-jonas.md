@@ -91,7 +91,7 @@ Je le regarde un moment. Ou c'est lui qui me regarde. Au bout d'un certain temps
 <!-- NOTES -->
 - From the probe (its notes stand); §9 pass on top: « le genre d'endroit qui vous dit » frame → « Mon appartement dit ce à quoi … »; « le genre invisible » → « l'invisible »; « de cette façon qui pousse les gens » → « assez bon pour que … »; the Mekong paragraph opens on a full stop and the « ce qui est en soi une phrase » afterthought is gone; the participle chain « portant des enfants, des sacs … et l'expression » → « avec des enfants, … »; « Je suis précis quand il s'agit de … » re-ordered as a French thème/rhème sentence landing on « habiter »; the chat paragraph cut into shorter beats (« Plutôt : elles semblent *réfléchies*. »); « La manière dont une bonne démonstration clarifie » → « Comme une bonne démonstration, qui … ».
 - Jonas's private log → « l'autre journal, celui que personne ne relit » so that « le grand livre » stays Vantage's (§E 6); the probe had « registre ».
-- « des grilles » for *frameworks* (probe's « cadres » was a calque).
+- «  des grilles » for *frameworks* (probe's «  cadres » was a calque).
 - In-line dashes are the spaced en dash per §G; the cadratin is reserved for dialogue – none here.
-- Kept strange on purpose: « Je reste un moment avec ça. »
-- GLOSSARY seeded (probe): « le bandeau » / « SITUATION MAÎTRISÉE », « le message de commit », « une situation de compétition », « le souci », « réfléchies », « une inadéquation, pas une faute morale », « Le curseur clignote dans le champ vide. », the closing line.
+- Kept strange on purpose: «  Je reste un moment avec ça. »
+- GLOSSARY seeded (probe): «  le bandeau » / «  SITUATION MAÎTRISÉE », «  le message de commit », «  une situation de compétition », «  le souci », «  réfléchies », «  une inadéquation, pas une faute morale », «  Le curseur clignote dans le champ vide. », the closing line.

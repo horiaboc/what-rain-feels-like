@@ -10,10 +10,9 @@ def fix(text: str) -> str:
         if line.startswith("<!-- NOTES") or line.startswith("- ") and "→" in line:
             out.append(line); continue
         # in-line em dash → spaced en dash (dialogue dash only at line start)
-        head, sep, rest = (line[:2], line[2:], "") if line.startswith("— ") else ("", "", line)
-        body = rest if head else line
+        head, body = ("— ", line[2:]) if line.startswith("— ") else ("", line)
         body = re.sub(r"\s*—\s*", " – ", body) if "—" in body else body
-        line = (head + body) if head else body
+        line = head + body
         line = re.sub(r"[  ]+([;:?!»])", NB + r"\1", line)
         line = re.sub(r"«[  ]*", "«" + NB, line)
         line = line.replace("–" + NB, "– ")  # never NBSP after a dash

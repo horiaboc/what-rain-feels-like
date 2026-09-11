@@ -61,8 +61,8 @@ Six cent soixante clignotements.
 Pas un seul de perdu.
 
 <!-- NOTES -->
-- ALEPH: présent, tu; no sensory verb for itself; Coffea arabica kept Latin. « Cela semble mériter d'être consigné. » seeds « le compte rendu » (§E 5).
-- « Tu deviens, dans ces moments-là, plus toi-même qu'à aucun autre moment de la journée. » – ch55 quotes it in the third person; verbatim there.
-- [ECHO] « Six cent soixante clignotements. » / « Pas un seul de perdu. »
-- « Pour toi, il n'y en a pas de plus satisfaisant. » – no « genre de » frame (reserved for ch17); « un bruit d'une autre sorte » is the literal noun, not the « une sorte de » frame.
+- ALEPH: présent, tu; no sensory verb for itself; Coffea arabica kept Latin. «  Cela semble mériter d'être consigné. » seeds «  le compte rendu » (§E 5).
+- «  Tu deviens, dans ces moments-là, plus toi-même qu'à aucun autre moment de la journée. » – ch55 quotes it in the third person; verbatim there.
+- [ECHO] «  Six cent soixante clignotements. » / «  Pas un seul de perdu. »
+- «  Pour toi, il n'y en a pas de plus satisfaisant. » – no «  genre de » frame (reserved for ch17); «  un bruit d'une autre sorte » is the literal noun, not the «  une sorte de » frame.
 - ALEPH timestamps as digits (6:47, 22:03) per §G.

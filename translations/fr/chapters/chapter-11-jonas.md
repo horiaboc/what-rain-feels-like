@@ -8,7 +8,7 @@ Lukas – photographe à son journal, là depuis avant son arrivée – avait un
 
 Iris me l'avait demandé trois jours plus tôt.
 
-— 
+— Un truc chez un ami. Tu n'es pas obligé.
 
 Sa façon de dire *tu n'es pas obligé* était celle qu'ont les gens pour les choses auxquelles ils préféreraient qu'on dise oui.
 
@@ -20,13 +20,13 @@ Je suis arrivé avec vingt minutes de retard, ce qui était encore tôt.
 
 Elle m'a trouvé à la porte avant que je sois vraiment entré – elle me guettait, ai-je compris, bien qu'elle ne l'ait pas dit. Robe sombre. Le bon manteau sur le bras. Les cheveux détachés, ce que je n'avais encore jamais vu, et à quoi j'ai ensuite consacré une part disproportionnée des deux heures suivantes à ne pas penser.
 
-— 
+— Tu es venu, a-t-elle dit.
 
-— 
+— Tu as dit que je n'étais pas obligé.
 
-— 
+— Ce n'est pas la même chose que ne pas vouloir que tu viennes.
 
-— 
+— Non, ai-je admis. Ce n'est pas la même chose.
 
 ---
 
@@ -42,23 +42,23 @@ Je me suis tenu près de la fenêtre et j'ai regardé la pièce sans l'examiner 
 
 Puis elle était à côté de moi.
 
-— 
+— Tu faisais le truc de la fenêtre, a-t-elle dit.
 
-— 
+— Le truc de la fenêtre.
 
-— 
+— Quand tu te tais et que tu regardes quelque chose au loin. Tu le fais quand tu as besoin de te remettre à zéro.
 
 Elle l'avait remarqué. Je n'avais pas remarqué qu'elle l'avait remarqué, ce qui voulait dire que mon truc de la fenêtre avait maintenant un témoin, et – j'ai vérifié – cela ne me dérangeait pas.
 
-— 
+— Bram avait des opinions, ai-je dit.
 
-— 
+— Bram a toujours des opinions.
 
 Elle se tenait à côté de moi et regardait la rue en bas. Près – l'appartement était plein et le renfoncement de la fenêtre n'était pas grand, et il y avait le simple fait de sa présence à côté de moi, qui s'enregistrait autrement dans une pièce bondée que sur un canal à minuit.
 
-— 
+— Tu es content d'être venu ?
 
-— 
+— Demande-moi à la fin, ai-je dit. J'aurai de meilleures données.
 
 Elle a souri à cela, ce qui a immédiatement amélioré mes données.
 
@@ -80,9 +80,9 @@ Nous sommes partis vers minuit.
 
 Dehors : le froid, et la pluie qui n'arrivait pas à se décider s'est enfin décidée. Les pavés mouillés sous les tilleuls de la Kollwitzplatz, la ville faisant ce qu'elle fait de mieux dans le noir, c'est-à-dire être belle sans en faire une affaire. Elle avait maintenant son manteau ; j'avais le mien. Nous sommes restés sur les marches pendant que la fête continuait derrière les fenêtres éclairées au-dessus de nous.
 
-— 
+— De bonnes données ? a-t-elle dit.
 
-— 
+— Très bonnes, ai-je dit.
 
 Elle était près. L'air était froid et la lumière des fenêtres était chaude, et elle me regardait comme elle m'avait regardé sur le canal – le regard que je classais et auquel je revenais depuis des semaines –, et cette fois je n'ai pas décidé d'attendre la certitude.
 
@@ -96,23 +96,23 @@ Nous avons marché jusqu'à la Schönhauser Allee et pris la U2 vers le sud ense
 
 À Gleisdreieck, elle m'a regardé.
 
-— 
+— On se refait une marche, un de ces jours ? a-t-elle dit.
 
 J'ai compris qu'elle nous citait.
 
-— 
+— On se refait une marche, ai-je dit.
 
 Elle est descendue à Nollendorfplatz. Je suis resté jusqu'à Hermannstraße, j'ai changé, et j'ai pris la U8 par le raccourci jusque chez moi – quatre stations, six minutes, le trajet que j'ai fait mille fois – pour arriver à l'appartement dans un état pour lequel je ne détiens aucun précédent.
 
 Diogenes m'a considéré depuis le rebord.
 
-— 
+— Je sais, lui ai-je dit.
 
 Il s'est retourné vers la fenêtre. Certaines données parlent d'elles-mêmes.
 
 <!-- NOTES -->
-- « la pluie qui n'arrivait pas à se décider s'est enfin décidée » (§E).
-- ch09 callback verbatim: « On se refait une marche, un de ces jours ? » / « On se refait une marche. »
+- «  la pluie qui n'arrivait pas à se décider s'est enfin décidée » (§E).
+- ch09 callback verbatim: «  On se refait une marche, un de ces jours ? » / «  On se refait une marche. »
 - « The way she said *you don't have to* was the way … » → « Sa façon de dire … était celle qu'ont les gens pour … » — a possessive noun, not the « la façon dont » frame.
 - Lukas's « the good coat » → « Le bon manteau » (ch08 coat).
-- Iris's colleagues left as « deux collègues » (French ungendered plural).
+- Iris's colleagues left as «  deux collègues » (French ungendered plural).

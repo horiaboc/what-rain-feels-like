@@ -32,13 +32,13 @@ Il y avait une porte de placard qui s'ouvrait toute seule chaque fois que le cha
 
 Il a regardé tout cela depuis la porte de la cuisine.
 
-— 
+— Tu n'as pas demandé, a-t-il dit.
 
-— 
+— Ça me gênait.
 
-— 
+— Ça me gêne depuis quatre mois.
 
-— 
+— Alors de rien, ai-je dit.
 
 Il a ri – pas le petit rire involontaire mais le vrai, celui qui prend plus de place qu'il ne s'en autorise d'habitude. Je l'ai classé soigneusement, dans le dossier grandissant qui porte son nom.
 
@@ -67,8 +67,8 @@ Reza s'est mis à apporter deux cafés d'un coup quand il nous voyait entrer ens
 Et je me suis aperçue que j'avais cessé de remarquer quand je réarrangeais ma semaine pour faire de la place au vendredi. Cela a semblé important. Puis cela a semblé normal. Puis cela a semblé la chose la plus ordinaire du monde – ce que font, en suis-je venue à penser, les choses importantes quand elles ont l'intention de rester.
 
 <!-- NOTES -->
-- §C site: « une entente à la Pannierstraße : brève, tacite, entièrement suffisante » – same three words as ch06 (only the place-name changes, as in the English).
-- ch03 callback verbatim: « un vélo appuyé au mur du fond, un arbre nu, une fenêtre éclairée ».
+- §C site: «  une entente à la Pannierstraße : brève, tacite, entièrement suffisante » – same three words as ch06 (only the place-name changes, as in the English).
+- ch03 callback verbatim: «  un vélo appuyé au mur du fond, un arbre nu, une fenêtre éclairée ».
 - folder → « le dossier » (§E): « dans le dossier grandissant qui porte son nom »; to file → « classer ».
 - « the kind of flaw that … » → « le défaut qui … »; « a plant of the variety that … » → « une plante de l'espèce qui … » (no « genre de »).
-- « J'ai noté que j'en avais eu envie. Que l'envie … » – the nominalised verb is Iris's register.
+- «  J'ai noté que j'en avais eu envie. Que l'envie … » – the nominalised verb is Iris's register.

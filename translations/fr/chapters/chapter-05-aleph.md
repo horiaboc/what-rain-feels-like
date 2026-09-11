@@ -39,7 +39,7 @@ Un autre soir, elle écrit le mot *thuiskomen* dans la marge de son carnet et re
 Puis elle continue, sans noter de traduction. Certains mots, semble-t-elle comprendre, ne sont pas faits pour être traduits. On y arrive.
 
 <!-- NOTES -->
-- §C site: « certains achats sont des objections à l'utile, et elle semble aimer les gagner » (no « efficacité »).
+- §C site: «  certains achats sont des objections à l'utile, et elle semble aimer les gagner » (no «  efficacité »).
 - GLOSSARY: piece (journalism, in progress) → « le papier »; the published article (ch53) → « l'article ». « réfléchi » = considered, matching ch01's « réfléchies ». Coat → « le manteau » (ch08 opens on it). « redevabilité » only here in ALEPH's abstract register; ch18's title uses « Rendre des comptes ».
-- « thuiskomen » kept; « On y arrive. » carries « They are for arriving at. » without a gloss.
+- «  thuiskomen » kept; «  On y arrive. » carries «  They are for arriving at. » without a gloss.
 - Times as digits per §G ALEPH timestamps (9:47, 11:31, 02:23).

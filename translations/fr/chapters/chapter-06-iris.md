@@ -20,43 +20,43 @@ Il regarde l'écran. Trente ans environ, veste sombre, un ordinateur ouvert deva
 
 Il remarque que je remarque.
 
-— 
+— Même schéma, dit-il, doucement, comme s'il achevait une pensée qui n'était pas censée le quitter. Autres coordonnées.
 
-— 
+— Quatrième fois cette année dans ce système de delta, dis-je. Deuxième fois que ça atteint la presse internationale.
 
 Il me regarde – un temps de recalibrage. Il ne s'attendait pas à une réponse, encore moins à une réponse avec un chiffre dedans.
 
-— 
+— Vous suivez ça.
 
-— 
+— J'écris là-dessus. Entre autres.
 
 Une pause.
 
-— 
+— Meridian.
 
 Il hoche la tête. Pas pour le titre – je ne crois pas qu'il le connaisse – mais pour la catégorie de personne qui aurait le deuxième chiffre sous la main. Une reconnaissance, d'un compteur à l'autre.
 
-— 
+— Et vous ? dis-je. Quelque chose dans la qualité de son attention m'a fait demander.
 
 Il y réfléchit brièvement – à la question, ou peut-être à la réponse honnête.
 
-— 
+— Je ferme l'onglet, dit-il. Puis je le rouvre.
 
 Un temps, sec, pas tout à fait une blague.
 
-— 
+— Logiciels. Chaînes d'approvisionnement. J'essaie de faire en sorte que les choses aillent de là où elles sont à là où elles doivent être.
 
 J'ai compris cela de deux façons à la fois – littéralement, puis autrement. Quelque chose dans son visage suggérait qu'il avait conscience des deux, et qu'il les laissait volontiers coexister.
 
-— 
+— Est-ce que ça aide ? dit-il ensuite, avec un signe de tête vers mes notes, pendant que l'écran passe à quelque chose de financier. D'écrire là-dessus.
 
 Je considère la question avec plus de soin qu'elle ne le mérite peut-être. C'est une question que je me pose et à laquelle je n'ai pas fini de répondre, et je m'en tiens vaguement à ne pas prétendre le contraire.
 
-— 
+— Je crois que oui, dis-je. Je cherche encore qui ça aide, et à quelle échelle de temps.
 
 Il semble trouver cela honnête plutôt qu'insatisfaisant. Il hoche la tête une fois – un petit mouvement conclusif – et se retourne vers son écran.
 
-— 
+— Bonne chance pour l'échelle de temps, dit-il.
 
 Je dis merci, et je retourne à mes notes.
 
@@ -74,7 +74,7 @@ Dehors, le canal est gris, et le froid a la qualité de la fin novembre à Berli
 
 J'ouvre mon carnet sur le trottoir. La discipline.
 
-*Café, Pannierstraße. Reza. Télé : inondations dans le delta du Brahmapoutre, quatrième événement cette année, deuxième à atteindre la presse internationale. Homme, 30 ans environ, veste sombre, logiciels de logistique. A dit : « Même schéma. Autres coordonnées. » Sait que le deuxième chiffre n'est pas le plus important. Ferme l'onglet, le rouvre. Sait porter une chose sans en faire la seule chose.*
+*Café, Pannierstraße. Reza. Télé : inondations dans le delta du Brahmapoutre, quatrième événement cette année, deuxième à atteindre la presse internationale. Homme, 30 ans environ, veste sombre, logiciels de logistique. A dit : «  Même schéma. Autres coordonnées. » Sait que le deuxième chiffre n'est pas le plus important. Ferme l'onglet, le rouvre. Sait porter une chose sans en faire la seule chose.*
 
 Je relis.
 
@@ -85,9 +85,9 @@ Je rentre à pied le long du canal. Par le chemin long.
 Je ne sais pas très bien pourquoi j'ai écrit autant sur un inconnu.
 
 <!-- NOTES -->
-- Dialogue with the cadratin; narrative beats inside a speech paragraph (« A pause. », « A beat, dry, not quite a joke. ») set as their own paragraphs so they cannot be read as speech.
+- Dialogue with the cadratin; narrative beats inside a speech paragraph («  A pause. », «  A beat, dry, not quite a joke. ») set as their own paragraphs so they cannot be read as speech.
 - Jonas and Iris on vous at this first exchange (§B); tu from ch08.
-- §C site: « une entente à la berlinoise : brève, tacite, entièrement suffisante » – ch10 repeats it verbatim.
+- §C site: «  une entente à la berlinoise : brève, tacite, entièrement suffisante » – ch10 repeats it verbatim.
 - [ECHO] « Même schéma. Autres coordonnées. »; « l'échelle de temps » is the ch08 callback (« Bonne chance pour l'échelle de temps » → « Ça s'arrange, l'échelle de temps ? »).
-- Liturgy seeded: « note, continue. C'est le travail. » (§E, « On note. On continue. » later).
-- « la manière dont l'homme est assis » – one « la manière dont » kept: it is the object of « fait partie de », not a frame; the checker counts it.
+- Liturgy seeded: «  note, continue. C'est le travail. » (§E, «  On note. On continue. » later).
+- «  la manière dont l'homme est assis » – one «  la manière dont » kept: it is the object of «  fait partie de », not a frame; the checker counts it.
