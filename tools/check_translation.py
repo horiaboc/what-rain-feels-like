@@ -99,10 +99,15 @@ def main(lang: str) -> int:
             stray = sum(1 for l in body.split("\n") if "—" in l.lstrip()[1:] or (lang == "hu" and "—" in l))
             if stray:
                 issues.append(f"em dash inside a line ×{stray} (dialogue dash only at line start; use – for pauses)")
-        # Hungarian suffixes lengthen a final a/e (Claudia → Claudiát); compare on a folded copy
-        body_names = body.replace("á", "a").replace("é", "e") if lang == "hu" else body
+        # Hungarian suffixes lengthen a final a/e (Claudia → Claudiát) and lowercase
+        # adjective forms (Heerlen → heerleni); fold and casefold for the presence test.
+        if lang == "hu":
+            body_names = body.replace("á", "a").replace("é", "e").casefold()
+            name_key = lambda nm: nm.replace("á", "a").replace("é", "e").casefold()
+        else:
+            body_names, name_key = body, lambda nm: nm
         for name in NAMES:
-            n_en, n_de = en.count(name), body_names.count(name)
+            n_en, n_de = en.count(name), body_names.count(name_key(name))
             if n_en and not n_de:
                 issues.append(f"name lost: {name}")
         w_en, w_de = words(en), words(de)
