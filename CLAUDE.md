@@ -60,6 +60,10 @@ This creates the symlink that lets Claude Code find the memory files at their ex
 
 When the user says **"print"** a chapter or file, output the full text verbatim directly in the chat response (not just a file/Read tool call). The user often works remotely without direct file access, so the content must actually appear in the conversation.
 
+## Translations
+
+When the user asks for a translation or a new-language edition, invoke the `translate` skill (`.claude/skills/translate/SKILL.md`) — it is the entry point to `translations/TRANSLATION-PROMPT.md` and carries the standing rules (no delegation, sequential, 9.5–9.8 native bar, email the EPUB).
+
 ## Writing Rules
 
 - Read `bible.md` before writing or continuing any chapter
