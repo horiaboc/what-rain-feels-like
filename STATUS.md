@@ -238,6 +238,57 @@ tic list). §9 (native rewrite from paragraph briefs) added to
 TRANSLATION-PROMPT; de/ro/hu each have a NATIVE-SHEET.md; the `translate`
 project skill (`.claude/skills/translate/`) is the standing entry point.
 
+**French edition — in progress, paused at ch17 of 55 (2026-09-11):** written
+natively in the main context with §7/§8/§9 folded into each chapter. Title
+« Ce que ça fait, la pluie »; closing line « — Je sais que tu me vois, dit-elle.
+Alors écoute. Voilà ce que ça fait, la pluie… »; reserved phrase « Trop parfait.
+Trop – efficace. » (ch22/47 only); labels « Chapitre premier … cinquante-cinq ».
+Decisions and glossary in `translations/fr/NOTES.md` (10 open questions in §H),
+`NATIVE-SHEET.md` written; REVIEW-NOTES.md not yet generated. Checker clean on
+ch01–17. **Resume at ch18.** Then book-matter, gates, EPUB, email.
+
+Build-side: `fr` in EDITIONS; `RULES["fr"]` in the checker; `tools/fr_typo.py`
+applies French spacing (no-break space before ; : ? ! and inside « », in-line
+em dash to spaced en dash) and must be run after every French chapter write.
+
+**Bug found and fixed (2026-09-11):** `tools/fr_typo.py` was deleting the text
+of every line that opened with a dialogue dash, leaving a bare dash. 74 lines
+across ch04–11 were committed damaged before it was caught. Lines recovered
+from the session transcript; ch01–17 verified. *The length-ratio check did not
+catch a 74-line deletion — eyeball dialogue after any mechanical pass.*
+
+**Build artifacts now tracked (2026-09-11):** `.gitignore` had excluded
+`build/*` and re-included only `build/en/`, so the de/ro/hu EPUBs were never in
+git. Generalised to one directory per edition; de/ro/hu release sets committed.
+
+**Quality standing, honest estimate (2026-09-11).** These are self-assessments;
+no native speaker has read any edition. Hungarian and French(1–17) received the
+§9 paragraph-brief rewrite and sit at ~98%. German and Romanian predate §9 and
+sit at ~95% and ~94% — same tier, reached differently (German drafted then given
+a separate v2 native pass; Romanian had §7/§8 folded into the original write).
+On the ch01 samples the §9 procedure rewrote 3.7% of the German and 6.4% of the
+Romanian. The §9 samples in `translations/temp/` were never folded in.
+**Operation needed is a revision pass, not a retranslation** — a retranslation
+would discard the glossary, the seeded echoes, the gates and 55 chapters of
+documented decisions.
+
+**Tooling gap before any revision pass:** `check_translation.py` does not verify
+that the fixed [ECHO] phrases still appear at every site (de 16, ro 13, hu 13,
+fr 13). A nativeness edit is exactly what would silently break one. Build that
+check first.
+
+**Priority set by Horia (2026-09-11):** finish French, then **German** — he
+wants to publish the German edition soon. (Romanian has more measured headroom,
+but German goes first for publication reasons.)
+
+**Models — content vs structure (standing instruction):** Fable 5.1 at
+`/effort max` writes every word of the book, in any language; Opus 5 or similar
+may do structural work once text is finished (build, config, checker, git,
+docs). Before any operation that would change book content, say so and wait so
+the session can be switched. Note: "ultracode" is not a separate toggle — it is
+an effort level bundling xhigh thinking with agent fan-out; use `max` instead.
+See `CLAUDE.md`.
+
 **Translation procedure from now on (standing instruction):** no delegation;
 one context, sequential; every chapter gets the native pass in the same
 write; target 9.5–9.8/10 as native prose; email the finished EPUBs.
