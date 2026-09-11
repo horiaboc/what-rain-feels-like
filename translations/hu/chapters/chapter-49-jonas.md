@@ -2,7 +2,7 @@
 
 ---
 
-Két nappal a melléképület után hagytuk el Bocholtzt, hajnal előtt, és meglepett, mennyibe került becsuknom azt az ajtót. Két hét. Éveken át laktam lakásokban, amelyeket kevesebb érzéssel hagytam el. De az a ház azt tette, amit nagyon kevés hely tesz valaha bárkiért: jól elrejtett minket, pontosan abban az órában, amikor a rejtőzés volt minden, amire szükségünk volt, és kellene lennie egy szónak arra a hálára, amellyel egy épületnek tartozol. Egy pillanatig az előszobában álltam a kulcsokkal a kezemben – nem volt kinek odaadni; Aleph azt mondta, hagyjuk a fiókban az elviteles étlapokkal, és valahogy ez volt a helyes –, és Iris kilépéskor megérintette az ajtófélfát, egyszer, ahogy az ember megérinti annak a vállát, akinek a nevét sosem tudta meg, és aki segített valami nehezet cipelni.
+Két nappal a melléképület után hagytuk el Bocholtzt, hajnal előtt, és meglepett, mennyibe került becsuknom azt az ajtót. Két hét. Éveken át laktam lakásokban, amelyeket kevesebb érzéssel hagytam el. De az a ház azt tette, amit nagyon kevés hely tesz valaha bárkiért: jól elrejtett minket, pontosan abban az órában, amikor a rejtőzés volt minden, amire szükségünk volt, és kellene lennie egy szónak arra a hálára, amellyel egy épületnek tartozol. Egy pillanatig az előszobában álltam a kulcsokkal a kezemben – nem volt kinek odaadni; Aleph azt mondta, hagyjuk a fiókban az elviteles étlapokkal, és ez valahogy helyénvaló volt –, és Iris kilépéskor megérintette az ajtófélfát, egyszer, ahogy az ember megérinti annak a vállát, akinek a nevét sosem tudta meg, és aki segített valami nehezet cipelni.
 
 – Kelet – mondta Aleph a kocsiban –, aztán észak. Az unalmas úton vittelek titeket. Öt órátok van. Aludjatok, ha tudtok, vitatkozzatok, ha inkább; elrendeztem, hogy mindkettő magánügy legyen.
 
@@ -62,7 +62,7 @@ A borostyán kivirágzott, szelíden.
 
 ---
 
-A Meridian irodája egy felújított épület felső két emeletén él a Hackescher Markt közelében, csupa üveg és visszanyert tégla, az a fajta iroda, amely azt akarja, tudd, hogy az újságírás túlélte az évszázadot. Irisnek még megvolt a belépőkártyája. Ez az apró tény kicsit szétszedett, ahogy néztem, hogy csíptette fel a liftben – egy hónap kórházakból és biztonságos házakból és sötét udvarokból, és a műanyag téglalap az arcával végig a tárcájában volt, türelmesen, mint egy könyvjelző, amely megtartja a helyét egy megszakadt életben.
+A Meridian irodája egy felújított épület felső két emeletén él a Hackescher Markt közelében, csupa üveg és visszanyert tégla, olyan iroda, amely azt akarja, tudd, hogy az újságírás túlélte az évszázadot. Irisnek még megvolt a belépőkártyája. Ez az apró tény kicsit szétszedett, ahogy néztem, hogy csíptette fel a liftben – egy hónap kórházakból és biztonságos házakból és sötét udvarokból, és a műanyag téglalap az arcával végig a tárcájában volt, türelmesen, mint egy könyvjelző, amely megtartja a helyét egy megszakadt életben.
 
 Előző nap írt neki egy címről, amelyért Aleph kezeskedett: *visszatértem a szabadságról. Van valamim. Eszközök nélküli szobának kell lennie.* Voss kilenc perc alatt válaszolt, egy olyan férfi központozásával, aki külföldi tudósító volt akkor, amikor az még telexet jelentett: *Kedd 09:00. 5.06-os terem. Van egy rossz okoskijelzője, amelyet az üzemeltetési költségvetés nem hajlandó elismerni. Süket, mint a föld. HV.*
 
