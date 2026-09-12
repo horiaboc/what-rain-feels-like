@@ -36,7 +36,7 @@ Plus tard, après avoir mangé, nous nous sommes assis devant l'écran pour la d
 
 Je retournais cela depuis le kiosque, et c'était sorti, comme sortent les formes vraies, comme l'option la plus simple et la moins confortable sur la table.
 
-— Ça ne se termine que d'une manière : si Conrad Vael cesse d'être quelqu'un que le monde écoute. Ce qui veut dire que le monde doit voir ce qu'il est réellement. Ce qui veut dire une preuve.
+— Ça ne se termine que d'une manière, si Conrad Vael cesse d'être quelqu'un que le monde écoute. Ce qui veut dire que le monde doit voir ce qu'il est réellement. Ce qui veut dire une preuve.
 
 — Les archives, a dit Iris.
 
@@ -108,7 +108,7 @@ Et pendant un moment – un moment entier, ininterrompu, non observé –, c'est
 
 <!-- NOTES -->
 - ECHO: « un homme réfléchi avec une prémisse monstrueuse » (§E 6); the leash → « une laisse aux excellentes manières » (§E 6).
-- Iris quotes Conrad's ch44 line in italics with the same words: « *Les autres ne proposeront pas de partenariat. Ils arriveront, simplement.* »; she quotes Jonas's ch42 line verbatim: « Une femme, une carte bancaire et un sac de courses ».
+- Iris quotes Conrad's ch44 line in italics with the same words: «  *Les autres ne proposeront pas de partenariat. Ils arriveront, simplement.* »; she quotes Jonas's ch42 line verbatim: «  Une femme, une carte bancaire et un sac de courses ».
 - « the good kind of nothing — the kind … » → « le bon rien – celui que … » (no frames).
 - Aleph → both: vous; Iris → Aleph: tu.
-- « Ce soir on est seulement des gens. » (no « juste » in Jonas's mouth); « Qu'il reste avec ça dans sa pièce silencieuse. »
+- «  Ce soir on est seulement des gens. » (no «  juste » in Jonas's mouth); «  Qu'il reste avec ça dans sa pièce silencieuse. »

@@ -96,7 +96,7 @@ Cette fois je l'ai remarqué délibérément. Il ne faisait rien – debout à u
 
 Je n'ai rien dit à Iris.
 
-Nous avons continué. Je me suis servi des vitrines et des voitures garées comme on apprend à le faire – regarder sans avoir l'air de regarder, la version amateur d'une habitude de professionnel. Au coin suivant, j'ai jeté un œil en arrière sous prétexte de vérifier un nom de rue.
+Nous avons continué. Je me suis servi des vitrines et des voitures garées comme on apprend à s'en servir – regarder sans avoir l'air de regarder, la version amateur d'une habitude de professionnel. Au coin suivant, j'ai jeté un œil en arrière sous prétexte de vérifier un nom de rue.
 
 Disparu.
 

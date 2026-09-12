@@ -16,7 +16,7 @@ L'homme deux tables plus loin émet un son.
 
 Pas tout à fait un mot. Plutôt la forme que prend un mot juste avant de décider de ne pas sortir – une expiration avec une intention, arrêtée avant d'arriver où que ce soit. Je regarde.
 
-Il regarde l'écran. Trente ans environ, veste sombre, un ordinateur ouvert devant lui qu'il a manifestement cessé de voir. Son expression n'est pas de la stupeur. C'est quelque chose qui a dépassé la stupeur il y a longtemps et s'est installé dans le corps à la place – un poids porté si longtemps qu'il fait partie de la manière dont l'homme est assis. Il se voit comme le poids finit toujours par se voir : pas comme un fardeau, mais comme une posture.
+Il regarde l'écran. Trente ans environ, veste sombre, un ordinateur ouvert devant lui qu'il a manifestement cessé de voir. Son expression n'est pas de la stupeur. C'est quelque chose qui a dépassé la stupeur il y a longtemps et s'est installé dans le corps à la place – un poids porté si longtemps qu'il fait partie de la façon de s'asseoir de l'homme. Il se voit comme le poids finit toujours par se voir : pas comme un fardeau, mais comme une posture.
 
 Il remarque que je remarque.
 
@@ -74,7 +74,7 @@ Dehors, le canal est gris, et le froid a la qualité de la fin novembre à Berli
 
 J'ouvre mon carnet sur le trottoir. La discipline.
 
-*Café, Pannierstraße. Reza. Télé : inondations dans le delta du Brahmapoutre, quatrième événement cette année, deuxième à atteindre la presse internationale. Homme, 30 ans environ, veste sombre, logiciels de logistique. A dit : «  Même schéma. Autres coordonnées. » Sait que le deuxième chiffre n'est pas le plus important. Ferme l'onglet, le rouvre. Sait porter une chose sans en faire la seule chose.*
+*Café, Pannierstraße. Reza. Télé : inondations dans le delta du Brahmapoutre, quatrième événement cette année, deuxième à atteindre la presse internationale. Homme, 30 ans environ, veste sombre, logiciels de logistique. A dit : «   Même schéma. Autres coordonnées. » Sait que le deuxième chiffre n'est pas le plus important. Ferme l'onglet, le rouvre. Sait porter une chose sans en faire la seule chose.*
 
 Je relis.
 
@@ -85,9 +85,9 @@ Je rentre à pied le long du canal. Par le chemin long.
 Je ne sais pas très bien pourquoi j'ai écrit autant sur un inconnu.
 
 <!-- NOTES -->
-- Dialogue with the cadratin; narrative beats inside a speech paragraph («  A pause. », «  A beat, dry, not quite a joke. ») set as their own paragraphs so they cannot be read as speech.
+- Dialogue with the cadratin; narrative beats inside a speech paragraph («   A pause. », «   A beat, dry, not quite a joke. ») set as their own paragraphs so they cannot be read as speech.
 - Jonas and Iris on vous at this first exchange (§B); tu from ch08.
-- §C site: «  une entente à la berlinoise : brève, tacite, entièrement suffisante » – ch10 repeats it verbatim.
+- §C site: «   une entente à la berlinoise : brève, tacite, entièrement suffisante » – ch10 repeats it verbatim.
 - [ECHO] « Même schéma. Autres coordonnées. »; « l'échelle de temps » is the ch08 callback (« Bonne chance pour l'échelle de temps » → « Ça s'arrange, l'échelle de temps ? »).
-- Liturgy seeded: «  note, continue. C'est le travail. » (§E, «  On note. On continue. » later).
-- «  la manière dont l'homme est assis » – one «  la manière dont » kept: it is the object of «  fait partie de », not a frame; the checker counts it.
+- Liturgy seeded: «   note, continue. C'est le travail. » (§E, «   On note. On continue. » later).
+- «   la manière dont l'homme est assis » – one «   la manière dont » kept: it is the object of «   fait partie de », not a frame; the checker counts it.

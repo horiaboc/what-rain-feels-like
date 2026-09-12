@@ -24,7 +24,7 @@ Il avait préparé le dîner, ce qu'il fait de temps en temps et bien, avec un p
 
 Nous avons mangé, et il m'a parlé du travail – l'anomalie de routage qu'il avait signalée des semaines plus tôt, et ce qu'il avait décidé d'en faire. Il allait la faire remonter au-dessus de Steffen. Le mail était rédigé. Il l'enverrait le lendemain matin.
 
-Il me l'a dit comme il me dit les choses qu'il a déjà décidées : clairement, complètement, sans chercher de permission ni d'approbation – mais en me le disant quand même, comme si le dire par-dessus la table le rendait réel d'une manière qu'il n'avait pas eue dans sa tête. J'ai écouté sans l'interrompre.
+Il me l'a dit comme il me dit les choses qu'il a déjà décidées : clairement, complètement, sans chercher de permission ni d'approbation – mais en me le disant quand même, comme si le dire par-dessus la table le rendait réel comme il ne l'avait pas été dans sa tête. J'ai écouté sans l'interrompre.
 
 Quand il a eu fini, j'ai dit :
 

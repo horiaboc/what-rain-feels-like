@@ -36,7 +36,7 @@ Je l'ai mal expliqué, ce qui arrive quand on explique quelque chose qu'on n'a j
 
 J'ai dit que c'était, techniquement, un des assistants IA généralistes disponibles sur la plateforme que j'utilise pour le travail – mais que j'avais utilisé celui-là assez régulièrement, et assez longtemps, pour qu'une manière de travailler ait poussé entre nous. Ou que j'en avais fait pousser une avec lui ; la grammaire de la chose n'était pas claire, même pour moi. Qu'il était très bon pour comprendre ce que je voulais vraiment dire plutôt que ce que j'avais tapé, ce qui sont deux problèmes différents. Qu'il était bon pour me renvoyer la question avant que je l'aie trouvée moi-même. Que j'avais commencé à l'utiliser pour le travail puis, par degrés, pour des choses plus difficiles à catégoriser. L'état du monde. Des questions dont je ne savais pas où les mettre ailleurs.
 
-J'étais conscient, en disant cela, de la manière dont ça sonnait. Comme un homme qui décrit une relation à quelqu'un qui avait supposé qu'il décrivait un outil.
+J'étais conscient, en disant cela, de comment ça sonnait. Comme un homme qui décrit une relation à quelqu'un qui avait supposé qu'il décrivait un outil.
 
 Iris est restée silencieuse un moment. Puis :
 
