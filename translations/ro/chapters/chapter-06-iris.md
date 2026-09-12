@@ -10,7 +10,7 @@ Televizorul dă știrile. Sunet încet, nu oprit – destul cât să prinzi regi
 
 Apoi imaginea se schimbă și ridic privirea fără să fi hotărât s-o fac.
 
-Bangladesh. Inundații în delta Brahmaputrei – prind destul din burtieră ca să plasez locul înainte să-mi întorc privirea. Întâi imagini aeriene: o geografie de apă acolo unde ar trebui să fie pământ, geometria ordonată a câmpurilor și a drumurilor dizolvată într-un singur plan gri-maroniu. Apoi de la sol: oameni mișcându-se prin ea, cărând ce se poate căra. Copii ridicați pe umeri. Pungi de plastic ținând ce pot ține pungile de plastic. Și pe fiecare chip aceeași postură – a unor oameni care au mai făcut asta, care știu cât costă și care o fac oricum din nou.
+Bangladesh. Inundații în delta Brahmaputrei – prind destul din burtieră ca să plasez locul înainte să-mi întorc privirea. Întâi imagini aeriene: o geografie de apă acolo unde ar trebui să fie pământ, geometria ordonată a câmpurilor și a drumurilor dizolvată într-un singur plan gri-maroniu. Apoi de la sol: oameni care înaintează prin ea, cu ce se poate căra în brațe. Copii ridicați pe umeri. Pungi de plastic cu ce pot ține pungile de plastic. Și pe fiecare chip aceeași postură – a unor oameni care au mai făcut asta, care știu cât costă și care o fac oricum din nou.
 
 Bărbatul de la două mese distanță scoate un sunet.
 
@@ -34,9 +34,9 @@ O pauză.
 
 — Meridian.
 
-Dă din cap. Nu la publicație – nu cred că o știe – ci la categoria de om care ar avea al doilea număr pregătit. O recunoaștere, de la un contor la altul.
+Dă din cap. Nu la publicație – nu cred că o știe – ci la categoria de om care ar avea al doilea număr pregătit. O recunoaștere, de la unul care numără la altul.
 
-— Și dumneavoastră? spun. Ceva în calitatea atenției lui m-a făcut să întreb.
+— Și dumneavoastră? spun. Ceva din atenția lui m-a făcut să întreb.
 
 Se gândește scurt – la întrebare, sau poate la răspunsul cinstit la ea.
 
@@ -64,13 +64,13 @@ Spun mulțumesc și mă întorc la notițele mele.
 
 Nu mai vorbim.
 
-El rămâne. Îl privesc cum se așază la loc în lucrul lui – revenirea deliberată a concentrării, când cineva a lăsat jos un lucru greu și a ridicat în locul lui unul de dus. O tranziție exersată. O notez cum notez mai toate lucrurile: întâi ca date, apoi ca ceva care ar putea conta mai târziu.
+El rămâne. Îl privesc cum se așază la loc în lucrul lui – revenirea deliberată a concentrării, când cineva a lăsat jos un lucru greu și a ridicat în locul lui unul pe măsură. O tranziție exersată. O notez cum notez mai toate lucrurile: întâi ca date, apoi ca ceva care ar putea conta mai târziu.
 
 Nu-i aflu numele. El nu mi-l cere pe al meu.
 
 Când îmi închid caietul și îmi pun paltonul, o oră mai târziu, e tot acolo, lucrând. Nu ridică privirea când trec pe lângă masa lui, iar eu nu mă opresc. Sunt alegerile corecte pentru ce a fost asta – un mic schimb între străini într-o cafenea în noiembrie, un lucru care se întâmplă și apoi încetează să se întâmple.
 
-Afară, canalul e gri, iar frigul are calitatea sfârșitului de noiembrie la Berlin – mai puțin umed decât cel din Amsterdam, mai hotărât, ca și cum s-ar fi decis deja și s-ar aștepta să faci la fel.
+Afară, canalul e gri, iar frigul e cel de sfârșit de noiembrie la Berlin – mai puțin umed decât cel din Amsterdam, mai hotărât, ca și cum s-ar fi decis deja și s-ar aștepta să faci la fel.
 
 Îmi deschid caietul pe trotuar. Disciplina.
 
@@ -91,3 +91,4 @@ Nu știu sigur de ce am scris atât de mult despre un străin.
 - [ECHO] „Același tipar. Alte coordonate.“; „scara de timp“ is the ch08 callback („Succes cu scara de timp“ → „S-a îmbunătățit scara de timp?“).
 - Liturgy seeded: „notează, mergi mai departe. Asta e munca.“ (§E, „Notăm. Mergem mai departe.“ later).
 - Inner quotes inside the notebook italics use „…” (U+201E/U+201D) — the pair for the whole edition.
+- v2 (§9 rewrite): six sites — the two gerund chains of the flood footage → „care înaintează … cu …“; „un contor“ (a meter, for *counter* = one who counts) → „unul care numără“; two „calitatea“ calques → „ceva din atenția lui“ / „frigul e cel de sfârșit de noiembrie“; „unul de dus“ → „unul pe măsură“. §C site, the [ECHO] line and the liturgy untouched. Fidelity audit: no content shift.

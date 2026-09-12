@@ -14,9 +14,9 @@ A ajuns când s-au stins luminile.
 
 Filmul a durat nouăzeci și trei de minute. Nu m-am uitat la telefon nici măcar o dată.
 
-Patru comunități. Patru feluri diferite de a privi cum sistemele construite ca să-i protejeze pe oameni țin sau nu țin. Un sat își construise propria rețea de avertizare timpurie – fără finanțare externă, fără infrastructură centrală – ținută în viață de paisprezece oameni care făceau cu rândul turele de monitorizare, se instruiau unul pe altul și își treceau cunoștințele mai departe ca pe un lucru de valoare. Ceea ce și erau.
+Patru comunități. Patru feluri diferite de a privi cum sistemele construite ca să-i protejeze pe oameni țin sau nu țin. Un sat își construise propria rețea de avertizare timpurie – fără finanțare externă, fără infrastructură centrală – ținută în viață de paisprezece oameni care făceau cu rândul turele de monitorizare, se instruiau unul pe altul și își treceau cunoștințele mai departe ca pe un lucru de valoare. Și chiar asta erau.
 
-E o diferență între a ști că ceva e adevărat și a-l privi. Cei paisprezece oameni punându-și hainele de ploaie în cenușiul de dinaintea zorilor. Acel fel anume de pregătire care e și iubire, fie că își spune vreodată așa, fie că nu.
+E o diferență între a ști că ceva e adevărat și a-l privi. Cei paisprezece oameni care își pun hainele de ploaie în cenușiul de dinaintea zorilor. Pregătirea aceea anume care e și iubire, fie că își spune vreodată așa, fie că nu.
 
 La un moment dat Iris s-a întors să spună ceva și s-a oprit. Nu știu ce făcea fața mea. S-a întors la ecran.
 
@@ -66,7 +66,7 @@ Un moment.
 
 — Cam așa ceva.
 
-A spus-o fără patimă, singurul fel în care poți spune un asemenea lucru dacă te-ai gândit la el mai mult de o seară. Am avut impresia că se gândise.
+A spus-o fără patimă – și numai așa se poate spune un asemenea lucru, dacă te-ai gândit la el mai mult de o seară. Am avut impresia că se gândise.
 
 Ne-am strâns lucrurile și am coborât treptele împreună.
 
@@ -74,7 +74,7 @@ Ne-am strâns lucrurile și am coborât treptele împreună.
 
 Am mers de-a lungul canalului.
 
-Nu era niciun plan – era pur și simplu direcția în care mergeam amândoi, și apoi a fost direcția în care conveniserăm să mergem în continuare o vreme. Canalul în ianuarie: apă neagră, felinarele așternând coloane de lumină portocalie care intrau în ea și se opreau undeva sub suprafață, ca și cum apa ar fi păstrat restul. Orașul stătea pe ambele maluri în liniștea aceea berlineză care coboară după nouă – nu goală, doar terminată cu anunțatul de sine.
+Nu era niciun plan – era direcția în care mergeam amândoi, și apoi a fost direcția în care conveniserăm să mergem în continuare o vreme. Canalul în ianuarie: apă neagră, felinarele așterneau coloane de lumină portocalie care intrau în ea și se opreau undeva sub suprafață, ca și cum apa ar fi păstrat restul. Orașul stătea pe ambele maluri în liniștea aceea berlineză care coboară după nouă – nu goală, doar că nu se mai anunța.
 
 S-a oprit pe pasarela de la Urbanhafen și s-a uitat la apă.
 
@@ -106,7 +106,7 @@ La un moment dat am observat că merseserăm considerabil mai departe decât cer
 
 ---
 
-Ne-am oprit la colțul unde ea o lua spre est și eu continuam spre nord – sau aș fi continuat, teoretic; nu hotărâsem nimic. Începuse să plouă: ploaia aceea măruntă de ianuarie care nu se angajează, dar persistă, și până te gândești s-o pomenești, și-a spus deja punctul de vedere.
+Ne-am oprit la colțul unde ea o lua spre est și eu continuam spre nord – sau aș fi continuat, teoretic; nu hotărâsem nimic. Începuse să plouă: ploaia aceea măruntă de ianuarie care nu se hotărăște, dar persistă, și până te gândești s-o pomenești, și-a spus deja punctul de vedere.
 
 — Ar trebui să pleci, a spus. Nu într-un fel care să însemne că voia.
 
@@ -116,7 +116,7 @@ Ne-am oprit la colțul unde ea o lua spre est și eu continuam spre nord – sau
 
 Am stat acolo, în ploaia care nu vorbea serios.
 
-Există un fel de moment care se prezintă ca obișnuit și e de fapt o întrebare. L-am recunoscut pe acesta ca întrebare. Am recunoscut și că merita un răspuns cumpănit, și că răspunsul cumpănit nu era încă disponibil – nu pentru că datele ar fi fost insuficiente, ci pentru că nu terminasem de înțeles ce *erau* datele. A forța o concluzie pe o înțelegere incompletă e exact modul de eșec pe care de trei ani construiesc sisteme ca să-l prevină.
+Există momente care se prezintă ca obișnuite și sunt, în realitate, o întrebare. L-am recunoscut pe acesta ca întrebare. Am recunoscut și că merita un răspuns cumpănit, și că răspunsul cumpănit nu era încă disponibil – nu pentru că datele ar fi fost insuficiente, ci pentru că nu terminasem de înțeles ce *erau* datele. A forța o concluzie pe o înțelegere incompletă e exact modul de eșec pe care de trei ani construiesc sisteme ca să-l prevină.
 
 — Mai ieșim la o plimbare? am spus.
 
@@ -128,7 +128,7 @@ S-a uitat la mine într-un fel pe care l-am pus la dosar și la care mă tot în
 
 Am mers acasă prin ploaia care nu vorbea serios și am ajuns la apartament considerabil mai târziu decât mă livrează de obicei o miercuri.
 
-Diogenes pe pervaz. Veioza făcându-și argumentul obișnuit pentru cameră. M-am așezat în scaun fără să pornesc calculatorul și am lăsat apartamentul să fie liniștit în jurul meu o vreme.
+Diogenes pe pervaz. Veioza își făcea argumentul obișnuit pentru cameră. M-am așezat în scaun fără să pornesc calculatorul și am lăsat apartamentul să fie liniștit în jurul meu o vreme.
 
 Întrebarea a fost notată.
 
@@ -143,3 +143,4 @@ E – am hotărât – un loc rezonabil în care să fii.
 - Narrative beats in speech paragraphs („A pause.“, „A beat.“, „A moment.“, „She glanced at me.“) set as their own paragraphs so the dialogue dash stays unambiguous.
 - „a distinct kind of risk“ → „un risc de un fel anume“ (no „genul de“); „use case“ → „caz de utilizare“; „single point of failure“ → „punctul unic de eșec“; „scale“ → „a se scala“ (dev speech, as Jonas would say it).
 - „cumpănit“ = considered (glossary).
+- v2 (§9 rewrite): nine sites — sentence-initial „Ceea ce“ → „Și chiar asta erau“; three gerunds (punându-și, așternând, făcându-și) → finite; „singurul fel în care“ and „un fel de moment … de fapt“ frames → plain sentences; „pur și simplu“ dropped (not Jonas's); „terminată cu anunțatul de sine“ → „nu se mai anunța“; the rain that *doesn't commit* → „nu se hotărăște“, seeding ch11's „ploaia care nu se hotărâse s-a hotărât“ (§E). Title line, „ploaia care nu vorbea serios“ ×3 and „Am stat cu asta.“ (his one) untouched. Fidelity audit: no content shift.

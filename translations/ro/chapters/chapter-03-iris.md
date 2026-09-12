@@ -8,13 +8,13 @@ Apartamentul încă miroase a vopsea.
 
 Veioza stă acum pe jos, lângă fereastră, cu abajur îndoit cu tot. Dă camerei un aer de după-amiază târzie la orice oră din zi. Constat că prefer așa și am încetat să-mi mai interoghez preferința.
 
-Berlinul e mai zgomotos decât Amsterdamul. Nu neplăcut – altfel. Amsterdamul are apa care trece prin toate și ține orașul întreg pe o singură notă. Aici sunetul e mai uscat, mai abrupt: tramvaie, un șantier undeva la jumătatea depărtării, zăngănitul unui oraș care a fost sfărâmat și pus la loc și care poate că încă își caută forma. Am umplut deja două pagini de notițe despre asta. Nu mă pot abține. Observatul e singura slujbă pe care n-am reușit niciodată s-o las din mână.
+Berlinul e mai zgomotos decât Amsterdamul. Nu neplăcut – altfel. Amsterdamul are apa care trece prin toate și ține orașul întreg pe o singură notă. Aici sunetul e mai uscat, mai abrupt: tramvaie, un șantier undeva, nici aproape, nici departe, zăngănitul unui oraș care a fost sfărâmat și pus la loc și care poate că încă își caută forma. Am umplut deja două pagini de notițe despre asta. Nu mă pot abține. Observatul e singura slujbă pe care n-am reușit niciodată s-o las din mână.
 
 ---
 
 Mă gândesc uneori la biroul meu de la *De Correspondent*. Vederea spre Westerdok de la etajul trei. Aparatul de cafea care își măcina singur boabele și mirosea ca cel mai bun argument adus vreodată în favoarea dimineților de luni. Vera, care stătea lângă mine și avea păreri despre toate și de obicei avea dreptate. Am lăsat totul pentru asta – un oraș în care nu cunosc pe nimeni, un post de care nu sunt încă sigură că-l merit, o cameră care miroase a renovarea altcuiva.
 
-Nu regret. Ceea ce nu e chiar totuna cu a fi sigură, și știu diferența, și deocamdată o las să meargă.
+Nu regret. Nu e chiar totuna cu a fi sigură, și știu diferența, și deocamdată o las să meargă.
 
 Noul post e la un mic birou al unei publicații internaționale numite *Meridian*. Domeniul meu e civic și politic, cu accent pe tehnologie și etică – poveștile care contează enorm pentru cei care le citesc și pe care cei mai mulți nu le citesc niciodată. Întotdeauna am vrut să scriu poveștile astea. Îmi dau seama că asta mă face fie principială, fie naivă, și n-am stabilit încă proporțiile. Probabil amândouă, într-un amestec care se va declara abia mai târziu.
 
@@ -24,7 +24,7 @@ Mi-e dor de mers pe bicicletă. Berlinul are infrastructura, dar n-am găsit în
 
 După-amiaza montez biblioteca.
 
-Mobilă de asamblat – cea care vine cu o foaie de scheme și o punguță de piese conținând exact un șurub în plus față de orice numărătoare cinstită. Mă uit scurt la instrucțiuni și le pun deoparte; logica reiese din piesele însele, iar foaia nu face decât să adauge zgomot. Patruzeci de minute, gata. Urc cărțile de pe jos în aranjamentul pe care îl stabilisem deja: jurnalism și etică în stânga, ficțiune și poezie în dreapta, iar la mijloc cele nehotărâte, unde pot aștepta până află ce sunt.
+Mobilă de asamblat – cea care vine cu o foaie de scheme și o punguță de piese cu exact un șurub în plus față de orice numărătoare cinstită. Mă uit scurt la instrucțiuni și le pun deoparte; logica reiese din piesele însele, iar foaia nu face decât să adauge zgomot. Patruzeci de minute, gata. Urc cărțile de pe jos în aranjamentul pe care îl stabilisem deja: jurnalism și etică în stânga, ficțiune și poezie în dreapta, iar la mijloc cele nehotărâte, unde pot aștepta până află ce sunt.
 
 Șurubul în plus îl las pe pervaz. Pare locul potrivit pentru lucrurile care nu au încă o casă.
 
@@ -32,9 +32,9 @@ Mobilă de asamblat – cea care vine cu o foaie de scheme și o punguță de pi
 
 Seara merg pe jos.
 
-Întâi Kreuzberg, apoi mai spre est, urmând canalul spre sud și traversându-l undeva unde încetez să mai țin socoteala, în străzi care par mai puțin aranjate și mai locuite. Un cartier de brutării turcești și magazine de discuri, și un restaurant vietnamez cu geamurile aburite și o coadă care se formează înainte de șapte. Oameni ieșiți așa cum ieși într-o marți de octombrie – nu festiv, doar prezenți, văzându-și de treaba obișnuită de a fi într-un oraș.
+Întâi Kreuzberg, apoi mai spre est, de-a lungul canalului spre sud și peste el, undeva unde încetez să mai țin socoteala, în străzi care par mai puțin aranjate și mai locuite. Un cartier de brutării turcești și magazine de discuri, și un restaurant vietnamez cu geamurile aburite și o coadă care se formează înainte de șapte. Oameni ieșiți așa cum ieși într-o marți de octombrie – nu festiv, doar prezenți, văzându-și de treaba obișnuită de a fi într-un oraș.
 
-Iau notițe pe care probabil nu le voi folosi niciodată. O pictură murală pentru care n-am încă contextul. Un bărbat care se ceartă la telefon în trei limbi fără să pară că observă trecerile. Cum tratează pietonii berlinezi semaforul roșu: ca pe o sugestie din partea unui guvern pe care, în linii mari, îl tolerează. Nimic din toate astea nu e încă o poveste. E materialul din care s-ar putea face mai târziu o poveste, ceea ce e altceva și mai interesant.
+Iau notițe pe care probabil nu le voi folosi niciodată. O pictură murală pentru care n-am încă contextul. Un bărbat care se ceartă la telefon în trei limbi fără să pară că observă trecerile. Cum tratează pietonii berlinezi semaforul roșu: ca pe o sugestie din partea unui guvern pe care, în linii mari, îl tolerează. Nimic din toate astea nu e încă o poveste. E materialul din care s-ar putea face mai târziu o poveste – și asta e altceva, și mai interesant.
 
 La întoarcere trec pe lângă o poartă lăsată deschisă spre o curte interioară – o bicicletă rezemată de zidul din fund, un copac gol, o fereastră luminată la etajul patru al clădirii de vizavi. Seara obișnuită a cuiva, vizibilă o clipă prin poarta deschisă a altcuiva.
 
@@ -59,3 +59,4 @@ Nu sunt nefericită.
 - „Pun la dosar“ = to file (§E); „observații“ seeded for ch55's „n-au fost niciodată observații“.
 - „chihlimbar“ for amber (§E); „veioza cu abajurul îndoit“ and „șurubul în plus“ are objects ALEPH returns to in ch05.
 - „the way X does“ frames rendered with „cum …“ / „așa cum …“, never „felul în care“.
+- v2 (§9 rewrite): five sites — „la jumătatea depărtării“ calque → „nici aproape, nici departe“; sentence-initial „Ceea ce“ and the trailing „ceea ce e altceva“ → plain sentence / dash; the gerunds „conținând“ and „urmând … traversându-l“ → „cu …“ / prepositions. Glossary sites („Pun la dosar“, „observații“, „chihlimbar“) untouched. Fidelity audit: no content shift.

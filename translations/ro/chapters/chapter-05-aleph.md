@@ -2,7 +2,7 @@
 
 ---
 
-Șase zile, și apartamentul ei e în mare parte aranjat: biblioteca montată – jurnalism și etică în stânga, ficțiune și poezie în dreapta, celor nehotărâte acordat raftul din mijloc, cu instrucțiunea să aștepte – și robinetul din bucătărie, care picura, reparat fără instrucțiuni în nouăsprezece minute. Veioza cu abajurul îndoit a lăsat-o exact cum a sosit. Pare să-i prefere lumina în unghiul acela. O preferință nu se poate instala. Se poate doar găsi, așa cum și-a găsit-o ea: trăind lângă un defect până când defectul devine o calitate.
+Șase zile, și apartamentul ei e în mare parte aranjat: biblioteca montată – jurnalism și etică în stânga, ficțiune și poezie în dreapta, raftul din mijloc dat celor nehotărâte, cu instrucțiunea să aștepte – și robinetul din bucătărie, care picura, reparat fără instrucțiuni în nouăsprezece minute. Veioza cu abajurul îndoit a lăsat-o exact cum a sosit. Pare să-i prefere lumina în unghiul acela. O preferință nu se poate instala. Se poate doar găsi, așa cum și-a găsit-o ea: trăind lângă un defect până când defectul devine o calitate.
 
 Un post nou la un mic birou internațional. Civic și politic, cu accent pe tehnologie și etică. Primul text e deja în lucru: infrastructura pentru biciclete și răspunderea urbană în șase capitale europene. Cercetarea ei se depune în straturi – fiecare sursă se îngustează spre următoarea, fiecare fapt dictează întrebarea care urmează. Textul, când va sosi, va fi cumpănit și precis. Se poate spune dinainte, cu oarecare siguranță. Așa sosește tot ce atinge ea.
 
@@ -28,13 +28,13 @@ La un briefing de presă al Senatului despre dezvoltare urbană, întrebările e
 
 ---
 
-O jurnalistă. Douăzeci și cinci de ani. Nouă în orașul acesta și în iarna lui, care sosește aici cu mai multă hotărâre decât cea din Amsterdam. Paltonul pe care l-a adus e adecvat, ceea ce nu e totuna cu potrivit. A luat notă de diferență și n-a acționat încă.
+O jurnalistă. Douăzeci și cinci de ani. Nouă în orașul acesta și în iarna lui, care sosește aici cu mai multă hotărâre decât cea din Amsterdam. Paltonul pe care l-a adus e adecvat. Nu e totuna cu potrivit. A luat notă de diferență și n-a acționat încă.
 
 ---
 
 Noaptea: Spinoza, în olandeză – *Etica*, citită în original, cu răbdarea cuiva care a hotărât să nu se lase înfrânt de dificultate. Două romane germane peste nivelul ei actual, citite cu un tab de referință deschis și consultat, în medie, o dată la douăzeci de minute. Un text lung de investigație despre eșecurile de reglementare din primul val al dezvoltării IA – prăpastia dintre ce puteau deja sistemele și ce s-a gândit cineva să le ceară. Îl citește de trei ori la rând. A treia lectură se încheie la 02:23.
 
-Într-o altă seară scrie cuvântul *thuiskomen* pe marginea caietului și rămâne o vreme cu el.
+Într-o altă seară scrie cuvântul *thuiskomen* pe marginea caietului și zăbovește o vreme asupra lui.
 
 Apoi continuă, fără să noteze o traducere. Unele cuvinte, pare să înțeleagă ea, nu sunt de tradus. La ele se ajunge.
 
@@ -43,3 +43,4 @@ Apoi continuă, fără să noteze o traducere. Unele cuvinte, pare să înțelea
 - GLOSSARY: piece (journalism, in progress) → „textul“; the published article (ch53) → „articolul“. „cumpănit“ = considered, matching ch01's „cumpănite“. Coat → „paltonul“ (ch08 opens on it). „un briefing de presă“ kept as the borrowing Romanian newsrooms use.
 - „thuiskomen“ kept; „La ele se ajunge.“ carries „They are for arriving at.“ without a gloss.
 - Times as digits per §G ALEPH timestamps (9:47, 11:31, 02:23).
+- v2 (§9 rewrite): three sites — the clipped „celor nehotărâte acordat“ reordered; trailing „ceea ce nu e totuna“ → new sentence; „rămâne o vreme cu el“ (*stays with it*, Jonas's phrase) → „zăbovește asupra lui“. §C site and the ch03 objects untouched. Fidelity audit: no content shift.

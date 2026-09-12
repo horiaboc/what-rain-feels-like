@@ -6,7 +6,7 @@ La trei săptămâni după cafenea, am găsit articolul.
 
 Nu intenționat – citeam un reportaj despre reziliența infrastructurii de coastă și a apărut într-o casetă laterală; așa sosesc cele mai multe lucruri care ajung să conteze. *Meridian. Iris Jacobs.* Un text despre infrastructura pentru biciclete și răspunderea urbană în șase capitale europene. L-am citit cum citești ceva neașteptat de bun: încet, și apoi încă o dată.
 
-Era lucrat cu grijă. Făcuse cercetarea care nu atrage atenția asupra ei – din experiența mea, cea mai grea. Textul avea o teză și dovezi care chiar susțineau teza, ceea ce e mai rar decât ar avea dreptul să fie. Găsise prăpastia dintre ce măsurau orașele și ce trebuiau să *pară* că au măsurat – o observație mai fină și mai cinstită decât își dau osteneala să facă mai toți oamenii – și o scrisese fără s-o spună vreodată în cuvintele astea, ceea ce e varianta mai grea, și cea mai bună.
+Era lucrat cu grijă. Făcuse cercetarea care nu atrage atenția asupra ei – din experiența mea, cea mai grea. Textul avea o teză și dovezi care chiar susțineau teza – lucru mai rar decât ar avea dreptul să fie. Găsise prăpastia dintre ce măsurau orașele și ce trebuiau să *pară* că au măsurat – o observație mai fină și mai cinstită decât își dau osteneala să facă mai toți oamenii – și o scrisese fără s-o spună vreodată în cuvintele astea – varianta mai grea, și cea mai bună.
 
 Nu m-am uitat după ea mai departe de semnătură. E jurnalistă la o publicație din Berlin, iar eu știu acum cum să-i citesc munca; niciunul dintre cele două fapte nu cere vreo acțiune. Am închis tabul.
 
@@ -28,7 +28,7 @@ Nu greșea. Nu eram sigur ce.
 
 În a doua marți din decembrie, m-am dus pe Pannierstraße.
 
-Aveam de lucru în afara biroului – adevărat în cele mai multe zile, așa că alegerea locului nu cerea nicio explicație, nici măcar față de mine însumi, ceea ce îmi convenea. Am ajuns la nouă și zece. Reza era în spatele tejghelei; m-a văzut intrând și s-a întors spre aparat înainte să mă așez. Mesele din fund erau ocupate, așa că m-am instalat la fereastră, o altă așezare decât în noiembrie.
+Aveam de lucru în afara biroului – adevărat în cele mai multe zile, așa că alegerea locului nu cerea nicio explicație, nici măcar față de mine însumi, și asta îmi convenea. Am ajuns la nouă și zece. Reza era în spatele tejghelei; m-a văzut intrând și s-a întors spre aparat înainte să mă așez. Mesele din fund erau ocupate, așa că m-am instalat la fereastră, o altă așezare decât în noiembrie.
 
 Ea nu era acolo.
 
@@ -52,7 +52,7 @@ Chatul din seara aceea a fost despre muncă. Praguri de anomalie, modele de scor
 
 *Pentru ce altceva?*
 
-Am stat cu întrebarea. Afară, decembrie își făcea treaba cu lumina – sau mai degrabă cu absența ei, absența fiind mediul preferat al lui decembrie.
+Am rămas cu întrebarea. Afară, decembrie își făcea treaba cu lumina – sau mai degrabă cu absența ei, absența e mediul preferat al lui decembrie.
 
 *Nu știu încă*, am tastat. *Sunt încă în faza de colectare a datelor.*
 
@@ -71,3 +71,4 @@ Nici nu nu așteptam.
 - „I wasn't not expecting it, either.“ → „Nici nu nu așteptam.“ — the stacked negative is the joke; kept.
 - „shipped“ → „a ieșit“ (dev speech); GLOSSARY: failure mode → „modul de eșec“; „sertarul pe care nu l-am etichetat încă“ seeds „sertarul fără etichetă“.
 - Emphasis italics moved to „*pară*“, the verb that carries the appearance/reality split.
+- v2 (§9 rewrite): five sites — three trailing „ceea ce“ afterthoughts → dash / „și asta“; „Am stat cu întrebarea“ (a second *sat with* in Jonas's voice; ch04 already has his one) → „Am rămas cu întrebarea“; the gerund „absența fiind“ → finite. „Nici nu nu așteptam.“ and the drawer line kept. Fidelity audit: no content shift.

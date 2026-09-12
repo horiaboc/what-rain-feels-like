@@ -4,7 +4,7 @@
 
 A doua plimbare s-a întâmplat într-o vineri.
 
-Neplanificată – sau planificată în felul lejer al doi oameni care au spus *mai ieșim la o plimbare* și s-au trezit apoi, o săptămână mai târziu, în fața aceleiași cafenele, cam la aceeași oră, fără să fie nevoie de vreo scuză. El era deja acolo când am ieșit, cu paltonul pe el, uitându-se la telefon cu non-expresia concentrată a unui om care nu se uită de fapt la telefon. I-am spus pe nume. A ridicat privirea. Am mers.
+Neplanificată – sau planificată așa cum planifică, lejer, doi oameni care au spus *mai ieșim la o plimbare* și s-au trezit apoi, o săptămână mai târziu, în fața aceleiași cafenele, cam la aceeași oră, fără să fie nevoie de vreo scuză. El era deja acolo când am ieșit, cu paltonul pe el, uitându-se la telefon cu lipsa de expresie concentrată a unui om care nu se uită, în realitate, la telefon. I-am spus pe nume. A ridicat privirea. Am mers.
 
 Așa a început, practic vorbind. Nu cu o decizie. Cu o direcție.
 
@@ -12,9 +12,9 @@ Așa a început, practic vorbind. Nu cu o decizie. Cu o direcție.
 
 Până în februarie aveam un aranjament lejer pe care niciunul dintre noi nu-l numea.
 
-Marțea la Pannierstraße, ca înainte. Vinerea seara, uneori – o plimbare, din când în când o cină într-unul dintre localurile de pe canal unde poți sta două ore fără ca cineva să sugereze că poate ai terminat. Știa un poem de Szymborska pe care eu nu-l știam, ceea ce m-a surprins destul cât s-o spun, și apoi am regretat că am spus-o, pentru că i s-a părut amuzant exact în felul care însemna că avea s-o păstreze. Așa e el: pune lucrurile la dosar fără să pară. O întreagă arhivă tăcută, undeva în spatele privirii seci, și afli ce e în ea numai când ceva iese la loc exact în momentul potrivit.
+Marțea la Pannierstraße, ca înainte. Vinerea seara, uneori – o plimbare, din când în când o cină într-unul dintre localurile de pe canal unde poți sta două ore fără ca cineva să sugereze că poate ai terminat. Știa un poem de Szymborska pe care eu nu-l știam, și asta m-a surprins destul cât s-o spun, și apoi am regretat că am spus-o, pentru că i s-a părut amuzant – exact atât cât să-mi dau seama că avea s-o păstreze. Așa e el: pune lucrurile la dosar fără să pară. O întreagă arhivă tăcută, undeva în spatele privirii seci, și afli ce e în ea numai când ceva iese la loc exact în momentul potrivit.
 
-Învățam versiunea lui de prezență. Nu vorbăreț – dimpotrivă – dar constant, precis *acolo*. Ascultă cum citesc unii oameni: cu toată atenția și fără rest. Când spuneam ceva la care nu se aștepta, îl puteam vedea ajustându-se și actualizându-se, iar pe el asta arăta a interes, nu a efort.
+Învățam versiunea lui de prezență. Nu vorbăreț – dimpotrivă – dar constant, precis *acolo*. Ascultă cum citesc unii oameni: cu toată atenția și fără rest. Când spuneam ceva la care nu se aștepta, îl puteam vedea cum se ajustează și se actualizează, iar pe el asta arăta a interes, nu a efort.
 
 Nu e lucrul obișnuit. Aveam destule date de comparație ca să fiu sigură măcar de atât.
 
@@ -26,7 +26,7 @@ Fără vreun motiv declarat – era frig, mersesem, apartamentul lui era în dir
 
 N-am spus nimic despre asta. Unele coincidențe e mai bine să rămână private, unde pot continua să însemne ce înseamnă.
 
-Apartamentul: treizeci și opt de metri pătrați, un birou cu trei taburi de browser deschise, vizibile din celălalt capăt al camerei, și pe pervaz o plantă din soiul care supraviețuiește din pură hotărâre. Cactusul s-a dovedit a se numi Diogenes, ceea ce mi-a spus fără preambul, ca și cum informația n-ar fi cerut nicio justificare. Am hotărât că nu cere.
+Apartamentul: treizeci și opt de metri pătrați, un birou cu trei taburi de browser deschise, vizibile din celălalt capăt al camerei, și pe pervaz o plantă din soiul care supraviețuiește din pură hotărâre. Cactusul s-a dovedit a se numi Diogenes; mi-a spus-o fără preambul, ca și cum informația n-ar fi cerut nicio justificare. Am hotărât că nu cere.
 
 Era o ușă de dulap care se deschidea singură ori de câte ori pornea încălzirea – o balama slăbită, defectul care devine invizibil pentru cel care trăiește cu el. Am închis-o. S-a deschis la loc. Am pus o singură întrebare ca să localizez trusa de scule, am găsit șurubelnița potrivită și am strâns balamaua în vreo nouăzeci de secunde.
 
@@ -46,9 +46,9 @@ A râs – nu râsul mic, involuntar, ci cel adevărat, cel care ocupă mai mult
 
 Am băut ceai. Am vorbit despre munca lui, apoi despre a mea, apoi despre ceva ce niciunul dintre noi n-a putut reconstitui după aceea – una dintre conversațiile acelea care rătăcesc prin patru subiecte și te lasă sigur că s-a spus ceva adevărat, fără să poți arăta unde.
 
-Era târziu când am plecat. Mai târziu decât plănuisem, ceea ce nu plănuisem deloc, ceea ce e aceeași mărturisire.
+Era târziu când am plecat. Mai târziu decât plănuisem – iar asta nu plănuisem deloc, și e aceeași mărturisire.
 
-Mergând acasă pe lângă canal, am făcut ce fac întotdeauna: am notat ce gândeam. Apartamentul mirosise a cafea și hârtie și obiceiurile acumulate ale unui singur om. Făcuse ceaiul fără să întrebe cum îl beau și îl nimerise din prima. Diogenes mă privise de pe pervaz cu rezerva imparțială a unei creaturi care nu și-a format încă o părere și are de gând să nu se grăbească.
+Pe drum spre casă, pe lângă canal, am făcut ce fac întotdeauna: am notat ce gândeam. Apartamentul mirosise a cafea și hârtie și obiceiurile acumulate ale unui singur om. Făcuse ceaiul fără să întrebe cum îl beau și îl nimerise din prima. Diogenes mă privise de pe pervaz cu rezerva imparțială a unei creaturi care nu și-a format încă o părere și are de gând să nu se grăbească.
 
 Balamaua. Reparasem balamaua.
 
@@ -60,11 +60,11 @@ Am notat ce ar putea însemna asta și am mers acasă prin frig cu ceva ce era f
 
 Martie a sosit fără ceremonie.
 
-Marți dimineața la Pannierstraße. Vineri seara. Câte o după-amiază care se prelungea, fără nicio decizie vizibilă, în seară și apoi în noapte. Ne-am contrazis pe tema unui roman pe care el îl citise și eu nu; l-am citit în patru zile și am contraargumentat. Avea dreptate în privința finalului și i-am spus-o, ceea ce a primit cu un mic semn din cap și cu expresia unui om care exersează să nu fie mulțumit de sine, cu rezultate amestecate.
+Marți dimineața la Pannierstraße. Vineri seara. Câte o după-amiază care se prelungea, fără nicio decizie vizibilă, în seară și apoi în noapte. Ne-am contrazis pe tema unui roman pe care el îl citise și eu nu; l-am citit în patru zile și am contraargumentat. Avea dreptate în privința finalului și i-am spus-o, iar el a primit-o cu un mic semn din cap și cu expresia unui om care exersează să nu fie mulțumit de sine, cu rezultate amestecate.
 
 Reza a început să aducă două cafele deodată când ne vedea intrând împreună. Ajunseserăm la o înțelegere de tip Pannierstraße: scurtă, nerostită, pe deplin suficientă.
 
-Și am constatat că încetasem să mai observ când îmi rearanjam săptămâna ca să fac loc pentru vineri. Mi s-a părut semnificativ. Apoi mi s-a părut normal. Apoi mi s-a părut lucrul cel mai obișnuit din lume – ceea ce fac, am ajuns să cred, lucrurile semnificative când au de gând să rămână.
+Și am constatat că încetasem să mai observ când îmi rearanjam săptămâna ca să fac loc pentru vineri. Mi s-a părut semnificativ. Apoi mi s-a părut normal. Apoi mi s-a părut lucrul cel mai obișnuit din lume – și asta fac, am ajuns să cred, lucrurile semnificative când au de gând să rămână.
 
 <!-- NOTES -->
 - §C site: „o înțelegere de tip Pannierstraße: scurtă, nerostită, pe deplin suficientă“ — same three words as ch06 (only the place-name changes, as in the English).
@@ -72,3 +72,4 @@ Reza a început să aducă două cafele deodată când ne vedea intrând împreu
 - folder → „dosarul“ (§E): „în dosarul tot mai gros care îi poartă numele“; to file → „a pune la dosar“.
 - „the kind of flaw that …“ → „defectul care …“; „a plant of the variety that …“ → „o plantă din soiul care …“ (no „genul de“).
 - „Am notat că vrusesem. Că vrutul fusese …“ — the nominalised verb is Iris's register.
+- v2 (§9 rewrite): nine sites — five trailing „ceea ce“ (Szymborska, Diogenes, the late leaving, the nod, the closing line) → „și asta“ / semicolon / „iar el“; „în felul lejer al doi oameni“ and „exact în felul care“ frames rebuilt; the gerund chain „ajustându-se și actualizându-se“ and the opener „Mergând acasă“ → finite; „non-expresia“ → „lipsa de expresie“; „de fapt“ → „în realitate“. §C site, the ch03 callback and the folder line untouched. Fidelity audit: no content shift.

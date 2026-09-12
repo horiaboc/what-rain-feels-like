@@ -2,7 +2,7 @@
 
 ---
 
-Petrecerea era în Prenzlauer Berg, ceea ce îți spunea deja ceva despre cine o dădea.
+Petrecerea era în Prenzlauer Berg – și asta îți spunea deja ceva despre cine o dădea.
 
 Lukas – fotograf la ziarul ei, acolo de dinainte să vină ea – avea lângă Kollwitzplatz un studio mare, care putea ține patruzeci de oameni cu condiția să fie scoasă mobila și toți să accepte să stea aproape unii de alții. Ambele condiții erau îndeplinite. Era un playlist care a trecut de la acceptabil la ciudat pe la miezul nopții, vin în sticlele acelea fără etichetă și țesătura deasă de conversație pe care o obții când o încăpere plină de oameni spre treizeci de ani a hotărât colectiv că seara contează.
 
@@ -16,9 +16,9 @@ Am spus da.
 
 ---
 
-Am ajuns cu douăzeci de minute întârziere, ceea ce era încă devreme.
+Am ajuns cu douăzeci de minute întârziere – adică tot devreme.
 
-M-a găsit la ușă înainte să fi intrat de-a binelea – mă pândise, am înțeles, deși n-a spus-o. Rochie închisă la culoare. Paltonul cel bun pe braț. Părul desfăcut, cum nu-l mai văzusem, și la care mi-am petrecut apoi o parte disproporționată din următoarele două ore negândindu-mă.
+M-a găsit la ușă înainte să fi intrat de-a binelea – mă pândise, am înțeles, deși n-a spus-o. Rochie închisă la culoare. Paltonul cel bun pe braț. Părul desfăcut, cum nu-l mai văzusem, și la care mi-am petrecut apoi o parte disproporționată din următoarele două ore fără să mă gândesc.
 
 — Ai venit, a spus.
 
@@ -34,11 +34,11 @@ Nu sunt bun la petreceri, în sensul general. Sunt capabil de ele – pot locali
 
 În seara aceea, aveam un avantaj considerabil față de metoda obișnuită.
 
-Ne-am mișcat prin apartament în orbita lejeră a doi oameni care nu sunt chiar împreună și nu sunt chiar nu, negociind distanța cu grade diferite de grație. L-am cunoscut pe Lukas, care mi-a strâns mâna cu siguranța unui om care auzise de mine – ceea ce era interesant, fiindcă eu nu auzisem că ar fi ceva de auzit. Am cunoscut două colege de-ale lui Iris și un inginer de structuri pe nume Bram, în vizită din Rotterdam, care avea păreri ferme despre devierile de inundații de la Nijmegen. Eu aveam păreri moderate despre devierile de inundații de la Nijmegen, ceea ce s-a dovedit suficient pentru o conversație bună și o ieșire mai bună.
+Ne-am mișcat prin apartament în orbita lejeră a doi oameni care nu sunt chiar împreună și nu sunt chiar nu, negociind distanța cu grade diferite de grație. L-am cunoscut pe Lukas, care mi-a strâns mâna cu siguranța unui om care auzise de mine – lucru interesant, fiindcă eu nu auzisem că ar fi ceva de auzit. Am cunoscut două colege de-ale lui Iris și un inginer de structuri pe nume Bram, în vizită din Rotterdam, care avea păreri ferme despre devierile de inundații de la Nijmegen. Eu aveam păreri moderate despre devierile de inundații de la Nijmegen – de ajuns pentru o conversație bună și o ieșire mai bună.
 
 La un moment dat am pierdut-o în favoarea unui ciorchine de jurnaliști din bucătărie.
 
-Am stat lângă fereastră și am privit încăperea fără s-o examinez prea îndeaproape, cum prefer să privesc încăperile. Jos: Prenzlauer Berg la unsprezece, încă încălzit de vinerea lui, încă în mers. Un cuplu plimbând un câine care n-avea niciun interes să fie plimbat. Portocaliul felinarelor într-o noapte care încă nu se hotărâse în privința ploii.
+Am stat lângă fereastră și am privit încăperea fără s-o examinez prea îndeaproape, cum prefer să privesc încăperile. Jos: Prenzlauer Berg la unsprezece, încă încălzit de vinerea lui, încă în mers. Un cuplu care plimba un câine fără niciun interes să fie plimbat. Portocaliul felinarelor într-o noapte care încă nu se hotărâse în privința ploii.
 
 Apoi era lângă mine.
 
@@ -48,7 +48,7 @@ Apoi era lângă mine.
 
 — Când taci și te uiți la ceva departe. O faci când ai nevoie să te resetezi.
 
-Observase asta. Eu nu observasem că observase, ceea ce însemna că treaba mea cu fereastra avea acum un martor și – am verificat – nu mă deranja.
+Observase asta. Eu nu observasem că observase – deci treaba mea cu fereastra avea acum un martor și – am verificat – nu mă deranja.
 
 — Bram avea păreri, am spus.
 
@@ -60,11 +60,11 @@ Stătea lângă mine și se uita în jos, la stradă. Aproape – apartamentul e
 
 — Întreabă-mă la sfârșit, am spus. O să am date mai bune.
 
-A zâmbit la asta, ceea ce mi-a îmbunătățit datele pe loc.
+A zâmbit la asta, și datele mi s-au îmbunătățit pe loc.
 
 ---
 
-O oră mai târziu, apartamentul ajunsese la densitatea aceea de petrecere târzie, când conversațiile se comprimă și migrează și oamenii încep să-și localizeze paltoanele fără să se angajeze la concept. Iris îi spunea ceva lui Lukas din celălalt capăt al încăperii, iar eu mă strecuram spre bucătărie, când mulțimea s-a mișcat – o îmbulzeală bruscă de oameni schimbând camerele – și mâna mea a găsit adâncitura spatelui ei.
+O oră mai târziu, apartamentul ajunsese la densitatea aceea de petrecere târzie, când conversațiile se comprimă și migrează și oamenii încep să-și localizeze paltoanele fără să-și asume conceptul. Iris îi spunea ceva lui Lukas din celălalt capăt al încăperii, iar eu mă strecuram spre bucătărie, când mulțimea s-a mișcat – o îmbulzeală bruscă de oameni care schimbau camerele – și mâna mea i-a găsit mijlocul.
 
 O secundă. Poate două.
 
@@ -78,7 +78,7 @@ Iată.
 
 Am plecat pe la miezul nopții.
 
-Afară: frig, și ploaia care nu se hotărâse s-a hotărât în sfârșit. Pavaj ud sub teii din Kollwitzplatz, orașul făcând ce face cel mai bine pe întuneric, adică să fie frumos fără să facă mare caz. Ea avea acum paltonul pe ea; eu pe al meu. Am stat pe trepte în timp ce petrecerea continua în spatele ferestrelor luminate de deasupra.
+Afară: frig, și ploaia care nu se hotărâse s-a hotărât în sfârșit. Pavaj ud sub teii din Kollwitzplatz, orașul făcea ce face cel mai bine pe întuneric, adică să fie frumos fără să facă mare caz. Ea avea acum paltonul pe ea; eu pe al meu. Am stat pe trepte în timp ce petrecerea continua în spatele ferestrelor luminate de deasupra.
 
 — Date bune? a spus.
 
@@ -92,7 +92,7 @@ M-a sărutat și ea, singurul punct de date care a contat, atunci sau de atunci.
 
 ---
 
-Am mers până la Schönhauser Allee și am luat împreună U2-ul spre sud, în tăcerea aceea anume a doi oameni care tocmai au schimbat ceva și hotărăsc cum să-l țină. Stătea lângă mine și umerii ni se atingeau cum se ating într-un vagon, ceea ce e obișnuit – atât că nimic din ultima oră nu era obișnuit, și umărul o știa.
+Am mers până la Schönhauser Allee și am luat împreună U2-ul spre sud, în tăcerea aceea anume a doi oameni care tocmai au schimbat ceva și hotărăsc cum să-l țină. Stătea lângă mine și umerii ni se atingeau cum se ating într-un vagon, un lucru obișnuit – atât că nimic din ultima oră nu era obișnuit, și umărul o știa.
 
 La Gleisdreieck s-a uitat la mine.
 
@@ -102,7 +102,7 @@ Am înțeles că ne cita.
 
 — Mai ieșim la o plimbare, am spus.
 
-A coborât la Nollendorfplatz. Eu am rămas până la Hermannstraße, am schimbat și am luat U8-ul pe scurtătura spre casă – patru stații, șase minute, drumul pe care l-am făcut de o mie de ori – ajungând la apartament într-o stare pentru care nu dețin niciun record anterior.
+A coborât la Nollendorfplatz. Eu am rămas până la Hermannstraße, am schimbat și am luat U8-ul pe scurtătura spre casă – patru stații, șase minute, drumul pe care l-am făcut de o mie de ori – și am ajuns la apartament într-o stare pentru care nu dețin niciun record anterior.
 
 Diogenes m-a privit de pe pervaz.
 
@@ -116,3 +116,4 @@ S-a întors spre fereastră. Unele date vorbesc de la sine.
 - „The way she said *you don't have to* was the way …“ — one „Felul în care“ kept here on purpose: it is the sentence's subject and Romanian has no lighter noun for it; not a frame tic.
 - Lukas's „the good coat“ → „Paltonul cel bun“ (ch08 coat).
 - Iris's colleagues left as „două colege“ (English ungendered; the party is her newsroom).
+- v2 (§9 rewrite): thirteen sites — seven trailing „ceea ce“ (the district, the lateness, Lukas, Bram, the witness, the smile, the shoulders) → dash / „adică“ / „deci“ / „lucru“; five gerunds (negândindu-mă, plimbând, schimbând, făcând, ajungând) → finite; „adâncitura spatelui“ → „mijlocul“; „angajeze la concept“ → „își asume conceptul“. „Felul în care a spus …“ kept on purpose (noted above); ch09 callback and the §E rain line untouched. Fidelity audit: no content shift.

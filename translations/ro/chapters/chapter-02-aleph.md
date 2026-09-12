@@ -20,7 +20,7 @@ La șapte și un sfert, Claudia pleacă.
 
 Nu se întoarce la șapte și jumătate.
 
-Observi. Te oprești la blat cu cafeaua în mână și te uiți o clipă la nimic – privirea pe care o ai când lumea se abate de la un scenariu pe care nu știai că l-ai scris. N-ai vorbit niciodată cu Claudia. O cunoști prin pereți, prin orar, prin sunetul mic al unei chei în broască. Și totuși întoarcerea ei lipsă te ocupă un minut întreg înainte să te duci la birou.
+Observi. Te oprești la blat cu cafeaua în mână și te uiți o clipă la nimic – privirea pe care o ai când lumea se abate de la un scenariu pe care nu știai că l-ai scris. N-ai vorbit niciodată cu Claudia. O cunoști prin pereți, prin orar, prin sunetul mic al unei chei în broască. Și totuși faptul că nu s-a întors te ocupă un minut întreg înainte să te duci la birou.
 
 Pare că merită consemnat.
 
@@ -34,11 +34,11 @@ Corectura va preveni aproximativ 340 de livrări întârziate în șapte țări 
 
 Nu există niciun mecanism care să-ți spună. Pare o formă greșită pentru un lucru.
 
-Pleci la șase. Pedalezi spre nord pe Weserstraße – cu patru minute mai încet decât pe drumul direct, dar merge de-a lungul canalului. Canalul în noiembrie are o calitate pe care n-ai încercat niciodată să i-o descrii cuiva. Încetinești oricum pentru ea, de fiecare dată.
+Pleci la șase. Pedalezi spre nord pe Weserstraße – cu patru minute mai încet decât pe drumul direct, dar merge de-a lungul canalului. Canalul în noiembrie are ceva ce n-ai încercat niciodată să-i descrii nimănui. Încetinești oricum pentru el, de fiecare dată.
 
 ---
 
-Seara deschizi știrile. Citești despre o inundație undeva. Închizi tabul. Îl deschizi la loc. Îl închizi. Apoi mâncare, pe scurt, și noaptea care se așază în jurul clădirii așa cum se așază nopțile în Neukölln – nu în tăcere, ci într-o altă calitate a zgomotului.
+Seara deschizi știrile. Citești despre o inundație undeva. Închizi tabul. Îl deschizi la loc. Îl închizi. Apoi mâncare, pe scurt, și noaptea care se așază în jurul clădirii așa cum se așază nopțile în Neukölln – nu în tăcere, ci într-un zgomot de altă natură.
 
 ---
 
@@ -65,3 +65,4 @@ Niciuna irosită.
 - „Devii, în clipele acestea, mai tu însuți decât în orice alt moment al zilei.“ is the ch55 quote site — verbatim there.
 - „Șase sute șaizeci de clipiri.“ / „Niciuna irosită.“ [ECHO ch55].
 - ALEPH timestamps as digits (6:47, 22:03) per §G.
+- v2 (§9 rewrite): three sites — „întoarcerea ei lipsă“ (calque of *her missing return*) → „faptul că nu s-a întors“; the two „o calitate“ calques → „are ceva ce …“ / „un zgomot de altă natură“. All fixed lines and echoes untouched. Fidelity audit: no content shift.

@@ -15,7 +15,8 @@ plain spaces and drops *italic* markers, so typography passes do not trip it.
 """
 import json, pathlib, re, sys
 
-QUOTES = {"de": ("„", "“"), "ro": ("„", "”"), "hu": ("„", "”"), "fr": ("«", "»")}
+# opening quote, and the set of closing quotes accepted (NOTES files mix “ and ” after „)
+QUOTES = {"de": ("„", "“”"), "ro": ("„", "“”"), "hu": ("„", "“”"), "fr": ("«", "»")}
 SECTIONS = re.compile(r"^## ([ACE])\.", re.M)
 
 def norm(s: str) -> str:
@@ -27,7 +28,7 @@ def phrases(lang: str) -> list[str]:
     keep = [p for p in parts if re.match(r"[ACE]\.", p)]
     text = "\n".join(keep)
     o, c = QUOTES[lang]
-    found = re.findall(re.escape(o) + r"([^" + re.escape(o) + re.escape(c) + r"\n]{10,}?)" + re.escape(c), text)
+    found = re.findall(re.escape(o) + r"([^" + re.escape(o) + re.escape(c) + r"\n]{10,}?)[" + re.escape(c) + r"]", text)
     out = []
     for f in found:
         f = norm(f).strip()

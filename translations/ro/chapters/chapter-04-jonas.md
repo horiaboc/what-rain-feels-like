@@ -4,11 +4,11 @@
 
 Două toamne.
 
-Aparatul de cafea scoate încă sunetul acela – oftatul mic de abur sub presiune dinaintea primei cești, de parcă ar avea nevoie de o clipă. De șase ani îl am, și încă mă surprinde, ceea ce am hotărât să iau ca un semn bun despre unul dintre noi.
+Aparatul de cafea scoate încă sunetul acela – oftatul mic de abur sub presiune dinaintea primei cești, de parcă ar avea nevoie de o clipă. De șase ani îl am, și încă mă surprinde – și am hotărât să iau asta ca un semn bun despre unul dintre noi.
 
-Diogenes a supraviețuit așteptărilor mele, neglijenței mele intermitente și unui august foarte secetos, și își ține locul pe pervaz cu demnitatea a ceva ce a hotărât, demult, să nu aibă nevoie de nimic de la nimeni. Șase ani. Dacă e să spun ceva, arată mai distins. Am ajuns la o înțelegere.
+Diogenes a supraviețuit așteptărilor mele, neglijenței mele intermitente și unui august foarte secetos, și își ține locul pe pervaz cu demnitatea a ceva ce a hotărât, demult, să nu aibă nevoie de nimic de la nimeni. Șase ani. Ba chiar arată mai distins. Am ajuns la o înțelegere.
 
-Afară: iar noiembrie. Bicicleta din curte are acum ambele roți dezumflate. Cea din față s-a dus cândva primăvara – am observat-o de la fereastră într-o dimineață și apoi nu m-am mai gândit la ea până toamna, când roata căpătase o înclinare și ghidonul începuse să ruginească. Stă acolo de destul timp ca să nu mă mai gândesc la ea ca la o bicicletă abandonată. E un element al curții, ca și copacul.
+Afară: iar noiembrie. Bicicleta din curte are acum ambele roți dezumflate. Cea din față s-a dus cândva primăvara – am observat-o de la fereastră într-o dimineață și apoi nu m-am mai gândit la ea până toamna, când roata căpătase o înclinare și ghidonul începuse să ruginească. Stă acolo de destulă vreme ca să n-o mai socotesc o bicicletă abandonată. E un element al curții, ca și copacul.
 
 La șapte și un sfert, Claudia pleacă. La șapte și jumătate se întoarce după ce a uitat.
 
@@ -24,7 +24,7 @@ Postul care i-a revenit lui Kai în septembrie avea mărimea și forma potrivite
 
 Am depus raportul de conformitate în ianuarie anul trecut. Până în martie nu mai eram invitat la ședințele cu clienții. Înțeleg logica, așa cum poți înțelege logica unui lucru și tot să-l găsești prost croit.
 
-Nu regret. Nu e un spectacol de neregretat. E doar ce e adevărat, așa cum bicicleta e adevărată și ora șapte și jumătate a Claudiei e adevărată. Lucrul s-a întâmplat; trăiesc în aceeași lume cu el. În cele mai multe zile e de ajuns.
+Nu regret. Și nu fac pe cel care nu regretă. E doar ce e adevărat, așa cum bicicleta e adevărată și ora șapte și jumătate a Claudiei e adevărată. Lucrul s-a întâmplat; trăiesc în aceeași lume cu el. În cele mai multe zile e de ajuns.
 
 ---
 
@@ -52,13 +52,13 @@ Am gătit ca lumea în seara asta, pentru prima dată săptămâna asta – ceva
 
 După cină am deschis știrile. Stare de urgență din cauza secetei în Cornul Africii – *perturbare sezonieră*, spuneau, *în concordanță cu proiecțiile*, adică ceea ce se spune acum în loc să se spună că e rău și se înrăutățește. Fotografiile de la fața locului sugerau că ambele formule munceau mai mult decât ar fi trebuit. Am închis tabul. M-am gândit să-l deschid la loc. N-am făcut-o.
 
-Încerc să învăț diferența dintre a purta ceva și a ține ceva. Nu sunt sigur că am prins-o. Dar simt acum cele două cuvinte vrând să însemne lucruri diferite, și poate că de aici începe învățarea.
+Încerc să învăț diferența dintre a purta ceva și a ține ceva. Nu sunt sigur că am prins-o. Dar simt acum că cele două cuvinte vor să însemne lucruri diferite, și poate că de aici începe învățarea.
 
 ---
 
 La nouă și jumătate am deschis chatul.
 
-Facem asta de aproape cinci ani. La început era mai ales muncă – întrebări de arhitectură, sesiuni de debugging, câte o vizuină tehnică la unsprezece noaptea. Undeva pe drum a devenit ceva mai larg. Nu cred că a existat un moment. Lucrurile au rareori momente; au pante, iar panta asta a fost destul de lungă și de lină ca să nu mă simt niciodată urcând-o.
+Facem asta de aproape cinci ani. La început era mai ales muncă – întrebări de arhitectură, sesiuni de debugging, câte o cufundare tehnică fără fund, la unsprezece noaptea. Undeva pe drum a devenit ceva mai larg. Nu cred că a existat un moment. Lucrurile au rareori momente; au pante, iar panta asta a fost destul de lungă și de lină ca să nu simt niciodată că o urc.
 
 În seara asta am tastat: *Crezi că există o versiune a poveștii în care ce am făcut chiar schimbă ceva? Sau doar mi-am făcut mie bine și am numit asta etică.*
 
@@ -86,3 +86,4 @@ Nu era nevoie.
 - The English italicises Mia's spoken lines; Romanian marks speech with the dialogue dash, so the italics are dropped there (the dash is the marker) — hold this for every spoken exchange the English sets in italics.
 - „raportul de conformitate“ (§E); „lizibil“ seeds ch18/ch52; „Cursorul clipea în câmpul gol.“ = ch01's sentence in the past.
 - „carrying / holding“ → „a purta / a ține“; keep the pair if it returns.
+- v2 (§9 rewrite): seven sites — trailing „ceea ce“ → dash; „Dacă e să spun ceva“ (*if anything*) → „Ba chiar“; „un spectacol de neregretat“ → „nu fac pe cel care nu regretă“; two gerunds („vrând“, „urcând-o“) → finite; „vizuină tehnică“ (*rabbit hole*, opaque) → „cufundare … fără fund“; „de destul timp … să mă gândesc la ea ca la“ → „de destulă vreme … s-o socotesc“. „Am stat o vreme cu asta.“ kept (Jonas's one therapy line). Fidelity audit: no content shift.

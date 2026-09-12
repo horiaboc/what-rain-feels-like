@@ -6,15 +6,15 @@ Paltonul a fost primul lucru pe care l-am nimerit.
 
 Trei luni la Berlin până să găsesc unul pe măsura iernii de aici – care nu e umedă ca la Amsterdam, ci hotărâtă, un frig care așteaptă ceva de la tine și observă dacă te-ai pregătit. Paltonul pe care îl purtam din octombrie era adecvat, iar adecvat nu înseamnă potrivit. În a doua săptămână din ianuarie l-am găsit pe cel potrivit într-un magazin second-hand de pe Karl-Marx-Straße: lână antracit, cambrat fără să insiste, destul de lung ca să fie luat în serios. L-am probat și chestiunea s-a încheiat pe loc. Unele lucruri sunt așa. Cele mai multe nu sunt, și tocmai de aceea cele care sunt odihnesc atât.
 
-Bicicleta a venit în joia următoare – tot second-hand, un cadru Batavus de prin 2019, geometrie bună, frâne care trebuiau convinse. Le-am convins în curtea clădirii mele, într-o după-amiază rece, cu trusa de bază adusă de la Amsterdam și cu satisfacția adâncă de a readuce un lucru la starea în care ar trebui să funcționeze. Vecinul de dedesubt s-a uitat o vreme din ușă și n-a spus nimic, ceea ce am luat drept aprobare. În orașul ăsta, de obicei asta și e.
+Bicicleta a venit în joia următoare – tot second-hand, un cadru Batavus de prin 2019, geometrie bună, frâne care trebuiau convinse. Le-am convins în curtea clădirii mele, într-o după-amiază rece, cu trusa de bază adusă de la Amsterdam și cu satisfacția adâncă de a readuce un lucru la starea în care ar trebui să funcționeze. Vecinul de dedesubt s-a uitat o vreme din ușă și n-a spus nimic, iar eu am luat asta drept aprobare. În orașul ăsta, de obicei asta și e.
 
 După aceea, Berlinul a devenit navigabil. Nu al meu – unui oraș îi ia mai mult de trei luni să devină al tău – dar de stăpânit, așa cum orice loc devine de stăpânit odată ce te poți mișca prin el în ritmul tău, nu al lui.
 
 ---
 
-Până în ianuarie, dimineți de marți de pe Pannierstraße deveniseră un ritm.
+Până în ianuarie, diminețile de marți de pe Pannierstraße deveniseră un ritm.
 
-Reza îmi știe comanda. Masa din fund, de la perete, nu e mereu liberă, dar am învățat că sosind înainte de nouă și jumătate îmi cresc șansele. Îmi întind notițele, lucrez la orice am de lucrat și nimeni nu mă întreabă nimic, în afară de dacă vreau a doua cafea, care e întrebarea corectă și are un singur răspuns.
+Reza îmi știe comanda. Masa din fund, de la perete, nu e mereu liberă, dar am învățat că, dacă ajung înainte de nouă și jumătate, îmi cresc șansele. Îmi întind notițele, lucrez la orice am de lucrat și nimeni nu mă întreabă nimic, în afară de dacă vreau a doua cafea, care e întrebarea corectă și are un singur răspuns.
 
 Textul despre biciclete a apărut în decembrie – un text bun, cred. Reacția a fost modestă și proporțională: ceva atenție din branșă, un fir lung de la un grup de advocacy din Copenhaga, două scrisori. Pentru un text de felul acesta, așa arată succesul, și îl pun la socoteală ca succes.
 
@@ -50,7 +50,7 @@ Un singur semn din cap, hotărât. Apoi s-a întors la ecranul lui, iar eu la al
 
 O oră mai târziu, stăteam de vorbă.
 
-Pomenisem de textul despre transparență când m-a întrebat ce citesc – un raport de audit municipal din Tallinn, care nu e un document pe care mulți l-ar numi interesant, iar el a întrebat de el cu ceva ce părea curiozitate autentică, nu politețe. Apoi discutam prăpastia structurală dintre ce spun guvernele despre răspunderea algoritmică și ce scot de fapt la iveală auditurile lor, iar părerile lui aveau o precizie care m-a surprins.
+Pomenisem de textul despre transparență când m-a întrebat ce citesc – un raport de audit municipal din Tallinn, care nu e un document pe care mulți l-ar numi interesant, iar el a întrebat de raport cu ceva ce părea curiozitate autentică, nu politețe. Apoi discutam prăpastia structurală dintre ce spun guvernele despre răspunderea algoritmică și ce scot de fapt la iveală auditurile lor, iar părerile lui aveau o precizie care m-a surprins.
 
 — Te gândești mult la asta, am spus. Pentru cineva care lucrează cu lanțuri de aprovizionare.
 
@@ -86,7 +86,7 @@ Aveam două bilete la proiecția unui documentar – un eveniment de presă, mie
 
 Încă n-o dădusem unui coleg.
 
-Nu știu sigur când am hotărât să i-o ofer lui Jonas în loc. Undeva în conversație devenise pasul următor logic – nu construit, doar continuarea unei conversații care nu-și găsise încă un loc firesc de oprire. Cunoștea subiectul. Îi păsa de el așa cum îți pasă fără să ai nevoie s-o anunți.
+Nu știu sigur când am hotărât să i-o ofer lui Jonas în loc. Undeva în conversație devenise pasul următor logic – nu construit, doar continuarea unei conversații care nu-și găsise încă un loc firesc de oprire. Cunoștea subiectul. Îi păsa de el în felul acela care nu are nevoie să fie anunțat.
 
 — E un eveniment de presă, am spus. Dezbatere după. S-ar putea să se lungească.
 
@@ -102,11 +102,11 @@ S-a uitat la detaliile pe care le scrisesem pe marginea unei pagini din caiet.
 
 Am mers acasă pe jos, de-a lungul canalului. Pe drumul lung, am observat – mai lung decât era nevoie, seara de ianuarie prea tăioasă ca să fie mizerabilă și prea limpede ca să justifice intratul direct în casă.
 
-M-am gândit la conversație și am notat ce gândeam: că fusese ușoară, ceea ce nu e lucrul obișnuit. Cele mai multe conversații merg pe o structură negociată – o înțelegere nerostită despre cine conduce, cine urmează, ce contează ca răspuns bun. Asta nu prea. Se dusese unde s-a dus și s-a oprit când s-a terminat, și amândouă se întâmplaseră de la sine.
+M-am gândit la conversație și am notat ce gândeam: că fusese ușoară, și asta nu e lucrul obișnuit. Cele mai multe conversații merg pe o structură negociată – o înțelegere nerostită despre cine conduce, cine urmează, ce contează ca răspuns bun. Asta nu prea. Se dusese unde s-a dus și s-a oprit când s-a terminat, și amândouă se întâmplaseră de la sine.
 
 M-am gândit: mă bucur că a spus da.
 
-Apoi m-am gândit la ce voiam să spun cu asta, ceea ce a durat mai mult decât mă așteptam și nu ajunsese la nicio concluzie curată când am ajuns la ușă. Țin o regulă: notez ce nu pot lămuri pe loc. E fie o practică bună, fie un mijloc de a nu ști ceva în timp ce îmi spun că sunt pe cale să aflu.
+Apoi m-am gândit la ce voiam să spun cu asta, și asta a durat mai mult decât mă așteptam și nu ajunsese la nicio concluzie curată când am ajuns la ușă. Țin o regulă: notez ce nu pot lămuri pe loc. E fie o practică bună, fie un mijloc de a nu ști ceva în timp ce îmi spun că sunt pe cale să aflu.
 
 Caietul meu: *Jonas, logistică/software, Merkon Systems. Răspundere în lanțurile de aprovizionare. Gândește structural. A citit textul despre biciclete în decembrie – n-a spus nimic până n-a fost întrebat. Vine miercuri. Știe cum să poarte un lucru fără să-l facă singurul lucru. Conversația a fost ușoară, în felul care e fie obișnuit, fie nu, și nu pot stabili încă în care. Nu știu sigur de ce pare atât de semnificativ pe cât pare. Ar trebui să se poată ști.*
 
@@ -122,3 +122,4 @@ Am întors pagina.
 - ch06 callback matches ch06's word: „scara de timp“.
 - English leaves the downstairs neighbour and the colleague ungendered; Romanian forced a choice, generic masculine used.
 - Narrative beats inside speech paragraphs („He considered.“, „A pause.“, „A single decisive nod.“) set as their own paragraphs.
+- v2 (§9 rewrite): seven sites — three trailing „ceea ce“ → „și asta“ / „iar eu“; the missing article („dimineți de marți … deveniseră“) restored; the gerund „sosind“ → „dacă ajung“; „a întrebat de el“ (ambiguous *he/it*) → „de raport“; „așa cum îți pasă fără să ai nevoie s-o anunți“ untangled. ch06 callback „scara de timp“ and the notebook entry untouched. Fidelity audit: no content shift.
