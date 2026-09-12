@@ -2,11 +2,11 @@
 
 ---
 
-Amsterdamul ne-a primit cum primesc orașele când au fost privite prea mult și au învățat să țină atenția fără să încerce – canale, biciclete, unghiul exact al luminii de după-amiază venind de pe apă. Am lăsat bagajele la apartament – etajul întâi, ferestre spre Bloemgracht, canalul chiar acolo, sub pervaz, cum fusese promis – și am ieșit imediat la plimbare, pentru că asta faci când ajungi undeva și vrei să știi dacă orașul ți se mai potrivește.
+Amsterdamul ne-a primit cum primesc orașele când au fost privite prea mult și au învățat să țină atenția fără să încerce – canale, biciclete, unghiul exact al luminii de după-amiază care venea de pe apă. Am lăsat bagajele la apartament – etajul întâi, ferestre spre Bloemgracht, canalul chiar acolo, sub pervaz, cum fusese promis – și am ieșit imediat la plimbare, pentru că asta faci când ajungi undeva și vrei să știi dacă orașul ți se mai potrivește.
 
 Se potrivea. Sau aproape.
 
-Cunoșteam orașul acesta. Locuisem aici patru ani, pedalasem pe străzile astea și mă certasem cu geografia lor și le învățasem în cele din urmă cum înveți o limbă – dincolo de punctul efortului, în lucrul însuși. Stând la colțul Bloemgracht, uitându-mă spre est în Jordaan, ar fi trebuit să simt ușurința întoarcerii. Și o simțeam. În mare parte. Westerkerk stătea unde trebuia să stea. Canalul se mișca. Mirosul era corect.
+Cunoșteam orașul acesta. Locuisem aici patru ani, pedalasem pe străzile astea și mă certasem cu geografia lor și le învățasem în cele din urmă cum înveți o limbă – dincolo de punctul efortului, în lucrul însuși. În picioare la colțul Bloemgracht, cu privirea spre est, în Jordaan, ar fi trebuit să simt ușurința întoarcerii. Și o simțeam. În mare parte. Westerkerk stătea unde trebuia să stea. Canalul se mișca. Mirosul era corect.
 
 În mare parte. Am luat notă de cuvintele pe care le alesese propria mea minte și am ales să nu apăs pe ele.
 
@@ -22,7 +22,7 @@ Jonas gătise. I-am povestit despre Leonie. A pus a doua întrebare, și apoi a 
 
 Ne-am plimbat în fiecare seară. Ideea lui, sau a devenit a lui – după cină, de-a lungul canalelor, fără traseu. Amsterdamul le face asta oamenilor: mereu mai e un pod, mereu mai e un canal, mereu mai e un lucru pe lângă care să treci înainte să te întorci. Navigam din memorie, și memoria în mare parte ținea.
 
-Miercuri ne-am dus să căutăm librăria despre care îi povestisem la Berlin. Athenaeum, pe Spui – și iat-o, la colțul ei, de neconfundat, deschisă. Ușurarea pe care am simțit-o a fost scurtă și cu totul disproporționată, și am pus disproporția la dosar, cu celelalte lucruri pe care nu apăsam. Jonas a vrut să intre. Am stat patruzeci de minute și el a cumpărat două lucruri de care probabil n-avea nevoie, ceea ce într-o librărie pare corect și a părut întotdeauna.
+Miercuri ne-am dus să căutăm librăria despre care îi povestisem la Berlin. Athenaeum, pe Spui – și iat-o, la colțul ei, de neconfundat, deschisă. Ușurarea pe care am simțit-o a fost scurtă și cu totul disproporționată, și am pus disproporția la dosar, cu celelalte lucruri pe care nu apăsam. Jonas a vrut să intre. Am stat patruzeci de minute și el a cumpărat două lucruri de care probabil n-avea nevoie – și asta într-o librărie pare corect, și a părut întotdeauna.
 
 După aceea m-a rugat să-i arăt drumul pe care mergeam de la apartamentul de studentă la universitate. Ne-am dus spre sud de la Spui, de-a lungul Singelului – corect – și am cotit unde face canalul cotul.
 
@@ -32,7 +32,7 @@ După aceea m-a rugat să-i arăt drumul pe care mergeam de la apartamentul de s
 
 — Credeam că se leagă mai încolo, am spus.
 
-M-am uitat la pod, la cotitură, la cum mergea apa de fapt, care nu era cum mergea în mine.
+M-am uitat la pod, la cotitură, la cum mergea apa în realitate – nu cum mergea în mine.
 
 — Probabil veneam de obicei din cealaltă direcție.
 
@@ -44,11 +44,11 @@ Vineri, în ultima zi întreagă, am gătit.
 
 Apartamentul avea o bucătărie adevărată, la care trăsesem cu ochiul toată săptămâna. Jonas stătea la blat cu un pahar de vin și cu atenția aceea a lui – nu supraveghere, doar interes, cum privește orice problemă rezolvată bine. Am făcut *stamppot*, pentru că îl voiam de la aterizare, pentru că ingredientele erau acolo și pentru că părea potrivit într-un fel pe care nu l-am examinat. Lista lucrurilor pe care nu le examinam avea până atunci raftul ei.
 
-Mă mișcam repede, cuțitul găsindu-și ritmul. E ceva ce am putut face dintotdeauna – să gătesc cu o viteză pe care Jonas o numește remarcabilă și pe care eu am explicat-o întotdeauna ca obișnuință, ca Oma Ingrid, ca ani de gătit singură, fără vreun motiv să fiu înceată.
+Mă mișcam repede, cuțitul își găsea ritmul. E ceva ce am putut face dintotdeauna – să gătesc cu o viteză pe care Jonas o numește remarcabilă și pe care eu am explicat-o întotdeauna ca obișnuință, ca Oma Ingrid, ca ani de gătit singură, fără vreun motiv să fiu înceată.
 
 Tăiam varza kale – repede, tăietură rulată, degetele îndoite – când cuțitul mi-a prins vârful arătătorului stâng.
 
-A fost scurt. Mi-am tras mâna deasupra chiuvetei, ceea ce faci. Jonas era în picioare pe loc.
+A fost scurt. Mi-am tras mâna deasupra chiuvetei, cum se face. Jonas era în picioare pe loc.
 
 — Sunt bine, am spus.
 
@@ -56,15 +56,15 @@ A fost scurt. Mi-am tras mâna deasupra chiuvetei, ceea ce faci. Jonas era în p
 
 — E în regulă. Stai jos.
 
-Am lăsat apa să curgă peste el. Usturimea a sosit la timp, ceea ce era liniștitor într-un fel asupra căruia n-am zăbovit. Am apăsat o cârpă pe el, am ținut apăsat, am așteptat. Când a venit Jonas să inspecteze, eram calmă.
+Am lăsat apa să curgă peste el. Usturimea a sosit la timp – liniștitor, într-un fel asupra căruia n-am zăbovit. Am apăsat o cârpă pe el, am ținut apăsat, am așteptat. Când a venit Jonas să inspecteze, eram calmă.
 
 — Aproape nimic, am spus, și i-am arătat – o tăietură mică, curată, care se oprea deja. S-a dus după un plasture. Am acoperit degetul și m-am întors la varză.
 
-Am mâncat la masa de la fereastra spre canal, lumina serii lăsându-se peste apă, Jonas povestindu-mi despre patronul unei tipografii de pe Elandsgracht, care avea păreri despre gramajul hârtiei pe care Jonas le găsise neașteptat de captivante. Am ascultat. Am râs unde era de râs. Am răspuns la ce m-a întrebat. Plasturele de pe deget era prezent și obișnuit. *Stamppot*-ul era bun. Am mai turnat vin și am privit lumina părăsind canalul fără nicio grabă.
+Am mâncat la masa de la fereastra spre canal, cu lumina serii care se lăsa peste apă, iar Jonas mi-a povestit despre patronul unei tipografii de pe Elandsgracht, care avea păreri despre gramajul hârtiei pe care Jonas le găsise neașteptat de captivante. Am ascultat. Am râs unde era de râs. Am răspuns la ce m-a întrebat. Plasturele de pe deget era prezent și obișnuit. *Stamppot*-ul era bun. Am mai turnat vin și am privit cum lumina părăsește canalul fără nicio grabă.
 
 ---
 
-M-am trezit în primele ore. Jonas dormea. Canalul de afară era întunecat și liniștit – liniște de oraș, care nu e niciodată cu totul nemișcată, doar odihnindu-se.
+M-am trezit în primele ore. Jonas dormea. Canalul de afară era întunecat și liniștit – liniște de oraș, care nu e niciodată cu totul nemișcată; doar se odihnește.
 
 Am stat o clipă, conștientă de mâna mea. Plasturele. Ceva legat de el stătuse la marginea atenției mele toată seara fără să devină vreodată un gând.
 
@@ -74,7 +74,7 @@ M-am ridicat cu grijă și m-am dus la baie, trăgând ușa aproape închisă ca
 
 Am dezlipit încet plasturele.
 
-Pielea era închisă. Nu cu crustă, nu vie – *închisă*, ca și cum tăietura s-ar fi întâmplat acum câteva zile, nu acum câteva ore. Linia pe unde intrase cuțitul era slabă, netezindu-se deja. Am apăsat degetul mare pe ea. Nicio sensibilitate. Nicio căldură. Nimic care să spună *rană* în vreunul dintre registrele pe care știam să ascult.
+Pielea era închisă. Nu cu crustă, nu vie – *închisă*, ca și cum tăietura s-ar fi întâmplat acum câteva zile, nu acum câteva ore. Linia pe unde intrase cuțitul era slabă și se netezea deja. Am apăsat degetul mare pe ea. Nicio sensibilitate. Nicio căldură. Nimic care să spună *rană* în vreunul dintre registrele pe care știam să ascult.
 
 Am stat acolo o clipă lungă, uitându-mă la degetul meu.
 
@@ -88,3 +88,4 @@ Am pus plasturele la loc, am stins lumina și m-am întors în pat.
 - *stamppot* kept, declined as „*Stamppot*-ul“ (Romanian hyphenated article on a foreign noun).
 - Amstel 1, Waag, Athenaeum, Singel(ul), Elandsgracht unchanged.
 - Narrative beat inside speech („I looked at the bridge …“) set as its own paragraph between the two halves of Iris's line.
+- v2 (§9 rewrite): eleven sites — the gerund chains (venind; stând/uitându-mă; găsindu-și; lăsându-se/povestindu-mi; părăsind; odihnindu-se; netezindu-se) → finite / „cu …“; three „ceea ce“ → dash / „cum se face“; „de fapt“ → „în realitate“. RESERVED PHRASE site untouched; place names untouched. Fidelity audit: no content shift.

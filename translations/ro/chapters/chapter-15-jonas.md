@@ -8,7 +8,7 @@ Am mers la Winterfeldtmarkt în prima sâmbătă – Schöneberg, un drum rezona
 
 Se mișcă prin piețe altfel decât prin alte mulțimi – mai încet, cu mai multă atenție. Se oprește la tarabele cu legume cu interesul cuiva care nu cumpără nimic, dar vrea să înțeleagă logica aranjamentului. Pune vânzătorilor întrebări cum pun jurnaliștii întrebări: nu ca să recolteze informații pentru uz imediat, ci pentru că a întreba e ce faci când te interesează. Bărbatul care vindea ulei de măsline în sticle etichetate de mână i-a spus despre presarea la rece mai mult decât îi spusese probabil propriei familii, într-un amestec de germană și italiană pe care l-a urmărit fără efort aparent.
 
-Așa arăta iunie: ea într-o cămașă de in, ascultând grav un om explicând conținutul de acid oleic, și eu mâncând o prună pe care nu plănuisem s-o cumpăr.
+Așa arăta iunie: ea într-o cămașă de in, ascultând grav un om care explica conținutul de acid oleic, și eu cu o prună pe care nu plănuisem s-o cumpăr.
 
 La un moment dat, în timpul prelegerii despre ulei, am observat că încetasem să mă mai uit la altceva în afară de ea. Am notat constatarea. N-am deschis o anchetă.
 
@@ -26,7 +26,7 @@ Am spus:
 
 — Probabil.
 
-M-am gândit, scurt, la asta. Lucrul pe care îl spusese. Felul ei de a fi precisă în chestiuni pe care cei mai mulți le lasă să se dizolve. Apoi am cotit pe rândul următor și am cumpărat un praz de care n-aveam în mod special nevoie, și am încetat să mă mai gândesc.
+M-am gândit, scurt, la asta. Lucrul pe care îl spusese. Precizia ei în chestiuni pe care cei mai mulți le lasă să se dizolve. Apoi am cotit pe rândul următor și am cumpărat un praz de care n-aveam nevoie anume, și am încetat să mă mai gândesc.
 
 Așa merge, și o spun ca pe cel mai bun lucru pe care știu să-l spun despre cineva.
 
@@ -44,13 +44,13 @@ Am spus că o poveste în care lucrul de care te temi cel mai tare nu se întâm
 
 — Eu cred că lucrul de care se temeau cel mai tare s-a întâmplat – doar nu în forma pe care erau pregătiți s-o recunoască.
 
-Am spus că e o lectură interesantă și că văd cum se poate ajunge acolo. A spus că i se pare că cedez fără să vreau. Am spus că are dreptate, că fusesem întrecut în manevră și că respect tehnica. A primit-o bine. În general primește bine victoriile, ceea ce e un noroc, dată fiind frecvența.
+Am spus că e o lectură interesantă și că văd cum se poate ajunge acolo. A spus că i se pare că cedez fără să vreau. Am spus că are dreptate, că fusesem întrecut în manevră și că respect tehnica. A primit-o bine. În general primește bine victoriile – un noroc, dată fiind frecvența.
 
-Am mâncat paste din oală, pentru că niciunul dintre noi nu fusese destul de organizat ca să implice farfurii – un eveniment care pare logistic rușinos pe moment și e, retrospectiv, pur și simplu pentru ce există duminicile.
+Am mâncat paste din oală, pentru că niciunul dintre noi nu fusese destul de organizat ca să implice farfurii – un eveniment care pare logistic rușinos pe moment și e, retrospectiv, rostul duminicilor.
 
-Constat că a mă contrazice cu ea e plăcut într-un fel care n-are aproape nimic de-a face cu câștigatul. E mai degrabă ca doi oameni care împing același perete din părți opuse ca să afle din ce e făcut peretele. De cele mai multe ori găsim același lucru, ceea ce poate fi rostul pereților.
+Constat că a mă contrazice cu ea e plăcut într-un fel care n-are aproape nimic de-a face cu câștigatul. E mai degrabă ca doi oameni care împing același perete din părți opuse ca să afle din ce e făcut peretele. De cele mai multe ori găsim același lucru – și ăsta poate fi rostul pereților.
 
-Are un fel de a primi o concesie care te face să simți că ai dat ceva, nu că ai pierdut. Nu știu cum face. Studiez mecanismul de câteva săptămâni și nu sunt aproape.
+Când primește o concesie, te face să simți că ai dat ceva, nu că ai pierdut. Nu știu cum face. Studiez mecanismul de câteva săptămâni și nu sunt aproape.
 
 ---
 
@@ -76,7 +76,7 @@ Citea încă atunci când m-am dus la culcare.
 
 A ridicat privirea când i-am spus noapte bună.
 
-— Du-te la culcare, a spus – ceea ce nu e ce a spus, mai exact, dar e ce am auzit în asta: căldura unui om pentru care a avea grijă de tine e pur și simplu inclusă în prețul de a-i păsa de tine.
+— Du-te la culcare, a spus – nu e ce a spus, nu chiar, dar e ce am auzit în asta: căldura unui om pentru care a avea grijă de tine e inclusă, de la sine, în prețul de a-i păsa de tine.
 
 Am adormit gândindu-mă la film, apoi la ea, încă jos cu cartea ei, apoi la mai nimic, una dintre căile mai bune de a adormi.
 
@@ -87,3 +87,4 @@ Dimineața avea să fie trează înaintea mea, ca întotdeauna, și cafeaua avea
 - „still downstairs with her book“ — the English places her downstairs; kept „jos“ (Iris's flat is on one level in ch12; the reviewer may prefer „în camera cealaltă“ — flagged, not changed).
 - „to reopen the file“ → „să redeschid dosarul“ (§E folder/dosar).
 - „a-i păsa de tine“ = caring (glossary „păsare“).
+- v2 (§9 rewrite): nine sites — the gerund chain of the June picture (ascultând … explicând … mâncând) thinned to one; „Felul ei de a fi precisă“ and „Are un fel de a primi“ frames → noun / clause; three „ceea ce“ → dashes; two „pur și simplu“ dropped (Jonas); „mai exact“ → „nu chiar“; „în mod special“ → „anume“. The coin exchange (ch16 hinge) and „să redeschid dosarul“ untouched. Fidelity audit: no content shift.

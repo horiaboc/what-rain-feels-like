@@ -4,9 +4,9 @@
 
 Cu o săptămână înainte de Amsterdam, m-am trezit gândindu-mă la el mai mult decât cerea ocazia.
 
-Nu cu nerăbdare, mai exact – sau nu doar. Ceva curgea pe sub nerăbdare, o notă joasă sub melodie. Am pus-o pe seama textului, care nu era chiar terminat, sau a presiunii de a lipsi o săptămână în timp ce termenul continua să meargă spre mine. Erau explicații rezonabile, și le-am acceptat, cum accepți restul de la un străin fără să-l numeri.
+Nu cu nerăbdare, nu chiar – sau nu doar. Ceva curgea pe sub nerăbdare, o notă joasă sub melodie. Am pus-o pe seama textului, care nu era chiar terminat, sau a presiunii de a lipsi o săptămână în timp ce termenul continua să meargă spre mine. Erau explicații rezonabile, și le-am acceptat, cum accepți restul de la un străin fără să-l numeri.
 
-Joi seara am stat la birou cu notițele și am încercat să chem Amsterdamul cum chemi un loc familiar înainte să te întorci în el – să-l simt dinainte, să ajung înainte de a ajunge. Spui dimineața. Înclinația anume a luminii de pe canal. Mirosul orașului vara, care e un lucru al lui și de neconfundat. Am întins mâna după ele și au venit, fiecare prezent, fiecare identificabil – și fiecare plat, într-un fel pe care nu mi-l puteam explica. Ca fotografiile unui loc în locul locului. Ca vederi alese de altcineva.
+Joi seara am stat la birou cu notițele și am încercat să chem Amsterdamul cum chemi un loc familiar înainte să te întorci în el – să-l simt dinainte, să ajung înainte de a ajunge. Spui-ul dimineața. Înclinația anume a luminii de pe canal. Mirosul orașului vara, care e un lucru al lui și de neconfundat. Am întins mâna după ele și au venit, fiecare prezent, fiecare identificabil – și fiecare plat, într-un fel pe care nu mi-l puteam explica. Ca fotografiile unui loc în locul locului. Ca vederi alese de altcineva.
 
 Lipsesc de ceva vreme, mi-am spus. Aproape un an la Berlin. Memoria se șterge.
 
@@ -28,7 +28,7 @@ A întors o pagină.
 
 — Undeva pe lângă Amsterdam.
 
-M-am așezat în fața lui și mi-am înfășurat mâinile în jurul cănii. Afară, curtea juca sfârșitul de august: ultima căldură a verii, teiul încă plin, lumina făcându-se aurie puțin mai devreme în fiecare seară, ca și cum anul ar fi început, în tăcere, să-și facă bagajele. Jonas a ridicat privirea și mi-a aruncat privirea lui gânditoare – nu la mine, ci prin mine, spre orice lămurea el pe partea cealaltă.
+M-am așezat în fața lui și mi-am înfășurat mâinile în jurul cănii. Afară, curtea juca sfârșitul de august: ultima căldură a verii, teiul încă plin, lumina care se făcea aurie puțin mai devreme în fiecare seară, ca și cum anul ar fi început, în tăcere, să-și facă bagajele. Jonas a ridicat privirea și mi-a aruncat privirea lui gânditoare – nu la mine, ci prin mine, spre orice lămurea el pe partea cealaltă.
 
 — Emoții? a spus.
 
@@ -59,3 +59,4 @@ Am terminat bagajul. M-am culcat.
 - „Pusul deoparte“ — Iris's nominalised verb (as „Observatul“ in ch03, „vrutul“ in ch10).
 - „the way you accept change from a stranger“ / „the way you call up a familiar place“ → „cum accepți …“ / „cum chemi …“.
 - „Emoții?“ for „Nervous?“ — the Romanian idiom for pre-event nerves.
+- v2 (§9 rewrite): three sites — „mai exact“ → „nu chiar“; „Spui dimineața“ read as the verb *you say* → „Spui-ul“ (§E article pattern, as „Vrijthof-ul“); the gerund „făcându-se“ → relative. §C site and „Pusul deoparte“ untouched. Fidelity audit: no content shift.

@@ -8,7 +8,7 @@ Se întâmplă cu titlurile, știu. Alegi unul care se potrivește formei lucrul
 
 Sunt bună pe domeniul ăsta. O știu de ceva vreme, fără să știu ce să fac cu știutul. Întrebările pe care se învârte munca – cine optimizează ce, pentru cine, după socoteala cui, și cine cade în golul dintre o categorie și următoarea – îmi sosesc cu o claritate pentru care nu trebuie să muncesc. Ca și cum aș fi știut dintotdeauna unde să mă uit. Ca și cum materialul și cu mine am fi fost calibrați unul pentru celălalt, undeva, dinainte.
 
-Stăteam cu gândul acesta – la biroul meu, la început de mai, trei taburi de browser deschise, un PDF adnotat de la un institut de etică din Utrecht și o bănuială tot mai mare că adevăratul subiect al poveștii se afla puțin la stânga față de ce mi se dăduse – când a sosit Jonas cu pâine și cu vestea că Diogenes, după părerea lui cumpănită, prosperase. S-a uitat la cactus înainte să se uite la mine. Am hotărât că asta nu reflectă prioritățile lui, ci vechimea relației. Cactusul a fost acolo primul. Respect un om care onorează ordinea lucrurilor.
+Zăboveam asupra gândului acestuia – la biroul meu, la început de mai, trei taburi de browser deschise, un PDF adnotat de la un institut de etică din Utrecht și o bănuială tot mai mare că adevăratul subiect al poveștii se afla puțin la stânga față de ce mi se dăduse – când a sosit Jonas cu pâine și cu vestea că Diogenes, după părerea lui cumpănită, prosperase. S-a uitat la cactus înainte să se uite la mine. Am hotărât că asta nu reflectă prioritățile lui, ci vechimea relației. Cactusul a fost acolo primul. Respect un om care onorează ordinea lucrurilor.
 
 Am mâncat târziu și am vorbit despre ziua lui, care implicase un algoritm de rutare și o ședință despre algoritmul de rutare, care fusese, după relatarea lui, mai puțin utilă decât algoritmul de rutare. Are darul de a descrie situații în care procesul conceput să rezolve o problemă devine problema, și darul îmi place mai mult de fiecare dată când apare. E ceva în cum vede el lucrurile astea – nu cinic, nu mulțumit. Exact. Ca un om care arată locul unde intră firul în nod.
 
@@ -26,7 +26,7 @@ Heerlen e în sudul Limburgului, la vreo treizeci de kilometri de Aachen – des
 
 Opa Kees vorbea olandeză, cu mine și cu orice. Era un om tăcut, cu mâini foarte mari și cu o colecție de păreri despre fotbal pe care le rostea cu o forță cu totul disproporționată față de temperamentul lui general. M-a învățat să merg pe bicicletă în aceeași sâmbătă în care n-a reparat uscătorul – de aceea mersul pe bicicletă miroase, pentru mine, vag a rugină și a răbdare. A murit acum patru ani, de o insuficiență cardiacă tăcută: cea care îți dă timp să spui ce vrei să spui și nu chiar destul timp să spui tot. M-am gândit des la aritmetica asta.
 
-Oma Ingrid vorbea germană. Era din Aachen, la origine – venise în Limburg la douăzeci și doi de ani pentru o slujbă și rămăsese pentru bunicul, ceea ce descria, în ambele ei limbi, drept a doua cea mai bună decizie din viața ei. Cea mai bună, spunea, fusese să nu i-o spună imediat. M-a învățat să gătesc cu o precizie despre care am aflat de atunci că nu e universală: rețetele ca instrucțiuni de urmat întocmai, pentru că există cu un motiv. Râsul ei începea din umeri înainte să-i ajungă pe față, întotdeauna, ca o vreme pe care o vezi venind. Am vorbit germană cu ea toată viața. Când a murit, acum optsprezece luni, am constatat că nu eram gata să mă opresc.
+Oma Ingrid vorbea germană. Era din Aachen, la origine – venise în Limburg la douăzeci și doi de ani pentru o slujbă și rămăsese pentru bunicul – și asta descria, în ambele ei limbi, drept a doua cea mai bună decizie din viața ei. Cea mai bună, spunea, fusese să nu i-o spună imediat. M-a învățat să gătesc cu o precizie despre care am aflat de atunci că nu e universală: rețetele ca instrucțiuni de urmat întocmai, pentru că există dintr-un motiv. Râsul ei începea din umeri înainte să-i ajungă pe față, întotdeauna, ca o vreme pe care o vezi venind. Am vorbit germană cu ea toată viața. Când a murit, acum optsprezece luni, am constatat că nu eram gata să mă opresc.
 
 Jonas a ascultat totul fără să întrerupă – o calitate a lui în care am ajuns să mă încred cum te încrezi într-un zid portant. Când am terminat, a spus:
 
@@ -54,7 +54,7 @@ Ne-am culcat târziu.
 
 Stăteam în întuneric lângă el, gândindu-mă la bucătăria Omei Ingrid – raftul galben de deasupra caloriferului, unde locuiau cărțile de bucate, sunetul ferestrei aceleia în ploaie, cum își ștergea mâinile pe o cârpă înainte să atingă orice avea de gând să trateze cu grijă. Am aceste detalii. Sunt acolo când întind mâna după ele, limpezi și întregi, ca detaliile dintr-o fotografie studiată atât de mult, încât o vezi cu ochii închiși.
 
-Și totuși. Când merg mai adânc – întinzând mâna după mirosul a ceva, greutatea unei cești, asprimea unei anumite cârpe – amintirea rămâne unde e. Nu vine spre mine. E acolo, și nu se apropie, ca o siluetă pe malul celălalt a ceva.
+Și totuși. Când merg mai adânc – când întind mâna după mirosul a ceva, greutatea unei cești, asprimea unei anumite cârpe – amintirea rămâne unde e. Nu vine spre mine. E acolo, și nu se apropie, ca o siluetă pe malul celălalt a ceva.
 
 Doliul face lucruri cu memoria. Știu asta. Păstrezi forma unui om și pierzi marginile, iar cu timpul până și marginile pe care le-ai păstrat încep să se înmoaie.
 
@@ -69,3 +69,4 @@ Doar sunetul nu.
 - Opa Kees / Oma Ingrid unchanged; „bunicul“ where the English says „my grandfather“. Pfefferkuchen kept.
 - „beat“ (journalism) → „domeniul“; „brief“ → „sarcina“ (ch20 title „Sarcina“ is the same word); „accountability gap“ → „deficit de răspundere“.
 - „the kind that gives you time“ → „cea care îți dă timp“.
+- v2 (§9 rewrite): four sites — „Stăteam cu gândul“ (*sitting with*, Jonas's phrase) → „Zăboveam asupra“; „ceea ce descria“ → dash; „cu un motiv“ → „dintr-un motiv“; the gerund „întinzând“ → „când întind“. Title of the piece, the [ECHO] „zid portant“ and „Am aceste detalii.“ untouched. Fidelity audit: no content shift.

@@ -4,15 +4,15 @@
 
 Am trimis emailul într-o vineri dimineața.
 
-Unsprezece minute de scris, trei de recitit, încă două ca să hotărăsc împotriva altor revizuiri. Am atașat datele – inclusiv, spre sfârșit, o notă despre o intrare din logul de incidente de acum unsprezece luni: un destinatar din Neukölln-Nord, insulină, două zile întârziere, marcată rezolvată cu scuze și un voucher. Am inclus-o pentru că aparținea tiparului și pentru că un tipar care a ajuns deja în programul de medicamente al unui om nu e o problemă de trimestrul patru. Am apăsat trimite. Apoi am făcut cafea și m-am întors la lucru, pentru că anomalia de rutare exista independent de faptul că o raportasem, iar restul codului tot avea nevoie de cineva.
+Unsprezece minute de scris, trei de recitit, încă două ca să renunț la alte revizuiri. Am atașat datele – inclusiv, spre sfârșit, o notă despre o intrare din logul de incidente de acum unsprezece luni: un destinatar din Neukölln-Nord, insulină, două zile întârziere, marcată rezolvată cu scuze și un voucher. Am inclus-o pentru că aparținea tiparului și pentru că un tipar care a ajuns deja în programul de medicamente al unui om nu e o problemă de trimestrul patru. Am apăsat trimite. Apoi am făcut cafea și m-am întors la lucru, pentru că anomalia de rutare exista independent de faptul că o raportasem, iar restul codului tot avea nevoie de cineva.
 
 ---
 
 Marțea următoare am fost chemat la o ședință cu Thomas Würfel.
 
-Thomas e director de operațiuni la Merkon, ceea ce, într-o companie de mărimea Merkon, înseamnă că e omul de deasupra omului de deasupra ta, și intră în viața ta profesională imediată numai când ceva a mers prost la un nivel care cere o gestionare atentă. E, după reputație, un om atent. Am găsit reputația exactă.
+Thomas e director de operațiuni la Merkon – și asta, într-o companie de mărimea Merkon, înseamnă că e omul de deasupra omului de deasupra ta, și intră în viața ta profesională imediată numai când ceva a mers prost la un nivel care cere o gestionare atentă. E, după reputație, un om atent. Am găsit reputația exactă.
 
-Mi-a mulțumit că am ridicat problema. A spus că datele fuseseră analizate și că chestiunea avea să fie tratată în foaia de parcurs pentru trimestrul patru. N-a pomenit reclamația cu insulina. N-am întrebat dacă o citise. A petrecut apoi aproximativ opt minute explicând, cu grijă considerabilă, că decizia mea de a escalada peste managerul direct crease o problemă – nu datele; datele nu erau problema; *conduita* era problema, mai exact felul în care îl făcuse pe Steffen, nouă ani la Merkon și apreciat, să se simtă subminat.
+Mi-a mulțumit că am ridicat problema. A spus că datele fuseseră analizate și că chestiunea avea să fie tratată în foaia de parcurs pentru trimestrul patru. N-a pomenit reclamația cu insulina. N-am întrebat dacă o citise. A petrecut apoi aproximativ opt minute explicând, cu grijă considerabilă, că decizia mea de a escalada peste managerul direct crease o problemă – nu datele; datele nu erau problema; *conduita* era problema, anume că îl făcuse pe Steffen, nouă ani la Merkon și apreciat, să se simtă subminat.
 
 Am spus că înțeleg.
 
@@ -40,7 +40,7 @@ Când am terminat, a spus:
 
 Am dat întrebării considerația cinstită pe care o merita.
 
-— Da, am spus. Nu într-un fel complicat. Știam când am trimis emailul că ăsta e unul dintre rezultatele posibile. L-am trimis oricum. Ceea ce înseamnă că hotărâsem deja că e acceptabil.
+— Da, am spus. Nu într-un fel complicat. Știam când am trimis emailul că ăsta e unul dintre rezultatele posibile. L-am trimis oricum. Deci hotărâsem deja că e acceptabil.
 
 S-a uitat la mine – nu privirea cuiva care caută lucrul potrivit de spus, ci a cuiva care primește un lucru întreg înainte să răspundă la vreo parte a lui.
 
@@ -64,7 +64,7 @@ M-am uitat la ea.
 
 — O să apară ceva, a spus. O spun ca pe un fapt, nu ca pe o încurajare.
 
-M-am gândit de atunci la asta – la greutatea pe care a pus-o în spatele ei, la cum suna mai puțin a consolare și mai mult a afirmație pe care era în măsură s-o facă. Nu știu de unde venea certitudinea aceea. Știu doar că am plecat de la cină nu consolat, ci stabilizat, ceea ce e altceva și mai bun, și că a rămas cu mine tot drumul spre casă prin întunericul cald de iulie, ca o mână între omoplați.
+M-am gândit de atunci la asta – la greutatea pe care a pus-o în spatele ei, la cum suna mai puțin a consolare și mai mult a afirmație pe care era în măsură s-o facă. Nu știu de unde venea certitudinea aceea. Știu doar că am plecat de la cină nu consolat, ci stabilizat – altceva, și mai bun – și că a rămas cu mine tot drumul spre casă prin întunericul cald de iulie, ca o mână între omoplați.
 
 ---
 
@@ -85,3 +85,4 @@ Am rămas acolo o vreme, citind.
 - „stabilizat“ for „steadied“ (ch20 „Iris had been steadying“ → „stabilizatoare“ would be clumsy; ch20 uses „mă stabilizase“).
 - „Am făcut bilanțul“ = took stock; „conștiința curată“; „beneficiile de concediere“.
 - Thomas Würfel unchanged; „director de operațiuni“ lowercase per Romanian usage.
+- v2 (§9 rewrite): five sites — „hotărăsc împotriva“ calque → „renunț la“; three „ceea ce“ (Thomas, the decision, „altceva și mai bun“) → dash / „Deci“; „mai exact felul în care“ → „anume că“. „Nu spune probabil“, „stabilizat“ and the closing cursor paragraph untouched. Fidelity audit: no content shift.

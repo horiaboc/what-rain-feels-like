@@ -28,7 +28,7 @@ S-a gândit. Apoi a zâmbit – zâmbetul lent, nu cel social, rapid – și a s
 
 ---
 
-Am luat biciclete. Pedalez prin Berlin de când m-am mutat acolo – orașul insistă – iar străzile Amsterdamului erau aceeași limbă cu alt accent: podurile peste canale, șinele de tramvai stând la pândă, siguranța fără reguli a bicicliștilor olandezi, pe care fie o adopți, fie rămâi în urmă. Am adoptat-o. Mai mult sau mai puțin. Eu și șinele de tramvai am ajuns la un armistițiu.
+Am luat biciclete. Pedalez prin Berlin de când m-am mutat acolo – orașul insistă – iar străzile Amsterdamului erau aceeași limbă cu alt accent: podurile peste canale, șinele de tramvai la pândă, siguranța fără reguli a bicicliștilor olandezi, pe care fie o adopți, fie rămâi în urmă. Am adoptat-o. Mai mult sau mai puțin. Eu și șinele de tramvai am ajuns la un armistițiu.
 
 Iris mergea în față, conducându-mă pe străzi pe care le memorase, aparent, într-o viață anterioară. Întâi Jordaanul, pe care îl știa până la ușile individuale. Apoi spre nord, la Noordermarkt, unde am legat bicicletele și am cumpărat brânză de la o tarabă și am mâncat-o pe o bancă lângă canal. Un stârc stătea pe malul celălalt cu răbdarea unei creaturi care nu s-a întrebat nici măcar o dată dacă îi e locul acolo unde stă.
 
@@ -48,27 +48,27 @@ Se uita la capătul străzii.
 
 — Aici ar trebui să dea într-o piațetă, a spus. Era o piațetă. Cu o fântână.
 
-Nu era nicio piațetă. Strada se termina într-un zid – o clădire, o fațadă obișnuită de cărămidă amsterdameză cu ferestre în ea, stând acolo unde ar fi trebuit să fie piațeta ei cu insolența lucrului de netăgăduit.
+Nu era nicio piațetă. Strada se termina într-un zid – o clădire, o fațadă obișnuită de cărămidă amsterdameză cu ferestre în ea, care stătea acolo unde ar fi trebuit să fie piațeta ei cu insolența lucrului de netăgăduit.
 
 A stat acolo o clipă. Nu mult – câteva secunde. Apoi o mică clătinare din cap, aproape nimic:
 
 — Probabil mă gândesc la altundeva. Hai.
 
-S-a mișcat, și am urmat-o. N-a mai pomenit de asta. Dar tot restul după-amiezii am putut-o vedea mergând cu ea – nu chiar distragere, mai degrabă zumzetul jos și stăruitor al unui lucru care nu se leagă. O așchie. Era prezentă, vorbea, îmi arăta lucruri. Și o parte din ea rămăsese în urmă, la capătul străzii aceleia, uitându-se la un zid unde ar fi trebuit să fie o piațetă.
+S-a mișcat, și am urmat-o. N-a mai pomenit de asta. Dar tot restul după-amiezii, lucrul acela a mers cu ea – nu chiar distragere, mai degrabă zumzetul jos și stăruitor al unui lucru care nu se leagă. O așchie. Era prezentă, vorbea, îmi arăta lucruri. Și o parte din ea rămăsese în urmă, la capătul străzii aceleia, uitându-se la un zid unde ar fi trebuit să fie o piațetă.
 
 ---
 
 Eram pe drumul de întoarcere, pedalând spre est, spre Bloemgracht, când s-a întâmplat.
 
-Traversaserăm o porțiune mai liniștită a Jordaanului și intraserăm pe o arteră principală – mai lată, cu tramvaie, obișnuita mulțime amsterdameză de după-amiază, bicicliști și pietoni și dubițe de livrări afirmându-și drepturile. Iris mergea puțin în față, spre stânga.
+Traversaserăm o porțiune mai liniștită a Jordaanului și intraserăm pe o arteră principală – mai lată, cu tramvaie, obișnuita mulțime amsterdameză de după-amiază, bicicliști și pietoni și dubițe de livrări care își afirmau drepturile. Iris mergea puțin în față, spre stânga.
 
-I-am văzut atenția ducându-se altundeva. Nu dramatic – o mică întoarcere a capului, ceva văzut sau ceva gândit, așchia raportând. O secundă. Poate mai puțin.
+I-am văzut atenția cum se duce altundeva. Nu dramatic – o mică întoarcere a capului, ceva văzut sau ceva gândit, așchia care raporta. O secundă. Poate mai puțin.
 
 Destul.
 
 Roata din față i-a luat șina de tramvai în unghi greșit.
 
-A căzut repede. Am auzit bicicleta întâlnind piatra înainte ca mintea mea să fi înregistrat pe deplin căderea. Până am coborât de pe bicicleta mea, era la pământ, și nu se mișca.
+A căzut repede. Am auzit bicicleta cum întâlnește piatra înainte ca mintea mea să fi înregistrat pe deplin căderea. Până am coborât de pe bicicleta mea, era la pământ, și nu se mișca.
 
 — Iris.
 
@@ -84,7 +84,7 @@ Un bărbat îngenunchea deja de partea cealaltă – olandez, cincizeci și ceva
 
 — S-a lovit la cap. N-o mișcați. Sun eu.
 
-A sunat. Am rămas unde eram, cu o mână pe umărul ei, cu cealaltă ținându-i capul nemișcat, și nu mi-am permis niciun gând în afară de respirația ei – care continua, și continua, și era singurul fapt din Amsterdam care conta.
+A sunat. Am rămas unde eram, cu o mână pe umărul ei, cu cealaltă îi țineam capul nemișcat, și nu mi-am permis niciun gând în afară de respirația ei – care continua, și continua, și era singurul fapt din Amsterdam care conta.
 
 Era încă inconștientă când a venit ambulanța.
 
@@ -120,3 +120,4 @@ Iris a spus sigur.
 - „the way of a person walking ground she knows“ → „cum e un om care merge pe un teren pe care îl cunoaște“.
 - Dutch bystander's line given in Romanian; the English marks it as spoken „in English“ — kept „în engleză“.
 - OLVG unchanged; „box cu perdea“ for curtained bay.
+- v2 (§9 rewrite): eight sites — the gerund chains of the ride and the fall (stând, stând, mergând, afirmându-și, ducându-se, raportând, întâlnind, ținându-i) → finite / relative; „am putut-o vedea mergând cu ea“ (ambiguous *her/it*) → „lucrul acela a mers cu ea“. „zid“, the „Data viitoare“ pair and the OLVG lines untouched. Fidelity audit: no content shift.

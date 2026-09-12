@@ -12,3 +12,4 @@ Camera se întoarce la întuneric. Niciunul dintre ei nu se clintește. Brațul 
 - [ECHO] „Noaptea continuă, obișnuită și completă.“ — fixed (§E 6, „obișnuită și completă“).
 - No „eu“, no „tu“, no sensory verb: the camera voice of the „_“ chapter; „Scrisoare“ absent (§E 5).
 - Timestamp „02:14“ per §G.
+- v2 (§9 rewrite): read through, unchanged.
