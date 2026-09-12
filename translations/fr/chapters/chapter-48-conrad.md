@@ -58,7 +58,7 @@ La voix de Mara, égale.
 
 Il lit la quatrième feuille. C'est le rapport de contact, écrit de la main même de l'opératrice, et il le lit deux fois, parce que c'est le document opérationnel le plus étrange qu'on lui ait jamais remis.
 
-*Sujet engagé à 02:06. Sujet a dirigé l'homme vers le véhicule et accepté le combat singulier – un choix, pas une nécessité. Sujet a absorbé mon meilleur travail et mis fin à l'engagement au moment de son choix. Sujet tenait mon bras et ne l'a pas pris. Sujet m'a rendu ma mobilité délibérément et s'est mise hors de portée d'une manière destinée à être lue : à aucun moment je ne me suis battue contre elle tout entière. Seule déclaration du sujet sous question – qui l'avait entraînée – : «  Personne ne m'a entraînée. » Évaluation : je la crois, et je ne peux pas expliquer ce que la croire signifie. Sujet a dit s'il te plaît.*
+*Sujet engagé à 02:06. Sujet a dirigé l'homme vers le véhicule et accepté le combat singulier – un choix, pas une nécessité. Sujet a absorbé mon meilleur travail et mis fin à l'engagement au moment de son choix. Sujet tenait mon bras et ne l'a pas pris. Sujet m'a rendu ma mobilité délibérément et s'est mise hors de portée d'une manière destinée à être lue : à aucun moment je ne me suis battue contre elle tout entière. Seule déclaration du sujet sous question – qui l'avait entraînée – : «  Personne ne m'a entraînée. » Évaluation : je la crois, et je ne peux pas expliquer ce que la croire signifie. Sujet a dit s'il te plaît.*
 
 — Elle a dit s'il te plaît, répète Conrad.
 

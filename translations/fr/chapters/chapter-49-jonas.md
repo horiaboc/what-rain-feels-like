@@ -54,7 +54,7 @@ Elle s'est tue un moment. Dehors, un tram est passé avec sa patience berlinoise
 
 Nous avons appuyé sur le bouton. Les couleurs sont montées, bleus en turquoise, et Aleph a écouté toute l'architecture sans interrompre, ce que j'avais appris à lire comme son plus grand compliment.
 
-— Henrik Voss, a-t-il dit enfin. Cinquante-sept ans. Chef de bureau depuis onze ans, à Meridian depuis trente et un. Je vais vous dire la chose la plus importante de son dossier, et vous jugerez si c'est le genre de chose que j'inventerais : en trois décennies il a publié onze rectificatifs à son propre travail, et dix d'entre eux venaient de lui – des erreurs qu'aucun lecteur n'avait relevées, qu'il a trouvées lui-même, et imprimées, au-dessus de son propre nom, dans un métier où l'incitation va entièrement dans l'autre sens.
+— Henrik Voss, a-t-il dit enfin. Cinquante-sept ans. Chef de bureau depuis onze ans, à Meridian depuis trente et un. Je vais vous dire la chose la plus importante de son dossier, et vous jugerez si c'est une chose que j'inventerais : en trois décennies il a publié onze rectificatifs à son propre travail, et dix d'entre eux venaient de lui – des erreurs qu'aucun lecteur n'avait relevées, qu'il a trouvées lui-même, et imprimées, au-dessus de son propre nom, dans un métier où l'incitation va entièrement dans l'autre sens.
 
 L'ambre a fleuri, doucement.
 
