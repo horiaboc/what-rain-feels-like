@@ -10,7 +10,7 @@ Iris l'a dite avant que les couleurs aient fini de s'éveiller.
 
 J'avais passé la nuit à construire des arguments contre cela, et je les avais prêts – ordonnés, numérotés, renforcés aux jointures. Elle a soutenu mon regard et attendu, me laissant la place de les déployer, ce qui est la chose la plus désarmante qu'une personne puisse faire à un argument. J'ai regardé ma liste soigneuse et constaté que chaque point s'y réduisait au même mot unique, que le mot était *non*, et que *non* n'était pas un argument. Ce n'était que la peur avec une cravate.
 
-— Il veut l'opérateur, a dit Iris, doucement, comme pour m'aider à mettre la liste au repos. Pas moi. Je suis le téléphone – c'est comme ça qu'il me voit, tu l'as vu à la manière dont ses gens ont bougé. On n'abîme pas le téléphone dans lequel on essaie de parler. Tant qu'il croit que quelqu'un se tient derrière moi, je suis la personne la plus en sécurité de tout cet arrangement.
+— Il veut l'opérateur, a dit Iris, doucement, comme pour m'aider à mettre la liste au repos. Pas moi. Je suis le téléphone – c'est comme ça qu'il me voit, tu l'as vu à la façon de bouger de ses gens. On n'abîme pas le téléphone dans lequel on essaie de parler. Tant qu'il croit que quelqu'un se tient derrière moi, je suis la personne la plus en sécurité de tout cet arrangement.
 
 Elle a marqué une pause.
 
