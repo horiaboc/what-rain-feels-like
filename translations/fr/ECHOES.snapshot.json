@@ -1,0 +1,551 @@
+{
+ "phrases": {
+  "Trop parfait, ai-je pensé. Trop – efficace.": {
+   "chapter-22-iris.md": 1
+  },
+  "J'ai pensé : Trop parfait. Trop – efficace.": {
+   "chapter-47-iris.md": 1
+  },
+  "certains achats sont des objections à l'utile, et elle semble aimer les gagner": {
+   "chapter-05-aleph.md": 1
+  },
+  "une entente à la berlinoise : brève, tacite, entièrement suffisante": {
+   "chapter-06-iris.md": 1
+  },
+  "avec une promptitude qui laissait entendre": {
+   "chapter-13-jonas.md": 1
+  },
+  "Vite, comme je fais la plupart des choses": {
+   "chapter-21-iris.md": 1
+  },
+  "Et – plus précis que ce que l'entraînement explique": {
+   "chapter-32-iris.md": 1
+  },
+  "brune, vive": {
+   "chapter-33-jonas.md": 1
+  },
+  "rien d'utile à dire": {
+   "chapter-35-iris.md": 1,
+   "chapter-36-iris.md": 1
+  },
+  "la firme": {
+   "chapter-40-iris.md": 1,
+   "chapter-49-jonas.md": 1,
+   "chapter-53-document.md": 4
+  },
+  "ce journal": {
+   "chapter-53-document.md": 5
+  },
+  "un système Kessler": {
+   "chapter-46-iris.md": 1
+  },
+  "le bureau": {
+   "chapter-27-neutral.md": 2,
+   "chapter-28-jonas.md": 1,
+   "chapter-37-neutral.md": 1,
+   "chapter-43-mara.md": 1,
+   "chapter-54-conrad.md": 1
+  },
+  "un pigiste": {
+   "chapter-49-jonas.md": 1
+  },
+  "la signature": {
+   "chapter-07-jonas.md": 1,
+   "chapter-55-aleph.md": 1
+  },
+  "une signature de débutante": {
+   "chapter-54-conrad.md": 1
+  },
+  "la signature du siècle": {
+   "chapter-55-aleph.md": 1
+  },
+  "Décider sans demander": {
+   "chapter-14-iris.md": 1
+  },
+  "la Weichselstraße": {
+   "chapter-01-jonas.md": 2,
+   "chapter-05-aleph.md": 1,
+   "chapter-16-iris.md": 1,
+   "chapter-51-iris.md": 1,
+   "chapter-55-aleph.md": 1
+  },
+  "J'habite": {
+   "chapter-01-jonas.md": 1
+  },
+  "à Neukölln": {
+   "chapter-01-jonas.md": 1,
+   "chapter-02-aleph.md": 1,
+   "chapter-50-mara.md": 1,
+   "chapter-52-jonas.md": 1
+  },
+  "la S-Bahn": {
+   "chapter-01-jonas.md": 1,
+   "chapter-04-jonas.md": 1,
+   "chapter-49-jonas.md": 2,
+   "chapter-51-iris.md": 1,
+   "chapter-52-jonas.md": 2
+  },
+  "le Bloemgracht": {
+   "chapter-20-jonas.md": 1,
+   "chapter-22-iris.md": 1,
+   "chapter-28-jonas.md": 1,
+   "chapter-32-iris.md": 1,
+   "chapter-46-iris.md": 1,
+   "chapter-47-iris.md": 2,
+   "chapter-49-jonas.md": 1
+  },
+  "le Jordaan": {
+   "chapter-20-jonas.md": 2,
+   "chapter-22-iris.md": 2,
+   "chapter-28-jonas.md": 1,
+   "chapter-31-jonas.md": 2
+  },
+  "le Vrijthof": {
+   "chapter-34-jonas.md": 2,
+   "chapter-42-jonas.md": 1,
+   "chapter-43-mara.md": 1,
+   "chapter-44-iris.md": 1,
+   "chapter-46-iris.md": 1
+  },
+  "le delta du Mékong": {
+   "chapter-01-jonas.md": 3
+  },
+  "le delta du Brahmapoutre": {
+   "chapter-06-iris.md": 2,
+   "chapter-53-document.md": 1
+  },
+  "le delta": {
+   "chapter-01-jonas.md": 3,
+   "chapter-06-iris.md": 2,
+   "chapter-53-document.md": 1,
+   "chapter-54-conrad.md": 1,
+   "chapter-55-aleph.md": 1
+  },
+  "la conversation": {
+   "chapter-04-jonas.md": 1,
+   "chapter-07-jonas.md": 1,
+   "chapter-08-iris.md": 2,
+   "chapter-12-iris.md": 1,
+   "chapter-17-jonas.md": 1,
+   "chapter-30-jonas.md": 1,
+   "chapter-35-iris.md": 1,
+   "chapter-36-iris.md": 1,
+   "chapter-39-jonas.md": 3,
+   "chapter-48-conrad.md": 1,
+   "chapter-49-jonas.md": 1
+  },
+  "la fenêtre": {
+   "chapter-01-jonas.md": 4,
+   "chapter-03-iris.md": 2,
+   "chapter-04-jonas.md": 5,
+   "chapter-05-aleph.md": 1,
+   "chapter-07-jonas.md": 1,
+   "chapter-08-iris.md": 1,
+   "chapter-10-iris.md": 1,
+   "chapter-11-jonas.md": 6,
+   "chapter-13-jonas.md": 2,
+   "chapter-17-jonas.md": 1,
+   "chapter-19-jonas.md": 1,
+   "chapter-22-iris.md": 1,
+   "chapter-25-iris.md": 1,
+   "chapter-26-jonas.md": 4,
+   "chapter-28-jonas.md": 1,
+   "chapter-29-jonas.md": 1,
+   "chapter-31-jonas.md": 3,
+   "chapter-34-jonas.md": 4,
+   "chapter-36-iris.md": 2,
+   "chapter-39-jonas.md": 3,
+   "chapter-42-jonas.md": 1,
+   "chapter-43-mara.md": 3,
+   "chapter-45-jonas.md": 1,
+   "chapter-46-iris.md": 1,
+   "chapter-47-iris.md": 2,
+   "chapter-48-conrad.md": 4,
+   "chapter-50-mara.md": 1,
+   "chapter-51-iris.md": 2
+  },
+  "le curseur": {
+   "chapter-02-aleph.md": 1,
+   "chapter-17-jonas.md": 1,
+   "chapter-52-jonas.md": 1
+  },
+  "Le curseur clignote dans le champ vide.": {
+   "chapter-01-jonas.md": 1
+  },
+  "Je le regarde un moment. Ou c'est lui qui me regarde. Au bout d'un certain temps, je ne sais plus lequel des deux.": {
+   "chapter-01-jonas.md": 1
+  },
+  "une seconde allumé, une seconde éteint": {
+   "chapter-02-aleph.md": 1
+  },
+  "Six cent soixante clignotements.": {
+   "chapter-02-aleph.md": 1
+  },
+  "Pas un seul de perdu.": {
+   "chapter-02-aleph.md": 1
+  },
+  "Six cent soixante clignotements, c'était autrefois mon idée d'une conversation.": {
+   "chapter-55-aleph.md": 1
+  },
+  "les lignes qui se sont arrêtées au curseur": {
+   "chapter-38-aleph.md": 1
+  },
+  "et le curseur en elle – je ne sais pas le dire mieux – a cessé de clignoter et s'est mis à écrire": {
+   "chapter-52-jonas.md": 1
+  },
+  "tapote à la fenêtre": {
+   "chapter-01-jonas.md": 1
+  },
+  "l'onglet": {
+   "chapter-01-jonas.md": 4,
+   "chapter-02-aleph.md": 1,
+   "chapter-04-jonas.md": 1,
+   "chapter-06-iris.md": 2,
+   "chapter-07-jonas.md": 1,
+   "chapter-55-aleph.md": 1
+  },
+  "observations": {
+   "chapter-03-iris.md": 1,
+   "chapter-09-jonas.md": 1,
+   "chapter-55-aleph.md": 1
+  },
+  "le compte rendu": {
+   "chapter-54-conrad.md": 1
+  },
+  "pour mémoire": {
+   "chapter-51-iris.md": 1,
+   "chapter-55-aleph.md": 1
+  },
+  "pour l'exhaustivité que ce compte rendu mérite": {
+   "chapter-55-aleph.md": 1
+  },
+  "Point quarante et un. Je tiens mes listes.": {
+   "chapter-55-aleph.md": 1
+  },
+  "C'est sur la liste. C'est, pour mémoire, le point quarante et un.": {
+   "chapter-51-iris.md": 1
+  },
+  "le point": {
+   "chapter-09-jonas.md": 1,
+   "chapter-19-jonas.md": 1,
+   "chapter-22-iris.md": 1,
+   "chapter-39-jonas.md": 1,
+   "chapter-43-mara.md": 1,
+   "chapter-44-iris.md": 1,
+   "chapter-51-iris.md": 1,
+   "chapter-54-conrad.md": 1
+  },
+  "Il n'y a pas de données sur le pourquoi.": {
+   "chapter-05-aleph.md": 1
+  },
+  "Tu deviens, dans ces moments-là, plus toi-même qu'à aucun autre moment de la journée.": {
+   "chapter-02-aleph.md": 1
+  },
+  "Il devient, en un sens qui résiste à toute classification facile, davantage lui-même.": {
+   "chapter-55-aleph.md": 1
+  },
+  "et je regardais le regard": {
+   "chapter-55-aleph.md": 1
+  },
+  "une inadéquation, pas une faute morale": {
+   "chapter-01-jonas.md": 2,
+   "chapter-38-aleph.md": 1
+  },
+  "une inadéquation, depuis résolue": {
+   "chapter-55-aleph.md": 1
+  },
+  "le souci": {
+   "chapter-01-jonas.md": 1
+  },
+  "se soucier": {
+   "chapter-01-jonas.md": 1
+  },
+  "Même schéma. Autres coordonnées.": {
+   "chapter-06-iris.md": 1
+  },
+  "Nouvelles coordonnées": {
+   "chapter-03-iris.md": 1
+  },
+  "La lisibilité n'a jamais été un critère de conception.": {
+   "chapter-18-iris.md": 1
+  },
+  "lisibilité": {
+   "chapter-18-iris.md": 3,
+   "chapter-52-jonas.md": 1
+  },
+  "Mon corps a dit : non. C'est la première fois.": {
+   "chapter-12-iris.md": 1
+  },
+  "J'ai cru mon corps.": {
+   "chapter-12-iris.md": 1
+  },
+  "Iris, qui n'a jamais froid.": {
+   "chapter-16-iris.md": 1
+  },
+  "On note. On continue.": {
+   "chapter-28-jonas.md": 1,
+   "chapter-29-jonas.md": 1
+  },
+  "Note. Continue.": {
+   "chapter-33-jonas.md": 1
+  },
+  "elle, d'abord. Le mystère, après.": {
+   "chapter-26-jonas.md": 1
+  },
+  "ordinaire et complète": {
+   "chapter-23-aleph.md": 1
+  },
+  "La nuit continue, ordinaire et complète.": {
+   "chapter-23-aleph.md": 1
+  },
+  "le tiroir sans étiquette": {
+   "chapter-28-jonas.md": 1,
+   "chapter-39-jonas.md": 1
+  },
+  "Il y a des tiroirs qu'on garde.": {
+   "chapter-39-jonas.md": 1
+  },
+  "le dossier": {
+   "chapter-10-iris.md": 1,
+   "chapter-13-jonas.md": 1,
+   "chapter-15-jonas.md": 1,
+   "chapter-27-neutral.md": 1,
+   "chapter-30-jonas.md": 1,
+   "chapter-31-jonas.md": 1,
+   "chapter-46-iris.md": 1,
+   "chapter-48-conrad.md": 3,
+   "chapter-49-jonas.md": 3,
+   "chapter-50-mara.md": 1,
+   "chapter-54-conrad.md": 1,
+   "chapter-55-aleph.md": 1
+  },
+  "un mur porteur": {
+   "chapter-14-iris.md": 1,
+   "chapter-52-jonas.md": 1
+  },
+  "a tenu sous charge": {
+   "chapter-55-aleph.md": 1
+  },
+  "Pas le choix. L'encore.": {
+   "chapter-40-iris.md": 1
+  },
+  "Pas encore. Les deux mots les plus porteurs de tout le vocabulaire de cette machine.": {
+   "chapter-49-jonas.md": 1
+  },
+  "Ce n'est pas une promesse. C'est une propriété.": {
+   "chapter-40-iris.md": 1
+  },
+  "le bouton": {
+   "chapter-40-iris.md": 3,
+   "chapter-42-jonas.md": 1,
+   "chapter-45-jonas.md": 2,
+   "chapter-49-jonas.md": 1,
+   "chapter-51-iris.md": 1,
+   "chapter-52-jonas.md": 1
+  },
+  "Les boutons sont démocratiques.": {
+   "chapter-47-iris.md": 1
+  },
+  "une petite floraison d'ambre": {
+   "chapter-40-iris.md": 1
+  },
+  "un homme réfléchi avec une prémisse monstrueuse": {
+   "chapter-45-jonas.md": 1,
+   "chapter-55-aleph.md": 1
+  },
+  "des choses vraies dans des pièces laides": {
+   "chapter-54-conrad.md": 1,
+   "chapter-55-aleph.md": 1
+  },
+  "Chemise propre, Mara.": {
+   "chapter-43-mara.md": 1,
+   "chapter-54-conrad.md": 1
+  },
+  "On ne nous a pas distancés. On nous a anticipés.": {
+   "chapter-37-neutral.md": 1
+  },
+  "Elle s'assied.": {
+   "chapter-37-neutral.md": 1
+  },
+  "Trouvez-la.": {
+   "chapter-27-neutral.md": 1
+  },
+  "les mains les moins mauvaises": {
+   "chapter-50-mara.md": 1,
+   "chapter-54-conrad.md": 1
+  },
+  "à qui les mains": {
+   "chapter-50-mara.md": 1
+  },
+  "la laisse": {
+   "chapter-03-iris.md": 2,
+   "chapter-39-jonas.md": 1,
+   "chapter-47-iris.md": 1,
+   "chapter-54-conrad.md": 1
+  },
+  "la digue": {
+   "chapter-52-jonas.md": 3,
+   "chapter-54-conrad.md": 1
+  },
+  "l'annexe": {
+   "chapter-43-mara.md": 1,
+   "chapter-46-iris.md": 1,
+   "chapter-48-conrad.md": 3,
+   "chapter-49-jonas.md": 1,
+   "chapter-54-conrad.md": 1
+  },
+  "Quarante lignes, c'était l'annexe.": {
+   "chapter-54-conrad.md": 1
+  },
+  "les quarante lignes": {
+   "chapter-54-conrad.md": 3,
+   "chapter-55-aleph.md": 1
+  },
+  "Aucune diffusion hors liste.": {
+   "chapter-53-document.md": 1
+  },
+  "1 400 personnes": {
+   "chapter-53-document.md": 1,
+   "chapter-55-aleph.md": 1
+  },
+  "le grand livre": {
+   "chapter-48-conrad.md": 1,
+   "chapter-49-jonas.md": 6,
+   "chapter-51-iris.md": 1,
+   "chapter-52-jonas.md": 1
+  },
+  "l'autre journal, celui que personne ne relit": {
+   "chapter-01-jonas.md": 1
+  },
+  "registre": {
+   "chapter-06-iris.md": 1,
+   "chapter-18-iris.md": 1,
+   "chapter-20-jonas.md": 1,
+   "chapter-22-iris.md": 1,
+   "chapter-25-iris.md": 1,
+   "chapter-34-jonas.md": 2,
+   "chapter-35-iris.md": 1,
+   "chapter-41-conrad.md": 2,
+   "chapter-43-mara.md": 1,
+   "chapter-44-iris.md": 1,
+   "chapter-45-jonas.md": 1,
+   "chapter-48-conrad.md": 1,
+   "chapter-50-mara.md": 3,
+   "chapter-51-iris.md": 3,
+   "chapter-52-jonas.md": 1,
+   "chapter-53-document.md": 1,
+   "chapter-55-aleph.md": 1
+  },
+  "la prévoyance": {
+   "chapter-44-iris.md": 1,
+   "chapter-46-iris.md": 1,
+   "chapter-52-jonas.md": 1,
+   "chapter-53-document.md": 1
+  },
+  "le commerce de la prévoyance": {
+   "chapter-53-document.md": 1
+  },
+  "prévoyance stratégique": {
+   "chapter-53-document.md": 1
+  },
+  "le mandant": {
+   "chapter-43-mara.md": 1
+  },
+  "l'opérateur": {
+   "chapter-41-conrad.md": 4,
+   "chapter-42-jonas.md": 1,
+   "chapter-44-iris.md": 1,
+   "chapter-48-conrad.md": 3,
+   "chapter-54-conrad.md": 1
+  },
+  "le signalement": {
+   "chapter-41-conrad.md": 1
+  },
+  "le plombier": {
+   "chapter-52-jonas.md": 1
+  },
+  "SITUATION MAÎTRISÉE": {
+   "chapter-01-jonas.md": 1
+  },
+  "des grilles": {
+   "chapter-01-jonas.md": 1
+  },
+  "le message de commit": {
+   "chapter-01-jonas.md": 1,
+   "chapter-02-aleph.md": 1
+  },
+  "une situation de compétition": {
+   "chapter-01-jonas.md": 1
+  },
+  "ordonnanceur": {
+   "chapter-01-jonas.md": 1
+  },
+  "l'anomalie de routage": {
+   "chapter-17-jonas.md": 2,
+   "chapter-18-iris.md": 1,
+   "chapter-19-jonas.md": 1
+  },
+  "la détection d'anomalies": {
+   "chapter-07-jonas.md": 1
+  },
+  "le rapport de conformité": {
+   "chapter-04-jonas.md": 1
+  },
+  "Berlin en 2031": {
+   "chapter-01-jonas.md": 1
+  },
+  "la pluie": {
+   "chapter-02-aleph.md": 1,
+   "chapter-09-jonas.md": 2,
+   "chapter-11-jonas.md": 3,
+   "chapter-12-iris.md": 1,
+   "chapter-14-iris.md": 1,
+   "chapter-28-jonas.md": 2,
+   "chapter-38-aleph.md": 2,
+   "chapter-49-jonas.md": 1,
+   "chapter-50-mara.md": 3,
+   "chapter-55-aleph.md": 4
+  },
+  "il pleut": {
+   "chapter-38-aleph.md": 2
+  },
+  "la pluie de novembre": {
+   "chapter-55-aleph.md": 1
+  },
+  "la pluie pas sérieuse": {
+   "chapter-09-jonas.md": 2
+  },
+  "la pluie qui n'arrivait pas à se décider s'est enfin décidée": {
+   "chapter-11-jonas.md": 1
+  },
+  "Je sais que tu me vois": {
+   "chapter-55-aleph.md": 1
+  },
+  "le bon genre de quelque chose ou le genre agaçant ?": {
+   "chapter-17-jonas.md": 1
+  },
+  "genre de": {
+   "chapter-17-jonas.md": 2
+  }
+ },
+ "not_found": [
+  "Ce que ça fait, la pluie",
+  "qu'est-ce que ça fait ?",
+  "L'effet que fait la pluie",
+  "Ce que la pluie fait sentir",
+  "La sensation de la pluie",
+  "efficace / efficacité / efficacement / efficient",
+  "trop parfait",
+  "mon grand-père / ma grand-mère",
+  "le chef de bureau",
+  "une pièce sourde",
+  "Je suis une file d'attente.",
+  "les tons d'ambre",
+  "Il contient.",
+  "l'annexe des archives",
+  "les agents",
+  "la filature",
+  "le bandeau",
+  "dix ans de raccourcis sur la U8"
+ ]
+}

@@ -36,7 +36,7 @@ Er wandte sich mir zu.
 
 Und was ich hier sagen will – das, worum ich kreise, wozu ich Notizen mache und wo ich nie sauber ankomme –, ist, dass ich Erinnerungen an das hatte, was dann kam. Ich war schon einmal geküsst worden, gehalten worden, jemandem auf diese Weise nah gewesen; so behaupteten meine Erinnerungen, und sie hatten es immer ruhig behauptet, und ich hatte ihnen immer geglaubt.
 
-Aber hier ist, was an jenem Dienstagabend in meiner Wohnung in der Graefestraße wahr war: Nichts in meiner Erinnerung hatte die Textur von dem hier. Nichts darin hatte das Gewicht und die Wärme seiner Hand an meinem Gesicht. Nichts hatte den Klang seiner Stimme, die einmal meinen Namen sagte, leise, vor allem anderen. Nichts hatte die leichte Rauheit seiner Jacke unter meiner Handfläche oder seine Aufmerksamkeit – vollständig, ohne Eile, als wäre ich das Einzige im Raum, bei dem es sich lohnte, vorsichtig zu sein.
+Aber hier ist, was an jenem Dienstagabend in meiner Wohnung in der Graefestraße wahr war: Nichts in meiner Erinnerung hatte die Körnung von dem hier. Nichts darin hatte das Gewicht und die Wärme seiner Hand an meinem Gesicht. Nichts hatte den Klang seiner Stimme, die einmal meinen Namen sagte, leise, vor allem anderen. Nichts hatte die leichte Rauheit seiner Jacke unter meiner Handfläche oder seine Aufmerksamkeit – vollständig, ohne Eile, als wäre ich das Einzige im Raum, bei dem es sich lohnte, vorsichtig zu sein.
 
 Meine Erinnerungen waren glatt. Das hier war nicht glatt. Das hier war konkret und unteilbar und ganz und gar, bedingungslos echt.
 
@@ -80,3 +80,4 @@ Dann hörte ich auf zu denken. Das war neu. Und gut.
 - "the city making its case to no one" → „die vor niemandem ihre Sache vertrat“; "making its usual irrelevant argument" → „ihr übliches belangloses Argument vorbrachte“.
 - Iris's "I felt" uses fühlen/spüren freely — the ban is ALEPH's only.
 - v3 (§9 rewrite): „die man zu schließen aufgehört hat“ → „die man nicht mehr zu schließen versucht“; „die genaue Eigenart einer Sache“ (quality-of) → „das Besondere an einer Sache“; „die Art seiner Aufmerksamkeit“ → „seine Aufmerksamkeit“; „der ruhigen Art, wie“ → „und wie ruhig“; „auf eine Art …, die ich zu ermutigen beschloss“ re-cut; „nahm Bestand auf“ → „zog Bilanz“; three „, was …“ tails opened as sentences. Fidelity audit: §A pair and §E 45 lines verbatim; nothing added or dropped.
+- v3 addendum: the one „Textur“ the pass missed → „Körnung“ (the book's word for the felt grain of a memory).

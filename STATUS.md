@@ -187,15 +187,28 @@ heads and folios now clear KDP's 0.25" edge by 0.380"/0.340".
 Optional pages still unwritten, and fine to leave that way: book epigraph,
 acknowledgments. They mount automatically if ever written.
 
-**German edition — v2 (2026-09-10):** all 55 chapters through the full
-native pass (TRANSLATION-PROMPT §7/§8): frame tics („die Sorte X, die …“,
-„Beschaffenheit“, „auf die Art“, „nicht direkt“) removed or re-planned,
-typography and inquits settled, cross-chapter echoes reconciled. Checker
-clean, gates clean (effizient only ch22/47; title phrase only ch38/55).
-Built to `build/de/Wie-Sich-Regen-Anfuehlt.epub` and emailed. Decisions in
-`translations/de/NOTES.md`; per-chapter notes in `REVIEW-NOTES.md` (v2); the
-reviewer's open questions in NOTES.md §H. Not yet: the native review pass, a
-German ISBN, the paperback build (own spine).
+**German edition — v3 (2026-09-12):** all 55 chapters through the §9
+revision pass (TRANSLATION-PROMPT §9: paragraph briefs → blind rewrite →
+fidelity audit), applied as guarded exact-string edits on top of v2 rather
+than a retranslation — the glossary, seeded echoes and gates were kept.
+Rebuilt: frame calques („die Art, wie …“, „die Sorte …“), trailing „, was …“
+afterthoughts, participle tails, „die zu X ich Y“ inversions, coinages
+(„eilelos“, „unhastig“, „ungehalten“ = indignant), casual *feel like* off the
+reserved verb *sich anfühlen*, „Textur“ → „Körnung“. Fidelity fixes found on
+the way: ch17 „zurückzustellen“ (= postpone) → „zurückzugeben“; ch32 „eiligen“
+(inverted *unhurried*) → „gelassenen“; ch44/45 Conrad's closing line aligned;
+ch45 Aleph pronoun „es“; ch47/51 *violation* → „Übergriff“. Every chapter
+trailer carries a „v3 (§9 rewrite)“ line. Echo guard
+(`tools/check_echoes.py de --check`, 122 phrases) 0 regressions; checker 0
+issues; gates clean. Full build to `build/de/` (291 pages, spine 0.7275in),
+`REVIEW-NOTES.md` regenerated as v3, EPUB emailed with the French. Not yet:
+the native review pass, a German ISBN, KDP upload.
+
+**Ready to publish German:** the EPUB and the 6×9 interior/cover in
+`build/de/` are current. Remaining before KDP: ISBN (paperback), the
+Buchpreisbindung price, the German KDP metadata sheet check
+(`build/de/kdp-metadata.md`), and ideally one native read of §H's open
+questions.
 
 **Romanian edition — v1 (2026-09-11):** written natively in the main context,
 chapter by chapter, with the §7/§8 passes folded into each chapter. Title
@@ -238,14 +251,18 @@ tic list). §9 (native rewrite from paragraph briefs) added to
 TRANSLATION-PROMPT; de/ro/hu each have a NATIVE-SHEET.md; the `translate`
 project skill (`.claude/skills/translate/`) is the standing entry point.
 
-**French edition — in progress, paused at ch17 of 55 (2026-09-11):** written
-natively in the main context with §7/§8/§9 folded into each chapter. Title
-« Ce que ça fait, la pluie »; closing line « — Je sais que tu me vois, dit-elle.
-Alors écoute. Voilà ce que ça fait, la pluie… »; reserved phrase « Trop parfait.
-Trop – efficace. » (ch22/47 only); labels « Chapitre premier … cinquante-cinq ».
-Decisions and glossary in `translations/fr/NOTES.md` (10 open questions in §H),
-`NATIVE-SHEET.md` written; REVIEW-NOTES.md not yet generated. Checker clean on
-ch01–17. **Resume at ch18.** Then book-matter, gates, EPUB, email.
+**French edition — v1 complete (2026-09-12):** all 55 chapters + book-matter
+written natively in the main context with §7/§8/§9 folded into each chapter.
+Title « Ce que ça fait, la pluie »; closing line « — Je sais que tu me vois,
+dit-elle. Alors écoute. Voilà ce que ça fait, la pluie… »; reserved phrase
+« Trop parfait. Trop – efficace. » (ch22/47 only); labels « Chapitre premier …
+cinquante-cinq ». Gates clean (efficace/efficient only ch22/47; title phrase
+only ch38/55; no « lettre » in ch02/05/23; « genre de » only ch17; no « je » in
+ALEPH ch02/05/23). Decisions and glossary in `translations/fr/NOTES.md`,
+`NATIVE-SHEET.md`, per-chapter notes in `REVIEW-NOTES.md`. Built to
+`build/fr/Ce-Que-Ca-Fait-La-Pluie.epub` (cover « Ce que / ça fait / la pluie »,
+byline « de _horia » — the cover title carries no comma, the running title
+does; §H question) and emailed. Not yet: native review, ISBN, paperback.
 
 Build-side: `fr` in EDITIONS; `RULES["fr"]` in the checker; `tools/fr_typo.py`
 applies French spacing (no-break space before ; : ? ! and inside « », in-line
@@ -261,25 +278,24 @@ catch a 74-line deletion — eyeball dialogue after any mechanical pass.*
 `build/*` and re-included only `build/en/`, so the de/ro/hu EPUBs were never in
 git. Generalised to one directory per edition; de/ro/hu release sets committed.
 
-**Quality standing, honest estimate (2026-09-11).** These are self-assessments;
-no native speaker has read any edition. Hungarian and French(1–17) received the
-§9 paragraph-brief rewrite and sit at ~98%. German and Romanian predate §9 and
-sit at ~95% and ~94% — same tier, reached differently (German drafted then given
-a separate v2 native pass; Romanian had §7/§8 folded into the original write).
-On the ch01 samples the §9 procedure rewrote 3.7% of the German and 6.4% of the
-Romanian. The §9 samples in `translations/temp/` were never folded in.
-**Operation needed is a revision pass, not a retranslation** — a retranslation
-would discard the glossary, the seeded echoes, the gates and 55 chapters of
-documented decisions.
+**Quality standing, honest estimate (2026-09-12).** Self-assessments; no
+native speaker has read any edition. Hungarian, French and German (now v3) have
+the §9 rewrite and sit at ~98%. Romanian predates §9 and sits at ~94%; on its
+ch01 sample §9 rewrote 6.4% of the paragraphs. **The Romanian operation, when
+it comes, is the same guarded revision pass as the German one, not a
+retranslation** — snapshot the echoes first (`check_echoes.py ro --snapshot`),
+then chapter by chapter with the guard on.
 
-**Tooling gap before any revision pass:** `check_translation.py` does not verify
-that the fixed [ECHO] phrases still appear at every site (de 16, ro 13, hu 13,
-fr 13). A nativeness edit is exactly what would silently break one. Build that
-check first.
+**Echo-integrity tool (2026-09-12):** `tools/check_echoes.py <lang> --snapshot`
+records every quoted phrase (≥10 chars) from NOTES.md §A/§C/§E per chapter;
+`--check` fails on any decrease. German snapshot committed
+(`translations/de/ECHOES.snapshot.json`, 122 phrases at 240 sites); run it
+after every German edit. Phrases that live only in chapter trailers (e.g.
+„Geist ist Wollen.“, „Alles wird gehalten.“) are not guarded — check by hand.
 
-**Priority set by Horia (2026-09-11):** finish French, then **German** — he
-wants to publish the German edition soon. (Romanian has more measured headroom,
-but German goes first for publication reasons.)
+**Priority (Horia, 2026-09-11):** publish the German edition soon. French
+and the German revision are both done (2026-09-12); Romanian's §9 pass is the
+next translation work, after the German publication steps.
 
 **Models — content vs structure (standing instruction):** Fable 5.1 at
 `/effort max` writes every word of the book, in any language; Opus 5 or similar
@@ -297,4 +313,4 @@ After launch, in rough priority: the German edition (`translation-plan.md` —
 the pipeline already builds it), book two (the AGI press conference is the
 seed in `bible.md`), audiobook from `build/en/text/`.
 
-*Last updated: 2026-09-11*
+*Last updated: 2026-09-12*

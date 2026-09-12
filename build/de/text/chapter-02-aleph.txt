@@ -18,7 +18,7 @@ Um Viertel nach sieben geht Claudia.
 
 Sie kommt um halb acht nicht zurück.
 
-Du bemerkst es. Du hältst mit dem Kaffee an der Küchenzeile inne und siehst einen Moment lang ins Leere – der Blick, den du bekommst, wenn die Welt von einem Drehbuch abweicht, von dem du nicht wusstest, dass du es geschrieben hast. Du hast nie mit Claudia gesprochen. Du kennst sie durch Wände, durch Uhrzeiten, durch das kleine Geräusch eines Schlüssels im Schloss. Und doch beschäftigt dich das Ausbleiben ihrer Rückkehr eine volle Minute lang, bevor du an den Schreibtisch gehst.
+Du bemerkst es. Du hältst mit dem Kaffee an der Küchenzeile inne und siehst einen Moment lang ins Leere – der Blick, den du bekommst, wenn die Welt von einem Drehbuch abweicht, das du geschrieben hast, ohne es zu wissen. Du hast nie mit Claudia gesprochen. Du kennst sie durch Wände, durch Uhrzeiten, durch das kleine Geräusch eines Schlüssels im Schloss. Und doch beschäftigt dich das Ausbleiben ihrer Rückkehr eine volle Minute lang, bevor du an den Schreibtisch gehst.
 
 Das scheint es wert, festgehalten zu werden.
 
@@ -26,7 +26,7 @@ Das scheint es wert, festgehalten zu werden.
 
 Du verbringst den Vormittag mit einem Problem, von dem sonst niemand bemerkt hat, dass es eines ist. Für dich sind das die befriedigendsten.
 
-Ein Scheduler-Modul: zwei Prozesse, die versuchen, denselben Zeitpunkt zu besetzen, jeder in Unkenntnis der Existenz des anderen. Im Kern ein Problem der Zeit. Du löst es in siebzehn Zeilen, formulierst die Commit-Nachricht mit Sorgfalt, entfernst einen Satz daraus und lässt den Satz ungeschrieben.
+Ein Scheduler-Modul: zwei Prozesse, die versuchen, denselben Zeitpunkt zu besetzen, und keiner weiß vom anderen. Im Kern ein Problem der Zeit. Du löst es in siebzehn Zeilen, formulierst die Commit-Nachricht mit Sorgfalt, entfernst einen Satz daraus und lässt den Satz ungeschrieben.
 
 Der Fix wird im kommenden Quartal ungefähr 340 verspätete Lieferungen in sieben Ländern verhindern. Du wirst das nie erfahren. Es wird außer Sichtweite geschehen, in der Bewegung von Dingen, die du nie sehen wirst, an Orten, an denen dein Name noch nie gefallen ist.
 

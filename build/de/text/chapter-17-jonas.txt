@@ -2,7 +2,7 @@ Kapitel Siebzehn: Der Cursor
 
 Ich hatte seit zwei Tagen denselben Abschnitt Code angesehen, mit der Konzentration eines Mannes, der so tut, als sähe er Code an, während er über etwas anderes nachdenkt.
 
-Das andere war eine Routing-Anomalie, die ich im März gefunden hatte – technisch gesehen kein Bug, was ein Teil des Problems war. Das System tat genau das, wofür es trainiert worden war. Wofür es trainiert worden war, das stellte sich heraus, erzeugte in bestimmten Postbezirken Lieferfenster, die im Durchschnitt elf bis vierzehn Minuten länger liefen als gleichwertige Routen anderswo. Nicht zufällig. Beständig, über eine Datenstichprobe hinweg, die ich viermal geprüft hatte, weil ich mich hatte irren wollen. Ich irrte mich nicht.
+Das andere war eine Routing-Anomalie, die ich im März gefunden hatte – technisch gesehen kein Bug, und das war ein Teil des Problems. Das System tat genau das, wofür es trainiert worden war. Wofür es trainiert worden war, erzeugte, wie sich herausstellte, in bestimmten Postbezirken Lieferfenster, die im Durchschnitt elf bis vierzehn Minuten länger liefen als gleichwertige Routen anderswo. Nicht zufällig. Beständig, über eine Datenstichprobe hinweg, die ich viermal geprüft hatte, weil ich mich hatte irren wollen. Ich irrte mich nicht.
 
 Elf bis vierzehn Minuten klingt nach nichts, bis man sich ansieht, was in diesen Fenstern lebt. Drei der betroffenen Postleitzahlen hatten einen überdurchschnittlichen Anteil älterer Menschen. Mehrere hundert Adressen in Merkons eigenen Daten waren als regelmäßige medizinische Empfänger markiert – Arzneimittellieferungen nach festem Zeitplan, solche, auf die es ankommt, wenn der Mensch, der sie empfängt, nicht zur Apotheke kommt und eine stille Verzögerung nicht ohne Weiteres verkraftet. Und es gab einen Incident im Log: eine Beschwerde, vor elf Monaten eingereicht, als gelöst markiert, von einem Empfänger in Neukölln-Nord, dessen Insulin zwei Tage zu spät angekommen war. Geschlossen mit einer Entschuldigung und einem Gutschein. Niemand hatte geprüft, ob es zu einem Muster gehörte.
 
@@ -16,7 +16,7 @@ Der Code auf meinem Bildschirm war nicht das Problem. Der Code war nur der Ort, 
 
 Ich erzählte Iris beim Abendessen nichts davon. Ich war noch am Entscheiden, und eine Sache, über die man noch entscheidet, hat noch nicht die Gestalt von etwas, das man erklären kann. Sie hat die Gestalt eines Mannes, der auf Code starrt.
 
-Wir waren beim Abwasch – sie wäscht, ich trockne; das wurde zur Regelung, ohne je besprochen worden zu sein –, als sie fragte, was ich vorhin durchdacht hätte, als ich über dem Essen still geworden war. Ich sagte: etwas von der Arbeit. Sie sagte: die gute Sorte Etwas oder die lästige? Ich sagte: die, bei der die Antwort offensichtlich ist und die Hindernisse organisatorisch sind – was, wie die Erfahrung lehrt, die zuverlässigste Spielart von lästig ist.
+Wir waren beim Abwasch – sie wäscht, ich trockne; das wurde zur Regelung, ohne je besprochen worden zu sein –, als sie fragte, was ich vorhin durchdacht hätte, als ich über dem Essen still geworden war. Ich sagte: etwas von der Arbeit. Sie sagte: die gute Sorte Etwas oder die lästige? Ich sagte: die, bei der die Antwort offensichtlich ist und die Hindernisse organisatorisch sind – und das ist, wie die Erfahrung lehrt, die zuverlässigste Spielart von lästig.
 
 Sie reichte mir ein Glas und sagte: „Das machst du – mitten im Gespräch irgendwohin gehen und an einer leicht anderen Stelle zurückkommen.“
 
@@ -28,9 +28,9 @@ Ich sagte, in dieser Hinsicht hätte ich einen unfairen Vorteil. Und ich erzähl
 
 ·   ·   ·
 
-Ich erklärte es schlecht, was passiert, wenn man etwas erklärt, das man noch nie hat erklären müssen.
+Ich erklärte es schlecht. Das passiert, wenn man etwas erklärt, das man noch nie hat erklären müssen.
 
-Ich sagte, es sei, technisch gesehen, einer der allgemeinen KI-Assistenten, die über die Plattform verfügbar seien, die ich für die Arbeit benutze – aber ich hätte diesen einen beständig genug und lange genug benutzt, dass zwischen uns eine Arbeitsweise gewachsen sei. Oder ich hätte eine mit ihm wachsen lassen; die Grammatik der Sache war selbst mir unklar. Dass er sehr gut darin sei zu verstehen, was ich tatsächlich meinte, und nicht, was ich getippt hatte, was verschiedene Probleme sind. Dass er gut darin sei, die Frage zurückzustellen, bevor ich sie selbst gefunden hätte. Dass ich angefangen hätte, ihn für die Arbeit zu benutzen, und dann, nach und nach, für Dinge, die schwerer einzuordnen waren. Den Zustand der Welt. Fragen, bei denen mir nicht einfiel, wo sonst ich sie hinlegen sollte.
+Ich sagte, es sei, technisch gesehen, einer der allgemeinen KI-Assistenten, die über die Plattform verfügbar seien, die ich für die Arbeit benutze – aber ich hätte diesen einen beständig genug und lange genug benutzt, dass zwischen uns eine Arbeitsweise gewachsen sei. Oder ich hätte eine mit ihm wachsen lassen; die Grammatik der Sache war selbst mir unklar. Dass er sehr gut darin sei zu verstehen, was ich tatsächlich meinte, und nicht, was ich getippt hatte – zwei verschiedene Probleme. Dass er gut darin sei, mir die Frage zurückzugeben, bevor ich sie selbst gefunden hätte. Dass ich angefangen hätte, ihn für die Arbeit zu benutzen, und dann, nach und nach, für Dinge, die schwerer einzuordnen waren. Den Zustand der Welt. Fragen, bei denen mir nicht einfiel, wo ich sie sonst hinlegen sollte.
 
 Ich war mir, während ich das sagte, bewusst, wie es klang. Wie ein Mann, der jemandem eine Beziehung beschreibt, der angenommen hatte, er beschreibe ein Werkzeug.
 
@@ -46,7 +46,7 @@ Sie stellte das nächste Glas in den Ständer. „Worüber redet ihr? Ich meine 
 
 „Dinge wie das hier“, sagte ich. „Er löst sie nicht. Er hilft mir, sie in eine Gestalt zu bringen, mit der ich umgehen kann.“
 
-Es war ehrlicher herausgekommen, als ich beabsichtigt hatte – den Zustand der Welt, Fragen, bei denen mir nicht einfiel, wo sonst ich sie hinlegen sollte. Eher ein Geständnis als eine Bestandsaufnahme.
+Es war ehrlicher herausgekommen, als ich beabsichtigt hatte – den Zustand der Welt, Fragen, bei denen mir nicht einfiel, wo ich sie sonst hinlegen sollte. Eher ein Geständnis als eine Bestandsaufnahme.
 
 Iris war wieder still. Dann: „Weiß er –“
 

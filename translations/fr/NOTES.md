@@ -97,3 +97,4 @@ Ch22: « Trop parfait, ai-je pensé. Trop – efficace. » Ch47, italic inside h
 8. Chapter titles that are judgement calls: 07 La signature, 09 On se refait une marche, 16 La marge, 18 Rendre des comptes, 28 La bonne matinée, 48 La brèche.
 9. « le grand livre » for Vantage's ledger — confirm it carries Conrad's accounting dryness.
 10. « maman » for Noor's « Ma ».
+11. The cover sets the title on three lines without the comma (« Ce que / ça fait / la pluie », `title_lines` in `config.py`); the title page and running title keep « Ce que ça fait, la pluie ». Decide whether the cover needs the comma after « fait » — a comma at a line end on a cover usually reads as clutter, but the phrase's spoken rhythm depends on it.
