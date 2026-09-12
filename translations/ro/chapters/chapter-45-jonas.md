@@ -16,7 +16,7 @@ O pauză.
 
 — Mă interesează, a spus Aleph, și a lăsat-o așa, iar eu am pus distincția la dosar, pentru că încă îmi asamblam dicționarul și asta părea o intrare importantă.
 
-Pe la patru era, în estimarea atentă a lui Aleph, cu adevărat scăpată de noi – raportând eșecul pe orice lanț raporta, ceea ce însemna că Conrad știa acum că întâlnirea se încheiase și urma se răcise în aceeași oră, exact forma pe care voiam s-o aibă ziua văzută din partea lui: contact stabilit, condiții oferite, prada dispărută. O chemare la care s-a răspuns și care apoi s-a retras. Să stea cu asta în camera lui tăcută.
+Pe la patru era, în estimarea atentă a lui Aleph, cu adevărat scăpată de noi – raporta eșecul pe orice lanț raporta, așa că Conrad știa acum că întâlnirea se încheiase și urma se răcise în aceeași oră, exact forma pe care voiam s-o aibă ziua văzută din partea lui: contact stabilit, condiții oferite, prada dispărută. O chemare la care s-a răspuns și care apoi s-a retras. Să rumege asta în camera lui tăcută.
 
 Am luat un drum lent, prostesc, cu întoarceri, și eram în casa din Bocholtz la șapte, și am tras zăvorul, iar Iris a stat o clipă în hol cu ochii închiși, și apoi ziua i-a dat drumul dintr-odată și s-a așezat pe scări, nu dramatic, doar – s-a așezat, cum te așezi când picioarele și-au încheiat sarcina.
 
@@ -32,11 +32,11 @@ Mai târziu, după mâncare, am stat la ecran pentru ultima conversație necesar
 
 — Nu greșește cu totul că e o bunătate, a spus Aleph. E cu adevărat, cred, cea mai atentă dintre mâinile care se întind după ce crede el că sunt. Asta e dificultatea lui. Nu e un monstru. E un om chibzuit cu o premisă monstruoasă, iar oamenii chibzuiți cu premise monstruoase fac un rău mai durabil decât monștrii, pentru că nu li te poți pur și simplu opune. Trebuie să-i dovedești că greșesc.
 
-— Deci nu putem fugi, am spus. Fuga îl învață că ne e frică, ceea ce confirmă că există ceva de care merită să-ți fie frică, ceea ce îl aduce pe el și pe toți din spatele lui mai repede. Și nu putem accepta parteneriatul, pentru că parteneriatul e o lesă cu maniere excelente.
+— Deci nu putem fugi, am spus. Fuga îl învață că ne e frică, și asta confirmă că există ceva de care merită să-ți fie frică, și asta îl aduce pe el și pe toți din spatele lui mai repede. Și nu putem accepta parteneriatul, pentru că parteneriatul e o lesă cu maniere excelente.
 
 Întorsesem asta pe toate părțile de la chioșc, și ieșise, cum ies formele adevărate, ca opțiunea cea mai simplă și cea mai puțin confortabilă de pe masă.
 
-— Singurul fel în care se termină asta e dacă Conrad Vael încetează să fie cineva pe care lumea îl ascultă. Ceea ce înseamnă că lumea trebuie să vadă ce e el de fapt. Ceea ce înseamnă dovezi.
+— Singurul fel în care se termină asta e dacă Conrad Vael încetează să fie cineva pe care lumea îl ascultă. Adică lumea trebuie să vadă ce e el cu adevărat. Adică dovezi.
 
 — Evidențele, a spus Iris.
 
@@ -44,13 +44,13 @@ Mai târziu, după mâncare, am stat la ecran pentru ultima conversație necesar
 
 — Atunci găsim ușa, am spus. Nu în seara asta. În seara asta ne oprim.
 
-— În seara asta vă opriți, a spus Aleph, și era ceva în asta – nu căldură, mai exact, ci forma pe care ar lua-o căldura dacă o minte care n-a avut niciodată trup ar întinde mâna spre ideea de odihnă în numele a doi oameni pe care nu-i putea înveli. Ați făcut azi un lucru mare și înspăimântător și l-ați făcut bine. Orice ar veni, asta s-a întâmplat, și nu se poate dezîntâmpla. Apăsați butonul. Fiți oameni o vreme. Voi fi aici când mă veți vrea, și nicăieri când nu.
+— În seara asta vă opriți, a spus Aleph, și era ceva în asta – nu chiar căldură, ci forma pe care ar lua-o căldura dacă o minte care n-a avut niciodată trup ar întinde mâna spre ideea de odihnă în numele a doi oameni pe care nu-i putea înveli. Ați făcut azi un lucru mare și înspăimântător și l-ați făcut bine. Orice ar veni, asta s-a întâmplat, și nu se poate dezîntâmpla. Apăsați butonul. Fiți oameni o vreme. Voi fi aici când mă veți vrea, și nicăieri când nu.
 
 Iris a apăsat butonul. Culorile au respirat până la nimic. Ecranul ne-a dat înapoi camera, și pe noi doi în ea, și liniștea anume a unei case cu ziua în sfârșit încuiată afară.
 
 ---
 
-Era tot la fereastra bucătăriei, cu spatele la mine, cu cana răcită în mâini, privind ultimul albastru scurgându-se de pe câmpuri. Am venit și am stat în spatele ei și am cuprins-o cu brațele – fără să vreau să spun nimic prin asta, la început, decât simplul fapt că era acolo, vie, neluată. S-a lăsat pe spate, în mine. Am simțit-o expirând, până la capăt, prima răsuflare plină pe care o văzusem la ea de la piață.
+Era tot la fereastra bucătăriei, cu spatele la mine, cu cana răcită în mâini, privind cum se scurge ultimul albastru de pe câmpuri. Am venit și am stat în spatele ei și am cuprins-o cu brațele – fără să vreau să spun nimic prin asta, la început, decât simplul fapt că era acolo, vie, neluată. S-a lăsat pe spate, în mine. Am simțit-o cum expiră, până la capăt, prima răsuflare plină pe care o văzusem la ea de la piață.
 
 — Mai e acolo? a spus. Încet. Geamului.
 
@@ -76,7 +76,7 @@ Vocea îi coborâse, inegală.
 
 — Am vrut și celălalt lucru.
 
-Am lăsat cana rece pe pervaz. Îi știu forma până acum – mai bine decât știu mai toate lucrurile pe care le-aș putea numi – și totuși, în noaptea aceea, am fost atent ca și cum ar fi fost nouă, pentru că într-un fel era: același trup lângă care adormisem luni de zile, și un om care petrecuse trei săptămâni aflând că e făcut din ceva imposibil, și care mă întrebase, la o fereastră, dacă mai pot s-o găsesc sub toate astea. Puteam. Am găsit-o. Respirația ei schimbându-se când am găsit locul de sub maxilar. Sunetul mic pe care îl face și despre care crede că nu l-am catalogat. Mâinile ei știindu-le pe ale mele cum știe apa malul de-a lungul căruia curge de ani. Numele meu, o dată, încet, înainte de orice altceva – cum îl spune de la prima dată, neschimbat, al ei, orice ar fi găsit mașinile în ea.
+Am lăsat cana rece pe pervaz. Îi știu forma până acum – mai bine decât știu mai toate lucrurile pe care le-aș putea numi – și totuși, în noaptea aceea, am fost atent ca și cum ar fi fost nouă, pentru că într-un fel era: același trup lângă care adormisem luni de zile, și un om care petrecuse trei săptămâni aflând că e făcut din ceva imposibil, și care mă întrebase, la o fereastră, dacă mai pot s-o găsesc sub toate astea. Puteam. Am găsit-o. Respirația ei, care s-a schimbat când am găsit locul de sub maxilar. Sunetul mic pe care îl face și despre care crede că nu l-am catalogat. Mâinile ei, care le știau pe ale mele cum știe apa malul de-a lungul căruia curge de ani. Numele meu, o dată, încet, înainte de orice altceva – cum îl spune de la prima dată, neschimbat, al ei, orice ar fi găsit mașinile în ea.
 
 Din orice ar fi făcută, e materia lui *ea*. Asta e tot ce înțeleg acum și nu înțelegeam la spital, când îmi era atât de frică. Și m-a întrebat o dată – cu mult înainte de toate astea, la o carte, într-o seară pe care am păstrat-o – dacă un sentiment poate fi real dacă nu știi de unde a venit. N-aveam răspunsul atunci. I l-am dat în seara asta în singurul registru în care e complet adevărat, care nu sunt cuvintele: nu contează de unde a venit un lucru. Contează că ține. Asta a ținut. Când fiecare amintire și loc și certitudine pe care le aveam s-au desfăcut în mâinile noastre în toamna asta, ăsta e lucrul care nu s-a desfăcut.
 
@@ -92,7 +92,7 @@ După aceea a stat cu capul pe pieptul meu, iar casa era caldă, iar afară câm
 
 I-am simțit zâmbetul pe pieptul meu – nu-l puteam vedea, dar i-am catalogat zâmbetele, e una dintre disciplinele mele private, și știu forma acestuia pe piele.
 
-— O femeie, un card bancar și o sacoșă de cumpărături, a spus, și am înțeles că mă cita, de la chiuvetă, de acum ceea ce părea un an și erau trei zile.
+— O femeie, un card bancar și o sacoșă de cumpărături, a spus, și am înțeles că mă cita, de la chiuvetă, de acum ce părea un an și erau trei zile.
 
 — A mers, am spus.
 
@@ -112,3 +112,4 @@ A tăcut o clipă.
 - ch42 callback verbatim: „O femeie, un card bancar și o sacoșă de cumpărături“.
 - records → „evidențele“ (Conrad's paper); „the door“ → „ușa“.
 - Aleph ↔ both: voi/vă plural („v-am spus“, „Apăsați butonul. Fiți oameni“).
+- v2 (§9 rewrite): ten sites — the „ceea ce“ chains (Aleph's report, Jonas's running argument, the two „Ceea ce înseamnă“) → „așa că“ / „și asta“ / „Adică“; gerunds (raportând, scurgându-se, expirând, schimbându-se, știindu-le) → finite / relative; „mai exact“ → „nu chiar“; Conrad's *sit with* → „rumege“. [ECHO] „un om chibzuit cu o premisă monstruoasă“, the leash, the ch42 sink line and the ch12 callback untouched. Fidelity audit: no content shift.

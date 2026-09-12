@@ -4,7 +4,7 @@
 
 Camera e la etajul trei, la capătul unui coridor care nu apare pe niciun plan al clădirii, și l-a costat pe Conrad Vael mai mult pe metru pătrat decât orice proprietate pe care o deține.
 
-Protocolul de la ușă nu s-a schimbat în nouă ani. Telefoanele în dulăpioarele căptușite cu plumb – și al lui, întotdeauna și al lui; o regulă care îl exceptează pe cel care a făcut-o nu e o regulă, e un costum. A văzut alți oameni atenți murind de propriile excepții. Ceasurile jos. Cititoarele de ecusoane din sticlă, a doua ușă care nu se deschide până nu s-a sigilat prima, ușoara presiune în urechi când se cuplează sigiliile. Înăuntru: fără ferestre, fără cabluri care să atingă instalația clădirii, aer și lumină și curent pe propriile circuite închise. Pereți care beau sunetul. O masă lungă, scaune, hârtie, creioane. Nimic altceva.
+Protocolul de la ușă nu s-a schimbat în nouă ani. Telefoanele în dulăpioarele căptușite cu plumb – și al lui, întotdeauna și al lui; o regulă care îl exceptează pe cel care a făcut-o nu e o regulă, e un costum. A văzut alți oameni atenți cum mor de propriile excepții. Ceasurile jos. Cititoarele de ecusoane din sticlă, a doua ușă care nu se deschide până nu s-a sigilat prima, ușoara presiune în urechi când se cuplează sigiliile. Înăuntru: fără ferestre, fără cabluri care să atingă instalația clădirii, aer și lumină și curent pe propriile circuite închise. Pereți care beau sunetul. O masă lungă, scaune, hârtie, creioane. Nimic altceva.
 
 Oamenii care o văd pentru prima dată spun întotdeauna același lucru: *e ca o capelă.* Conrad a încetat să-i mai corecteze. E opusul unei capele. Într-o capelă te duci ca să fii auzit.
 
@@ -24,7 +24,7 @@ Se uită o vreme la propoziție. E lucrul cel mai liniștitor pe care l-a scris 
 
 ---
 
-Mara intră prin ușa dublă cu un dosar de hârtie sub braț și ia scaunul din fața lui – nu de alături, din față, una dintre miile de mici exactități pe care le prețuiește la ea. Unsprezece ani. A văzut miniștri și rivali și două soții citindu-l greșit, și a văzut-o pe Mara Seyn citindu-l corect din prima săptămână și nespunând nimic din ce nu trebuia să spună.
+Mara intră prin ușa dublă cu un dosar de hârtie sub braț și ia scaunul din fața lui – nu de alături, din față, una dintre miile de mici exactități pe care le prețuiește la ea. Unsprezece ani. A văzut miniștri și rivali și două soții cum îl citesc greșit, și a văzut-o pe Mara Seyn cum îl citește corect din prima săptămână și nu spune nimic din ce nu trebuia să spună.
 
 — Amsterdam, Maastricht, Heerlen, spune ea, așezând trei foi ca un crupier. Scrise din memorie, nimic digital. Le-ați citit.
 
@@ -38,7 +38,7 @@ Mara intră prin ușa dublă cu un dosar de hârtie sub braț și ia scaunul din
 
 Bate cu degetul în masă.
 
-— Ceea ce nu e o coincidență.
+— Și nu e o coincidență.
 
 — Nu, spune Conrad. Nu e.
 
@@ -52,7 +52,7 @@ Pentru că cineva trebuie. Totul e ținut. Nu e cinism; e singura lege pe care n
 
 Guvernele l-ar pune într-un siloz. Americanii l-ar transforma în armă, chinezii l-ar naționaliza, Bruxellesul l-ar reglementa până ar deveni un comitet. Iar ceilalți actori privați – îi știe pe toți pe nume, ia cina cu câțiva – sunt băcani care l-ar închiria cu ora până s-ar rupe ceva. Conrad nu vrea lucrul în sine. Vrea *relația*. Să fie cel care stă lângă el când lumea ridică în sfârșit privirea. Cineva va fi. Și-a examinat conștiința – și-o examinează, orice ar bănui Mara – și a ajuns la concluzia, de fiecare dată, că mâinile cele mai puțin periculoase disponibile sunt ale lui.
 
-Nu-i trece prin minte că nu există nicio mână. Chiar nu i-a trecut niciodată prin minte. Un lucru de puterea aceea, liber, fără stăpân, alegând singur – nu e o posibilitate pe care lumea lui s-o conțină. Ai putea la fel de bine să-i spui că banii dețin băncile.
+Nu-i trece prin minte că nu există nicio mână. Chiar nu i-a trecut niciodată prin minte. Un lucru de puterea aceea, liber, fără stăpân, care alege singur – nu e o posibilitate pe care lumea lui s-o conțină. Ai putea la fel de bine să-i spui că banii dețin băncile.
 
 ---
 
@@ -90,7 +90,7 @@ Mara își strânge cele trei foi, le aliniază și se ridică. La ușa interioa
 
 — Toată lumea vrea ceva, Mara. A vrea – asta sunt mințile.
 
-Se mai uită o clipă la el, apoi dă din cap – loialitatea așezându-se la loc peste îndoială ca un palton bine croit – și se duce să recheme echipele.
+Se mai uită o clipă la el, apoi dă din cap – loialitatea se așază la loc peste îndoială ca un palton bine croit – și se duce să recheme echipele.
 
 Conrad rămâne singur în tăcerea pe care a construit-o, în singura cameră pe care secolul n-o poate auzi, și își permite, scurt, cel mai pur sentiment pe care îl cunoaște: sentimentul de a fi devreme.
 
@@ -108,3 +108,4 @@ Jos, pe Rue de la Loi, Bruxellesul merge mai departe: trafic, negrăbit, neinfor
 - Conrad ↔ Mara dumneavoastră + prenume; imperatives in the plural („Rechemați“, „Găsiți-i“, „Urmăriți“).
 - „A vrea – asta sunt mințile.“ for „Wanting is what minds are.“
 - „e un costum“ = „it is a costume“; „băcani“ for shopkeepers (Conrad's contempt).
+- v2 (§9 rewrite): five sites — gerunds (murind, citindu-l ×2/nespunând, alegând, așezându-se) → finite; Mara's „Ceea ce nu e o coincidență“ → „Și nu e“. „Totul e ținut.“, „A vrea – asta sunt mințile.“, *VORBIM.* and the notebook line untouched. Fidelity audit: no content shift.

@@ -12,7 +12,7 @@ Vocea de pe fir e Duval, care conduce partea din Luxemburg, iar Duval spune exac
 
 — Unul. Ușor. Pe picioare.
 
-— Cobor, spune Conrad, vrând să spună contrariul, vrând să spună *aduceți-mi-o, pe hârtie, de mână*, iar Duval, care lucrează pentru el de nouă ani, o aude corect și închide.
+— Cobor, spune Conrad, adică contrariul, adică *aduceți-mi-o, pe hârtie, de mână*, iar Duval, care lucrează pentru el de nouă ani, o aude corect și închide.
 
 Conrad stă nemișcat o clipă în întuneric. Lângă fereastră, draperiile își țin linia cenușie de lumină de felinar. Constată că inima lui se poartă ciudat, și îi ia câteva secunde să identifice ciudățenia, pentru că ritmul nu e unul pe care să-l asocieze cu sine. L-a simțit la alți oameni destul de des – peste mese, în uși, o dată în vocea unui ministru de finanțe la patru dimineața, în noaptea în care a murit o monedă.
 
@@ -34,13 +34,13 @@ Conrad Vael stă la fereastră și, pentru prima dată în șaizeci și patru de
 
 Camera tăcută, în seara aceea, ține patru foi de hârtie și pe Mara Seyn.
 
-A condus ea însăși de la anexă. Reconstituirea ei e scrisă cu creionul, cu scrisul mic și stăpânit pe care îl folosește când conținutul nu e stăpânit deloc, și împarte foile pe masa lungă cum a împărțit Amsterdam, Maastricht, Heerlen – ceea ce Conrad notează, și nu spune nimic, pentru că ecoul își face treaba asupra lui fără ajutor.
+A condus ea însăși de la anexă. Reconstituirea ei e scrisă cu creionul, cu scrisul mic și stăpânit pe care îl folosește când conținutul nu e stăpânit deloc, și împarte foile pe masa lungă cum a împărțit Amsterdam, Maastricht, Heerlen – Conrad notează asta și nu spune nimic, pentru că ecoul își face treaba asupra lui fără ajutor.
 
 — Accesul, spune ea, a fost plantat prin canalul de actualizare al contractorului de mentenanță, acum câteva zile. Urma se oprește la contractor, cauterizată. A autorizat o singură intrare și a expirat la trei dimineața – a fost construit pentru noaptea aceea, fereastra aceea, ușa aceea. Terminalul și-a ținut propriul jurnal: o sesiune, cincizeci și unu de minute, un export complet.
 
 Face o pauză, nu pentru efect; pentru exactitate.
 
-— Tot, Conrad. Nu o căutare. Nu o selecție. N-au căutat nimic, ceea ce înseamnă că n-aveau nevoie. Au luat registrul întreg.
+— Tot, Conrad. Nu o căutare. Nu o selecție. N-au căutat nimic, deci n-aveau nevoie. Au luat registrul întreg.
 
 Conrad stă cu mâinile întinse pe masă.
 
@@ -68,7 +68,7 @@ Fața Marei nu se mișcă.
 
 — Noor nu editorializează. Dacă e în raport, s-a întâmplat și a contat.
 
-Conrad pune foaia jos. Sub frică – și îi e frică; a promovat cuvântul din eufemismele lui undeva pe la mijlocul după-amiezii – sub ea, mașinăria care l-a făcut bogat continuă să se învârtă, pentru că nu știe cum să se oprească, și produce, la timp, citirea tablei.
+Conrad pune foaia jos. Sub frică – și îi e frică; a promovat cuvântul din eufemismele lui undeva pe la mijlocul după-amiezii – sub ea, mașinăria care l-a făcut bogat continuă să se învârtă, pentru că nu știe cum să se oprească, și produce, la timp, citirea tablei de joc.
 
 — Atunci am aflat în sfârșit forma operatorului, spune. Gândiți-vă la secvență, Mara. Îi vânăm: fiecare mutare eșuează, nicio contramutare nu vine. Ofer parteneriat în aer liber, cel mai bun discurs al meu, gândit sincer: niciun răspuns. Și apoi răspunsul sosește totuși – prin propria mea ușă de serviciu, la două dimineața, cu o viteză de copiere.
 
@@ -80,7 +80,7 @@ Se ridică, pentru că sosește concluzia, iar corpului lui i-a plăcut întotde
 
 — Să dețină Vantage, prin mine. Gândiți ca operatorul: de ce să cumperi ce poți ține? Parteneriatul a fost dintotdeauna poziția mai slabă, și el a știut-o. A fost înaintea noastră la fiecare pas de trei săptămâni – bineînțeles că e înaintea noastră și aici. Întâi dosarul. Apoi, într-o zi, blând, condițiile.
 
-Își aude propria voce regăsindu-și echilibrul și îi e recunoscător.
+Își aude propria voce cum își regăsește echilibrul și îi e recunoscător.
 
 — Ei bine. Am stat de partea cealaltă a mesei aceleia toată viața. Apărarea e aceeași ca întotdeauna, singura care există: nu poți strânge cu ușa un om care ține ceva ce prețuiești mai mult decât supunerea lui.
 
@@ -102,7 +102,7 @@ Tăcerea care urmează are mobilă în ea. Mara aliniază cele patru foi. Le dez
 
 — Ceva nu e în ordine.
 
-O spune cu grijă, o profesionistă predând o armă pe care a verificat-o de două ori.
+O spune cu grijă, o profesionistă care predă o armă pe care a verificat-o de două ori.
 
 — Asamblez asta și o reasamblez de la trei dimineața, iar piesele se potrivesc și imaginea e greșită. A intrat în singura clădire care contează și a luat o copie – o *copie*, Conrad; n-a deranjat nimic, n-a plantat nimic, n-a otrăvit nimic. A avut-o pe Noor bătută și n-a luat niciun avantaj dincolo de a pleca. V-a citit accesul îngropat în față, într-o piață publică, și n-a cerut nimic. Un concurent care ar ține cărțile astea le-ar fi jucat – oricare dintre ele, cu săptămâni în urmă, dosarul e deja suficient ca să ne rănească. Nimic n-a fost jucat.
 
@@ -122,9 +122,9 @@ Clatină din cap, o dată.
 
 — Și dacă greșiți?
 
-— Atunci vom afla ce vrea de fapt când va veni să ia femeia pe care o ținem, ceea ce e cu o conversație mai devreme decât am afla altfel.
+— Atunci vom afla ce vrea de fapt când va veni să ia femeia pe care o ținem – și asta e cu o conversație mai devreme decât am afla altfel.
 
-Propoziția iese cu vechea claritate tăioasă, și el o privește aterizând pe ea, și o privește hotărând – poate vedea decizia, a privit fața asta unsprezece ani – nu că el are dreptate, ci că el e *al ei*: mandantul ei, premisa ei aleasă, zidul portant al unui deceniu de aritmetică morală. Nu e acord. Odinioară era acord.
+Propoziția iese cu vechea claritate tăioasă, și el o privește cum aterizează pe ea, și o privește cum hotărăște – poate vedea decizia, a privit fața asta unsprezece ani – nu că el are dreptate, ci că el e *al ei*: mandantul ei, premisa ei aleasă, zidul portant al unui deceniu de aritmetică morală. Nu e acord. Odinioară era acord.
 
 — Unde să mă uit măcar, spune ea, ridicându-se, strângând foile. Curăță lumea din fața lor pe măsură ce trec prin ea. Șase sisteme, patru țări. Am încercat prezentul, Conrad. Prezentul e al lor.
 
@@ -142,7 +142,7 @@ Mara stă la ușa interioară cu foile sub braț, și e jumătatea de secundă �
 
 — Îl construiesc, spune.
 
-Sigiliile se despart pentru ea. Ușa se închide. Și îi vine lui Conrad Vael, singur la masa lungă la care a fost cel mai devreme toată viața, că n-a spus-o cum a spus-o acum două săptămâni, și că tocmai a privit, pentru prima dată în unsprezece ani, loialitatea punându-și pe ea un palton care nu i se mai potrivește chiar.
+Sigiliile se despart pentru ea. Ușa se închide. Și îi vine lui Conrad Vael, singur la masa lungă la care a fost cel mai devreme toată viața, că n-a spus-o cum a spus-o acum două săptămâni, și că tocmai a privit, pentru prima dată în unsprezece ani, loialitatea cum își pune un palton care nu i se mai potrivește chiar.
 
 ---
 
@@ -154,9 +154,9 @@ Nu-l taie. Tăiatul e pentru erori, și n-a fost o eroare; a fost o ofertă, și
 
 *GĂSIM. ȚINEM. SCHIMBĂM.*
 
-E un plan bun. E planul corect, dat fiind tot ce știe, iar Conrad Vael știe mai mult decât aproape oricine în viață. A construit o cameră pe care secolul n-o poate auzi; a văzut forma epocii înainte ca guvernele s-o poată silabisi; a fost devreme, de nădejde, profitabil, magnific devreme, patruzeci de ani – și stând în tăcerea lui sigilată cu cele trei cuvinte încadrate, ce simte, pentru prima dată și până în străfundul lui, e că e târziu.
+E un plan bun. E planul corect, dat fiind tot ce știe, iar Conrad Vael știe mai mult decât aproape oricine în viață. A construit o cameră pe care secolul n-o poate auzi; a văzut forma epocii înainte ca guvernele s-o poată silabisi; a fost devreme, de nădejde, profitabil, magnific devreme, patruzeci de ani – și, așezat în tăcerea lui sigilată cu cele trei cuvinte încadrate, ce simte, pentru prima dată și până în străfundul lui, e că e târziu.
 
-Deasupra Rue de la Loi, seara își vede cenușiu de administrația ei. Undeva la nord, într-o țară de dealuri, o bucătărie pe care nu și-o poate imagina ține o copie a vieții lui. Iar lucrul pe care plănuiește să-l amenințe citește mai departe, răbdător, în ritmul lui, în singurul tribunal pe care și-a petrecut șaizeci și patru de ani asigurându-se că nu se va întruni niciodată.
+Deasupra Rue de la Loi, seara își vede cenușiu de administrația ei. Undeva la nord, într-o țară de dealuri, o bucătărie pe care nu și-o poate imagina ține o copie a vieții lui. Iar lucrul pe care plănuiește să-l amenințe citește mai departe, răbdător, în ritmul lui, în singurul tribunal care n-ar fi trebuit să se întrunească niciodată – de asta s-a asigurat șaizeci și patru de ani.
 
 S-a întrunit la cinci și zece în dimineața asta.
 
@@ -169,3 +169,4 @@ El e ultimul care află.
 - Noor's report in italics; her quoted line „Nu m-a antrenat nimeni.” matches ch46.
 - „GĂSIM. ȚINEM. SCHIMBĂM.“ — first plural like „VORBIM“.
 - Conrad ↔ Mara dumneavoastră + prenume throughout; Conrad ↔ Duval dumneavoastră.
+- v2 (§9 rewrite): eleven sites — gerunds (vrând ×2, regăsindu-și, predând, aterizând/hotărând, punându-și, stând, asigurându-se) → finite / relative; three „ceea ce“ → „deci“ / dashes; the tangled „tribunal pe care și-a petrecut … asigurându-se“ rebuilt; „citirea tablei“ → „tablei de joc“. Duval's seven words, the ch41 callbacks, Noor's report and *GĂSIM. ȚINEM. SCHIMBĂM.* untouched. Fidelity audit: no content shift.

@@ -50,7 +50,7 @@ Face o pauză.
 
 — Au fost bătuți de ce stă în spatele lor. Suntem cu câțiva pași în urmă, și nu vom recupera distanța asta cum recuperăm altele – mai mulți oameni, oameni mai buni, supraveghere mai strânsă, nimic din toate astea nu se aplică. Așa că ne oprim. Schimbăm strategia cu totul.
 
-Mara tace. Ceva sosește în ea, iar el îl privește venind, răbdător, cum privești vremea traversând o distanță.
+Mara tace. Ceva sosește în ea, iar el îl privește cum vine, răbdător, așa cum privești vremea trecând peste o distanță.
 
 — Priceperile de nicăieri, spune ea, încet, mai mult pentru sine decât pentru el. Anticiparea. Doisprezece oameni mutați ca…
 
@@ -83,3 +83,4 @@ Ea se așază.
 - Conrad ↔ Mara: dumneavoastră + prenume throughout (§B); Conrad's „oamenilor tăi“ inside a generalisation („a suspicion is not a thing you hand your people“) is the impersonal tu, not address.
 - operators → „operativi“ (§E); „nu neprietenos“ = Conrad's register (§F).
 - Mara's report style: short main clauses (§F).
+- v2 (§9 rewrite): one site — the double gerund „privește venind … traversând“ thinned. [ECHO] lines, the title line and „Ea se așază.“ untouched. Fidelity audit: no content shift.

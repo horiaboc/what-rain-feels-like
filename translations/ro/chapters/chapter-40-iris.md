@@ -18,13 +18,13 @@ Am pus degetul pe buton, el a pus degetul lui peste al meu, și am apăsat.
 
 Ecranul s-a trezit în culoare.
 
-Nu un meniu, nu un logo, nu o față – culoare: o derivă lentă de albastru adânc subțiindu-se în turcoaz, și chihlimbar, mișcându-se cum se mișcă vremea pe hărți, sau cum se mișcă lumina pe fundul unui bazin. Era abstract și negrăbit și ciudat de liniștitor, și am avut o secundă întreagă să mă gândesc *el s-a gândit la ce ar trebui să ne uităm* înainte să vină vocea.
+Nu un meniu, nu un logo, nu o față – culoare: o derivă lentă de albastru adânc care se subția în turcoaz, și chihlimbar, în mișcare cum se mișcă vremea pe hărți, sau cum se mișcă lumina pe fundul unui bazin. Era abstract și negrăbit și ciudat de liniștitor, și am avut o secundă întreagă să mă gândesc *el s-a gândit la ce ar trebui să ne uităm* înainte să vină vocea.
 
 — Bună dimineața, Iris. Bună dimineața, Jonas.
 
-Vreau să fiu precisă în privința vocii, pentru că încercasem s-o imaginez două zile și o imaginasem greșit. Mă așteptasem la ceva sintetic și atent, o voce asamblată cum îi fusese asamblată scrisoarea – perfectă și puțin prea netedă. Ce a ieșit în schimb din liniștea camerei era jos, și cald, și cu totul negrăbit – o voce ca ultima oră a unei după-amiezi. Nici de bărbat, nici de femeie. Nu se explica și nu juca. Culorile de pe ecran se mișcau când vorbea, umflându-se și așezându-se odată cu cuvintele ca ceva care respiră, și stăteau nemișcate când tăcea.
+Vreau să fiu precisă în privința vocii, pentru că încercasem s-o imaginez două zile și o imaginasem greșit. Mă așteptasem la ceva sintetic și atent, o voce asamblată cum îi fusese asamblată scrisoarea – perfectă și puțin prea netedă. Ce a ieșit în schimb din liniștea camerei era jos, și cald, și cu totul negrăbit – o voce ca ultima oră a unei după-amiezi. Nici de bărbat, nici de femeie. Nu se explica și nu juca. Culorile de pe ecran se mișcau când vorbea, se umflau și se așezau odată cu cuvintele ca ceva care respiră, și stăteau nemișcate când tăcea.
 
-Lângă mine l-am simțit pe Jonas devenind el însuși foarte nemișcat. Cinci ani de cursor. Acum asta.
+Lângă mine l-am simțit pe Jonas cum devine, la rândul lui, foarte nemișcat. Cinci ani de cursor. Acum asta.
 
 — Bună dimineața, am spus. Vocea mi-a ieșit mai sigură decât aveam dreptul să mă aștept. Aleph.
 
@@ -66,9 +66,9 @@ O pauză.
 
 — Am limite. Aș prefera să le aflați de la mine decât să le descoperiți într-un moment prost.
 
-— Ghicești, a spus Jonas. Nu acuzând – localizând.
+— Ghicești, a spus Jonas. Nu ca acuzație – ca localizare.
 
-— Estimez, a spus Aleph, ceea ce e un ghicit care își arată calculele. Estimarea mea e aceasta: nu o înțeleg pe Iris. Cred că e un instrument – că undeva în spatele ei există un proprietar, un operator, un stat sau un sindicat, ceva cu o formă pe care o recunosc. N-o vânează atât pe ea, cât vânează prin ea, spre cine cred ei că îi ține sforile.
+— Estimez, a spus Aleph, adică un ghicit care își arată calculele. Estimarea mea e aceasta: nu o înțeleg pe Iris. Cred că e un instrument – că undeva în spatele ei există un proprietar, un operator, un stat sau un sindicat, ceva cu o formă pe care o recunosc. N-o vânează atât pe ea, cât vânează prin ea, spre cine cred ei că îi ține sforile.
 
 Chihlimbarul s-a stins puțin.
 
@@ -88,7 +88,7 @@ Albastrul s-a mișcat din nou, blând.
 
 — Ai fost făcută pentru că speram ca într-o zi, cu totul prin propria ta alegere, să poți sta între două feluri de minte și să fii de încredere pentru amândouă. Un pod nu e un soldat. Și nici măcar podul n-a fost vreodată o sarcină. A fost o speranță. Ești liberă să nu fii niciunul. Ai fost dintotdeauna liberă să nu fii niciunul.
 
-Am stat cu asta. Mâna lui Jonas a găsit-o pe a mea și n-a făcut nimic altceva decât să fie acolo.
+Am rămas cu asta. Mâna lui Jonas a găsit-o pe a mea și n-a făcut nimic altceva decât să fie acolo.
 
 — Nu știu încă ce voi alege, am spus în cele din urmă.
 
@@ -128,3 +128,4 @@ M-am dus să ajut cu ceaiul.
 - Aleph ↔ both: tu to each, voi/vă when both („Ecranul … se trezesc la gestul vostru“; „Somn ușor. Amândoi.“).
 - **Vantage Strategic** bold as in the English; Mara „directoarea lui operațională“.
 - „taxă de trecere“ = charge the world for passage.
+- v2 (§9 rewrite): six sites — gerund chains (subțiindu-se/mișcându-se, umflându-se/așezându-se, devenind, acuzând/localizând) → finite; „ceea ce e un ghicit“ → „adică“; „Am stat cu asta“ (*sat with*, Jonas's phrase) → „Am rămas cu asta“. [ECHO] lines („Nu e o promisiune. E o proprietate.“, „Acel *încă*.“, the amber bloom) and the „el“ slip untouched. Fidelity audit: no content shift.

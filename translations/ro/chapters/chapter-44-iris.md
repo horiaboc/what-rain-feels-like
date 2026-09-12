@@ -10,7 +10,7 @@ Azi erau. Ăsta era rostul alegerii. O scenă e cel mai în siguranță când sa
 
 Chioșcul stătea în centrul părții celei mai goale, fier și umbră, un acoperiș mic pe picioare delicate. Am stat lângă el la unsprezece și cincizeci, cu mâinile în buzunarele paltonului, și n-am jucat calmul, pentru că a juca calmul e cum îi anunți absența, și fusesem sfătuită în privința asta de un expert care locuiește într-o priză.
 
-Jonas era la o masă de terasă, la patruzeci de metri, cu o cafea și un ziar nedeschis, fiind un om care citește ziarul. În micul dispozitiv din urechea mea, atât de încet, încât era mai mult presiune decât sunet, vocea în care ajunsesem să mă încred mai mult decât în propria memorie a spus: *E aici. Singur, pe jos, dinspre Bredestraat. Mara e la colțul de nord-est, vizibilă, cum s-a convenit. Mai e un al treilea, mai departe, o femeie, care e foarte bună – s-a mișcat de două ori și am pierdut-o de două ori și am găsit-o de două ori. Îți spun dacă se schimbă ceva.*
+Jonas era la o masă de terasă, la patruzeci de metri, cu o cafea și un ziar nedeschis – un om care citește ziarul. În micul dispozitiv din urechea mea, atât de încet, încât era mai mult presiune decât sunet, vocea în care ajunsesem să mă încred mai mult decât în propria memorie a spus: *E aici. Singur, pe jos, dinspre Bredestraat. Mara e la colțul de nord-est, vizibilă, cum s-a convenit. Mai e un al treilea, mai departe, o femeie, care e foarte bună – s-a mișcat de două ori și am pierdut-o de două ori și am găsit-o de două ori. Îți spun dacă se schimbă ceva.*
 
 N-am răspuns. Conveniserăm că nu voi răspunde; o femeie care vorbește cu aerul e o femeie cu ceva în ureche.
 
@@ -28,7 +28,7 @@ A zâmbit ușor.
 
 — Bineînțeles. Știți multe de ceva vreme. De aceea stăm de fapt amândoi aici.
 
-De aproape era mai bătrân decât mersul lui și mai cald decât îl construisem în minte, și ăsta a fost primul lucru pe care a trebuit să-l pun deoparte – că era simpatic, că simpatia era o unealtă pe care o ascuțise șaizeci de ani și că puteam admira tăișul fără să mă tai în el. Ochii lui făceau un lucru pe care l-am recunoscut, pentru că îl fac și eu: făceau inventarul. Palton, mâini, distanța până la terase, înălțimea acoperișului chioșcului, ieșiri. A catalogat piața în timpul cât spui bună dimineața, și apoi mi-a dat toată atenția lui, care e trucul – întâi catalogul, ca atenția de după să pară un dar.
+De aproape era mai bătrân decât mersul lui și mai cald decât îl construisem în minte, și ăsta a fost primul lucru pe care a trebuit să-l pun deoparte – că era simpatic, că simpatia era o unealtă pe care o ascuțise șaizeci de ani și că puteam admira tăișul fără să mă tai în el. Ochii lui făceau un lucru pe care l-am recunoscut, pentru că îl fac și eu: făceau inventarul. Palton, mâini, distanța până la terase, înălțimea acoperișului chioșcului, ieșiri. A catalogat piața în timpul cât spui bună dimineața, și apoi mi-a dat toată atenția lui – și ăsta e trucul: întâi catalogul, ca atenția de după să pară un dar.
 
 — Ați pus oamenii dumneavoastră să mă urmărească prin toată Olanda, am spus. Ați pus o femeie să-mi ofere o bursă de cercetare cu un Mercedes la ralanti în spatele ei. Și acum veniți singur și vorbiți despre sinceritate.
 
@@ -56,7 +56,7 @@ A făcut o pauză.
 
 A fost, recunosc, un discurs bun. Dacă aș fi fost ce credea el că sunt – o emisară, un purtător de cuvânt, marginea cea mai apropiată a unui operator ascuns – ar fi putut fi chiar discursul potrivit. L-a adresat, subtil, dincolo de mine. *Spuneți-i celui care v-a trimis.* N-a spus niciodată cuvintele, dar trăiau sub fiecare propoziție, și le-am lăsat să trăiască acolo, pentru că certitudinea lui că mă trimisese cineva era singurul zid în spatele căruia aveam unde să stau.
 
-Așa că am făcut ce hotărâserăm Jonas și cu mine că voi face, la masa din Bocholtz, cu culorile mișcându-se pe ecran. Am încetat să fiu ușa și am devenit, pentru o clipă, cea care bate.
+Așa că am făcut ce hotărâserăm Jonas și cu mine că voi face, la masa din Bocholtz, cu culorile în mișcare pe ecran. Am încetat să fiu ușa și am devenit, pentru o clipă, cea care bate.
 
 — Înainte să duc ceva cuiva, am spus, aș vrea să știu lângă cine aș sta. Așa că lăsați-mă să vă întreb trei lucruri, și răspundeți-mi cum ați vrea să vă răspundă noul dumneavoastră partener. La lumina zilei. Sincer.
 
@@ -68,7 +68,7 @@ Ceva a pâlpâit în spatele căldurii – interes, și sub interes, prima înco
 
 — În martie, am spus, a existat o prognoză de cădere a rețelei electrice pentru o regiune pe care n-o voi numi în fața teraselor. Anumite poziții au fost luate cu trei zile înainte de o pană care a surprins fiecare model public. Unele dintre pozițiile acelea duc înapoi la oameni care iau cina la masa dumneavoastră.
 
-Mi-am ținut vocea egală, de conversație, o femeie discutând vremea care vine.
+Mi-am ținut vocea egală, de conversație, o femeie care vorbește despre vremea ce vine.
 
 — Vantage a știut că rețeaua va cădea înaintea oamenilor de pe rețeaua aceea?
 
@@ -86,23 +86,23 @@ O mică înclinare grațioasă a capului.
 
 — Sunt sigură. *Unu*, m-am gândit. A doua. E un broker – nu-i voi spune numele, dar îl știți, a zburat Zürich–Amman–Zürich de două ori în aprilie, și compania lui nu produce nimic. Când un embargo e pe cale să aibă scurgeri, scurgerea ajunge la clienții dumneavoastră înainte să ajungă la ministerele care l-au impus?
 
-De data asta a fost o pauză, foarte scurtă, și în pauză l-am privit făcând o aritmetică rapidă și costisitoare – *de unde știe ruta, de unde știe aprilie, de unde știe Amman* – și ajungând, am văzut-o aterizând, la singurul răspuns pe care lumea lui îl permitea: că operatorul din spatele meu ajunsese în locuri pe care el le crezuse sigilate, și că asta era, una peste alta, dovada exact a puterii cu care voia să se împrietenească. Alarma lui și speranța lui erau același fapt, și le-am privit anulându-se una pe alta într-un calm atent.
+De data asta a fost o pauză, foarte scurtă, și în pauză l-am privit cum face o aritmetică rapidă și costisitoare – *de unde știe ruta, de unde știe aprilie, de unde știe Amman* – și cum ajunge, am văzut-o aterizând, la singurul răspuns pe care lumea lui îl permitea: că operatorul din spatele meu ajunsese în locuri pe care el le crezuse sigilate, și că asta era, una peste alta, dovada exact a puterii cu care voia să se împrietenească. Alarma lui și speranța lui erau același fapt, și le-am privit cum se anulează una pe alta într-un calm atent.
 
 — Vând previziune, a spus. Previziunea e legală. Clienții ei nu sunt întotdeauna oameni pe care i-aș invita la cină.
 
 A zâmbit, iar zâmbetul își recăpătase echilibrul.
 
-— Testați dacă vă voi minți. Respect testul. Refuz să mint, ceea ce nu e totuna cu a mărturisi – o distincție pe care bănuiesc că orice stă în spatele dumneavoastră o apreciază mai bine decât cei mai mulți.
+— Testați dacă vă voi minți. Respect testul. Refuz să mint, și asta nu e totuna cu a mărturisi – o distincție pe care bănuiesc că orice stă în spatele dumneavoastră o apreciază mai bine decât cei mai mulți.
 
 *E foarte bun*, a spus Aleph, și n-am putut spune dacă era avertisment sau admirație. *Tocmai ți-a spus nimic părând că nu ascunde nimic. A treia întrebare.*
 
 — A treia, am spus, și pe asta am lăsat-o să vină mai încet, pentru că era cea pe care o voiam cu adevărat, cea pe care Jonas o spusese cu voce tare în bucătărie și după care rămăsese nemișcat. Rețeaua de date de sănătate. Cea care a semnalat o scanare de spital din Amsterdam în august. Accesul acela – a fost construit ca să găsească oameni ca mine? Sau doar s-a întâmplat să mă prindă, cum o plasă construită pentru un lucru prinde altul?
 
-Și aici, pentru prima dată, Conrad Vael a fost cu adevărat surprins, și n-a putut ascunde pe deplin, și a urât că n-a putut – i-am văzut pâlpâirea, repede obturată, recalcularea gonind în spatele ochilor cu o viteză care l-a îmbătrânit cinci ani într-o secundă. Pentru că numisem OLVG. Pentru că a numi OLVG însemna că știam că accesul există, știam că e al lui, știam că e dinaintea mea. Pentru că un lucru pe care îl crezuse unul dintre firele lui cele mai îngropate tocmai îi fusese citit înapoi, la lumina zilei, într-o piață, de o femeie pe care venise s-o recruteze.
+Și aici, pentru prima dată, Conrad Vael a fost cu adevărat surprins, și n-a putut ascunde pe deplin, și a urât că n-a putut – i-am văzut pâlpâirea, repede obturată, recalcularea care gonea în spatele ochilor cu o viteză care l-a îmbătrânit cinci ani într-o secundă. Pentru că numisem OLVG. Pentru că a numi OLVG însemna că știam că accesul există, știam că e al lui, știam că e dinaintea mea. Pentru că un lucru pe care îl crezuse unul dintre firele lui cele mai îngropate tocmai îi fusese citit înapoi, la lumina zilei, într-o piață, de o femeie pe care venise s-o recruteze.
 
 *Acolo*, a spus Aleph, și de data asta era ceva în voce, o fracțiune de sentiment. *Ăsta e lucrul pe care n-a vrut să știe nicio minte de pe pământ că îl are. Ține minte fața lui. Așa arată un secret din exterior.*
 
-— Asta, a spus Conrad, și s-a oprit, și a început din nou, iar revenirea de data asta a fost mai lentă și i-am văzut efortul, e o întrebare la care aș răspunde unui partener, și nu unui străin. Ceea ce e, poate, locul cinstit în care să ne oprim.
+— Asta, a spus Conrad, și s-a oprit, și a început din nou, iar revenirea de data asta a fost mai lentă și i-am văzut efortul, e o întrebare la care aș răspunde unui partener, și nu unui străin. Și ăsta e, poate, locul cinstit în care să ne oprim.
 
 Se adunase; căldura a revenit ca o lumină pe un variator.
 
@@ -122,7 +122,7 @@ A făcut o pauză, și pentru o clipă tacticianul a pus discursul jos și ceva 
 
 — Sper să credeți un lucru, orice ați hotărî. Nu sunt cel mai rău care vine după ce sunteți aproape. S-ar putea să fiu cel mai bun. Ceilalți nu vor propune parteneriat într-o piață publică. Vor sosi pur și simplu.
 
-A spus-o fără amenințare, ca pe un buletin meteo, ceea ce era cumva mai rău decât o amenințare.
+A spus-o fără amenințare, ca pe un buletin meteo – și asta era cumva mai rău decât o amenințare.
 
 — Gândiți-vă cine altcineva se uită. Apoi gândiți-vă la mine.
 
@@ -136,7 +136,7 @@ Mâna lui era caldă și uscată și sigură.
 
 În urechea mea, încet: *Pleacă. Mara pleacă. A treia e încă acolo. Mergi la Jonas – nu repede – și n-o căuta. O am acum.*
 
-Am mers la Jonas, nu repede. Și-a împăturit ziarul nedeschis și s-a ridicat, și mi-a pus mâna la adâncitura spatelui, și am simțit ziua sosindu-mi în genunchi dintr-odată, cum face după, niciodată în timpul.
+Am mers la Jonas, nu repede. Și-a împăturit ziarul nedeschis și s-a ridicat, și mi-a pus mâna pe mijloc, și am simțit cum ziua îmi sosește în genunchi dintr-odată, cum face după, niciodată în timpul.
 
 — Ei? a spus, încet.
 
@@ -158,3 +158,4 @@ Am traversat piața cum traversezi o scenă după cortină – încă în costum
 - Aleph's earpiece lines in italics, tu to Iris.
 - „Până la piața următoare.“ for „Until the next square.“
 - „the way you check a room“ / „the way you cross a stage“ → „cum verifici …“ / „cum traversezi …“.
+- v2 (§9 rewrite): eleven sites — gerunds (fiind, mișcându-se, discutând, făcând/ajungând, anulându-se, gonind, sosindu-mi) → finite / relative / „cu …“; „care e trucul“ and three „ceea ce“ (two in Conrad's speech) → „și ăsta e“ / „și asta“; „adâncitura spatelui“ → „mijloc“ (ch11/35). Address forms, the foresight line, the earpiece italics and „Până la piața următoare.“ untouched. Fidelity audit: no content shift.

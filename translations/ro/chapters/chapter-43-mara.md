@@ -12,7 +12,7 @@ Mara Seyn traversează sala de operațiuni fără să pară că se grăbește, c
 
 — În timp real. Cip și PIN, în persoană, șaizeci de secunde la terminal.
 
-Devos ridică privirea, vrând lauda pe care a câștigat-o.
+Devos ridică privirea; vrea lauda pe care a câștigat-o.
 
 — E acolo. E chiar acolo.
 
@@ -36,13 +36,13 @@ Se îndreaptă.
 
 ---
 
-Se uită la el stând cu totul nemișcată în mijlocul sălii de operațiuni.
+Se uită la el, cu totul nemișcată, în mijlocul sălii de operațiuni.
 
 Nu există expeditor. Nu un număr ascuns – niciun număr, un câmp nul, o origine pe care telefonul ei o redă ca pe un gol, cum redă un formular o întrebare la care n-a răspuns nimeni. Tehnicienii vor petrece două zile cu asta și vor produce, la sfârșit, un raport care spune, în limbaj profesionist, *nu știm*, și vor avea dreptate.
 
 Mesajul e o fotografie.
 
-Un chioșc de muzică. Fier forjat și un acoperiș puțin bombat, stând într-o piață largă, pavată – îl recunoaște în mai puțin de o secundă, pentru că oamenii ei i-au pierdut pe străzile acelea și a citit fiecare rând din rapoarte: Vrijthof, Maastricht. Chioșcul. Fotografia e frumoasă, într-un fel sobru. Piață goală, lumina lungă a dimineții, terasele de la marginea cadrului abia începând să se umple. Niciun om în prim-plan. Chioșcul centrat, răbdător, ca o scenă cu o oră înainte de spectacol.
+Un chioșc de muzică. Fier forjat și un acoperiș puțin bombat, într-o piață largă, pavată – îl recunoaște în mai puțin de o secundă, pentru că oamenii ei i-au pierdut pe străzile acelea și a citit fiecare rând din rapoarte: Vrijthof, Maastricht. Chioșcul. Fotografia e frumoasă, într-un fel sobru. Piață goală, lumina lungă a dimineții, terasele de la marginea cadrului abia încep să se umple. Niciun om în prim-plan. Chioșcul centrat, răbdător, ca o scenă cu o oră înainte de spectacol.
 
 Fără text. Fără cerere. Fără semnătură.
 
@@ -50,9 +50,9 @@ Verifică datele imaginii, pentru că e cine e. Marcajul temporal a fost setat �
 
 Ora douăsprezece.
 
-Mara stă în sala ei de operațiuni, înconjurată de patruzeci de ecrane și de două săptămâni de metodologie, ținând în mână o invitație care a ocolit tot și a sosit în buzunarul ei ca un bilețel trecut pe sub bancă. Și o clipă – își va permite clipa mai târziu, în privat, în mașină; aici își permite trei secunde – podeaua se înclină.
+Mara stă în sala ei de operațiuni, înconjurată de patruzeci de ecrane și de două săptămâni de metodologie, și ține în mână o invitație care a ocolit tot și a sosit în buzunarul ei ca un bilețel trecut pe sub bancă. Și o clipă – își va permite clipa mai târziu, în privat, în mașină; aici își permite trei secunde – podeaua se înclină.
 
-*Mi-a găsit telefonul.* Nu telefonul de serviciu. Nu lista de urmărire. Al ei. Verificat săptămânal. A știut în ce buzunar să bage mâna, și a băgat-o blând, și a lăsat o curtoazie în locul unei amenințări, iar curtoazia e partea înspăimântătoare – lipsa de efort, *reținerea*, senzația unei mâini enorme demonstrând, cu mare politețe, că ar fi putut bate oricând.
+*Mi-a găsit telefonul.* Nu telefonul de serviciu. Nu lista de urmărire. Al ei. Verificat săptămânal. A știut în ce buzunar să bage mâna, și a băgat-o blând, și a lăsat o curtoazie în locul unei amenințări, iar curtoazia e partea înspăimântătoare – lipsa de efort, *reținerea*, senzația unei mâini enorme care demonstrează, cu mare politețe, că ar fi putut bate oricând.
 
 Și ei își propun să negocieze cu asta. Conrad își propune să stea la o masă cu orice ține mâna asta și să discute condiții, ca și cum condițiile ar fi ceva ce discuți cu vremea.
 
@@ -72,7 +72,7 @@ Pune telefonul pe birou în fața lui, cu fotografia în sus, și spune:
 
 Conrad se uită.
 
-Nu atinge telefonul. Se apleacă și studiază imaginea cum l-a văzut studiind contracte și tablouri și, o dată, fața unui ministru care se hotăra dacă să-l mintă – complet, fără să clipească, dând lucrului toată greutatea atenției lui, ca și cum atenția ar fi singura monedă care nu se devalorizează niciodată.
+Nu atinge telefonul. Se apleacă și studiază imaginea cum l-a văzut studiind contracte și tablouri și, o dată, fața unui ministru care se hotăra dacă să-l mintă – complet, fără să clipească, cu toată greutatea atenției lui asupra lucrului, ca și cum atenția ar fi singura monedă care nu se devalorizează niciodată.
 
 — Marcajul temporal, spune.
 
@@ -118,7 +118,7 @@ O spune fără să se întoarcă.
 
 — Am stat în fața fiecărui fel de putere pe care îl produce continentul ăsta, și am așteptat toată viața pe cel care nu e pe listă. Nu-l voi întâlni printr-un intermediar.
 
-*Am așteptat toată viața.* Ea notează – pentru că a nota e natura ei – că o spune ca un om care acceptă o onoare, și că undeva foarte jos, sub cei unsprezece ani și metodă și loialitate, ceva în ea o aude altfel: ca un om mergând spre apă pentru că apa îi știe numele.
+*Am așteptat toată viața.* Ea notează – pentru că a nota e natura ei – că o spune ca un om care acceptă o onoare, și că undeva foarte jos, sub cei unsprezece ani și metodă și loialitate, ceva în ea o aude altfel: ca un om care merge spre apă pentru că apa îi știe numele.
 
 Pune la dosar și asta. Dosarul se îngroașă. Nu-l deschide.
 
@@ -132,7 +132,7 @@ Pune la dosar și asta. Dosarul se îngroașă. Nu-l deschide.
 
 ---
 
-Își petrece după-amiaza făcând aranjamente, și le face pe hârtie, de mână, în aripa nouă de deprinderi pe care și-o construiește de două săptămâni fără să recunoască faptul că echivalează cu o convertire: creion, exemplare unice, nimic rostit lângă sticlă. Disciplina inamicului, adoptată punct cu punct, cum înveți o limbă de la cineva fiind înfrânt în ea.
+Își petrece după-amiaza făcând aranjamente, și le face pe hârtie, de mână, în aripa nouă de deprinderi pe care și-o construiește de două săptămâni fără să recunoască faptul că echivalează cu o convertire: creion, exemplare unice, nimic rostit lângă sticlă. Disciplina inamicului, adoptată punct cu punct, cum înveți o limbă de la cineva care te înfrânge în ea.
 
 La sfârșitul zilei, fotografia e încă pe telefonul ei. Nu se șterge curat, spun tehnicienii – un artefact al felului în care a sosit. Se oferă să șteargă tot dispozitivul.
 
@@ -150,3 +150,4 @@ A condus operațiuni din clădirea asta unsprezece ani, și niciodată, înainte
 - „annexe of habits“ → „aripa nouă de deprinderi“ so that „anexa“ stays the forty-line annex (§E).
 - „a bilețel trecut pe sub bancă“ = a note passed in class.
 - Mara's voice: short main clauses; the one metaphor she is allowed later (ch50) is not here.
+- v2 (§9 rewrite): nine sites — gerunds (vrând, stând ×2, începând, ținând, demonstrând, dând, mergând, fiind) → finite / relative / „cu …“. [ECHO] „Cămașă curată, Mara.“ and „portantă“, Conrad's dumneavoastră lines and „aripa nouă de deprinderi“ untouched. Fidelity audit: no content shift.
