@@ -4,7 +4,7 @@
 
 In der Czaar Peterstraat gab es ein Café, das früh öffnete, und das brauchten wir – einen Ort, an dem man mit einem Kaffee sitzen konnte und der kein Krankenhausflur war, einen Ort, an dem die Stadt unter Beweis stellen konnte, dass sie noch immer ihren Geschäften nachging. Wir fanden es auf dem Weg vom OLVG; Iris ging vorsichtig, das Tempo gab ihr Kopf vor. Sie hatte die Wachsamkeit von jemandem, der sich in einem Körper zurechtfinden muss, der kürzlich bewiesen hat, dass er für Überraschungen gut ist.
 
-Wir nahmen einen Fenstertisch. Draußen: eine Gracht, eine Brücke, das flache Amsterdamer Licht eines Morgens Ende August. Ein Mann radelte vorbei, hinter sich eine Kiste Brot festgeschnallt. Die Stadt, gleichgültig und treu, tat, was sie seit jeher tut – was an diesem Morgen weniger wie Gleichgültigkeit wirkte und mehr wie ein Versprechen.
+Wir nahmen einen Fenstertisch. Draußen: eine Gracht, eine Brücke, das flache Amsterdamer Licht eines Morgens Ende August. Ein Mann radelte vorbei, hinter sich eine Kiste Brot festgeschnallt. Die Stadt, gleichgültig und treu, tat, was sie seit jeher tut – und das wirkte an diesem Morgen weniger wie Gleichgültigkeit und mehr wie ein Versprechen.
 
 Iris legte die Hände um ihren Kaffee. Ich legte meine um meinen. Wir saßen eine Weile, ohne zu sprechen, und das Nichtsprechen trug uns.
 
@@ -109,3 +109,4 @@ Was auch immer als Nächstes kam, die Ausführungsreihenfolge stand fest: Sie zu
 - "sitting with it" (three sites) → „darüber gesessen“ for the night/chair sites (keeps the literal chair), „Ich ließ das sacken“ for the beat after „Genug für ein Muster“.
 - Jonas's "wrong" and Iris's "*something is wrong*" held on one verb, „nicht stimmen“ / „*etwas stimmt nicht*“, so the two speakers share the word as in the English.
 - "I want that on the record" → „Das hätte ich gern fürs Protokoll“ — deliberately the §E 35 „fürs Protokoll“, so Jonas's line pre-echoes ALEPH's record vocabulary. GLOSSARY: canal (Amsterdam, generic) → „Gracht“; the findings → „die Befunde“; alien → „Alien“.
+- v3 (§9 rewrite): one „– was …“ tail re-cut; otherwise the v2 text already sits in German order. Fidelity audit: „Was auch immer das ist.“, „fürs Protokoll“, „Sie zuerst. Das Rätsel danach.“ verbatim.

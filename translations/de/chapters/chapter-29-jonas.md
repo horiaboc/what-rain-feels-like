@@ -147,3 +147,4 @@ Iris sah auf die Karte. Dann auf die Frau. Dann auf mich.
 - GLOSSARY: the Oosterdok → „das Oosterdok“ (am Oosterdok); the Frederiksplein → „der Frederiksplein“; the jetty (the Amsterdam's berth) → „der Steg“ / „Oststeg“; VOC East Indiaman → „Ostindienfahrer der VOC“.
 - Set phrases swapped for German ones of the same size: "hold his ground" → „die Stellung halten“ (both times); "put it out there" → „in den Raum stellen“; "watched both exhibitions" → „behielt beide Ausstellungen im Auge“.
 - The double negative "I'm not going to not tell you" is kept as „nicht nicht sagen“ on purpose — Lektor please leave it.
+- v3 (§9 rewrite): read through, unchanged — the v2 set-phrase swaps already carry the German; „nicht nicht sagen“ stays.

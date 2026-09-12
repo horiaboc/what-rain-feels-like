@@ -34,7 +34,7 @@ Die Maschine machte ihr letztes Geräusch. Die Liege schob mich zurück hinaus i
 
 Sie ließen uns anderthalb Stunden warten.
 
-Jonas füllte die Zeit nicht mit Reden. Er saß neben dem Bett und hielt meine Hand, was das Richtige und das Einzige war, und stellte gelegentlich eine kleine Frage mit kleiner Antwort – warm genug, besser oder schlechter, Wasser? Ich konnte spüren, wie er die größere Frage nicht stellte. Sie saß die ganze Zeit zwischen uns, geduldig wie ein Möbelstück, und ich war dankbar für die Zurückhaltung, auf eine Weise, die ich nicht zu formulieren versuchte.
+Jonas füllte die Zeit nicht mit Reden. Er saß neben dem Bett und hielt meine Hand – das Richtige und das Einzige –, und stellte gelegentlich eine kleine Frage mit kleiner Antwort – warm genug, besser oder schlechter, Wasser? Ich konnte spüren, wie er die größere Frage nicht stellte. Sie saß die ganze Zeit zwischen uns, geduldig wie ein Möbelstück, und ich war dankbar für die Zurückhaltung, ohne zu versuchen, es in Worte zu fassen.
 
 Irgendwann sagte er: „Du musst nicht reden.“
 
@@ -120,7 +120,7 @@ Nach einer Weile sagte er: „Wir finden es heraus.“
 
 ---
 
-Er blieb die Nacht über auf dem Stuhl. Ich glaube nicht, dass er viel schlief. Jedes Mal, wenn ich in den frühen Morgenstunden auftauchte, waren seine Augen offen, und jedes Mal fanden sie meine, und jedes Mal sagte er nichts – sah mich nur an, was die richtige Dosierung war.
+Er blieb die Nacht über auf dem Stuhl. Ich glaube nicht, dass er viel schlief. Jedes Mal, wenn ich in den frühen Morgenstunden auftauchte, waren seine Augen offen, und jedes Mal fanden sie meine, und jedes Mal sagte er nichts – sah mich nur an, und das war die richtige Dosierung.
 
 Am Morgen entließen sie mich. Hinter dem Fenster begann die Stadt ihren gewöhnlichen Tag, das Grachtenlicht blass und exakt. Jonas ging Kaffee suchen, während ich mich anzog, und kam mit zwei Bechern zurück und einem entschuldigenden Gesichtsausdruck, was deren mutmaßliche Qualität betraf, und ich dachte: Was auch immer die Befunde bedeuten, was auch immer kommt – daran halte ich mich fest. Daran. Am Kaffee und am entschuldigenden Blick und an der Hand, die die ganze Nacht in Reichweite blieb.
 
@@ -133,3 +133,4 @@ Wir gingen zusammen hinaus in den Amsterdamer Morgen.
 - "enough to sleep on": German has no "sleep on it" idiom of this shape; kept the mattress image („genug, um darauf zu schlafen“).
 - "the fountain that wasn't" → „Der Brunnen, der keiner war.“
 - "cleared me to leave" → „entließen sie mich“; "the small hours" → „in den frühen Morgenstunden“; "a monitor on my finger" → „ein Clip am Finger“; "a line" → „ein Zugang“.
+- v3 (§9 rewrite): two „, was …“ tails and one „auf eine Weise, die …“ frame re-cut. Fidelity audit: „Was auch immer es ist. Wir finden es heraus.“ (ch26 title source) and „natürlich“ ×3 verbatim; nothing added or dropped.

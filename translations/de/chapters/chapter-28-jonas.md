@@ -6,7 +6,7 @@ Wir fanden den Laden durch Zufall, so wie man in Amsterdam Dinge findet – inde
 
 Ein kleines Café an der Brouwersgracht, beschlagene Scheiben, zusammengewürfelte Stühle und der Geruch von richtigem Kaffee aus einer Maschine, die diese Arbeit schon tat, als noch keiner der Anwesenden auf der Welt war. Wir nahmen einen Ecktisch. Draußen lag die Gracht silbern im Morgenlicht, und zwei Enten trugen einen Revierstreit aus, mit der konzentrierten Energie von Individuen, die sonst nichts im Kalender hatten.
 
-Iris hielt den Kaffee mit beiden Händen und sah aus dem Fenster und sah aus wie sie selbst – was nach den letzten sechsunddreißig Stunden das mit Abstand Wichtigste im Raum war.
+Iris hielt den Kaffee mit beiden Händen und sah aus dem Fenster und sah aus wie sie selbst – und das war nach den letzten sechsunddreißig Stunden das mit Abstand Wichtigste im Raum.
 
 „Wie geht’s dem Kopf?“, fragte ich.
 
@@ -18,11 +18,11 @@ Iris hielt den Kaffee mit beiden Händen und sah aus dem Fenster und sah aus wie
 
 Sie hatte gut geschlafen – richtig, in einem Bett, ohne Monitor am Finger und ohne Schwester, die zur vollen Stunde hereinkam. Ich hatte auch geschlafen, irgendwann, die Wohnung still um uns, die Gracht draußen mit ihrem geduldigen nächtlichen Nichts beschäftigt. Einmal war ich aufgewacht und hatte eine Stunde lang dagelegen, während mir die Befunde von Maes im Kopf kreisten, so wie Gedanken um vier Uhr morgens kreisen, und war an derselben Stelle angekommen wie schon im Krankenhaus: Ich verstand es nicht, ich musste es heute nicht verstehen, und was der Tag von mir verlangte, war Frühstück, gefolgt von Nützlichkeit.
 
-Wir bestellten Eier. Das Brot kam als dunkles Sauerteigbrot mit Butter in einer kleinen Keramikschale, und Iris aß zwei Scheiben, bevor die Eier da waren, was die beruhigendsten Daten waren, die ich in zwei Tagen gesammelt hatte.
+Wir bestellten Eier. Das Brot kam als dunkles Sauerteigbrot mit Butter in einer kleinen Keramikschale, und Iris aß zwei Scheiben, bevor die Eier da waren. Das waren die beruhigendsten Daten, die ich in zwei Tagen gesammelt hatte.
 
 ---
 
-Die Überweisung an die Orthopädie war an diesem Morgen auf ihrem Handy gelandet – ein Termin im Amsterdam UMC, dem Universitätsklinikum, in zwei Tagen. Neurologie noch in Bearbeitung. Was uns den Tag ließ.
+Die Überweisung an die Orthopädie war an diesem Morgen auf ihrem Handy gelandet – ein Termin im Amsterdam UMC, dem Universitätsklinikum, in zwei Tagen. Neurologie noch in Bearbeitung. Das ließ uns den Tag.
 
 „Wir könnten trotzdem zu deinen Orten gehen“, sagte ich. „Wenn du willst. Es spricht nichts dagegen.“
 
@@ -72,7 +72,7 @@ Auf die Sache mit dem Eingang kam sie nicht mehr zurück.
 
 ---
 
-Danach gingen wir nach Süden, an der Amstel vorbei. Sie zeigte mir eine Straße, die sie geliebt hatte, eine Brücke, die sie als Abkürzung genommen hatte, eine Buchhandlung, in die sie zwei- oder dreimal im Semester zurückgekehrt war. In die Buchhandlung ging sie hinein und verbrachte zwanzig Minuten damit, Rückseiten zu lesen, während ich vor einem Regal mit Architekturbüchern stand, die ich nicht zu kaufen gedachte, was mich keine Minute lang störte.
+Danach gingen wir nach Süden, an der Amstel vorbei. Sie zeigte mir eine Straße, die sie geliebt hatte, eine Brücke, die sie als Abkürzung genommen hatte, eine Buchhandlung, in die sie zwei- oder dreimal im Semester zurückgekehrt war. In die Buchhandlung ging sie hinein und verbrachte zwanzig Minuten damit, Rückseiten zu lesen, während ich vor einem Regal mit Architekturbüchern stand, die ich nicht zu kaufen gedachte, und das störte mich keine Minute lang.
 
 Als wir herauskamen, stand der Mann im dunklen Mantel am anderen Ende der Straße.
 
@@ -127,3 +127,4 @@ Draußen tat die Gracht, was Grachten tun, nämlich in Bewegung bleiben und stil
 - "That's the bar we're clearing / It's a reasonable bar" → Messlatte exchange; "Might just be wrong / Might be" → „Ich könnte mich einfach irren“ / „Könntest du“.
 - "the eye logging a shape and filing no report" → „registriert … schreibt keinen Bericht“; avoided „Meldung“ (reserved for ch27's flag).
 - Genitives: „Iris’ Kopf“ (German apostrophe rule); "Maes's findings" rebuilt as „die Befunde von Maes“.
+- v3 (§9 rewrite): four „, was …“ tails re-cut („und das war …“ / „Das waren die beruhigendsten Daten“ / „Das ließ uns den Tag.“ / „und das störte mich keine Minute lang“). Fidelity audit: „Wir notieren es. Wir machen weiter.“ and „die Schublade ohne Etikett“ verbatim; nothing added or dropped.

@@ -37,3 +37,4 @@ Sie nimmt das Tablet und geht. Die Tür schließt sich. Der Verkehr auf der Rue 
 - GLOSSARY: monitoring layer → „Monitoring-Schicht“; node → „Knoten“; the hospital's own flag is „markiert“ so that „Meldung“ stays Vantage's word (§E 67).
 - "uninformed" → „uninformiert“ (Duden) keeps the deadpan of traffic that was not briefed; "going about its ordinary business" → „geht … seinen gewöhnlichen Geschäften nach“, „gewöhnlich“ as in ch23's „gewöhnlich und vollständig“.
 - "upstairs" → „nach oben“, which carries both the floor and the hierarchy.
+- v3 (§9 rewrite): read through, unchanged (twelve lines, camera register).

@@ -107,3 +107,4 @@ Und so kam es, dass wir unseren letzten Tag in Amsterdam im OLVG verbrachten sta
 - "the doctor" (gender unstated in English) rendered „der Arzt“; align with ch25 if the OLVG doctor is named or female there.
 - In-chapter echo held verbatim at both ends: „die, die auf keiner Karte steht“ (tour line) / „die, die auch auf keiner Karte steht“ (close, „auch“ for "either").
 - "I'll call." / "He called." kept bare („Ich rufe an.“ / „Er rief an.“) rather than adding „den Krankenwagen“.
+- v3 (§9 rewrite): read through, unchanged — the v2 text already carries the German sentence order; the wall/„Rechnung, die nicht aufgeht“ images stand.
