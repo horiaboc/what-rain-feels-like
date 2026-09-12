@@ -6,7 +6,7 @@ Drei Wochen nach dem Café fand ich den Artikel.
 
 Nicht absichtlich – ich las eine Reportage über die Resilienz von Küsteninfrastruktur, und er tauchte in einer Seitenleiste auf; so kommt das meiste an, was am Ende zählt. *Meridian. Iris Jacobs.* Ein Text über Radinfrastruktur und kommunale Rechenschaft in sechs europäischen Hauptstädten. Ich las ihn, wie man etwas liest, das unerwartet gut ist: langsam, und dann noch einmal.
 
-Er war sorgfältig gearbeitet. Ihre Recherche machte nicht auf sich aufmerksam – nach meiner Erfahrung die schwierigste Art zu recherchieren. Der Text hatte eine These und Belege, die diese These tatsächlich stützten, was seltener vorkommt, als es sich gehört. Sie hatte die Lücke gefunden zwischen dem, was Städte maßen, und dem, was sie *nach außen hin* gemessen haben mussten – eine feinere und ehrlichere Beobachtung, als die meisten Leute überhaupt anstellen –, und sie hatte es aufgeschrieben, ohne es je in diesen Worten zu sagen, was die schwierigere Variante ist, und die bessere.
+Er war sorgfältig gearbeitet. Ihre Recherche machte nicht auf sich aufmerksam – nach meiner Erfahrung die schwerste Form von Recherche. Der Text hatte eine These und Belege, die diese These tatsächlich stützten, was seltener vorkommt, als es sich gehört. Sie hatte die Lücke gefunden zwischen dem, was Städte maßen, und dem, was sie *nach außen hin* gemessen haben mussten – eine feinere und ehrlichere Beobachtung, als die meisten Leute überhaupt anstellen –, und sie hatte es aufgeschrieben, ohne es je in diesen Worten zu sagen. Das ist die schwierigere Variante, und die bessere.
 
 Über die Autorenzeile hinaus sah ich nicht nach, wer sie war. Sie ist Journalistin bei einer Publikation in Berlin, und ich weiß jetzt, wie man ihre Arbeit liest; aus keiner der beiden Tatsachen ergibt sich Handlungsbedarf. Ich schloss den Tab.
 
@@ -28,7 +28,7 @@ Sie hatte nicht unrecht. Ich war mir nicht sicher, was.
 
 Am zweiten Dienstag im Dezember ging ich in die Pannierstraße.
 
-Ich hatte außerhalb des Büros zu tun – wie an den meisten Tagen, weshalb die Wahl des Ortes keiner Erklärung bedurfte, auch mir selbst gegenüber nicht, was mir gelegen kam. Ich kam um zehn nach neun. Reza stand hinter dem Tresen; er sah mich hereinkommen und wandte sich der Maschine zu, bevor ich mich gesetzt hatte. Die hinteren Tische waren besetzt, also ließ ich mich am Fenster nieder, was eine andere Anordnung war als im November.
+Ich hatte außerhalb des Büros zu tun – wie an den meisten Tagen, weshalb die Wahl des Ortes keiner Erklärung bedurfte, auch mir selbst gegenüber nicht. Das kam mir gelegen. Ich kam um zehn nach neun. Reza stand hinter dem Tresen; er sah mich hereinkommen und wandte sich der Maschine zu, bevor ich mich gesetzt hatte. Die hinteren Tische waren besetzt, also ließ ich mich am Fenster nieder – eine andere Anordnung als im November.
 
 Sie war nicht da.
 
@@ -71,3 +71,4 @@ Ich erwartete es auch nicht nicht.
 - "I wasn't not expecting it, either." kept as the stacked negative „auch nicht nicht“ on purpose; the strangeness is the joke.
 - "shipped" (software) → „ging raus“, Berlin dev speech, rather than „wurde ausgeliefert“; GLOSSARY: failure mode → „Fehlermodus“.
 - "needed to *appear* to have measured": the emphasis italics moved to „nach außen hin“, the German phrase that carries the appearance/reality split.
+- v3 (§9 rewrite): three trailing „, was …“ afterthoughts opened as their own sentences or a dash („Das ist die schwierigere Variante, und die bessere.“ / „Das kam mir gelegen.“ / „– eine andere Anordnung als im November“); „die schwierigste Art zu recherchieren“ → „die schwerste Form von Recherche“. Fidelity audit: nothing added or dropped; „die Schublade, die ich noch nicht beschriftet habe“ and the stacked negative kept verbatim.

@@ -8,7 +8,7 @@ Die Kaffeemaschine macht immer noch dieses Geräusch – den kleinen Seufzer unt
 
 Diogenes hat meine Erwartungen, meine zeitweilige Vernachlässigung und einen sehr trockenen August überdauert und hält seinen Platz auf der Fensterbank mit der Würde von etwas, das vor langer Zeit beschlossen hat, von niemandem etwas zu brauchen. Sechs Jahre. Wenn überhaupt, wirkt er distinguierter. Wir sind zu einer Übereinkunft gelangt.
 
-Draußen: wieder November. Das Fahrrad im Hof hat inzwischen zwei platte Reifen. Der vordere machte irgendwann im Frühjahr schlapp – ich bemerkte es eines Morgens vom Fenster aus und dachte dann bis zum Herbst nicht mehr daran, und bis dahin hatte das Rad eine Neigung entwickelt und der Lenker zu rosten begonnen. Es steht lange genug dort, dass ich es nicht mehr für ein herrenloses Fahrrad halte. Es gehört zum Hof, wie der Baum.
+Draußen: wieder November. Das Fahrrad im Hof hat inzwischen zwei platte Reifen. Der vordere machte irgendwann im Frühjahr schlapp – ich bemerkte es eines Morgens vom Fenster aus und dachte dann bis zum Herbst nicht mehr daran. Da hatte das Rad schon Schlagseite, und der Lenker hatte Rost angesetzt. Es steht lange genug dort, dass ich es nicht mehr für ein herrenloses Fahrrad halte. Es gehört zum Hof, wie der Baum.
 
 Um Viertel nach sieben geht Claudia. Um halb acht kommt sie zurück und holt, was sie vergessen hat.
 
@@ -50,7 +50,7 @@ Um Viertel nach fünf hatte ich das Scoring-Modell fertig, schrieb die Dokumenta
 
 Heute Abend kochte ich zum ersten Mal in dieser Woche richtig – etwas Langsames, etwas, das Aufmerksamkeit verlangt, ein Gericht, das die gute Pfanne rechtfertigt. Während die Zwiebeln glasig wurden, stand ich an der Arbeitsplatte und dachte an nichts Bestimmtes, eine Fähigkeit, an der ich mit mäßigem Erfolg arbeite.
 
-Nach dem Essen öffnete ich die Nachrichten. Dürrenotstand am Horn von Afrika – *saisonale Störung*, hieß es, *im Einklang mit den Prognosen*, was man heute sagt, statt zu sagen, dass es schlimm ist und schlimmer wird. Die Fotos von vor Ort legten nahe, dass beide Formulierungen mehr leisten mussten, als sie sollten. Ich schloss den Tab. Ich überlegte, ihn wieder zu öffnen. Ich tat es nicht.
+Nach dem Essen öffnete ich die Nachrichten. Dürrenotstand am Horn von Afrika – *saisonale Störung*, hieß es, *im Einklang mit den Prognosen*, was man heute sagt, statt zu sagen, dass es schlimm ist und schlimmer wird. Die Fotos von vor Ort legten nahe, dass beide Formulierungen mehr tragen mussten, als ihnen zuzumuten war. Ich schloss den Tab. Ich überlegte, ihn wieder zu öffnen. Ich tat es nicht.
 
 Ich versuche seit einiger Zeit, den Unterschied zwischen Tragen und Halten zu lernen. Ich bin nicht sicher, ob ich ihn schon habe. Aber ich spüre inzwischen, dass die beiden Wörter Verschiedenes bedeuten wollen, und vielleicht fängt Lernen da an.
 
@@ -89,3 +89,4 @@ Ich brauchte es nicht.
 - "even when it doesn't feel like one" (normal as a choice) → „auch wenn es einem nicht so vorkommt“ per §A: casual *feel like* is not the motif, *sich anfühlen* stays reserved.
 - Tech loanwords kept in Jonas's mouth: Scoring-Modell, Debugging-Sessions, Review, Kundencalls, Accounts, Tab, Gradienten (also the ML sense of "gradients").
 - GLOSSARY: "carrying something / holding it" → „Tragen / Halten“ (sits beside §E 51 „tragend“); "archive of deleted true sentences" → „Archiv gelöschter wahrer Sätze“.
+- v3 (§9 rewrite): the „und bis dahin hatte … entwickelt und … begonnen“ chain cut into its own sentence („Da hatte das Rad schon Schlagseite, und der Lenker hatte Rost angesetzt.“); „mehr leisten mussten, als sie sollten“ (a calque of *working harder than they should have to*) → „mehr tragen mussten, als ihnen zuzumuten war“. Fidelity audit: nothing added or dropped; fixed lines verbatim.

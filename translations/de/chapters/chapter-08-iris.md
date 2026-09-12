@@ -4,9 +4,9 @@
 
 Der Mantel war das Erste, was ich richtig hinbekam.
 
-Drei Monate in Berlin, bevor ich einen fand, der dem Winter dieser Stadt gewachsen war – der nicht feucht ist wie der Amsterdamer, sondern entschieden, eine Kälte, die etwas von einem erwartet und bemerkt, ob man sich vorbereitet hat. Der Mantel, den ich seit Oktober getragen hatte, war angemessen, und angemessen ist nicht richtig. In der zweiten Januarwoche fand ich den richtigen in einem Secondhandladen in der Karl-Marx-Straße: anthrazitgraue Wolle, tailliert, ohne darauf zu bestehen, lang genug, um es ernst zu meinen. Ich probierte ihn an, und die Sache war auf der Stelle entschieden. Manche Dinge sind so. Die meisten nicht, was diejenigen, die es sind, so erholsam macht.
+Drei Monate in Berlin, bevor ich einen fand, der dem Winter dieser Stadt gewachsen war – der nicht feucht ist wie der Amsterdamer, sondern entschieden, eine Kälte, die etwas von einem erwartet und bemerkt, ob man sich vorbereitet hat. Der Mantel, den ich seit Oktober getragen hatte, war angemessen, und angemessen ist nicht richtig. In der zweiten Januarwoche fand ich den richtigen in einem Secondhandladen in der Karl-Marx-Straße: anthrazitgraue Wolle, tailliert, ohne darauf zu bestehen, lang genug, um es ernst zu meinen. Ich probierte ihn an, und die Sache war auf der Stelle entschieden. Manche Dinge sind so. Die meisten nicht. Gerade das macht die, die es sind, so erholsam.
 
-Das Fahrrad kam am Donnerstag darauf – ebenfalls gebraucht, ein Batavus-Rahmen von etwa 2019, gute Geometrie, Bremsen, die sich überreden lassen mussten. Ich überredete sie an einem kalten Nachmittag im Hof meines Hauses, mit dem Grundwerkzeug, das ich aus Amsterdam mitgebracht hatte, und der tiefen Befriedigung, etwas wieder in den Zustand zu versetzen, in dem es funktionieren sollte. Mein Nachbar von unten sah eine Weile vom Hauseingang aus zu und sagte nichts, was ich als Zustimmung auffasste. In dieser Stadt ist es das meistens.
+Das Fahrrad kam am Donnerstag darauf – ebenfalls gebraucht, ein Batavus-Rahmen von etwa 2019, gute Geometrie, Bremsen, die sich überreden lassen mussten. Ich überredete sie an einem kalten Nachmittag im Hof meines Hauses, mit dem Grundwerkzeug, das ich aus Amsterdam mitgebracht hatte, und der tiefen Befriedigung, etwas wieder in den Zustand zu versetzen, in dem es funktionieren sollte. Mein Nachbar von unten sah eine Weile vom Hauseingang aus zu und sagte nichts. Ich nahm es als Zustimmung. In dieser Stadt ist es das meistens.
 
 Danach wurde Berlin navigierbar. Nicht meins – eine Stadt braucht länger als drei Monate, bis sie einem gehört – aber handhabbar, so wie jeder Ort handhabbar wird, sobald man sich im eigenen Tempo durch ihn bewegen kann statt in seinem.
 
@@ -14,7 +14,7 @@ Danach wurde Berlin navigierbar. Nicht meins – eine Stadt braucht länger als 
 
 Im Januar waren die Dienstagmorgen in der Pannierstraße zu einem Rhythmus geworden.
 
-Reza kennt meine Bestellung. Der hintere Tisch an der Wand ist nicht immer frei, aber ich habe gelernt, dass es die Wahrscheinlichkeit erhöht, vor halb zehn da zu sein. Ich breite meine Notizen aus, ich arbeite ab, was ich gerade abarbeite, und niemand fragt mich etwas, außer ob ich einen zweiten Kaffee möchte, was die richtige Frage ist und nur eine Antwort hat.
+Reza kennt meine Bestellung. Der hintere Tisch an der Wand ist nicht immer frei, aber ich habe gelernt, dass es die Wahrscheinlichkeit erhöht, vor halb zehn da zu sein. Ich breite meine Notizen aus, ich arbeite ab, was ich gerade abarbeite, und niemand fragt mich etwas, außer ob ich einen zweiten Kaffee möchte. Das ist die richtige Frage, und sie hat nur eine Antwort.
 
 Der Fahrradtext erschien im Dezember – ein guter Text, finde ich. Die Resonanz war bescheiden und verhältnismäßig: einige Aufmerksamkeit aus der Branche, ein langer Thread von einem Kopenhagener Interessenverband, zwei Briefe. Für einen Text dieser Art sieht Erfolg so aus, und ich verbuche es als Erfolg.
 
@@ -54,7 +54,7 @@ Ich hatte den Transparenztext erwähnt, als er fragte, was ich lese – einen ko
 
 „Ich denke über das nach, was ich sehe.“ Er überlegte. „Die Lieferkette ist eine Version der Frage. Wie zieht man etwas Unsichtbares zur Rechenschaft. Wie weiß man, ob ein System tut, was es zu tun behauptet.“ Eine Pause. „Das Problem ist dasselbe. Die Branche ist eine andere.“
 
-Ich schrieb das in mein Notizbuch und sagte ihm, dass ich es tat. Er fand das komisch, auf eine Art, die nahelegte, dass es auch ein wenig stimmte.
+Ich schrieb das in mein Notizbuch und sagte ihm, dass ich es tat. Er fand das komisch – so komisch, wie Dinge sind, die auch ein wenig stimmen.
 
 Sein Name war Jonas.
 
@@ -76,7 +76,7 @@ Ich hatte zwei Karten für eine Dokumentarfilmvorführung – eine Presseveranst
 
 Einem Kollegen hatte ich ihn noch nicht gegeben.
 
-Ich bin nicht sicher, wann ich beschloss, ihn stattdessen Jonas anzubieten. Irgendwo im Gespräch war es zum logischen nächsten Schritt geworden – nicht konstruiert, einfach die Fortsetzung eines Gesprächs, das noch keinen natürlichen Punkt zum Aufhören gefunden hatte. Er kannte das Thema. Es war ihm wichtig, auf die Weise, die keiner Ankündigung bedarf.
+Ich bin nicht sicher, wann ich beschloss, ihn stattdessen Jonas anzubieten. Irgendwo im Gespräch war es zum logischen nächsten Schritt geworden – nicht konstruiert, einfach die Fortsetzung eines Gesprächs, das noch keinen natürlichen Punkt zum Aufhören gefunden hatte. Er kannte das Thema. Es war ihm wichtig, ohne dass er es ankündigen musste.
 
 „Es ist eine Presseveranstaltung“, sagte ich. „Danach Podiumsdiskussion. Es könnte lang werden.“
 
@@ -92,7 +92,7 @@ Er sah sich die Angaben an, die ich an den Rand einer Notizbuchseite geschrieben
 
 Ich ging am Kanal entlang nach Hause. Den langen Weg, wie ich bemerkte – länger als nötig, der Januarabend zu scharf, um trostlos zu sein, und zu klar, als dass er gerechtfertigt hätte, direkt hineinzugehen.
 
-Ich dachte über das Gespräch nach und notierte, was ich dachte: dass es leicht gewesen war, was nicht das Übliche ist. Die meisten Gespräche laufen auf einer ausgehandelten Struktur – einer unausgesprochenen Vereinbarung darüber, wer führt, wer folgt, was als gute Antwort gilt. Dieses nicht sonderlich. Es war gegangen, wohin es ging, und hatte aufgehört, als es fertig war, und beides war von selbst geschehen.
+Ich dachte über das Gespräch nach und notierte, was ich dachte: dass es leicht gewesen war. Das ist nicht das Übliche. Die meisten Gespräche laufen auf einer ausgehandelten Struktur – einer unausgesprochenen Vereinbarung darüber, wer führt, wer folgt, was als gute Antwort gilt. Dieses nicht sonderlich. Es war gegangen, wohin es ging, und hatte aufgehört, als es fertig war, und beides war von selbst geschehen.
 
 Ich dachte: Ich bin froh, dass er Ja gesagt hat.
 
@@ -112,3 +112,4 @@ Ich blätterte um.
 - Sie until the names are exchanged; first du is „Du hast nichts gesagt.“ directly after, per NOTES §B.
 - English leaves the downstairs neighbour and the colleague ungendered; German forced a choice, generic masculine used („Mein Nachbar von unten“, „einem Kollegen“).
 - "a profile of … initiatives" → „eine Bestandsaufnahme“ („Porträt“ is reserved for people in German newsroom usage).
+- v3 (§9 rewrite): four trailing „, was …“ afterthoughts opened as their own sentences; „auf eine Art, die nahelegte“ and „auf die Weise, die keiner Ankündigung bedarf“ frames re-cut („so komisch, wie Dinge sind, die auch ein wenig stimmen“ / „ohne dass er es ankündigen musste“). Fidelity audit: nothing added or dropped; Sie/du switch and the „Zeitskala“ callback intact.

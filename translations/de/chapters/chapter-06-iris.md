@@ -4,7 +4,7 @@
 
 In der Ecke des Cafés in der Pannierstraße hängt ein Fernseher, nach dem niemand gefragt hat und den niemand ausschaltet.
 
-Ich gehe dienstagmorgens hin, weil die Tische an der Rückwand breit genug sind, um Notizen darauf auszubreiten, weil der Kaffee verlässlich gut ist und weil der Besitzer – ein kompakter Mann namens Reza, der mit der gebündelten Energie eines Menschen auftritt, der seit vier Uhr wach ist und vorhat, alle anderen zu überdauern – nie fragt, ob man noch etwas möchte, sobald man sich eingerichtet hat. Zwei Dienstage, und er kennt meine Bestellung schon, bevor ich mit dem Hinsetzen fertig bin. Wir sind zu einer Verständigung Berliner Art gelangt: knapp, unausgesprochen, vollkommen ausreichend.
+Ich gehe dienstagmorgens hin, weil die Tische an der Rückwand breit genug sind, um Notizen darauf auszubreiten, weil der Kaffee verlässlich gut ist und weil der Besitzer – ein kompakter Mann namens Reza, der mit der gebündelten Energie eines Menschen auftritt, der seit vier Uhr wach ist und vorhat, alle anderen zu überdauern – nie fragt, ob man noch etwas möchte, sobald man sich eingerichtet hat. Zwei Dienstage, und er kennt meine Bestellung schon, bevor ich richtig sitze. Wir sind zu einer Verständigung Berliner Art gelangt: knapp, unausgesprochen, vollkommen ausreichend.
 
 Im Fernseher laufen die Nachrichten. Ton leise, nicht aus – genug, um die Tonlage einer Stimme mitzubekommen, aber nicht die Worte. Ich sehe nicht hin. Ich arbeite meine Notizen zur Fahrradinfrastruktur durch, denke über den Abstand nach zwischen dem, was eine Stadt baut, und dem, was sie beabsichtigt, und trinke einen zweiten Kaffee aus.
 
@@ -16,7 +16,7 @@ Der Mann zwei Tische weiter gibt einen Laut von sich.
 
 Kein Wort, nicht ganz. Eher die Form, die ein Wort annimmt, kurz bevor es beschließt, doch nicht zu gehen – ein Ausatmen mit Absicht, angehalten, bevor es irgendwo ankommt. Ich sehe hinüber.
 
-Er sieht auf den Bildschirm. Um die dreißig, dunkle Jacke, vor ihm ein aufgeklappter Laptop, den er ganz offensichtlich nicht mehr sieht. Sein Ausdruck ist kein Schock. Es ist etwas, das dem Schock vor langer Zeit entwachsen ist und sich stattdessen im Körper niedergelassen hat – ein Gewicht, so lange getragen, dass es Teil davon geworden ist, wie der Mann sitzt. Es zeigt sich so, wie Gewicht sich irgendwann immer zeigt: nicht als Last, sondern als Haltung.
+Er sieht auf den Bildschirm. Um die dreißig, dunkle Jacke, vor ihm ein aufgeklappter Laptop, den er ganz offensichtlich nicht mehr sieht. Sein Ausdruck ist kein Schock. Es ist etwas, das dem Schock vor langer Zeit entwachsen ist und sich stattdessen im Körper niedergelassen hat – ein Gewicht, so lange getragen, dass es in sein Sitzen eingegangen ist. Es zeigt sich so, wie Gewicht sich irgendwann immer zeigt: nicht als Last, sondern als Haltung.
 
 Er bemerkt, dass ich es bemerke.
 
@@ -32,7 +32,7 @@ Er sieht mich an – ein Augenblick der Neukalibrierung. Er hatte keine Antwort 
 
 Er nickt. Nicht dem Medium – ich glaube nicht, dass er es kennt –, sondern der Kategorie Mensch, die die zweite Zahl parat hat. Eine Anerkennung, von einem, der zählt, zu einer, die zählt.
 
-„Und Sie?“, sage ich. Etwas an der Art seiner Aufmerksamkeit ließ mich fragen.
+„Und Sie?“, sage ich. Etwas an seiner Aufmerksamkeit ließ mich fragen.
 
 Er denkt kurz darüber nach – über die Frage, oder vielleicht über die ehrliche Antwort darauf.
 
@@ -56,7 +56,7 @@ Ich sage danke und kehre zu meinen Notizen zurück.
 
 Wir sprechen kein zweites Mal.
 
-Er bleibt. Ich sehe zu, wie er sich wieder in seine Arbeit einfindet – die bewusste Art, in der die Konzentration zurückkehrt, wenn jemand etwas Schweres abgesetzt und stattdessen etwas Handhabbares aufgenommen hat. Ein eingeübter Übergang. Ich notiere es, wie ich die meisten Dinge notiere: zuerst als Daten, dann als etwas, das später von Bedeutung sein könnte.
+Er bleibt. Ich sehe zu, wie er sich wieder in seine Arbeit einfindet – wie die Konzentration zurückkehrt, bewusst, wenn jemand etwas Schweres abgesetzt hat und stattdessen etwas Handhabbares aufnimmt. Ein eingeübter Übergang. Ich notiere es, wie ich die meisten Dinge notiere: zuerst als Daten, dann als etwas, das später von Bedeutung sein könnte.
 
 Ich erfahre seinen Namen nicht. Er fragt nicht nach meinem.
 
@@ -83,3 +83,4 @@ Ich bin mir nicht sicher, warum ich so viel über einen Fremden aufgeschrieben h
 - The English slips into past tense inside present narration ("made me ask", "I understood this in two ways") — kept as Präteritum, not smoothed. Last line uses Perfekt („aufgeschrieben habe“) because it is a just-completed act inside present narration, not narrative past.
 - "note it, move on" → „notieren, weitermachen“ so it sits beside the ch28/33 echo „Wir notieren es. Wir machen weiter.“ / „Notieren. Weitermachen.“
 - GLOSSARY: "timescale" → „Zeitskala“ (both Iris's line and Jonas's „Viel Glück mit der Zeitskala“); "the long way" → „Den langen Weg.“ kept as a fragment.
+- v3 (§9 rewrite): „bevor ich mit dem Hinsetzen fertig bin“ → „bevor ich richtig sitze“; „Teil davon geworden ist, wie der Mann sitzt“ → „in sein Sitzen eingegangen ist“; „die Art seiner Aufmerksamkeit“ (quality-of calque) → „seiner Aufmerksamkeit“; „die bewusste Art, in der …“ frame → „wie die Konzentration zurückkehrt, bewusst, …“. Fidelity audit: §C site and „Gleiches Muster. Andere Koordinaten.“ verbatim; nothing added or dropped.

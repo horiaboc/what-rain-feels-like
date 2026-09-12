@@ -14,7 +14,7 @@ Ich sagte Ja.
 
 Ich kam zwanzig Minuten zu spät, was immer noch früh war.
 
-Sie fand mich an der Tür, bevor ich richtig drin war – sie hatte nach mir Ausschau gehalten, das verstand ich, auch wenn sie es nicht sagte. Dunkles Kleid. Den guten Mantel über dem Arm. Die Haare offen, was ich noch nie gesehen hatte und woran ich in den nächsten zwei Stunden einen unverhältnismäßig großen Teil der Zeit damit verbrachte, nicht zu denken.
+Sie fand mich an der Tür, bevor ich richtig drin war – sie hatte nach mir Ausschau gehalten, das verstand ich, auch wenn sie es nicht sagte. Dunkles Kleid. Den guten Mantel über dem Arm. Die Haare offen. Das hatte ich noch nie gesehen, und ich verbrachte dann einen unverhältnismäßig großen Teil der nächsten zwei Stunden damit, nicht daran zu denken.
 
 „Du bist gekommen“, sagte sie.
 
@@ -44,7 +44,7 @@ Dann war sie neben mir.
 
 „Wenn du still wirst und etwas weit Entferntes ansiehst. Das machst du, wenn du dich neu sortieren musst.“
 
-Sie hatte das bemerkt. Ich hatte nicht bemerkt, dass sie es bemerkt hatte, was hieß, dass meine Fenstersache jetzt eine Zeugin hatte, und – ich prüfte es – es machte mir nichts aus.
+Sie hatte das bemerkt. Ich hatte nicht bemerkt, dass sie es bemerkt hatte. Also hatte meine Fenstersache jetzt eine Zeugin, und – ich prüfte es – es machte mir nichts aus.
 
 „Bram hatte Ansichten“, sagte ich.
 
@@ -52,7 +52,7 @@ Sie hatte das bemerkt. Ich hatte nicht bemerkt, dass sie es bemerkt hatte, was h
 
 „Frag mich am Ende“, sagte ich. „Dann habe ich bessere Daten.“
 
-Sie lächelte darüber, was meine Daten auf der Stelle verbesserte.
+Sie lächelte darüber. Das verbesserte meine Daten auf der Stelle.
 
 ---
 
@@ -80,11 +80,11 @@ Sie war nah. Die Luft war kalt, und das Licht aus den Fenstern war warm, und sie
 
 Ich küsste sie im Regen vor Lukas’ Wohnung, am letzten Freitag im März.
 
-Sie küsste mich zurück, was der einzige Datenpunkt war, der zählte, damals wie seither.
+Sie küsste mich zurück. Das war der einzige Datenpunkt, der zählte, damals wie seither.
 
 ---
 
-Wir gingen zur Schönhauser Allee und nahmen zusammen die U2 nach Süden, in jenem besonderen Schweigen zweier Menschen, die gerade etwas verändert haben und dabei sind zu entscheiden, wie sie es halten. Sie saß neben mir, und unsere Schultern berührten sich, wie sich Schultern in einem Waggon berühren, was gewöhnlich ist – nur dass an der vergangenen Stunde nichts gewöhnlich war, und die Schulter wusste es.
+Wir gingen zur Schönhauser Allee und nahmen zusammen die U2 nach Süden, in jenem besonderen Schweigen zweier Menschen, die gerade etwas verändert haben und dabei sind zu entscheiden, wie sie es halten. Sie saß neben mir, und unsere Schultern berührten sich, wie sich Schultern in einem Waggon berühren. Das ist gewöhnlich – nur dass an der vergangenen Stunde nichts gewöhnlich war, und die Schulter wusste es.
 
 Am Gleisdreieck sah sie mich an.
 
@@ -109,3 +109,4 @@ Er wandte sich wieder dem Fenster zu. Manche Daten sprechen für sich.
 - "filing and returning to" → „ablegte und wieder hervorholte“ (glossary 50, ablegen).
 - "the small of her back" → „die kleine Kuhle ihres Rückens“; "no previous record" → „keinen früheren Eintrag“ (Jonas's log idiom, not ALEPH's Protokoll).
 - Bram is "a structural engineer" → „Bauingenieur“ (Statiker would be narrower); "the window thing" → „die Fenstersache“, held for Iris's two lines.
+- v3 (§9 rewrite): the ungrammatical „woran ich … damit verbrachte“ tail rebuilt („und ich verbrachte dann … damit, nicht daran zu denken“); four trailing „, was …“ afterthoughts opened as sentences („Das verbesserte meine Daten auf der Stelle.“ / „Das war der einzige Datenpunkt, der zählte“ / „Das ist gewöhnlich –“ / „Also hatte meine Fenstersache jetzt eine Zeugin“). Fidelity audit: the ch09 echo and the rain line verbatim; nothing added or dropped.
