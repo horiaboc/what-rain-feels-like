@@ -4,11 +4,11 @@
 
 Sie schlug einen Spaziergang vor.
 
-Es war ein vernünftiger Vorschlag – offenes Gelände, öffentlich, ein Gespräch, das sich ohne Wände besser sitzt. Ich erkannte die Logik und sagte nichts darüber, dass ich sie erkannte. Iris nahm die Karte und reichte sie mir. Wir gingen.
+Es war ein vernünftiger Vorschlag – offenes Gelände, öffentlich, ein Gespräch, das ohne Wände besser läuft. Ich erkannte die Logik und sagte nichts darüber, dass ich sie erkannte. Iris nahm die Karte und reichte sie mir. Wir gingen.
 
 Der Wertheimpark ist ein kurzer Weg vom Scheepvaartmuseum – klein, von Bäumen gesäumt, ein Park, der für sein Viertel existiert und nicht für Besucher. Mara kannte den Weg, ohne irgendetwas zurate zu ziehen.
 
-Ich las die Karte im Gehen. *Mara Seyn.* Ein Titel: Director of Research Operations. Eine Firma: Arcturus Biomedical Research. Eine Brüsseler Adresse, eine Telefonnummer und sonst nichts – keine Website, keine E-Mail. Schwerer cremefarbener Karton, einer, der Geld kostet in der Herstellung, ohne so auszusehen, als hätte er etwas gekostet.
+Ich las die Karte im Gehen. *Mara Seyn.* Ein Titel: Director of Research Operations. Eine Firma: Arcturus Biomedical Research. Eine Brüsseler Adresse, eine Telefonnummer und sonst nichts – keine Website, keine E-Mail. Schwerer cremefarbener Karton, einer, der in der Herstellung Geld kostet, ohne so auszusehen, als hätte er etwas gekostet.
 
 Ich steckte sie in die Tasche. Solche Karten sind dazu gedacht, aufgehoben zu werden. Ich hatte vor, sie zu enttäuschen.
 
@@ -56,7 +56,7 @@ Wir hatten das ferne Ende des Hauptwegs erreicht – den Teich hinter uns, den R
 
 Mara nickte. Sie hatte genau das erwartet; man konnte sehen, wie die Erwartung erfüllt wurde wie ein Punkt auf einer Liste. „Natürlich. Nehmen Sie sich alle Zeit, die Sie brauchen. Meine Nummer steht auf der Karte.“
 
-Dann sah sie Iris einen Moment länger an, mit etwas, das schwerer zu lesen war als alles Vorangegangene – nicht kalt, nicht warm. Eher Wiedererkennen. Der Blick von jemandem, der die Existenz einer Sache bestätigt, die zu finden man ihm aufgetragen hat.
+Dann sah sie Iris einen Moment länger an, mit etwas, das schwerer zu lesen war als alles Vorangegangene – nicht kalt, nicht warm. Eher Wiedererkennen. Der Blick von jemandem, der die Existenz einer Sache bestätigt, die man ihm zu finden aufgetragen hat.
 
 „Ich hoffe, Sie ziehen es ernsthaft in Betracht“, sagte sie. „Was wir hier sehen – was Sie in sich tragen – ist kein Leiden. Es ist nichts, was mit Ihnen nicht stimmt. Es ist etwas, das sehr vielen Menschen nützen könnte. Das scheint es wert, verstanden zu werden.“
 
@@ -82,3 +82,4 @@ Wir gingen zurück, wie wir gekommen waren, am Teich vorbei und an den Rosen und
 - Glossary 14: „der Europäische Gesundheitsdatenraum“; ch27 terms reused: „Knoten“, „fachärztliche Befundung“, „markiert“ for the hospital-side flag.
 - "generous the way a moat is wide" → „großzügig, wie ein Burggraben breit ist“; "closed the file" → „die Akte geschlossen“ (Jonas's ledger idiom).
 - Last line: „Es hatte auch gewöhnlich geklungen.“ — „gewöhnlich“ as in ch23's fixed „gewöhnlich und vollständig“.
+- v3 (§9 rewrite): „das sich ohne Wände besser sitzt“ (calque of *sits better*) → „das ohne Wände besser läuft“; the „die zu finden man ihm aufgetragen hat“ inversion and one word-order tail re-cut. Fidelity audit: Sie register, „die Akte geschlossen“, „gewöhnlich“ verbatim; nothing added or dropped.

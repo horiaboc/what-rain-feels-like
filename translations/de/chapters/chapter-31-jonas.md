@@ -60,11 +60,11 @@ Sie schwieg einen Moment. Dann setzte sich etwas in ihrem Gesicht – nicht eige
 
 „Das UMC“, sagte ich.
 
-Wir aßen den Stamppot auf. Die Kerze verfolgte ihre Schräglage. Vor dem Fenster blieb der Jordaan ohne Entschuldigung er selbst, was eine Eigenschaft ist, die ich an einem Viertel immer bewundert habe und an einem Menschen zu bewundern lernte.
+Wir aßen den Stamppot auf. Die Kerze verfolgte ihre Schräglage. Vor dem Fenster blieb der Jordaan ohne Entschuldigung er selbst. Das ist eine Eigenschaft, die ich an einem Viertel immer bewundert habe und an einem Menschen zu bewundern lernte.
 
 ---
 
-Auf dem Weg hinaus blieb ich am Mülleimer an der Ecke der Nieuwe Leliestraat stehen und warf Mara Seyns Karte hinein. Iris sah mir dabei zu. Sie sagte nichts, was die richtige Antwort war, und wir gingen weiter.
+Auf dem Weg hinaus blieb ich am Mülleimer an der Ecke der Nieuwe Leliestraat stehen und warf Mara Seyns Karte hinein. Iris sah mir dabei zu. Sie sagte nichts – die richtige Antwort –, und wir gingen weiter.
 
 ---
 
@@ -77,3 +77,4 @@ Auf der anderen Straßenseite, dreißig Meter zurück, stand eine Frau am Schauf
 - "The awning used to be green." → „Die Markise war früher grün.“ — a remembered-detail line; ch33's "Thursdays were Fridays" belongs to the same family.
 - "the right response" → „die richtige Antwort“ (ch19 glossary: „die richtige Entscheidung“ is *the right call*; this is a different phrase and left distinct).
 - Closing paragraph in the neutral camera register: Präteritum, no interiority, „der Mann“ for Jonas as the English says *the man*.
+- v3 (§9 rewrite): two „, was …“ tails re-cut. Fidelity audit: the awning line, „Wir ließen das sacken.“ and the camera paragraph verbatim; nothing added or dropped.

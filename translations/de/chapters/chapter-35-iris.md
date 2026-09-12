@@ -10,7 +10,7 @@ Niemand hielt uns auf. Niemand sah zweimal hin. Wir kamen auf eine ruhige Straß
 
 „So weit, so gut“, sagte Jonas.
 
-„So weit, so gut“, stimmte ich zu, und meinte es. Zum ersten Mal seit zwei Wochen kam mir das wie etwas vor, das zu sagen mir erlaubt war.
+„So weit, so gut“, stimmte ich zu, und meinte es. Zum ersten Mal seit zwei Wochen kam mir das wie etwas vor, das ich sagen durfte.
 
 ---
 
@@ -32,9 +32,9 @@ Ich wusste, welches Tor. Nordseite, näher am älteren Teil. Ich wusste, dass de
 
 **Cornelis „Kees“ –** und darunter die Daten. Dann, auf demselben Stein, ein zweiter Name, später hinzugefügt, nach der Form der Schrift zu urteilen, ein wenig neuer. **Ingrid –** und ihre Daten, der zweite Tod, der so eintraf, wie ich ihn in Erinnerung hatte: leiser, weiter vom ersten entfernt, als ich als Kind erwartet hatte, nah genug jetzt, dass ich genau verstand, wie lang achtzehn Monate sind, wenn man die ist, die danach am Tor stehen bleibt.
 
-Alles stimmte. Nicht ungefähr – genau. Die Jahre, die ich seit Berlin mit mir getragen hatte, der bestimmte Abstand dazwischen, die Art, wie das zweite Datum sich schwerer in meiner Brust anfühlte als das erste, die Art, wie ich das immer seltsam gefunden und mich nie gefragt hatte, warum.
+Alles stimmte. Nicht ungefähr – genau. Die Jahre, die ich seit Berlin mit mir getragen hatte, der bestimmte Abstand dazwischen, dass das zweite Datum sich schwerer in meiner Brust anfühlte als das erste, dass ich das immer seltsam gefunden und mich nie gefragt hatte, warum.
 
-Ich stand lange dort. Jonas stand neben mir und sagte nichts, was richtig war, und wofür ich auf eine Weise dankbar war, für die ich gerade keinen Platz hatte.
+Ich stand lange dort. Jonas stand neben mir und sagte nichts. Das war richtig, und meine Dankbarkeit dafür war größer als der Platz, den ich gerade für sie hatte.
 
 Die Trauer war echt. Ich will darin genau sein, weil Genauigkeit das Einzige ist, was mir geblieben ist und dem ich traue: Was immer sich sonst als wahr oder unwahr herausstellte am Rest, die Trauer vor diesem Stein war nicht konstruiert. Sie bewegte sich durch mich, wie Trauer sich tatsächlich bewegt, ungleichmäßig, in Wellen, die nichts mit Logik zu tun hatten. Ich vermisste Menschen, denen ich nie begegnet war, mit demselben Gewicht, mit dem ich Menschen vermisst hätte, denen ich begegnet war.
 
@@ -50,7 +50,7 @@ Für ein paar Minuten existierte nichts anderes. Nicht Arcturus, nicht der Zug, 
 
 Er endete mit einem Motor.
 
-Nicht nah – eine Straße jenseits der Mauer, außer Sicht, die auf eine Weise langsamer wurde, wie gewöhnlicher Verkehr nicht langsamer wird. Jonas hörte es eine halbe Sekunde nach mir; ich sah es auf seinem Gesicht ankommen, dieselbe Berechnung, in der wir beide schnell geworden waren. Wir rannten nicht. Wir gingen, schnell, zum zweiten Tor des Friedhofs – Südseite, kleiner, halb verborgen von einer Hecke, der man erlaubt hatte, unordentlich zu wachsen – und hinaus auf eine Wohnstraße auf der anderen Seite, bevor wer immer es war das Tor erreichte, durch das wir gekommen waren.
+Nicht nah – eine Straße jenseits der Mauer, außer Sicht, die so langsamer wurde, wie gewöhnlicher Verkehr nicht langsamer wird. Jonas hörte es eine halbe Sekunde nach mir; ich sah es auf seinem Gesicht ankommen, dieselbe Berechnung, in der wir beide schnell geworden waren. Wir rannten nicht. Wir gingen, schnell, zum zweiten Tor des Friedhofs – Südseite, kleiner, halb verborgen von einer Hecke, der man erlaubt hatte, unordentlich zu wachsen – und hinaus auf eine Wohnstraße auf der anderen Seite, bevor wer immer es war das Tor erreichte, durch das wir gekommen waren.
 
 Ich sah nicht zurück, um zu prüfen, ob sie es waren. Es war keine Zeit, und inzwischen musste ich nicht mehr prüfen. Ich wusste es schon.
 
@@ -74,11 +74,11 @@ Er fragte nicht, woher ich wusste, welches Haus. Ich ging schon darauf zu.
 
 Ich klopfte, und die Frau, die die Tür öffnete, war nicht die Frau, die ich erwartet hatte.
 
-Ich meine nicht, dass sie auf eine diagnostische Weise anders war, Falschheit an den Rändern, wie der Eingang der Journalistenschule auf der falschen Seite gewesen war, Tage zuvor, in einem anderen Land. Ich meine einfach: Das Gesicht vor mir war nicht das Gesicht, das ich in mir trug, und für einen Moment weigerten sich die beiden, sich zu vereinbaren, meine Erinnerung bestand auf Zügen, die diese tatsächliche, gegenwärtige, lebende Frau nicht hatte.
+Ich meine nicht, dass sie diagnostisch anders war, Falschheit an den Rändern, wie der Eingang der Journalistenschule auf der falschen Seite gewesen war, Tage zuvor, in einem anderen Land. Ich meine einfach: Das Gesicht vor mir war nicht das Gesicht, das ich in mir trug, und für einen Moment weigerten sich die beiden, sich zu vereinbaren, meine Erinnerung bestand auf Zügen, die diese tatsächliche, gegenwärtige, lebende Frau nicht hatte.
 
-„Ja?“, sagte sie. Sechzig, vielleicht älter, Strickjacke, die eilelose Geduld von jemandem, der schon früher Fremden die Tür geöffnet hat und es nicht immer übel nahm.
+„Ja?“, sagte sie. Sechzig, vielleicht älter, Strickjacke, die gelassene Geduld von jemandem, der schon früher Fremden die Tür geöffnet hat und es nicht immer übel nahm.
 
-„Entschuldigen Sie die Störung“, sagte ich. Meine Stimme kam fester heraus, als ich mich berechtigt fühlte. „Ich habe früher die Familie nebenan gekannt. Kees und Ingrid. Ich stelle ein paar Nachforschungen an, eine Familienangelegenheit. Ich habe mich gefragt, ob Sie sie vielleicht gekannt haben.“
+„Entschuldigen Sie die Störung“, sagte ich. Meine Stimme kam fester heraus, als mir zustand. „Ich habe früher die Familie nebenan gekannt. Kees und Ingrid. Ich stelle ein paar Nachforschungen an, eine Familienangelegenheit. Ich habe mich gefragt, ob Sie sie vielleicht gekannt haben.“
 
 Etwas in ihrem Gesicht wurde sofort weicher, das Weichwerden von jemandem, dem gleich die Erlaubnis erteilt wird, über Menschen zu sprechen, die er wirklich gemocht hat. „Gekannt? Ich habe dreißig Jahre neben ihnen gewohnt.“ Sie sah zwischen uns hin und her – mich länger, mit der milden Neugier von jemandem, der ein Gesicht einzuordnen versucht und es nicht ganz schafft. „Kommen Sie besser rein. Ich habe gerade Wasser aufgesetzt.“
 
@@ -154,13 +154,13 @@ Er fuhr, wie fähige Leute alles tun – ohne sichtbare Anstrengung. Zwei Abzwei
 
 „Sie haben in die falsche Richtung gesehen“, sagte der Mann. „Das ist das meiste daran, jemanden abzuhängen.“
 
-Ich saß hinten und sah zu, wie die Stadt offenem Land wich, das sanfte Grün Südlimburgs, das an den Fenstern vorbeirollte, Hecken, hier und da ein Kirchturm, der ein Dorf markierte, das zu klein war, sich anders anzukündigen. Ich war mir bewusst, getragen zu werden statt zu reisen, dass um mich herum Entscheidungen getroffen wurden, die abzuwägen ich gerade nicht in der Lage war. Es war kein unangenehmes Gefühl. Es war, wenn überhaupt, eine Erleichterung, die Welt eine Weile die Entscheidungen treffen zu lassen.
+Ich saß hinten und sah zu, wie die Stadt offenem Land wich, das sanfte Grün Südlimburgs, das an den Fenstern vorbeirollte, Hecken, hier und da ein Kirchturm, der ein Dorf markierte, das zu klein war, sich anders anzukündigen. Ich war mir bewusst, getragen zu werden statt zu reisen, dass um mich herum Entscheidungen getroffen wurden, die ich gerade nicht abwägen konnte. Es war kein unangenehmes Gefühl. Es war, wenn überhaupt, eine Erleichterung, die Welt eine Weile die Entscheidungen treffen zu lassen.
 
 Irgendwann zog ein Straßenschild vorbei – ein Ortsname, unauffällig, nah genug an der deutschen Grenze, dass ich entfernt verstand, dass wir fast am Rand des Landes waren, ohne beschlossen zu haben, dorthin zu fahren.
 
-Bocholtz war, als wir es erreichten, ein Ort, der sich nicht ankündigt – ein richtiges Dorf, kein Weiler, Straßen mit Reihenhäusern, eine Schule, ein Sportplatz, eine Bäckerei mit halb heruntergelassenem Rollladen, alles mit dem eilelosen, unauffälligen Aussehen von irgendwo, wo niemand hinfährt und von wo auch niemand so recht weggeht. Er bog noch zweimal ab, in Straßen, die schmaler und stiller wurden, und hielt vor einem Haus, in dem hinter zugezogenen Vorhängen schon Licht brannte, warm aussehend, rauchfarben im grauen Nachmittag.
+Bocholtz war, als wir es erreichten, ein Ort, der sich nicht ankündigt – ein richtiges Dorf, kein Weiler, Straßen mit Reihenhäusern, eine Schule, ein Sportplatz, eine Bäckerei mit halb heruntergelassenem Rollladen, alles mit dem gemächlichen, unauffälligen Aussehen von irgendwo, wo niemand hinfährt und von wo auch niemand so recht weggeht. Er bog noch zweimal ab, in Straßen, die schmaler und stiller wurden, und hielt vor einem Haus, in dem hinter zugezogenen Vorhängen schon Licht brannte, warm aussehend, rauchfarben im grauen Nachmittag.
 
-„Weiter fahre ich nicht“, sagte er und stieg aus, um uns die Tür zu öffnen, was sich, absurderweise, wie das Gewöhnlichste anfühlte, das den ganzen Tag passiert war.
+„Weiter fahre ich nicht“, sagte er und stieg aus, um uns die Tür zu öffnen, und das war, absurderweise, das Gewöhnlichste, was den ganzen Tag passiert war.
 
 Er gab mir einen Schlüsselbund und dann einen großen Umschlag, versiegelt, schwerer, als Papier sein sollte.
 
@@ -175,3 +175,4 @@ Dann stieg er wieder ins Auto und fuhr davon, ohne Eile, und war fort, bevor ein
 - Bernadette's „Kind?“ for *dear* — the address an older Limburg woman would use; „Alles in Ordnung, Kind?“
 - „vollständig“ for Bernadette's *complete* — deliberately the same adjective as ch23's fixed „gewöhnlich und vollständig“; the echo is in the English too (complete / entirely).
 - Gravestone lines kept bold as the English has them (**Cornelis „Kees“ –** / **Ingrid –**), with the spaced en dash; German quotation marks inside the bold.
+- v3 (§9 rewrite): the casual *felt like the most ordinary thing* moved off *sich anfühlen* (§A; the second date in her chest keeps the verb — that is sensation); two „die Art, wie“ frames → „dass“; two inversions („das zu sagen mir erlaubt war“, „die abzuwägen ich … nicht in der Lage war“) re-cut; the coinage „eilelos“ ×2 → „gelassene“ / „gemächlichen“ (ch14's fix, applied here too); „auf eine diagnostische Weise“ → „diagnostisch“; „als ich mich berechtigt fühlte“ → „als mir zustand“; one „, was …“ tail re-cut. Fidelity audit: gravestone lines, „Alles in Ordnung, Kind?“, „vollständig“, „Steig ein“, the eleven typed words verbatim.

@@ -2,7 +2,7 @@
 
 ---
 
-Das Büro von De Correspondent liegt am Barentszplein, im westlichen Hafen – dem Teil von Amsterdam, der auf Wasser gebaut wurde und nie aufgehört hat, sich so anzufühlen: umgenutzter Industriebackstein, weite Himmel, das besondere Licht, das nachmittags von offenem Wasser kommt und alles ein wenig besser dokumentiert aussehen lässt, als es ist. Wir nahmen die Tram vom Waterlooplein, die Taschen zwischen den Füßen, und die Stadt glitt an den Fenstern vorbei, wie eine Stadt es tut, die nicht weiß, dass man vor ihr flieht.
+Das Büro von De Correspondent liegt am Barentszplein, im westlichen Hafen – dem Teil von Amsterdam, der auf Wasser gebaut wurde und es nie vergessen hat: umgenutzter Industriebackstein, weite Himmel, das besondere Licht, das nachmittags von offenem Wasser kommt und alles ein wenig besser dokumentiert aussehen lässt, als es ist. Wir nahmen die Tram vom Waterlooplein, die Taschen zwischen den Füßen, und die Stadt glitt an den Fenstern vorbei, wie eine Stadt es tut, die nicht weiß, dass man vor ihr flieht.
 
 Iris saß neben mir und sah die Straßen an. Sie war seit dem Café stiller gewesen – nicht zurückgezogen; eher wie jemand, der etwas Großes in eine Schublade gelegt hat und echte Aufmerksamkeit darauf verwendet, die Schublade geschlossen zu halten. Ihre Hände, wenn sie nicht die Taschenriemen hielten, waren vollkommen still. Ich habe gelernt, ihre Stillen zu lesen. Diese hier war tragend.
 
@@ -68,7 +68,7 @@ Tom war in den Fünfzigern, bärtig, Kaffee in der Hand, mit dem gesetzten Blick
 
 „Ja.“
 
-Er schüttelte langsam den Kopf. „Ich glaube nicht. Und ich würde mich erinnern – wir hatten in dem Jahr ein kleines Team, zwölf Leute vielleicht. Ich kenne sie alle.“ Er sagte es ohne ein Gramm Unfreundlichkeit, als eine Tatsache, die zu halten ihm leidtat. „Sind Sie sicher, dass es dieses Büro war? Wir haben Leute auf Vertragsbasis, anderswo ansässig – könnte es eine Remote-Regelung gewesen sein?“
+Er schüttelte langsam den Kopf. „Ich glaube nicht. Und ich würde mich erinnern – wir hatten in dem Jahr ein kleines Team, zwölf Leute vielleicht. Ich kenne sie alle.“ Er sagte es ohne ein Gramm Unfreundlichkeit, als eine Tatsache, die er ungern in der Hand hielt. „Sind Sie sicher, dass es dieses Büro war? Wir haben Leute auf Vertragsbasis, anderswo ansässig – könnte es eine Remote-Regelung gewesen sein?“
 
 „Könnte es gewesen sein.“
 
@@ -104,7 +104,7 @@ Ich hatte darauf gewartet. „Die Großeltern.“
 
 „Die Gräber. Das Haus. Die Dinge, die da sein sollten.“ Sie wandte sich mir zu. „Ich muss an den Orten stehen und sehen, was hält.“
 
-Ich sah sie an. Sie hatte Angst – mehr, als sie in der Gasse gezeigt hatte, mehr als in irgendeinem Café seither. Das war die Angst unter den anderen Ängsten. Nicht der Transporter. Nicht die Frau mit der Karte. Nicht die Knochendichte oder der Kortex. Das hier: die Möglichkeit, dass die Menschen, die sie zuerst geliebt hatte, nie ihre gewesen waren, um sie zu lieben.
+Ich sah sie an. Sie hatte Angst – mehr, als sie in der Gasse gezeigt hatte, mehr als in irgendeinem Café seither. Das war die Angst unter den anderen Ängsten. Nicht der Transporter. Nicht die Frau mit der Karte. Nicht die Knochendichte oder der Kortex. Das hier: die Möglichkeit, dass die Menschen, die sie zuerst geliebt hatte, nie die ihren gewesen waren.
 
 „Also gut“, sagte ich. „Wir fahren nach Heerlen.“
 
@@ -114,7 +114,7 @@ Ich sah sie an. Sie hatte Angst – mehr, als sie in der Gasse gezeigt hatte, me
 
 Sie nickte.
 
-Ich nahm meine Tasche. Sie nahm ihre. Wir gingen zur Tramhaltestelle, und die Stadt bewegte sich um uns, und keiner von uns sagte eine Weile etwas, was genau das Richtige zu sagen war.
+Ich nahm meine Tasche. Sie nahm ihre. Wir gingen zur Tramhaltestelle, und die Stadt bewegte sich um uns, und keiner von uns sagte eine Weile etwas – und das war genau das Richtige zu sagen.
 
 Was immer die Orte für uns bereithielten, wir würden hinfahren und in ihnen stehen.
 
@@ -125,3 +125,4 @@ Was immer die Orte für uns bereithielten, wir würden hinfahren und in ihnen st
 - The "holds" motif: „sehen, was hält“ (ch32) — matches ch34's „Eine, die hält.“
 - Tom ↔ Iris in Sie (strangers in a newsroom; the §B table does not list them, Sie is the default for a first meeting).
 - "Civic Tech", „Investigativressort“, „Remote-Regelung“ — the newsroom words a German journalist would use; Bitterballen kept (Dutch snack, no German word).
+- v3 (§9 rewrite): the casual *never stopped feeling like it* moved off *sich anfühlen* (§A) → „es nie vergessen hat“; the „die zu halten ihm leidtat“ inversion → „die er ungern in der Hand hielt“; „nie ihre gewesen waren, um sie zu lieben“ → „nie die ihren gewesen waren“; one „, was …“ tail re-cut. Fidelity audit: „Notieren. Weitermachen.“, „Diese hier war tragend.“ and the §C site verbatim.

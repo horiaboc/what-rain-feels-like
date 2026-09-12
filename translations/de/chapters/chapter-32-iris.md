@@ -2,9 +2,9 @@
 
 ---
 
-Wir verließen die Wohnung um Viertel vor neun mit Kaffee zum Mitnehmen – Pappbecher, deren Manschette nie ganz reicht. Jonas hatte zwei Straßen weiter einen Laden gefunden, der früh öffnete. Der Morgen war grau und mild, die Bloemgracht um diese Zeit still, ein Radfahrer, der mit der eiligen Sicherheit eines Mannes vorbeifuhr, der genau dieses Wasser tausendmal entlanggefahren ist.
+Wir verließen die Wohnung um Viertel vor neun mit Kaffee zum Mitnehmen – Pappbecher, deren Manschette nie ganz reicht. Jonas hatte zwei Straßen weiter einen Laden gefunden, der früh öffnete. Der Morgen war grau und mild, die Bloemgracht um diese Zeit still, ein Radfahrer, der mit der gelassenen Sicherheit eines Mannes vorbeifuhr, der genau dieses Wasser tausendmal entlanggefahren ist.
 
-Das UMC liegt im Südosten der Stadt. Wir hatten anderthalb Stunden eingeplant, was reichlich war. Jonas hatte die Route auf dem Telefon. Ich kannte die grobe Richtung – oder glaubte es, eine Unterscheidung, auf die ich angefangen hatte, genau zu achten.
+Das UMC liegt im Südosten der Stadt. Wir hatten anderthalb Stunden eingeplant, was reichlich war. Jonas hatte die Route auf dem Telefon. Ich kannte die grobe Richtung – oder glaubte es, eine Unterscheidung, auf die ich inzwischen genau achtete.
 
 Wir gingen nach Osten, dann nach Süden. Amsterdam wachte um uns herum auf seine allmähliche Art auf und ging nach seiner eigenen Logik vor. Ich hielt meinen Kaffee und dachte an den Termin – was sie fragen würden, was ich antworten würde, ob irgendeine Version des Vormittags mit etwas endete, das ich verstehen und halten konnte.
 
@@ -22,7 +22,7 @@ Ich versuche jetzt zu rekonstruieren, was passiert ist, und stelle fest, dass ic
 
 Dazwischen: Mein Körper tat etwas.
 
-Mein Kaffee lag auf dem Pflaster. Ich erinnere mich nicht, ihn abgestellt zu haben. Meine Hände waren auf eine Art angeordnet, die ich entfernt als Deckung erkannte – Gewicht vorn, Schwerpunkt tief. Der Mann am Boden erhob sich langsam und kalibrierte alles neu. Der andere sah mich mit einem Ausdruck an, den ich nicht erwartet hatte und nicht wollte: nicht Aggression. Neubewertung.
+Mein Kaffee lag auf dem Pflaster. Ich erinnere mich nicht, ihn abgestellt zu haben. Meine Hände standen in einer Haltung, die ich entfernt als Deckung erkannte – Gewicht vorn, Schwerpunkt tief. Der Mann am Boden erhob sich langsam und kalibrierte alles neu. Der andere sah mich mit einem Ausdruck an, den ich nicht erwartet hatte und nicht wollte: nicht Aggression. Neubewertung.
 
 Vom Beifahrersitz des Transporters aus, durch die offene Tür, sah eine Frau zu. Dunkles Haar, Anfang dreißig, Augen, die rasche Berechnungen anstellten. Sie stieg nicht aus.
 
@@ -32,7 +32,7 @@ Wir gingen.
 
 ---
 
-Ich könnte nicht sagen, wie viele Straßen wir hinter uns brachten, bevor Jonas mich in den Eingang einer Druckerei zog, die Rollläden noch halb unten, ein schmaler Streifen Schatten zwischen Tür und Wand. Wir drückten uns hinein. Mein Herz tat etwas, das ich beobachten, aber nicht regulieren konnte, was zum Thema der Saison wurde.
+Ich könnte nicht sagen, wie viele Straßen wir hinter uns brachten, bevor Jonas mich in den Eingang einer Druckerei zog, die Rollläden noch halb unten, ein schmaler Streifen Schatten zwischen Tür und Wand. Wir drückten uns hinein. Mein Herz tat etwas, das ich beobachten, aber nicht regulieren konnte. Das wurde zum Thema der Saison.
 
 Wir blieben elf Minuten. Ich zählte, ohne es zu wollen. Zählen ist das, was ich statt Zittern habe.
 
@@ -46,7 +46,7 @@ Schließlich atmete Jonas aus – lang, bewusst – und sah mich an.
 
 Er musterte mich aufmerksam. „Du hast einen von ihnen zu Boden gebracht.“
 
-„Ich weiß. Ich –“ Ich sah auf meine Hände. Sie sahen vollkommen gewöhnlich aus, was irgendwie das Schlimmste war. „Ich kenne die Bewegungen. Wing Chun. Judo. Ich trainiere, seit ich zehn bin. Aber ich habe es noch nie so gemacht. So schnell. Ich habe nicht gedacht.“
+„Ich weiß. Ich –“ Ich sah auf meine Hände. Sie sahen vollkommen gewöhnlich aus, und das war irgendwie das Schlimmste. „Ich kenne die Bewegungen. Wing Chun. Judo. Ich trainiere, seit ich zehn bin. Aber ich habe es noch nie so gemacht. So schnell. Ich habe nicht gedacht.“
 
 „Dein Körper hat gedacht.“
 
@@ -72,7 +72,7 @@ Er nickte. Er hatte die Antwort erwartet. „Dann müssen wir überlegen, wie es
 
 ---
 
-Wir fanden ein Café in der Staalstraat, geöffnet und voll genug, um anonym zu sein – die Sicherheit eines Raums voller Leute ohne Interesse an einem. Wir nahmen den Tisch ganz hinten. Ich hielt einen neuen Kaffee – Jonas hatte darauf bestanden, hatte bestellt, war mit zwei Bechern und dem Blick eines Mannes zurückgekommen, der sich in Raten beherrscht – und versuchte, mit dem zu sitzen, was passiert war.
+Wir fanden ein Café in der Staalstraat, geöffnet und voll genug, um anonym zu sein – die Sicherheit eines Raums voller Leute ohne Interesse an einem. Wir nahmen den Tisch ganz hinten. Ich hielt einen neuen Kaffee – Jonas hatte darauf bestanden, hatte bestellt, war mit zwei Bechern und dem Blick eines Mannes zurückgekommen, der sich in Raten beherrscht – und versuchte, bei dem zu bleiben, was passiert war.
 
 „Das Krav Maga“, sagte er irgendwann. „Das Wing Chun.“
 
@@ -132,7 +132,7 @@ Ich sah mich um. Wir saßen in einem Café.
 
 ---
 
-Er fand mich dort, dreiundvierzig Minuten später, mit beiden Taschen und leicht außer Atem, was er nicht zur Kenntnis zu nehmen gedachte.
+Er fand mich dort, dreiundvierzig Minuten später, mit beiden Taschen und leicht außer Atem, und das gedachte er nicht zur Kenntnis zu nehmen.
 
 „Verdächtiges Fahrzeug“, sagte er und setzte sich. „Dunkler Kombi, zwei Straßen von der Wohnung. Konnte nicht hineinsehen.“
 
@@ -148,7 +148,7 @@ Jonas nickte langsam. „Es ist noch früher Nachmittag. Wir gehen heute hin, zu
 
 Draußen betrieb der Waterlooplein seinen geschäftigen, fröhlichen Handel. Ein Stand verkaufte gebrauchte Bücher. Ein Kind stritt mit vollkommener Überzeugung über eine Angelegenheit von enormer Bedeutung für es selbst und für niemanden sonst auf der Welt.
 
-Ich hielt meinen Kaffee und sah der Stadt zu und versuchte zu bestimmen, wie viel Angst ich hatte. Die ehrliche Antwort: mehr, als ich zeigte, und weniger, als ich vorhergesagt hätte. Beides stimmte zugleich – was unter den Umständen ein vernünftiger Ort zum Leben schien.
+Ich hielt meinen Kaffee und sah der Stadt zu und versuchte zu bestimmen, wie viel Angst ich hatte. Die ehrliche Antwort: mehr, als ich zeigte, und weniger, als ich vorhergesagt hätte. Beides stimmte zugleich – und das schien unter den Umständen ein vernünftiger Ort zum Leben.
 
 <!-- NOTES -->
 - v2 (native pass): two „Sorte“ frames and two „Beschaffenheit“ re-planned.
@@ -157,3 +157,4 @@ Ich hielt meinen Kaffee und sah der Stadt zu und versuchte zu bestimmen, wie vie
 - "Noted" → „Notiert“ (as ch42); "We'll figure it out." → „Wir finden es heraus.“ (ch35's „Ich finde es irgendwann heraus.“ uses the same verb).
 - "Counting is what I have instead of trembling." → „Zählen ist das, was ich statt Zittern habe.“
 - Wing Chun, Judo, Krav Maga, Appelgebak, Waterlooplein, Staalstraat, Kloveniersburgwal unchanged; "van" → „Transporter“.
+- v3 (§9 rewrite). **Fidelity fix**: „mit der eiligen Sicherheit“ inverted *unhurried confidence* → „mit der gelassenen Sicherheit“. Also: „auf die ich angefangen hatte, genau zu achten“ → „auf die ich inzwischen genau achtete“; „auf eine Art angeordnet, die“ frame → „standen in einer Haltung, die“; Iris's *sit with* → „bei dem zu bleiben“ (the therapy idiom stays Jonas's); four „, was …“ tails re-cut. Fidelity audit: both §C sites verbatim; „Notiert“, „Wir finden es heraus.“, „was hält“ intact.

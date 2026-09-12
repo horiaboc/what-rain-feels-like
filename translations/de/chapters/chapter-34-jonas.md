@@ -18,7 +18,7 @@ Ohne Karte eine Unterkunft zu finden war ein eigenes Projekt. Hotels sind 2034 n
 
 Die Frau, die abnahm, war in den Siebzigern und vollkommen ungerührt von unserem Mangel an Buchungsbestätigung, Online-Profil oder erklärbarem Grund, mit zwei Taschen und einer Vorliebe für Bargeld in Maastricht zu sein. Sie gab uns ein Zimmer im zweiten Stock mit Blick auf einen kleinen Garten, einen Schlüssel an einem physischen Schlüsselring und eine Uhrzeit fürs Frühstück. Sie verlangte keinen Ausweis. Ob das Vertrauen war oder Gleichgültigkeit, war nicht klar und auch nicht wichtig.
 
-Das Zimmer war sauber und still und hatte Vorhänge, die tatsächlich Licht abhielten, was sich wie ein unvernünftiger Luxus anfühlte. Wir aßen etwas von einem Laden in der Nähe, kamen zurück und schliefen. Richtig, wir beide, den Schlaf von Menschen, die zwei Tage lang auf Wachsamkeit gelaufen sind und kurz einen Ort gefunden haben, an dem nichts etwas von ihnen verlangt.
+Das Zimmer war sauber und still und hatte Vorhänge, die tatsächlich Licht abhielten – ein unvernünftiger Luxus, wie es schien. Wir aßen etwas von einem Laden in der Nähe, kamen zurück und schliefen. Richtig, wir beide, den Schlaf von Menschen, die zwei Tage lang auf Wachsamkeit gelaufen sind und kurz einen Ort gefunden haben, an dem nichts etwas von ihnen verlangt.
 
 ---
 
@@ -88,7 +88,7 @@ Der Beichtstuhl hatte zwei Seiten – das Abteil des Priesters in der Mitte, die
 
 Eine Minute verging.
 
-Zwei Männer kamen durch die Tür. Sie bewegten sich mit der sorgfältigen Beiläufigkeit von Leuten durch das Schiff, die nicht bemerkt werden wollen, wie sie Dinge bemerken. Sie sahen die Touristen an. Sie sahen die Seitenkapelle an. Einer von ihnen ging in vier Metern Entfernung an uns vorbei, ohne stehen zu bleiben. Sie waren vielleicht drei Minuten in der Kirche, und dann gingen sie.
+Zwei Männer kamen durch die Tür. Sie bewegten sich durch das Schiff mit der sorgfältigen Beiläufigkeit von Leuten, die nicht dabei bemerkt werden wollen, wie sie Dinge bemerken. Sie sahen die Touristen an. Sie sahen die Seitenkapelle an. Einer von ihnen ging in vier Metern Entfernung an uns vorbei, ohne stehen zu bleiben. Sie waren vielleicht drei Minuten in der Kirche, und dann gingen sie.
 
 Wir blieben.
 
@@ -118,7 +118,7 @@ Ein kurzes Schweigen auf der anderen Seite.
 
 Wieder eine Pause. „Auch das ist kein ungewöhnlicher Grund, in einer Kirche zu sein“, sagte er. Er fragte nichts weiter. Es gab das Geräusch, wie er sich leicht zurücklehnte, das Knarren alten Holzes. Seine Gegenwart auf der anderen Seite des Gitters war ruhig und verlangte nichts.
 
-„Ich brauche nur einen Moment“, sagte Iris. „Des Nicht-Bewegens.“
+„Ich brauche nur einen Moment“, sagte Iris. „Des Stillhaltens.“
 
 „Dann nehmen Sie ihn.“
 
@@ -169,3 +169,4 @@ Sie nickte. Sie sah zum Fenster. Draußen tat Limburg sein stilles Ding, und Hee
 - "the right call from both of us" → „die richtige Entscheidung“ (ch19 glossary).
 - The priest ↔ Iris in Sie; the exchange is in Dutch in the fiction, rendered in German as the English renders it in English. "Peace to you." → „Friede sei mit Ihnen.“
 - "Heerlen feels — closer." → „Heerlen kommt mir – näher vor.“ (casual *feels* = vorkommen, per §A; *sich anfühlen* reserved).
+- v3 (§9 rewrite): the casual *felt like an unreasonable luxury* moved off *sich anfühlen* (§A); one word-order tail re-cut; „Des Nicht-Bewegens“ → „Des Stillhaltens“ (ch25's noun). Fidelity audit: §C site, „Eine, die hält.“ / „Zwei, die halten.“, „Friede sei mit Ihnen.“ verbatim; nothing added or dropped.
