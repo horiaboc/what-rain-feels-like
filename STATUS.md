@@ -278,13 +278,24 @@ catch a 74-line deletion — eyeball dialogue after any mechanical pass.*
 `build/*` and re-included only `build/en/`, so the de/ro/hu EPUBs were never in
 git. Generalised to one directory per edition; de/ro/hu release sets committed.
 
-**Quality standing, honest estimate (2026-09-12).** Self-assessments; no
-native speaker has read any edition. Hungarian, French and German (now v3) have
-the §9 rewrite and sit at ~98%. Romanian predates §9 and sits at ~94%; on its
-ch01 sample §9 rewrote 6.4% of the paragraphs. **The Romanian operation, when
-it comes, is the same guarded revision pass as the German one, not a
-retranslation** — snapshot the echoes first (`check_echoes.py ro --snapshot`),
-then chapter by chapter with the guard on.
+**Quality standing, honest estimate (2026-09-12, evening).** Self-assessments;
+no native speaker has read any edition. All four editions now have the §9
+rewrite — Hungarian and French folded in at the write, German (v3) and
+Romanian (v2) as guarded revision passes — and sit at ~98%. Romanian's pass
+touched more per chapter than German's (its calques were gerund chains and
+„ceea ce“ afterthoughts rather than frame nouns) and found one real
+mistranslation (ch42 *on the loom*).
+
+**Romanian edition — v2 (2026-09-12):** all 55 chapters through the §9
+revision pass by the same guarded method as the German one: exact-string
+edits, a „v2 (§9 rewrite)“ trailer per chapter with the fidelity-audit note,
+`check_echoes.py ro --check` after every step (90 guarded phrases, 0
+regressions), checker 0 issues, gates clean. Fixed on the way: „Spui
+dimineața“ read as the verb *you say* → „Spui-ul“; ch42 „la război“ (*on the
+loom*, read as *at war*) → „pe războiul de țes“; *rationing* → „a drămui“;
+ch13 „Miei, ale cărei consecințe“ grammar. Full build to `build/ro/` (269
+pages, spine 0.6725in), `REVIEW-NOTES.md` regenerated as v2, EPUB emailed.
+Not yet: the native review pass, ISBN, KDP.
 
 **Echo-integrity tool (2026-09-12):** `tools/check_echoes.py <lang> --snapshot`
 records every quoted phrase (≥10 chars) from NOTES.md §A/§C/§E per chapter;
@@ -293,9 +304,12 @@ records every quoted phrase (≥10 chars) from NOTES.md §A/§C/§E per chapter;
 after every German edit. Phrases that live only in chapter trailers (e.g.
 „Geist ist Wollen.“, „Alles wird gehalten.“) are not guarded — check by hand.
 
-**Priority (Horia, 2026-09-11):** publish the German edition soon. French
-and the German revision are both done (2026-09-12); Romanian's §9 pass is the
-next translation work, after the German publication steps.
+**Priority (Horia, 2026-09-11):** publish the German edition soon. French,
+the German revision and the Romanian revision are all done (2026-09-12).
+**No translation work is pending.** Next are publication steps (German first)
+and, when a native reader is available, the §H questions per edition. All
+four editions are at the same procedural standard; any further quality gain
+needs a native reader, not another pass.
 
 **Models — content vs structure (standing instruction):** Fable 5.1 at
 `/effort max` writes every word of the book, in any language; Opus 5 or similar
