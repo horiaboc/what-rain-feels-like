@@ -14,7 +14,7 @@ Nu ne-a oprit nimeni. Nimeni nu s-a uitat de două ori. Am ieșit pe o stradă l
 
 ---
 
-Am ținut-o pe străzile mai mici, iar eu am condus fără să ezit, și era bine – asta era tot, în dimineața aceea. Nu ciudat. Bine. Heerlen își poartă istoria la vedere, cărămidă ajunsă la maro-funinginea unui oraș care a scos cărbune un secol și apoi, dintr-odată, s-a oprit, și mă mișcam prin el cu un fel de energie aplecată înainte, pe care nu-mi permisesem s-o simt de la Amsterdam. O scurtătură printr-o alee de serviciu din spatele unui șir de magazine. Stânga înainte de strada principală, apoi iar stânga. Jonas ținea pasul lângă mine, privind strada din spatele nostru mai mult decât pe cea din față, încredințându-mi mie frontul.
+Am ținut-o pe străzile mai mici, iar eu am condus fără să ezit, și era bine – asta era tot, în dimineața aceea. Nu ciudat. Bine. Heerlen își poartă istoria la vedere, cărămidă ajunsă la maro-funinginea unui oraș care a scos cărbune un secol și apoi, dintr-odată, s-a oprit, și mă mișcam prin el cu un fel de energie aplecată înainte, pe care nu-mi permisesem s-o simt de la Amsterdam. O scurtătură printr-o alee de serviciu din spatele unui șir de magazine. Stânga înainte de strada principală, apoi iar stânga. Jonas ținea pasul lângă mine, privea strada din spatele nostru mai mult decât pe cea din față și îmi încredința mie frontul.
 
 — Nici măcar nu te uiți pe hartă, a spus.
 
@@ -30,13 +30,13 @@ A râs, scurt și adevărat, și a întins mâna după a mea, și așa am mers u
 
 Știam care poartă. Latura de nord, mai aproape de secțiunea veche. Știam că aleea va coti la stânga pe lângă un pâlc de tise înainte să se îndrepte, și a cotit, și mi-am permis să simt asta ca pe un elan, nu s-o examinez ca pe altceva. Al treilea rând de la alee, sub un tei care trebuie să fi fost tânăr cândva și nu mai era tânăr acum.
 
-**Cornelis „Kees” –** și dedesubt, datele. Apoi, pe aceeași piatră, un al doilea nume, adăugat mai târziu, după forma literelor, puțin mai nou. **Ingrid –** și datele ei, a doua moarte sosind cum îmi aminteam că sosise: mai încet, mai departe de prima decât mă așteptasem în copilărie, destul de aproape acum ca să înțeleg exact cât de lungi sunt optsprezece luni când tu ești cea rămasă la poartă după aceea.
+**Cornelis „Kees” –** și dedesubt, datele. Apoi, pe aceeași piatră, un al doilea nume, adăugat mai târziu, după forma literelor, puțin mai nou. **Ingrid –** și datele ei, a doua moarte sosea cum îmi aminteam că sosise: mai încet, mai departe de prima decât mă așteptasem în copilărie, destul de aproape acum ca să înțeleg exact cât de lungi sunt optsprezece luni când tu ești cea rămasă la poartă după aceea.
 
 Totul se potrivea. Nu aproximativ – exact. Anii pe care îi purtam de la Berlin, distanța precisă dintre ei, felul în care a doua dată apăsa mai greu în pieptul meu decât prima, cum mi se păruse întotdeauna ciudat și nu mă întrebasem niciodată de ce.
 
-Am stat acolo mult timp. Jonas a stat lângă mine și n-a spus nimic, ceea ce era corect, și pentru care i-am fost recunoscătoare într-un fel pe care n-aveam loc să-l exprim atunci.
+Am stat acolo mult timp. Jonas a stat lângă mine și n-a spus nimic – și era corect, și i-am fost recunoscătoare pentru asta într-un fel pe care n-aveam loc să-l exprim atunci.
 
-Durerea era reală. Vreau să fiu precisă în privința asta, pentru că precizia e singurul lucru care mi-a rămas și în care mă încred: orice altceva s-ar fi dovedit adevărat sau neadevărat despre rest, durerea din fața pietrei aceleia nu era construită. S-a mișcat prin mine cum se mișcă durerea de fapt, inegal, sosind în valuri care n-aveau nimic de-a face cu logica. Îmi lipseau oameni pe care nu-i întâlnisem niciodată, cu aceeași greutate cu care mi-ar fi lipsit oameni pe care îi întâlnisem.
+Durerea era reală. Vreau să fiu precisă în privința asta, pentru că precizia e singurul lucru care mi-a rămas și în care mă încred: orice altceva s-ar fi dovedit adevărat sau neadevărat despre rest, durerea din fața pietrei aceleia nu era construită. S-a mișcat prin mine cum se mișcă durerea cu adevărat, inegal, în valuri care n-aveau nimic de-a face cu logica. Îmi lipseau oameni pe care nu-i întâlnisem niciodată, cu aceeași greutate cu care mi-ar fi lipsit oameni pe care îi întâlnisem.
 
 — Sunt exact unde i-am lăsat, am spus, într-un târziu.
 
@@ -50,7 +50,7 @@ Câteva minute, n-a existat nimic altceva. Nu Arcturus, nu trenul, nu versiunea 
 
 S-a încheiat cu un motor.
 
-Nu aproape – un drum dincolo de zid, nevăzut, încetinind cum nu încetinește traficul obișnuit. Jonas l-a auzit cu o jumătate de secundă după mine; am văzut cum aterizează pe fața lui, același calcul la care ne grăbiserăm amândoi să devenim rapizi. N-am alergat. Am mers, repede, spre a doua poartă a cimitirului – latura de sud, mai mică, pe jumătate ascunsă de un gard viu lăsat să crească în dezordine – și afară, pe o stradă rezidențială de partea cealaltă, înainte ca oricine era să ajungă la poarta pe care intraserăm.
+Nu aproape – un drum dincolo de zid, nevăzut, care încetinea cum nu încetinește traficul obișnuit. Jonas l-a auzit cu o jumătate de secundă după mine; am văzut cum aterizează pe fața lui, același calcul la care ne grăbiserăm amândoi să devenim rapizi. N-am alergat. Am mers, repede, spre a doua poartă a cimitirului – latura de sud, mai mică, pe jumătate ascunsă de un gard viu lăsat să crească în dezordine – și afară, pe o stradă rezidențială de partea cealaltă, înainte ca oricine era să ajungă la poarta pe care intraserăm.
 
 Nu m-am uitat înapoi să verific dacă erau ei. N-a fost timp, și până atunci nu mai aveam nevoie să verific. Știam deja.
 
@@ -74,7 +74,7 @@ N-a întrebat de unde știu care casă. Mergeam deja spre ea.
 
 Am bătut, iar femeia care a deschis nu era femeia la care mă așteptam.
 
-Nu vreau să spun că era diferită într-un fel diagnostic, greșeală pe margini, cum fusese intrarea școlii de jurnalism pe partea greșită, cu zile în urmă, în altă țară. Vreau să spun, simplu: fața din fața mea nu era fața pe care o purtam, și o clipă cele două au refuzat să se împace, memoria mea insistând asupra unor trăsături pe care această femeie reală, prezentă, vie nu le avea.
+Nu vreau să spun că era diferită într-un fel diagnostic, greșeală pe margini, cum fusese intrarea școlii de jurnalism pe partea greșită, cu zile în urmă, în altă țară. Vreau să spun, simplu: fața din fața mea nu era fața pe care o purtam, și o clipă cele două au refuzat să se împace; memoria mea insista asupra unor trăsături pe care această femeie reală, prezentă, vie nu le avea.
 
 — Da? a spus. Șaizeci și ceva de ani, poate mai mult, cardigan, răbdarea negrăbită a cuiva care a mai deschis ușa unor străini și nu s-a supărat întotdeauna.
 
@@ -88,7 +88,7 @@ S-a uitat de la unul la altul – la mine, mai mult, cu curiozitatea blândă a 
 
 — Mai bine intrați. Tocmai am pus ceainicul.
 
-Mâna lui Jonas mi-a găsit din nou adâncitura spatelui când am pășit înăuntru. Am înțeles-o ca pe o întrebare și i-am răspuns cu cel mai mic semn din cap posibil. *Sunt bine. Stai aproape.*
+Mâna lui Jonas mi-a găsit din nou mijlocul când am pășit înăuntru. Am înțeles-o ca pe o întrebare și i-am răspuns cu cel mai mic semn din cap posibil. *Sunt bine. Stai aproape.*
 
 ---
 
@@ -112,9 +112,9 @@ S-a oprit, căutând cuvântul, și l-a găsit cu o satisfacție evidentă:
 
 — … compleți. Știți cum sunt unele cupluri așa. Întregi de unii singuri. N-aveau nevoie de mare lucru în afară de ei doi.
 
-L-am simțit pe Jonas devenind foarte nemișcat lângă mine.
+L-am simțit pe Jonas cum devine foarte nemișcat lângă mine.
 
-— N-au avut niciodată copii ai lor, a continuat, turnând încă ceai fără să ridice privirea, propoziția sosind fără mai multă greutate decât cea de dinainte sau cea care avea să urmeze. Au încercat ani de zile, din câte am înțeles, deși Ingrid nu vorbea des despre asta – nu era o femeie pentru asemenea discuții. Nici nepoți, evident. A fost o tristețe, la sfârșit. Erau singuri în casa aia, ei doi, până la capăt. Mă gândeam că ar fi trebuit să vină cineva mai des.
+— N-au avut niciodată copii ai lor, a continuat, turnând încă ceai fără să ridice privirea, iar propoziția a sosit fără mai multă greutate decât cea de dinainte sau cea care avea să urmeze. Au încercat ani de zile, din câte am înțeles, deși Ingrid nu vorbea des despre asta – nu era o femeie pentru asemenea discuții. Nici nepoți, evident. A fost o tristețe, la sfârșit. Erau singuri în casa aia, ei doi, până la capăt. Mă gândeam că ar fi trebuit să vină cineva mai des.
 
 A ridicat privirea atunci, și ceva pe fața mea trebuie să se fi văzut, pentru că expresia ei s-a schimbat – îngrijorare, blândă, neplasată.
 
@@ -142,7 +142,7 @@ S-a mai uitat o dată la mine, cu aceeași curiozitate blândă, neplasată.
 
 — Semănați cu cineva, știți. Nu-mi dau seama cu cine.
 
-— Așa spune lumea, am spus, ceea ce era adevărat, și ceea ce era, înțelegeam acum, lucrul cel mai apropiat de o glumă în care se transformase întreaga mea existență.
+— Așa spune lumea, am spus – adevărat, și totodată, înțelegeam acum, lucrul cel mai apropiat de o glumă în care se transformase întreaga mea existență.
 
 Am ieșit în lumina obișnuită a unei străzi unde nimic nu mai era obișnuit.
 
@@ -152,7 +152,7 @@ Vehiculul de la cimitir era la cincizeci de metri, parcat într-un unghi care su
 
 Făcuserăm poate șase pași când o a doua mașină – închisă la culoare, neremarcabilă, marca aceea de mașină care există ca să nu fie ținută minte – a tras la bordură chiar în fața porții Bernadettei.
 
-A coborât un bărbat. Negrăbit. Cincizeci și ceva de ani, palton obișnuit, o față dintre acelea care aparțin mai multor oameni pe care i-ai întâlnit și niciunuia pe care l-ai putea descrie după aceea. N-a întins mâna după nimic. Stătea cu mâinile la vedere, deschise, pe lângă corp, cum stai când vrei să fii văzut neîntinzând mâna după ceva.
+A coborât un bărbat. Negrăbit. Cincizeci și ceva de ani, palton obișnuit, o față dintre acelea care aparțin mai multor oameni pe care i-ai întâlnit și niciunuia pe care l-ai putea descrie după aceea. N-a întins mâna după nimic. Stătea cu mâinile la vedere, deschise, pe lângă corp, cum stai când vrei să se vadă că nu întinzi mâna după nimic.
 
 — Iris. Jonas.
 
@@ -188,13 +188,13 @@ Conducea cum fac oamenii competenți orice – fără efort vizibil. Două cotit
 
 — Nu se uitau în direcția potrivită, a spus bărbatul. Asta e cea mai mare parte din a pierde pe cineva.
 
-Stăteam în spate și priveam orașul lăsând locul câmpului deschis, verdele blând al Limburgului de Sud rostogolindu-se pe lângă ferestre, garduri vii, ici și colo turla unei biserici marcând un sat prea mic ca să se anunțe altfel. Eram conștientă că sunt dusă, nu că călătoresc, că se iau decizii în jurul meu pe care n-aveam capacitatea, atunci, să le cântăresc. Nu era o senzație neplăcută. Era, dacă e să spun ceva, o ușurare să las lumea să facă alegeri o vreme.
+Stăteam în spate și priveam cum orașul lasă locul câmpului deschis, verdele blând al Limburgului de Sud care se rostogolea pe lângă ferestre, garduri vii, ici și colo turla unei biserici care marca un sat prea mic ca să se anunțe altfel. Eram conștientă că sunt dusă, nu că călătoresc, că se iau decizii în jurul meu pe care n-aveam capacitatea, atunci, să le cântăresc. Nu era o senzație neplăcută. Era, mai degrabă, o ușurare să las lumea să facă alegeri o vreme.
 
 La un moment dat a trecut un indicator – un nume de loc, neremarcabil, destul de aproape de granița cu Germania ca să înțeleg, de la distanță, că eram aproape la marginea țării fără să fi hotărât să mergem acolo.
 
-Bocholtz, când am ajuns, era unul dintre locurile care nu se anunță – un sat adevărat, nu un cătun, străzi cu case înșiruite, o școală, un teren de sport, o brutărie cu oblonul pe jumătate tras, totul purtând aerul negrăbit, neremarcabil al unui loc pe care nu-l vizitează nimeni și pe care nici nu-l părăsește nimeni în mod special. A mai cotit de două ori, pe străzi tot mai înguste și mai liniștite, și s-a oprit în fața unei case cu luminile deja aprinse în spatele draperiilor trase, cu aer cald, de culoarea fumului în după-amiaza cenușie.
+Bocholtz, când am ajuns, era unul dintre locurile care nu se anunță – un sat adevărat, nu un cătun, străzi cu case înșiruite, o școală, un teren de sport, o brutărie cu oblonul pe jumătate tras, totul cu aerul negrăbit, neremarcabil al unui loc pe care nu-l vizitează nimeni și pe care nici nu-l părăsește nimeni în mod special. A mai cotit de două ori, pe străzi tot mai înguste și mai liniștite, și s-a oprit în fața unei case cu luminile deja aprinse în spatele draperiilor trase, cu aer cald, de culoarea fumului în după-amiaza cenușie.
 
-— Până aici merg eu, a spus, și a coborât să ne deschidă ușa, ceea ce a părut, absurd, lucrul cel mai obișnuit care se întâmplase toată ziua.
+— Până aici merg eu, a spus, și a coborât să ne deschidă ușa – și asta a părut, absurd, lucrul cel mai obișnuit care se întâmplase toată ziua.
 
 Mi-a întins un set de chei, și apoi un plic mare, sigilat, mai greu decât ar trebui să fie hârtia.
 
@@ -213,3 +213,4 @@ Apoi s-a urcat înapoi în mașină și a plecat, negrăbit, și dispăruse îna
 - „the kind of face that belongs to several people“ → „o față dintre acelea care …“; „the way people are kind when …“ → „cum sunt buni oamenii când …“.
 - „nu era nimic util de spus“ here is the ch35 line; ch36 has the §C site with the same wording — both deliberate.
 - Begraafplaats Akerstraat, Bocholtz unchanged.
+- v2 (§9 rewrite): fifteen sites — gerund chains (privind/încredințându-mi, sosind ×2, încetinind, insistând, devenind, neîntinzând, lăsând/rostogolindu-se/marcând, purtând) → finite / relative / „cu …“; three „ceea ce“ → dashes; „de fapt“ → „cu adevărat“; „dacă e să spun ceva“ (*if anything*) → „mai degrabă“; „adâncitura spatelui“ → „mijlocul“ (ch11). Grave lettering, address forms, the driver's eleven-word line and „nu era nimic util de spus“ untouched. Fidelity audit: no content shift.

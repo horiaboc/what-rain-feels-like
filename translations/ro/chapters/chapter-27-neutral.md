@@ -40,3 +40,4 @@ Ea ia tableta și iese. Ușa se închide. Traficul de pe Rue de la Loi continuă
 - No title, no colon (§D). Camera voice, present tense.
 - „Găsiți-o.“ — Conrad to Mara in dumneavoastră (§B), the two-word order the book returns to.
 - GLOSSARY: the flag → „semnalarea“; Vantage's monitoring layer → „stratul de monitorizare“; „Spațiul European al Datelor de Sănătate“; „o fișă medicală“ for a health record.
+- v2 (§9 rewrite): read through, unchanged.

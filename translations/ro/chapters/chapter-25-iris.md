@@ -18,13 +18,13 @@ Am făcut inventarul. Mă durea capul – o greutate surdă, insistentă, deasup
 
 — Am căzut de pe bicicletă, am spus.
 
-A confirmat. Am vorbit. Am încercat să mă ridic în capul oaselor, ceea ce capul a interzis pe loc. Mi-a spus că doctorii vor investigații imagistice, ca să fie siguri că nu e nimic în neregulă în craniul meu, și am spus sigur, și am vorbit serios, și m-am lăsat pe spate, și am lăsat tavanul să fie tavan o vreme. Tavanul se pricepea. L-am lăsat să lucreze.
+A confirmat. Am vorbit. Am încercat să mă ridic în capul oaselor; capul a interzis pe loc. Mi-a spus că doctorii vor investigații imagistice, ca să fie siguri că nu e nimic în neregulă în craniul meu, și am spus sigur, și am vorbit serios, și m-am lăsat pe spate, și am lăsat tavanul să fie tavan o vreme. Tavanul se pricepea. L-am lăsat să lucreze.
 
 ---
 
 M-au dus la scanare în mai puțin de o oră.
 
-Aparatul era zgomotos. Am stat înăuntru cu ochii închiși și am urmărit secvențele după ureche – tonuri diferite pentru munci diferite, patul deplasându-se ușor între ele. M-am concentrat pe nemișcare, care e mai ușoară decât reputația ei când mișcatul doare.
+Aparatul era zgomotos. Am stat înăuntru cu ochii închiși și am urmărit secvențele după ureche – tonuri diferite pentru munci diferite, iar patul se deplasa ușor între ele. M-am concentrat pe nemișcare, care e mai ușoară decât reputația ei când mișcatul doare.
 
 La ce m-am gândit, acolo: la zidul de la capătul străzii. La fântâna care nu era. Nu la greșeala în sine – procesasem greșeala și o pusesem deoparte – ci la pusul deoparte. La automatismul lui. Ca și cum undeva în mine ar fi existat un mecanism antrenat exact pentru asta, și se cuplase atât de lin, încât aproape că ratasem clicul.
 
@@ -34,7 +34,7 @@ Aparatul a făcut ultimul lui sunet. Patul m-a scos înapoi în lume.
 
 Ne-au ținut în așteptare o oră și jumătate.
 
-Jonas n-a umplut timpul cu vorbe. A stat lângă pat și mi-a ținut mâna, lucrul potrivit și singurul, și din când în când a emis o întrebare mică, cu un răspuns mic – ți-e destul de cald, mai bine sau mai rău, apă? Îl simțeam nepunând întrebarea mai mare. A stat între noi tot timpul, răbdătoare ca o mobilă, și i-am fost recunoscătoare pentru reținere într-un fel pe care n-am încercat să-l formulez.
+Jonas n-a umplut timpul cu vorbe. A stat lângă pat și mi-a ținut mâna, lucrul potrivit și singurul, și din când în când a emis o întrebare mică, cu un răspuns mic – ți-e destul de cald, mai bine sau mai rău, apă? Îl simțeam cum nu pune întrebarea mai mare. A stat între noi tot timpul, răbdătoare ca o mobilă, și i-am fost recunoscătoare pentru reținere într-un fel pe care n-am încercat să-l formulez.
 
 La un moment dat a spus:
 
@@ -46,7 +46,7 @@ La un moment dat a spus:
 
 — Știu, am spus din nou.
 
-S-a uitat la mine cu calitatea aceea a atenției care nu caută nimic – doar prezență, îndreptată. Apoi s-a uitat iar la perdea, tăcut, iar mâna lui a rămas unde era. Mâna era propoziția. Am citit-o de câteva ori.
+S-a uitat la mine cu atenția aceea a lui care nu caută nimic – doar prezență, îndreptată. Apoi s-a uitat iar la perdea, tăcut, iar mâna lui a rămas unde era. Mâna era propoziția. Am citit-o de câteva ori.
 
 ---
 
@@ -98,7 +98,7 @@ Când Maes și medicul curant au plecat, m-am uitat la el. Stătea aplecat în f
 
 Apoi a ridicat privirea.
 
-Fața lui nu făcea ce mă pregătisem să văd – compostura atentă, analiza deja rulând în spatele ochilor. Făcea ceva mai simplu și mai greu. Era speriat. Nu de mine; știu diferența, am verificat diferența. Speriat *pentru* mine – frica unui om care iubește pe cineva și tocmai i s-a spus că trupul ei face ceva ce nimeni nu poate numi.
+Fața lui nu făcea ce mă pregătisem să văd – compostura atentă, analiza care rulează deja în spatele ochilor. Făcea ceva mai simplu și mai greu. Era speriat. Nu de mine; știu diferența, am verificat diferența. Speriat *pentru* mine – frica unui om care iubește pe cineva și tocmai i s-a spus că trupul ei face ceva ce nimeni nu poate numi.
 
 A întins mâna și mi-a prins o șuviță de păr după ureche.
 
@@ -140,3 +140,4 @@ Am ieșit împreună în dimineața amsterdameză.
 - „Am spus: sigur. Deveneam pricepută la *sigur*.“ — ch24 has „Am spus sigur. Iris a spus sigur.“; same word.
 - „the way of someone choosing each word“ → „cum e cineva care alege …“.
 - „branulă“ for the IV line (Romanian hospital word).
+- v2 (§9 rewrite): five sites — „ceea ce capul a interzis“ → semicolon; gerunds („deplasându-se“, „nepunând“, „rulând“) → finite / relative; „calitatea aceea a atenției“ → „atenția aceea a lui“. Iris's nominalisations („pusul deoparte“, „așezatul“), the ch24 „zid“ and Maes's reported speech untouched. Fidelity audit: no content shift.

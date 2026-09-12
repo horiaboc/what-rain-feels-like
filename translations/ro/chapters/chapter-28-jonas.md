@@ -6,7 +6,7 @@ Am găsit locul din întâmplare, cum găsești lucrurile în Amsterdam – urm�
 
 O cafenea mică pe Brouwersgracht, geamuri aburite, scaune desperecheate și mirosul de cafea adevărată de la un aparat care făcea munca asta de dinainte să se fi născut oricine se afla atunci în încăpere. Am luat o masă în colț. Afară, canalul stătea argintiu în lumina dimineții, iar două rațe purtau o dispută teritorială cu energia concentrată a unor indivizi care n-aveau nimic altceva în calendar.
 
-Iris își ținea cafeaua în amândouă mâinile și se uita pe fereastră și arăta ca ea însăși – ceea ce, date fiind ultimele treizeci și șase de ore, era singurul lucru cu adevărat important din încăpere.
+Iris își ținea cafeaua în amândouă mâinile și se uita pe fereastră și arăta ca ea însăși – și asta, date fiind ultimele treizeci și șase de ore, era singurul lucru cu adevărat important din încăpere.
 
 — Cum e capul? am întrebat.
 
@@ -16,13 +16,13 @@ Iris își ținea cafeaua în amândouă mâinile și se uita pe fereastră și 
 
 — E o ștachetă rezonabilă.
 
-Dormise bine – cum trebuie, într-un pat, fără monitor pe deget sau asistentă sosind la fiecare oră. Dormisem și eu, până la urmă, apartamentul liniștit în jurul nostru, canalul de afară făcându-și răbdătorul lui nimic de peste noapte. Mă trezisem o dată și stătusem o oră cu constatările lui Maes învârtindu-se cum se învârt gândurile la patru dimineața, și ajunsesem în același loc în care ajunsesem la spital: nu înțelegeam, nu trebuia să înțeleg azi, iar ce cerea ziua de la mine era micul dejun, urmat de utilitate.
+Dormise bine – cum trebuie, într-un pat, fără monitor pe deget sau asistentă sosind la fiecare oră. Dormisem și eu, până la urmă, apartamentul liniștit în jurul nostru, canalul de afară își făcea răbdătorul lui nimic de peste noapte. Mă trezisem o dată și stătusem o oră, iar constatările lui Maes se învârteau cum se învârt gândurile la patru dimineața, și ajunsesem în același loc în care ajunsesem la spital: nu înțelegeam, nu trebuia să înțeleg azi, iar ce cerea ziua de la mine era micul dejun, urmat de utilitate.
 
 Am comandat ouă. Pâinea a venit ca un sourdough închis la culoare, cu unt într-un vas mic de ceramică, iar Iris a mâncat două felii înainte să vină ouăle, cele mai liniștitoare date pe care le adunasem în două zile.
 
 ---
 
-Trimiterea la ortopedie îi aterizase pe telefon în dimineața aceea – o programare la Amsterdam UMC, spitalul universitar, peste două zile. Neurologia încă în procesare. Ceea ce ne dădea ziua.
+Trimiterea la ortopedie îi aterizase pe telefon în dimineața aceea – o programare la Amsterdam UMC, spitalul universitar, peste două zile. Neurologia încă în procesare. Așa că aveam ziua.
 
 — Am putea totuși să mergem la locurile tale, am spus. Dacă vrei. Nu e niciun motiv să nu.
 
@@ -50,7 +50,7 @@ Am mers pe jos.
 
 Am ascultat. Și am privit.
 
-La Frederiksplein, traversând spre Utrechtsestraat, l-am observat pe bărbat pentru prima oară – l-am observat cum observi ceva fără să-l prinzi chiar, ochiul înregistrând o formă și nedepunând niciun raport. Așezat la o terasă, cu o cafea în față, citind pe telefon. Statură medie, palton închis la culoare, poate patruzeci și cinci de ani. Nimic, absolut nimic.
+La Frederiksplein, traversând spre Utrechtsestraat, l-am observat pe bărbat pentru prima oară – l-am observat cum observi ceva fără să-l prinzi chiar, ochiul înregistrează o formă și nu depune niciun raport. Așezat la o terasă, cu o cafea în față, citind pe telefon. Statură medie, palton închis la culoare, poate patruzeci și cinci de ani. Nimic, absolut nimic.
 
 Am mers mai departe.
 
@@ -78,11 +78,11 @@ O răsuflare.
 
 — Probabil greșesc eu.
 
-Nu era chiar tulburată. Era mai degrabă ca și cum ai privi pe cineva apăsând pe un dinte care a început să se miște – nesigur ce informație ar trebui să producă apăsatul, apăsând oricum. S-a mai uitat o clipă, apoi și-a făcut un semn din cap.
+Nu era chiar tulburată. Era mai degrabă ca și cum ai privi pe cineva care apasă pe un dinte care a început să se miște – nesigur ce informație ar trebui să producă apăsatul, dar apasă oricum. S-a mai uitat o clipă, apoi și-a făcut un semn din cap.
 
 — Hai. Îți arăt curtea.
 
-Înăuntru, curtea era exact cum o descrisese – un luminator în inima clădirii, bănci, două plante mari îndurând interiorul cu angajamentul resemnat al unor plante hotărâte să scoată ce e mai bun din situație. M-a plimbat prin ea arătându-mi ce își amintea: biroul unui tutore, o sală în care petrecuse prea multe ore, locul unde se ținuse petrecerea de rămas-bun pentru un lector pe care îl plăcuse. Amintirile erau vii, precise, și se potriveau cu spațiul din jurul ei, perete cu perete.
+Înăuntru, curtea era exact cum o descrisese – un luminator în inima clădirii, bănci, două plante mari care îndurau interiorul cu angajamentul resemnat al unor plante hotărâte să scoată ce e mai bun din situație. M-a plimbat prin ea arătându-mi ce își amintea: biroul unui tutore, o sală în care petrecuse prea multe ore, locul unde se ținuse petrecerea de rămas-bun pentru un lector pe care îl plăcuse. Amintirile erau vii, precise, și se potriveau cu spațiul din jurul ei, perete cu perete.
 
 Chestiunea intrării n-a mai ridicat-o.
 
@@ -144,3 +144,4 @@ Afară, canalul făcea ce fac canalele, adică să continue să se miște și s�
 - „the way you find things in Amsterdam“ / „the way you notice something“ / „the way you study a thing“ / „the way you learn to“ → all „cum …“.
 - „un pho chiar bun“; „sourdough“ kept (Berlin/Amsterdam café word).
 - Places unchanged: Brouwersgracht, Wibautstraat, Frederiksplein, Utrechtsestraat, Amstel.
+- v2 (§9 rewrite): six sites — two „ceea ce“ → „și asta“ / „Așa că“; gerund chains (făcându-și/învârtindu-se, înregistrând/nedepunând, apăsând/apăsând, îndurând) → finite / relative. [ECHO] „Notăm. Mergem mai departe.“, „sertarul fără etichetă“ and Iris's „pur și simplu“ untouched. Fidelity audit: no content shift.

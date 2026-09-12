@@ -4,7 +4,7 @@
 
 Am găsit numerar la a treia încercare.
 
-Primele două bancomate erau fie scoase din funcțiune, fie pur și simplu goale – golul de scuze al unui ecran care nu mai are nimic de dat. Al treilea era o farmacie de pe Vrijthof care ținea încă un aparat înăuntru, o concesie făcută populației tot mai mici de oameni care aveau nevoie de unul. Farmacista ne-a privit folosindu-l cu expresia cuiva care observă un eveniment ușor istoric.
+Primele două bancomate erau fie scoase din funcțiune, fie pur și simplu goale – golul de scuze al unui ecran care nu mai are nimic de dat. Al treilea era o farmacie de pe Vrijthof care ținea încă un aparat înăuntru, o concesie făcută populației tot mai mici de oameni care aveau nevoie de unul. Farmacista ne-a privit cum îl folosim, cu expresia cuiva care observă un eveniment ușor istoric.
 
 — Nu mai folosesc mulți aparatele astea, a spus, nu lipsită de blândețe.
 
@@ -14,11 +14,11 @@ Am scos cât permitea limita zilnică, i-am mulțumit și am plecat.
 
 ---
 
-Să găsim un loc de dormit fără card era un proiect în sine. Hotelurile din 2034 nu sunt făcute pentru numerar – sistemele de rezervare, încuietorile ușilor, înregistrarea la micul dejun, totul rulează pe o verificare a identității care vrea un card în centru. Am mers trei străzi de la Vrijthof, departe de cazările evidente, și am găsit ce căutam în vitrina unei tutungerii: un cartonaș scris de mână, de modă veche, oferind o cameră cu noaptea. Casă particulară. Un număr de telefon.
+Să găsim un loc de dormit fără card era un proiect în sine. Hotelurile din 2034 nu sunt făcute pentru numerar – sistemele de rezervare, încuietorile ușilor, înregistrarea la micul dejun, totul rulează pe o verificare a identității care vrea un card în centru. Am mers trei străzi de la Vrijthof, departe de cazările evidente, și am găsit ce căutam în vitrina unei tutungerii: un cartonaș scris de mână, de modă veche, care oferea o cameră cu noaptea. Casă particulară. Un număr de telefon.
 
 Femeia care a răspuns avea șaptezeci și ceva de ani și era cu totul netulburată de lipsa noastră de confirmare a rezervării, profil online sau motiv explicabil de a fi în Maastricht cu două bagaje și o preferință pentru numerar. Ne-a dat o cameră la etajul doi, cu vedere spre o grădină mică, o cheie pe un breloc fizic și o oră pentru micul dejun. N-a cerut acte. Dacă era încredere sau indiferență nu era clar, și nici important.
 
-Camera era curată și liniștită și avea draperii care chiar blocau lumina, ceea ce părea un lux nerezonabil. Am mâncat ceva de la un local din apropiere, ne-am întors și am dormit. Cum trebuie, amândoi, somnul unor oameni care au funcționat pe vigilență două zile și au găsit pentru scurt timp un loc în care nimic nu le cere nimic.
+Camera era curată și liniștită și avea draperii care chiar blocau lumina, și asta părea un lux nerezonabil. Am mâncat ceva de la un local din apropiere, ne-am întors și am dormit. Cum trebuie, amândoi, somnul unor oameni care au funcționat pe vigilență două zile și au găsit pentru scurt timp un loc în care nimic nu le cere nimic.
 
 ---
 
@@ -36,7 +36,7 @@ M-am uitat la ea.
 
 ---
 
-Cafeneaua era exact unde trebuia să fie – o clădire veche în piața Vrijthof, cu tavan jos înăuntru, lemn închis la culoare, căldura așezată a unui loc care servește oameni de foarte mult timp și are de gând să continue. Am găsit o masă lângă fereastră. Iris s-a uitat la încăpere cum se uitase la încăperi toată săptămâna, cu calitatea aceea atentă, măsurătoare, citind ce era acolo față de ce purta ea.
+Cafeneaua era exact unde trebuia să fie – o clădire veche în piața Vrijthof, cu tavan jos înăuntru, lemn închis la culoare, căldura așezată a unui loc care servește oameni de foarte mult timp și are de gând să continue. Am găsit o masă lângă fereastră. Iris s-a uitat la încăpere cum se uitase la încăperi toată săptămâna, cu atenția aceea măsurătoare a ei, citind ce era acolo față de ce purta ea.
 
 A comandat ciocolată caldă.
 
@@ -60,7 +60,7 @@ Ceva pe fața ei s-a destins puțin – o fracțiune de ușurare, mică și aten
 
 — Una care ține, a spus.
 
-Am stat douăzeci de minute. Ea a avut ciocolata caldă. Eu am avut cafea și ceva cu mere, ceea ce am făcut fără comentarii și ceea ce ea a observat, și n-a comentat nici ea, și a fost decizia corectă din partea amândurora.
+Am stat douăzeci de minute. Ea a avut ciocolata caldă. Eu am avut cafea și ceva cu mere – am făcut-o fără comentarii, ea a observat și n-a comentat nici ea, și a fost decizia corectă din partea amândurora.
 
 Apoi:
 
@@ -82,11 +82,11 @@ Am plătit, ne-am luat bagajele de la casa femeii și am pornit spre gară. Drum
 
 Eu priveam în urmă.
 
-Au venit din două direcții deodată – un bărbat ieșind dintr-o ușă în stânga noastră, altul apărând de pe o stradă laterală din față. Alți oameni decât cei din duba de la Amsterdam, sau aceeași organizație cu o listă mai lungă. Oricum: aceeași economie a mișcării, aceeași intenție.
+Au venit din două direcții deodată – un bărbat a ieșit dintr-o ușă în stânga noastră, altul a apărut de pe o stradă laterală din față. Alți oameni decât cei din duba de la Amsterdam, sau aceeași organizație cu o listă mai lungă. Oricum: aceeași economie a mișcării, aceeași intenție.
 
 Iris îi văzuse deja.
 
-Ce a urmat a fost mai rapid decât aleea de pe Kloveniersburgwal, și mai tăcut. Bărbatul din stânga a întins mâna spre brațul ei. Ea nu mai era unde fusese brațul – se mișcase cu siguranța de țintă a cuiva pentru care prima dată a fost exercițiu, iar asta e aplicația. Un cot, o răsucire, un punct de presiune pe care n-aș ști să-l numesc, dar care l-a pus pe bărbat la perete cu expresia cuiva căruia tocmai i-au fost revizuite presupunerile. Cel din față s-a oprit, recalculând.
+Ce a urmat a fost mai rapid decât aleea de pe Kloveniersburgwal, și mai tăcut. Bărbatul din stânga a întins mâna spre brațul ei. Ea nu mai era unde fusese brațul – se mișcase cu siguranța de țintă a cuiva pentru care prima dată a fost exercițiu, iar asta e aplicația. Un cot, o răsucire, un punct de presiune pe care n-aș ști să-l numesc, dar care l-a pus pe bărbat la perete cu expresia cuiva căruia tocmai i-au fost revizuite presupunerile. Cel din față s-a oprit și a recalculat.
 
 — Stânga, am spus. O văzusem la venire – o ușă, o firmă. Biserica. Acum.
 
@@ -96,7 +96,7 @@ Am luat-o la stânga.
 
 Bazilica Maicii Domnului, Steaua Mării, e o biserică romanică de pe Onze Lieve Vrouweplein – piatră întunecată, veche dincolo de sensul obișnuit al lui vechi, o clădire care a absorbit atâta timp, încât a căpătat o gravitație a ei. Ușa era deschisă. Am intrat.
 
-Înăuntru: răcoare, penumbră, mirosul de ceară de lumânare și de secole de piatră. Turiști mișcându-se încet. O capelă laterală cu lumânări votive. În spate, de-a lungul peretelui nordic, un rând de confesionale baroce – lemn sculptat, întunecat, draperii grele, tăcerea atentă a unei mobile construite pentru un singur scop.
+Înăuntru: răcoare, penumbră, mirosul de ceară de lumânare și de secole de piatră. Turiști care se mișcau încet. O capelă laterală cu lumânări votive. În spate, de-a lungul peretelui nordic, un rând de confesionale baroce – lemn sculptat, întunecat, draperii grele, tăcerea atentă a unei mobile construite pentru un singur scop.
 
 M-am uitat în urmă. Ușa era încă închisă.
 
@@ -158,15 +158,15 @@ Am ieșit cu un grup de turiști – o clasă olandeză, adolescenți, energia d
 
 Gara era la douăsprezece minute. Am ajuns în nouă.
 
-Peronul pentru trenul de Heerlen era liniștit. Am urmărit intrarea în timp ce Iris cumpăra biletele de la automat – numerar, aparatul acceptându-l cu surprinderea blândă a unui sistem care n-a mai trebuit s-o facă de ceva vreme.
+Peronul pentru trenul de Heerlen era liniștit. Am urmărit intrarea în timp ce Iris cumpăra biletele de la automat – numerar, iar aparatul l-a acceptat cu surprinderea blândă a unui sistem care n-a mai trebuit s-o facă de ceva vreme.
 
 Am urcat.
 
-Când trenul a început să se miște, m-am uitat înapoi prin geam. Un bărbat intra în gară cu ceva între mers și alergat – geacă închisă la culoare, scanând peroanele cu urgența concentrată a cuiva care a ajuns undeva cu treizeci de secunde prea târziu. A ajuns la marginea peronului și a stat acolo, privind trenul plecând, iar fața lui era fața cuiva care rulează un calcul ce tocmai a dat un rezultat incert. Nu era sigur că suntem în el.
+Când trenul a început să se miște, m-am uitat înapoi prin geam. Un bărbat intra în gară cu ceva între mers și alergat – geacă închisă la culoare, scanând peroanele cu urgența concentrată a cuiva care a ajuns undeva cu treizeci de secunde prea târziu. A ajuns la marginea peronului și a stat acolo, privind cum pleacă trenul, iar fața lui era fața cuiva care rulează un calcul ce tocmai a dat un rezultat incert. Nu era sigur că suntem în el.
 
 Eram în el.
 
-Iris stătea în fața mea cu bagajul în poală și privea orașul lăsând locul câmpiei din Limburg – plată, verde, lumina joasă a sudului Olandei într-o dimineață de sfârșit de vară. A tăcut o vreme.
+Iris stătea în fața mea cu bagajul în poală și privea cum orașul lasă locul câmpiei din Limburg – plată, verde, lumina joasă a sudului Olandei într-o dimineață de sfârșit de vară. A tăcut o vreme.
 
 Apoi:
 
@@ -182,7 +182,7 @@ S-a uitat la fereastră.
 
 A făcut o pauză.
 
-— Sunt acolo. Amintirile. Le simt fiind acolo.
+— Sunt acolo. Amintirile. Le simt că sunt acolo.
 
 — E ceva, am spus.
 
@@ -200,3 +200,4 @@ A dat din cap. S-a uitat la fereastră. Afară, Limburgul își făcea treaba lu
 - „Una care ține.“ / „Două care țin.“ — hold if it returns.
 - „the kind of building that has absorbed so much time“ → „o clădire care a absorbit atâta timp“.
 - Den Ouden Vogelstruys, Vrijthof, Onze Lieve Vrouweplein unchanged; basilica name translated.
+- v2 (§9 rewrite): twelve sites — gerunds (folosindu-l, oferind, ieșind/apărând, recalculând, mișcându-se, acceptându-l, plecând, lăsând, fiind) → finite / relative; two „ceea ce“ → „și asta“ / dash; „calitatea aceea atentă“ → „atenția aceea … a ei“. §C site, the priest's formulas and „Una care ține“ untouched. Fidelity audit: no content shift.

@@ -2,9 +2,9 @@
 
 ---
 
-Am plecat din apartament la opt și patruzeci și cinci cu cafea la pachet – pahare de hârtie, dintre cele al căror manșon de carton nu e niciodată chiar de ajuns. Jonas găsise un loc două străzi mai încolo, care deschidea devreme. Dimineața era cenușie și blândă, Bloemgracht liniștit la ora aceea, un biciclist trecând cu siguranța negrăbită a unui om care a mers pe lângă exact apa asta de o mie de ori.
+Am plecat din apartament la opt și patruzeci și cinci cu cafea la pachet – pahare de hârtie, dintre cele al căror manșon de carton nu e niciodată chiar de ajuns. Jonas găsise un loc două străzi mai încolo, care deschidea devreme. Dimineața era cenușie și blândă, Bloemgracht liniștit la ora aceea, un biciclist trecea cu siguranța negrăbită a unui om care a mers pe lângă exact apa asta de o mie de ori.
 
-UMC e în sud-estul orașului. Ne lăsaserăm o oră și jumătate, ceea ce era din belșug. Jonas avea traseul pe telefon. Eu știam direcția generală – sau credeam că o știu, o distincție la care începusem să fiu foarte atentă.
+UMC e în sud-estul orașului. Ne lăsaserăm o oră și jumătate – din belșug. Jonas avea traseul pe telefon. Eu știam direcția generală – sau credeam că o știu, o distincție la care începusem să fiu foarte atentă.
 
 Am mers spre est, apoi spre sud. Amsterdamul se trezea în jurul nostru în felul lui treptat, după propria logică. Îmi țineam cafeaua și mă gândeam la programare – ce aveau să întrebe, ce aveam să răspund, dacă vreo versiune a dimineții se încheia cu ceva ce puteam înțelege și ține.
 
@@ -12,19 +12,19 @@ Nu mă gândeam la dubă.
 
 ---
 
-Aleea era pe Kloveniersburgwal, o tăietură îngustă între două clădiri, legând spre o stradă paralelă. Jonas o luase pentru că harta o numea scurtătură. Era unul dintre pasajele pe care le păstrează orice oraș vechi – funcțional, neremarcabil, puțin prea liniștit, ca și cum orașul l-ar fi pus deoparte exact pentru asta.
+Aleea era pe Kloveniersburgwal, o tăietură îngustă între două clădiri, care lega spre o stradă paralelă. Jonas o luase pentru că harta o numea scurtătură. Era unul dintre pasajele pe care le păstrează orice oraș vechi – funcțional, neremarcabil, puțin prea liniștit, ca și cum orașul l-ar fi pus deoparte exact pentru asta.
 
 Eram la jumătate când am auzit motorul.
 
-Duba a intrat dinspre capătul celălalt – întunecată, ușa laterală alunecând deja deschisă înainte ca roțile să se fi oprit de tot. Doi bărbați erau afară înainte să fi procesat că se mișcă spre noi. Masivi, expeditivi, cu economia exersată a unor bărbați care au mai făcut asta și au de gând să termine repede.
+Duba a intrat dinspre capătul celălalt – întunecată, cu ușa laterală care aluneca deja deschisă înainte ca roțile să se fi oprit de tot. Doi bărbați erau afară înainte să fi procesat că se mișcă spre noi. Masivi, expeditivi, cu economia exersată a unor bărbați care au mai făcut asta și au de gând să termine repede.
 
 Încerc, acum, să reconstitui ce s-a întâmplat, și constat că nu pot complet. E momentul în care am auzit motorul. Și e un moment, câteva secunde mai târziu, în care unul dintre bărbați era la pământ și celălalt făcuse un pas înapoi, iar Jonas avea mâna pe brațul meu și îmi spunea pe nume.
 
 Între ele: corpul meu a făcut ceva.
 
-Cafeaua mea era pe pavaj. Nu-mi amintesc s-o fi pus jos. Mâinile mele erau așezate într-un fel pe care l-am recunoscut, de la distanță, ca poziție de gardă – greutatea în față, centrul jos. Bărbatul de la pământ se ridica încet, recalibrând totul. Celălalt mă privea cu o expresie la care nu mă așteptasem și pe care n-o voiam: nu agresivitate. Reevaluare.
+Cafeaua mea era pe pavaj. Nu-mi amintesc s-o fi pus jos. Mâinile mele erau așezate într-un fel pe care l-am recunoscut, de la distanță, ca poziție de gardă – greutatea în față, centrul jos. Bărbatul de la pământ se ridica încet și recalibra totul. Celălalt mă privea cu o expresie la care nu mă așteptasem și pe care n-o voiam: nu agresivitate. Reevaluare.
 
-De pe scaunul din dreapta al dubei, prin ușa deschisă, o femeie privea. Păr închis la culoare, treizeci și ceva de ani, ochii rulând calcule rapide. N-a coborât.
+De pe scaunul din dreapta al dubei, prin ușa deschisă, o femeie privea. Păr închis la culoare, treizeci și ceva de ani, ochi care rulau calcule rapide. N-a coborât.
 
 — Iris.
 
@@ -36,7 +36,7 @@ Am plecat.
 
 ---
 
-N-aș putea spune câte străzi am acoperit înainte ca Jonas să mă tragă în ușa unei tipografii, cu obloanele încă pe jumătate coborâte, o fâșie îngustă de umbră între ușă și perete. Ne-am lipit de ea. Inima mea făcea ceva ce puteam observa, dar nu regla, ceea ce devenea tema sezonului.
+N-aș putea spune câte străzi am acoperit înainte ca Jonas să mă tragă în ușa unei tipografii, cu obloanele încă pe jumătate coborâte, o fâșie îngustă de umbră între ușă și perete. Ne-am lipit de ea. Inima mea făcea ceva ce puteam observa, dar nu regla – și asta devenea tema sezonului.
 
 Am stat unsprezece minute. Am numărat fără să vreau. Număratul e ce am în loc de tremurat.
 
@@ -54,7 +54,7 @@ M-a studiat cu atenție.
 
 — Știu. Nu…
 
-M-am uitat la mâinile mele. Arătau cu totul obișnuit, ceea ce era, cumva, partea cea mai rea.
+M-am uitat la mâinile mele. Arătau cu totul obișnuit – și asta era, cumva, partea cea mai rea.
 
 — Știu mișcările. Wing chun. Judo. Mă antrenez de la zece ani. Dar n-am făcut-o niciodată așa. Atât de repede. N-am gândit.
 
@@ -90,7 +90,7 @@ A dat din cap. Se așteptase la răspuns.
 
 ---
 
-Am găsit o cafenea pe Staalstraat, deschisă și destul de plină ca să fie anonimă – siguranța unei încăperi de oameni fără niciun interes față de tine. Am luat masa din fund. Țineam o cafea nouă – Jonas insistase, comandase, se întorsese cu două pahare și cu privirea unui om care se gestionează în rate – și încercam să stau cu ce se întâmplase.
+Am găsit o cafenea pe Staalstraat, deschisă și destul de plină ca să fie anonimă – siguranța unei încăperi de oameni fără niciun interes față de tine. Am luat masa din fund. Țineam o cafea nouă – Jonas insistase, comandase, se întorsese cu două pahare și cu privirea unui om care se gestionează în rate – și încercam să cuprind ce se întâmplase.
 
 — Krav maga, a spus, într-un târziu. Wing chun.
 
@@ -104,7 +104,7 @@ M-am uitat la masă.
 
 — Mai mult de atât. Mai repede decât ar trebui. Și – mai precis decât explică antrenamentul.
 
-A tăcut. L-am privit asamblând ceva și alegându-i ambalajul.
+A tăcut. L-am privit cum asamblează ceva și îi alege ambalajul.
 
 — Știi, a spus, există o explicație care acoperă densitatea osoasă, vindecarea și acum asta.
 
@@ -120,7 +120,7 @@ M-am uitat la el o clipă lungă.
 
 — E considerabil mai absurdă.
 
-— Densitate osoasă, a spus, numărând pe nimic. Conectivitate corticală. Vindecare. Krav maga care nu e chiar krav maga. Zic și eu. Datele se potrivesc.
+— Densitate osoasă, a spus, și număra pe nimic. Conectivitate corticală. Vindecare. Krav maga care nu e chiar krav maga. Zic și eu. Datele se potrivesc.
 
 — Nu sunt spioană.
 
@@ -134,7 +134,7 @@ N-aveam un răspuns bun la asta. Mi-am luat cafeaua în schimb.
 
 — Notat, a spus. Și apoi, mai încet: O să ne dăm seama.
 
-Și l-am crezut. Asta era partea ciudată – l-am crezut complet, într-o cafenea dintr-un oraș în care cineva tocmai încercase să mă bage într-o dubă, cu mâinile încă părându-mi echipament împrumutat. L-am crezut, iar crezutul a așezat ceva ce tot număratul meu nu așezase.
+Și l-am crezut. Asta era partea ciudată – l-am crezut complet, într-o cafenea dintr-un oraș în care cineva tocmai încercase să mă bage într-o dubă, cu mâinile care încă îmi păreau echipament împrumutat. L-am crezut, iar crezutul a așezat ceva ce tot număratul meu nu așezase.
 
 ---
 
@@ -178,7 +178,7 @@ Apoi:
 
 — De Correspondent, am spus. Redacția din Amsterdam. Am lucrat acolo înainte de Berlin – scurt. Cunosc oameni acolo. Sau îmi amintesc că îi cunoșteam.
 
-Am auzit propoziția despicându-se în două propoziții în timp ce o spuneam.
+Am auzit propoziția cum se despică în două în timp ce o spuneam.
 
 — Spațiu public. Open space. Ședințe de redacție după-amiaza; mereu oameni în jur.
 
@@ -192,7 +192,7 @@ S-a uitat la mine.
 
 Afară, Waterlooplein își făcea comerțul aglomerat, vesel. O tarabă vindea cărți second-hand. Un copil se certa cu convingere totală într-o chestiune de importanță enormă pentru ea și pentru nimeni altcineva în viață.
 
-Îmi țineam cafeaua și priveam orașul și încercam să stabilesc cât de speriată sunt. Răspunsul cinstit: mai mult decât arătam și mai puțin decât aș fi prezis. Amândouă erau adevărate deodată – ceea ce părea, în împrejurările date, un loc rezonabil în care să trăiești.
+Îmi țineam cafeaua și priveam orașul și încercam să stabilesc cât de speriată sunt. Răspunsul cinstit: mai mult decât arătam și mai puțin decât aș fi prezis. Amândouă erau adevărate deodată – și asta părea, în împrejurările date, un loc rezonabil în care să trăiești.
 
 <!-- NOTES -->
 - §C sites: „Masivi, expeditivi, cu economia exersată a unor bărbați …“ and „Și – mai precis decât explică antrenamentul.“ — no „eficient“.
@@ -200,3 +200,4 @@ Afară, Waterlooplein își făcea comerțul aglomerat, vesel. O tarabă vindea 
 - Iris's „Sau îmi amintesc că îi cunoșteam.“ — the split sentence she hears.
 - „the kind whose cardboard sleeve …“ → „dintre cele al căror …“; „the kind of passage every old city keeps“ → „unul dintre pasajele pe care le păstrează orice oraș vechi“.
 - Waterlooplein, Staalstraat, Kloveniersburgwal, appelgebak unchanged; „Open space“ is the Romanian office word for open plan.
+- v2 (§9 rewrite): fourteen sites — the gerund chains of the alley and the café (trecând, legând, alunecând, recalibrând, rulând, asamblând/alegându-i, numărând, părându-mi, despicându-se) → finite / relative; three „ceea ce“ → dashes; „să stau cu ce se întâmplase“ (*sit with*, Jonas's phrase) → „să cuprind“. §C sites, the ch25 callback and „Sau îmi amintesc că îi cunoșteam.“ untouched. Fidelity audit: no content shift.

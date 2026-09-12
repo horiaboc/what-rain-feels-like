@@ -14,9 +14,9 @@ Am pus-o în buzunar. Asemenea cărți de vizită sunt făcute să fie păstrate
 
 ---
 
-Parcul la sfârșit de august e propriul lui mic anotimp – copacii încă plini, dar purtând prima știință a ceea ce vine, lumina sosind în unghiul care aparține ultimului capitol al verii. Câini, copii, bicicliști negociind aleile cu agresivitatea blândă și universală a bicicliștilor. Am luat aleea principală, Mara pe o parte, Iris și cu mine pe cealaltă, iar Mara a început.
+Parcul la sfârșit de august e propriul lui mic anotimp – copacii încă plini, dar cu prima știință a ceea ce vine, lumina în unghiul care aparține ultimului capitol al verii. Câini, copii, bicicliști care negociază aleile cu agresivitatea blândă și universală a bicicliștilor. Am luat aleea principală, Mara pe o parte, Iris și cu mine pe cealaltă, iar Mara a început.
 
-Era atentă cu limbajul. Rezultatele dumneavoastră medicale, a spus – imagistica de la OLVG – fuseseră semnalate prin Spațiul European al Datelor de Sănătate pentru evaluare de specialitate. Arcturus întreținea aranjamente de monitorizare cu mai multe noduri ale acelei rețele, urmărind anomalii de o anumită clasă, în scop de cercetare. Ce arătau scanările lui Iris era, în înțelegerea lor, cea mai semnificativă constatare de felul acesta pe care o întâlniseră vreodată.
+Era atentă cu limbajul. Rezultatele dumneavoastră medicale, a spus – imagistica de la OLVG – fuseseră semnalate prin Spațiul European al Datelor de Sănătate pentru evaluare de specialitate. Arcturus întreținea aranjamente de monitorizare cu mai multe noduri ale acelei rețele, în căutarea unor anomalii de o anumită clasă, în scop de cercetare. Ce arătau scanările lui Iris era, în înțelegerea lor, cea mai semnificativă constatare de felul acesta pe care o întâlniseră vreodată.
 
 A spus asta cum spui un lucru important în timp ce urmărești foarte atent cum aterizează.
 
@@ -62,7 +62,7 @@ A lăsat o fracțiune de căldură în partea asta din urmă, primul centimetru 
 
 ---
 
-Ajunseserăm la capătul îndepărtat al aleii principale – iazul în spatele nostru, grădina de trandafiri în stânga, lumina venind printre copaci în unghiul ei de sfârșit de vară, aurind totul blând, promițând nimic.
+Ajunseserăm la capătul îndepărtat al aleii principale – iazul în spatele nostru, grădina de trandafiri în stânga, lumina printre copaci în unghiul ei de sfârșit de vară – aurea totul blând și nu promitea nimic.
 
 — O să ne gândim, a spus Iris.
 
@@ -98,3 +98,4 @@ Ne-am întors pe unde veniserăm, pe lângă iaz și trandafiri și bărbatul cu
 - „the kind of conversation that sits better without walls“ → „o conversație care stă mai bine fără pereți“; „the kind of park that exists for …“ → „un parc care există pentru …“.
 - Mara's reported speech (no quotes in the English) kept indirect; her quoted lines with the dialogue dash.
 - „a închis dosarul“ = closed the file (§E).
+- v2 (§9 rewrite): four sites — the gerund chains of the park (purtând/sosind, negociind, urmărind, venind/aurind/promițând) → „cu …“ / relative / finite. Mara's card, her reported speech and „a închis dosarul“ untouched. Fidelity audit: no content shift.

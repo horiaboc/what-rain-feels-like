@@ -2,9 +2,9 @@
 
 ---
 
-Redacția De Correspondent e pe Barentszplein, în portul de vest – partea Amsterdamului care a fost construită pe apă și n-a încetat niciodată să pară așa: cărămidă industrială reconvertită, ceruri largi, lumina anume care vine de pe apa deschisă după-amiaza și face totul să pară puțin mai bine documentat decât este. Am luat tramvaiul de la Waterlooplein cu bagajele între picioare și cu orașul alunecând pe lângă ferestre cum alunecă un oraș care nu știe că e părăsit în fugă.
+Redacția De Correspondent e pe Barentszplein, în portul de vest – partea Amsterdamului care a fost construită pe apă și n-a încetat niciodată să pară așa: cărămidă industrială reconvertită, ceruri largi, lumina anume care vine de pe apa deschisă după-amiaza și face totul să pară puțin mai bine documentat decât este. Am luat tramvaiul de la Waterlooplein cu bagajele între picioare, iar orașul aluneca pe lângă ferestre cum alunecă un oraș care nu știe că e părăsit în fugă.
 
-Iris stătea lângă mine și privea străzile. Era mai tăcută de la cafenea – nu retrasă; mai degrabă cineva care a pus ceva mare într-un sertar și dedică o atenție reală ținerii sertarului închis. Mâinile ei, când nu țineau curelele bagajului, erau perfect nemișcate. Am învățat să-i citesc nemișcările. Aceasta era portantă.
+Iris stătea lângă mine și privea străzile. Era mai tăcută de la cafenea – nu retrasă; mai degrabă cineva care a pus ceva mare într-un sertar și se străduiește cu adevărat să țină sertarul închis. Mâinile ei, când nu țineau curelele bagajului, erau perfect nemișcate. Am învățat să-i citesc nemișcările. Aceasta era portantă.
 
 — Spune-mi ce îți amintești, am spus. Despre redacție.
 
@@ -62,7 +62,7 @@ S-a mai uitat o clipă la el.
 
 ---
 
-Femeia care a ieșit avea treizeci și ceva de ani – brunetă, iute, purtând distragerea blândă a cuiva care tocmai a ieșit dintr-un lucru și e încă parțial în el. A traversat redacția și s-a oprit în fața lui Iris, iar expresia ei era plăcută și cu totul goală.
+Femeia care a ieșit avea treizeci și ceva de ani – brunetă, iute, cu distragerea blândă a cuiva care tocmai a ieșit dintr-un lucru și e încă parțial în el. A traversat redacția și s-a oprit în fața lui Iris, iar expresia ei era plăcută și cu totul goală.
 
 — Iris Jacobs? Eu sunt Lena, a spus.
 
@@ -76,7 +76,7 @@ O privire aproape de scuză.
 
 — Sunt aici de trei ani. Înainte de asta n-aș putea spune.
 
-Tăcerea care a urmat n-a fost lungă. Iris a mânuit-o cum mânuiește lucrurile pentru care n-are categorie: cu grijă, fără să arate cusătura. Am privit-o nearătând cusătura, iar pieptul meu a făcut ceva ce am refuzat să examinez până mai târziu.
+Tăcerea care a urmat n-a fost lungă. Iris a mânuit-o cum mânuiește lucrurile pentru care n-are categorie: cu grijă, fără să arate cusătura. Am privit-o cum nu arată cusătura, iar pieptul meu a făcut ceva ce am refuzat să examinez până mai târziu.
 
 — Am lucrat aici, a spus Iris. Cam acum un an. Scurt – tehnologie civică.
 
@@ -104,13 +104,13 @@ A spus-o fără un gram de răutate, ca pe un fapt pe care îi părea rău să-l
 
 Nu ar fi putut fi. Îmi descrisese redacția asta la Berlin, cu luni în urmă, înainte ca Amsterdamul să fie măcar o idee – grupurile de birouri, aparatul de cafea, băutele de sfârșit de săptămână. O descrisese cum descrii un loc în care ai stat.
 
-— Îmi pare rău că nu pot fi de mai mult ajutor, a spus Tom, și vorbea serios. S-a mai uitat la ea o clipă, cu o mică nedumerire a lui – un om încercând să împace ceva ce nu se așeza – apoi s-a scuturat de ea, a zâmbit, i-a strâns mâna și s-a întors la biroul lui.
+— Îmi pare rău că nu pot fi de mai mult ajutor, a spus Tom, și vorbea serios. S-a mai uitat la ea o clipă, cu o mică nedumerire a lui – un om care încerca să împace ceva ce nu se așeza – apoi s-a scuturat de ea, a zâmbit, i-a strâns mâna și s-a întors la biroul lui.
 
 Lena ne-a condus la ușă.
 
 ---
 
-Pe Barentszplein, lumina după-amiezii își făcea munca de port peste apă. Stăteam pe trotuar cu bagajele, stația de tramvai la treizeci de metri, orașul desfășurându-se în jurul nostru cum fac orașele.
+Pe Barentszplein, lumina după-amiezii își făcea munca de port peste apă. Stăteam pe trotuar cu bagajele, stația de tramvai la treizeci de metri, orașul își vedea de treabă în jurul nostru cum fac orașele.
 
 Iris a tăcut o clipă lungă.
 
@@ -120,7 +120,7 @@ Apoi a spus:
 
 M-am uitat la ea.
 
-— Am spus joia. În tramvai. Eram sigură că era joia – o văd, sfârșitul săptămânii, lumina venind prin ferestrele acelea, cineva aducând bitterballen.
+— Am spus joia. În tramvai. Eram sigură că era joia – o văd, sfârșitul săptămânii, lumina care vine prin ferestrele acelea, cineva care aduce bitterballen.
 
 A făcut o pauză.
 
@@ -160,7 +160,7 @@ M-am uitat la ea. Era speriată – mai mult decât arătase pe alee, mai mult d
 
 A dat din cap.
 
-Mi-am ridicat bagajul. Ea și l-a ridicat pe al ei. Am mers spre stația de tramvai, iar orașul s-a mișcat în jurul nostru, și niciunul n-a spus nimic o vreme, care era lucrul corect de spus.
+Mi-am ridicat bagajul. Ea și l-a ridicat pe al ei. Am mers spre stația de tramvai, iar orașul s-a mișcat în jurul nostru, și niciunul n-a spus nimic o vreme – și asta era lucrul corect de spus.
 
 Orice ar fi ținut locurile acelea, aveam să mergem și să stăm în ele.
 
@@ -171,3 +171,4 @@ Orice ar fi ținut locurile acelea, aveam să mergem și să stăm în ele.
 - Vera's line here: ch03 seeded „Vera, care stătea lângă mine“ — same person, consistent.
 - „the way of a city that doesn't know it's being fled“ → „cum alunecă un oraș care nu știe că e părăsit în fugă“.
 - Barentszplein, Centraal, bitterballen unchanged.
+- v2 (§9 rewrite): eight sites — gerund chains (alunecând, purtând, nearătând, încercând, desfășurându-se, venind/aducând) → finite / relative / „cu …“; the nominal „ținerii sertarului închis“ → „să țină sertarul închis“; the closing relative → dash. [ECHO] „portantă“, the liturgy and §C „brunetă, iute“ untouched. Fidelity audit: no content shift.

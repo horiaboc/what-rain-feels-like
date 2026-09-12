@@ -2,7 +2,7 @@
 
 ---
 
-Ușa s-a deschis spre ceva ce doar semăna cu căldura. Niciun calorifer ticăind – nu era nevoie, atât de adânc într-un august olandez – dar căldură totuși, construită din alte lucruri: veioze deja aprinse împotriva serii care se stingea, culoare unde nu mă așteptasem la culoare. Un covor roșu-închis cu ocru. O mică gravură înrămată în hol, pe care n-o recunoșteam, dar mi-a plăcut imediat. Nimic nu se potrivea, în felul deliberat în care nu se potrivesc lucrurile într-o casă pe care cineva a mobilat-o cu adevărat, piesă cu piesă, cu gust, nu după o listă – făcut frumos, nu exagerat.
+Ușa s-a deschis spre ceva ce doar semăna cu căldura. Niciun calorifer care să ticăie – nu era nevoie, atât de adânc într-un august olandez – dar căldură totuși, construită din alte lucruri: veioze deja aprinse împotriva serii care se stingea, culoare unde nu mă așteptasem la culoare. Un covor roșu-închis cu ocru. O mică gravură înrămată în hol, pe care n-o recunoșteam, dar mi-a plăcut imediat. Nimic nu se potrivea, în felul deliberat în care nu se potrivesc lucrurile într-o casă pe care cineva a mobilat-o cu adevărat, piesă cu piesă, cu gust, nu după o listă – făcut frumos, nu exagerat.
 
 Am stat în hol o clipă lungă fără să mă mișc.
 
@@ -14,7 +14,7 @@ Apoi Jonas mi-a spus pe nume, încet, de undeva puțin dincolo de mine, și cân
 
 Era, inconfundabil, un loc pe care îl pregătise cineva. Nu generic – pentru mine. Un cardigan atârna într-un cuier lângă ușă, exact mărimea mea. Un raft din mica sufragerie ținea cărți pe care le recunoșteam, titluri pe care le-aș fi ales pentru mine. Pe blatul din bucătărie, o cutie din ceaiul pe care îl beau cu adevărat, nu un ceai, acela.
 
-Dar nimic din bucătărie nu sugera că cineva fusese acolo de curând – nicio ordine făcută în ultima clipă, niciun miros de ceva gătit, niciun semn al unei mâini trecând prin camere în orele dinaintea noastră. Avea în schimb nemișcarea reținută a unui loc ținut pregătit mult timp și apoi, în tăcere, lăsat singur să aștepte: șters de praf, aerisit, aprovizionat și închis ermetic în spatele unei uși până azi.
+Dar nimic din bucătărie nu sugera că cineva fusese acolo de curând – nicio ordine făcută în ultima clipă, niciun miros de ceva gătit, niciun semn al unei mâini care să fi trecut prin camere în orele dinaintea noastră. Avea în schimb nemișcarea reținută a unui loc ținut pregătit mult timp și apoi, în tăcere, lăsat singur să aștepte: șters de praf, aerisit, aprovizionat și închis ermetic în spatele unei uși până azi.
 
 N-aveam un răspuns pentru nimic din toate astea. Mi-am pus bagajul jos în holul unei case care mă știa deja mai bine decât mă știam eu însămi, și am ținut plicul la piept, nedeschis, și pentru prima dată de la bucătăria Bernadettei mi-am permis să plâng – nu de durere de data asta, sau nu doar de durere, ci de tandrețea ciudată, insuportabilă, de a fi îngrijită de cineva care nu voia să-și arate fața.
 
@@ -32,7 +32,7 @@ Am stat așa o vreme – destul ca lumina de afară să-și termine căderea de 
 
 Bucătăria, odată ce am început să ne uităm cum trebuie, l-a făcut să tacă altfel decât cactusul.
 
-Ouă în frigider, și lângă ele bucata de brânză pe care o cumpără el cu adevărat – aceea anume, nu o aproximație de supermarket. Un coș de cartofi tari pe blat, cei pe care îi folosești la stamppot. O cutie de cafea în dulap, măcinată cum o macină el, nu cea gata măcinată de care se plânge când suntem undeva fără aparat, stând lângă o pungă din făina aceea anume de patiserie pe care o folosește în rarele dimineți când se hotărăște să facă ceva de la zero – ceea ce a făcut exact o dată de când suntem împreună, din câte știu, și ceea ce cineva, undeva, știa aparent oricum.
+Ouă în frigider, și lângă ele bucata de brânză pe care o cumpără el cu adevărat – aceea anume, nu o aproximație de supermarket. Un coș de cartofi tari pe blat, cei pe care îi folosești la stamppot. O cutie de cafea în dulap, măcinată cum o macină el, nu cea gata măcinată de care se plânge când suntem undeva fără aparat, lângă o pungă din făina aceea anume de patiserie pe care o folosește în rarele dimineți când se hotărăște să facă ceva de la zero – a făcut asta exact o dată de când suntem împreună, din câte știu, și cineva, undeva, știa aparent oricum.
 
 — Bine, a spus, încet, dulapului. Asta e – bine.
 
@@ -42,13 +42,13 @@ Am stat în mijlocul bucătăriei unui străin și n-am spus nimic o vreme, pent
 
 ---
 
-Am făcut ouă, pentru că ouăle păreau lucrul de mărimea potrivită de încercat. Jonas a tăiat pâine și nu s-a certat cu mine despre cum le sparg în tigaie, ceea ce însemna fie că învățase ceva în lunile de când suntem împreună, fie că era pur și simplu prea obosit ca să redeschidă procesul, și oricum ar fi fost, i-am fost recunoscătoare. Am mâncat la măsuța din bucătărie, plicul stând unde îl pusesem cu ore în urmă, nedeschis, între fructieră și fereastră.
+Am făcut ouă, pentru că ouăle păreau lucrul de mărimea potrivită de încercat. Jonas a tăiat pâine și nu s-a certat cu mine despre cum le sparg în tigaie – fie învățase ceva în lunile de când suntem împreună, fie era pur și simplu prea obosit ca să redeschidă procesul, și oricum ar fi fost, i-am fost recunoscătoare. Am mâncat la măsuța din bucătărie, plicul acolo unde îl pusesem cu ore în urmă, nedeschis, între fructieră și fereastră.
 
 Niciunul nu l-a pomenit direct. Am vorbit în schimb despre lucruri mici, sigure – dacă presiunea apei de sus funcționează, dacă obloanele chiar se închid, dacă Bernadette își va aminti de noi cu drag sau cu neliniștea vagă a cuiva care a spus prea multe unor străini. A fost, în felul ei, conversația cea mai obișnuită pe care o avuseserăm în trei săptămâni, și am înțeles, mâncând ouă la o masă pe care cineva o aprovizionase cu muștarul meu, că obișnuitul era rostul. Cineva ne construise o seară în care puteam pur și simplu să luăm cina.
 
 ---
 
-Când farfuriile s-au golit, Jonas s-a uitat la plic, apoi la mine, fără să spună nimic, doar punând întrebarea din sprâncene, cum face el.
+Când farfuriile s-au golit, Jonas s-a uitat la plic, apoi la mine, fără să spună nimic, doar a pus întrebarea din sprâncene, cum face el.
 
 — Nu în seara asta, am spus.
 
@@ -58,7 +58,7 @@ N-a insistat.
 
 — Nu cred că îl evit, am spus, pentru că voiam să fie adevărat și aveam nevoie să mă aud spunând-o ca să aflu. Doar că nu mai am nimic azi. Orice e acolo o să vrea tot din mine, și nu mai e un tot din mine în seara asta.
 
-— Atunci așteaptă, a spus Jonas, simplu, și a mutat plicul pe blat, în afara liniei directe de vedere a mesei – nu ascuns, doar pus deoparte, considerația tăcută a unui om care înțelegea că unele lucruri trebuie să nu fie privite ca să poți sta cu ele.
+— Atunci așteaptă, a spus Jonas, simplu, și a mutat plicul pe blat, în afara liniei directe de vedere a mesei – nu ascuns, doar pus deoparte, considerația tăcută a unui om care înțelegea că unele lucruri trebuie să nu fie privite ca să poți rămâne cu ele.
 
 Am găsit prosoape într-un dulap de rufe care mirosea a lavandă și nimic altceva, și un pat făcut într-o cameră de sus cu aceeași grijă ca tot restul, și am înțeles, urcând în el, că orice era casa asta – o bunătate, o strategie, amândouă deodată, nu mai conta care, nu în seara asta – făcuse exact ce fusese construită să facă. Pentru o seară, într-un sat de la marginea țării, nu eram vânați. Eram doar obosiți, și hrăniți, și la cald, și împreună, și asta a fost, pentru durata unei seri, de ajuns.
 
@@ -67,3 +67,4 @@ Am găsit prosoape într-un dulap de rufe care mirosea a lavandă și nimic altc
 - The Diogenes-not-Diogenes cactus; „ghiveci simplu de teracotă“.
 - „the specific one“ → „aceea anume“; „the kind you use for stamppot“ → „cei pe care îi folosești la stamppot“.
 - „să redeschidă procesul“ for „relitigate“.
+- v2 (§9 rewrite): seven sites — gerunds (ticăind, trecând, stând ×2, punând) → relative / finite; two „ceea ce“ → dashes; „să poți sta cu ele“ (*sat with*) → „să poți rămâne cu ele“. §C site and the cactus line untouched. Fidelity audit: no content shift.

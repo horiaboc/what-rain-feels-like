@@ -20,7 +20,7 @@ S-a uitat la mine.
 
 — Am citit despre ea aseară.
 
-Petrecusem, de fapt, o jumătate de oră pe telefon după ce adormise.
+Petrecusem, într-adevăr, o jumătate de oră pe telefon după ce adormise.
 
 — Corabie a Companiei Indiilor Orientale. Construită între '85 și '90. Stă la debarcader.
 
@@ -66,13 +66,13 @@ Nu neadevărat, în general. Nici ce se întâmpla. M-a citit o clipă cu preciz
 
 — Cinci minute.
 
-Am ieșit pe intrarea principală și am traversat piața la pas, îndreptându-mă spre apă – nu spre el, ci pe o linie care ar fi trecut la distanță de vorbit dacă rămânea pe loc.
+Am ieșit pe intrarea principală și am traversat piața la pas, cu fața spre apă – nu spre el, ci pe o linie care ar fi trecut la distanță de vorbit dacă rămânea pe loc.
 
 N-a rămas pe loc.
 
 Până am acoperit distanța, dispăruse – nu grăbit, sau cel puțin nu vizibil, dar cu totul: în traficul pietonal de-a lungul Oosterdok, printr-un nod de turiști de pe debarcader, departe. Am stat unde stătuse el și m-am uitat la spațiul pe care îl ocupase, și la paharul de cafea pe care îl lăsase pe zidul scund.
 
-Încă cald când i-am atins peretele. Asta îmi spunea ceva. Mai ales îmi spunea că fusese exact aici, fiind nimeni, o bună bucată de vreme.
+Încă cald când i-am atins peretele. Asta îmi spunea ceva. Mai ales îmi spunea că fusese exact aici, nimeni anume, o bună bucată de vreme.
 
 M-am întors înăuntru.
 
@@ -80,7 +80,7 @@ M-am întors înăuntru.
 
 *Amsterdam* era pentru ce veniserăm.
 
-Stă de-a lungul debarcaderului estic al muzeului – lată, cu lemnul întunecat, parâmele și greementul reușind să pară deopotrivă funcționale și imposibile, cum face greementul. Am urcat pe pasarelă și am coborât sub punte.
+Stă de-a lungul debarcaderului estic al muzeului – lată, cu lemnul întunecat, parâmele și greementul reușesc să pară deopotrivă funcționale și imposibile, cum face greementul. Am urcat pe pasarelă și am coborât sub punte.
 
 Sub punte, corabia e o altă lume. Întâi mirosul: lemn vechi, frânghie, ceva mineral dedesubt. Tavanul destul de jos ca să mă mișc cu considerația unui om care n-a fost întotdeauna atent pe lângă tavanele joase și își poartă educația. Cala se întindea pe toată lungimea ei – butoaie, lăzi, recuzita unei călătorii întrerupte în drum spre altundeva.
 
@@ -132,7 +132,7 @@ S-a uitat la mine cu ceva ce nu văd des la ea – nu frică, nu chiar. Ceva con
 
 — Nu sunt sigur de nimic, am spus. Dar n-am de gând să nu-ți spun.
 
-A dat din cap. O vedeam rulând același calcul pe care îl rulasem eu și ajungând unde ajunsesem eu: informații insuficiente; prea mult tipar ca să-l ignori.
+A dat din cap. O vedeam cum rulează același calcul pe care îl rulasem eu și cum ajunge unde ajunsesem eu: informații insuficiente; prea mult tipar ca să-l ignori.
 
 — O singură persoană, a spus.
 
@@ -146,7 +146,7 @@ A absorbit asta. Corabia a scârțâit. Prin tambuchiul de deasupra, un pescăru
 
 ---
 
-Am ieșit din muzeu în plină după-amiază. Oosterdok își făcea comerțul obișnuit – turiști, bicicliști, taxiul acvatic tăindu-și siajul. Priveam fără să privesc, o pricepere care se îmbunătățește repede odată ce are un motiv.
+Am ieșit din muzeu în plină după-amiază. Oosterdok își făcea comerțul obișnuit – turiști, bicicliști, taxiul acvatic își tăia siajul. Priveam fără să privesc, o pricepere care se îmbunătățește repede odată ce are un motiv.
 
 Femeia aștepta la baza treptelor muzeului.
 
@@ -174,3 +174,4 @@ Iris s-a uitat la ea. Apoi la femeie. Apoi la mine.
 - Mara ↔ Iris/Jonas: dumneavoastră + „doamnă Jacobs“ / „doamnă Seyn“ (§B).
 - „VOC East Indiaman“ → „Corabie a Companiei Indiilor Orientale“; Batavia unchanged; nautical words: greement, parâme, tambuchi, cală, coaste.
 - „the organized unremarkableness“ → „banalitatea organizată“.
+- v2 (§9 rewrite): six sites — „de fapt“ → „într-adevăr“; gerunds (îndreptându-mă, fiind, reușind, rulând/ajungând, tăindu-și) → finite / „cu fața spre“ / „nimeni anume“. Title, the ch28 callback and Mara's address forms untouched. Fidelity audit: no content shift.

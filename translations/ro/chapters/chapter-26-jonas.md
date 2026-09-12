@@ -2,9 +2,9 @@
 
 ---
 
-Era o cafenea pe Czaar Peterstraat care deschidea devreme, exact ce ne trebuia – un loc în care să stăm cu o cafea și care să nu fie un coridor de spital, un loc în care orașul să poată demonstra că își vede în continuare de treabă. Am găsit-o pe drumul de la OLVG, Iris mergând cu grijă, capul dictând ritmul. Avea aerul păzit al cuiva care navighează un trup ce a arătat de curând că poate produce surprize.
+Era o cafenea pe Czaar Peterstraat care deschidea devreme, exact ce ne trebuia – un loc în care să stăm cu o cafea și care să nu fie un coridor de spital, un loc în care orașul să poată demonstra că își vede în continuare de treabă. Am găsit-o pe drumul de la OLVG; Iris mergea cu grijă, capul dicta ritmul. Avea aerul păzit al cuiva care navighează un trup ce a arătat de curând că poate produce surprize.
 
-Am luat o masă la fereastră. Afară: un canal, un pod, lumina joasă a Amsterdamului într-o dimineață de sfârșit de august. Un bărbat a trecut pe bicicletă cu o ladă de pâine legată în spate. Orașul, indiferent și credincios, făcând ce a făcut dintotdeauna – ceea ce în dimineața aceea semăna mai puțin a indiferență și mai mult a promisiune.
+Am luat o masă la fereastră. Afară: un canal, un pod, lumina joasă a Amsterdamului într-o dimineață de sfârșit de august. Un bărbat a trecut pe bicicletă cu o ladă de pâine legată în spate. Orașul, indiferent și credincios, făcea ce a făcut dintotdeauna – și în dimineața aceea asta semăna mai puțin a indiferență și mai mult a promisiune.
 
 Iris și-a înfășurat mâinile în jurul cafelei. Eu pe ale mele în jurul cafelei mele. Am stat o vreme fără să vorbim, iar nevorbitul ne ținea în picioare.
 
@@ -12,7 +12,7 @@ Iris și-a înfășurat mâinile în jurul cafelei. Eu pe ale mele în jurul caf
 
 Stătusem cu asta toată noaptea.
 
-Cuvintele lui Maes rămăseseră în ordinea în care le dăduse: densitatea osoasă, uniformitatea, conectivitatea cortexului, juliturile închizându-se mai repede decât ar fi trebuit. Rulasem secvența iar și iar, cum rulezi o propoziție pe care n-o poți parsa, sperând că repetiția va desprinde gramatica. Nu se desprinsese. La ce ajunsesem până dimineața era mai simplu și mai greu decât orice teorie: nu știam ce nu era în regulă cu Iris – sau dacă *în regulă* era măcar cuvântul potrivit – iar neștiutul stătea în mine ca o piatră pentru care n-aveam buzunar.
+Cuvintele lui Maes rămăseseră în ordinea în care le dăduse: densitatea osoasă, uniformitatea, conectivitatea cortexului, juliturile care se închideau mai repede decât ar fi trebuit. Rulasem secvența iar și iar, cum rulezi o propoziție pe care n-o poți parsa, sperând că repetiția va desprinde gramatica. Nu se desprinsese. La ce ajunsesem până dimineața era mai simplu și mai greu decât orice teorie: nu știam ce nu era în regulă cu Iris – sau dacă *în regulă* era măcar cuvântul potrivit – iar neștiutul stătea în mine ca o piatră pentru care n-aveam buzunar.
 
 Îmi era teamă pentru ea. Asta era tot. Nu curios. Nu analitic. Îngrijorat, în felul plat, precis în care ți-e frică pentru cineva pe care îl iubești. Constatările nu erau o enigmă; erau trupul ei – trupul omului lângă care adormeam de luni de zile – și ceva în el era altfel decât înțeleseserăm oricare dintre noi, și nu știam încă ce însemna asta pentru ea.
 
@@ -40,9 +40,9 @@ M-am uitat la canal. Omul cu pâinea era demult dus. Pe malul celălalt, un stâ
 
 Am făcut o pauză.
 
-— Cu asta am stat.
+— Asta am tot întors pe toate părțile.
 
-A ținut-o o clipă, cum ține ea lucrurile – întorcând-o o dată, verificându-i greutatea. Apoi a spus:
+A ținut-o o clipă, cum ține ea lucrurile – o întoarce o dată, îi verifică greutatea. Apoi a spus:
 
 — Mai sunt și alte lucruri. De dinainte de spital.
 
@@ -58,11 +58,11 @@ S-a uitat la mâinile ei.
 
 — Destule cât să fie un tipar.
 
-Am stat cu asta. În jurul nostru, cafeneaua se umplea în grade tăcute – laptopuri, cafea, autosuficiența blândă a unei zile de lucru amsterdameze. Dincolo de geam, viața obișnuită continua să se desfășoare ca și cum nimic, nicăieri, nu s-ar fi schimbat. Asta e cu viața obișnuită. Habar n-are.
+Am lăsat asta să se așeze. În jurul nostru, cafeneaua se umplea în grade tăcute – laptopuri, cafea, autosuficiența blândă a unei zile de lucru amsterdameze. Dincolo de geam, viața obișnuită continua să se desfășoare ca și cum nimic, nicăieri, nu s-ar fi schimbat. Asta e cu viața obișnuită. Habar n-are.
 
 — Ți-e frică? am spus.
 
-A cântărit cum cântărește totul – cântărind cu adevărat, nu întinzând mâna după răspunsul așteptat.
+A cântărit cum cântărește totul – a cântărit cu adevărat, n-a întins mâna după răspunsul așteptat.
 
 — Ceva între curiozitate și – *ceva nu e în regulă*, a spus. Amândouă deodată. Vin pe rând.
 
@@ -78,9 +78,9 @@ Am făcut o pauză.
 
 — Contezi prea mult pentru mine. Partea asta nu e supusă revizuirii.
 
-A tăcut. Ochii ei au făcut ce fac uneori – nu umplându-se, mai exact; limpezindu-se. Devenind foarte prezenți, ca pentru a primi un lucru cu grijă și a-l pune undeva la adăpost.
+A tăcut. Ochii ei au făcut ce fac uneori – nu s-au umplut, nu chiar; s-au limpezit. Au devenit foarte prezenți, ca pentru a primi un lucru cu grijă și a-l pune undeva la adăpost.
 
-— Trebuie să știi asta, am spus. Înainte de orice altceva. Trebuie pur și simplu să știi.
+— Trebuie să știi asta, am spus. Înainte de orice altceva. Trebuie doar să știi.
 
 A dat din cap. Mic, complet.
 
@@ -134,3 +134,4 @@ Orice ar fi urmat, ordinea operațiilor era stabilită: ea, mai întâi. Misteru
 - „Extraterestră“ — Iris says it of herself, feminine.
 - „the way you run a sentence“ / „the way she holds things“ / „the way of two people“ → „cum rulezi …“ / „cum ține ea …“ / „cum tac doi oameni“.
 - Amsterdam UMC unchanged.
+- v2 (§9 rewrite): nine sites — the gerund chains (mergând/dictând, făcând, închizându-se, întorcând-o/verificându-i, cântărind/întinzând, umplându-se/limpezindu-se/devenind) → finite; „ceea ce … semăna“ → „și … asta semăna“; Jonas's *sat with* kept once („Stătusem cu asta toată noaptea.“) and the other two varied; „mai exact“ → „nu chiar“; „pur și simplu“ dropped from his speech. [ECHO] „ea, mai întâi. Misterul, după.“ and „Vreau să rămână consemnat.“ untouched. Fidelity audit: no content shift.
