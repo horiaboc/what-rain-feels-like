@@ -6,7 +6,7 @@ Der Treffer kommt um 11:52 Uhr an einem Dienstag, und es ist Devos, der ihn beme
 
 „Kartenzahlung“, sagt er. „Maastricht. Vor acht Minuten.“
 
-Mara Seyn durchquert die Einsatzzentrale, ohne eilig zu wirken, was eine Kunst für sich ist, und liest über seine Schulter hinweg den Bildschirm. Eine Einzelhandelstransaktion, Innenstadt. Lebensmittel, laut Händlercode. Der Name auf der Karte ist der Name, den sie seit zwei Wochen umkreisen.
+Mara Seyn durchquert die Einsatzzentrale, ohne eilig zu wirken – eine Kunst für sich –, und liest über seine Schulter hinweg den Bildschirm. Eine Einzelhandelstransaktion, Innenstadt. Lebensmittel, laut Händlercode. Der Name auf der Karte ist der Name, den sie seit zwei Wochen umkreisen.
 
 „Bestätigen Sie, dass es live ist“, sagt sie. „Keine verzögerte Stapelbuchung. Kein Abo.“
 
@@ -100,7 +100,7 @@ Auch das legt sie ab. Die Akte wird dicker. Sie öffnet sie nicht.
 
 Sie verbringt den Nachmittag damit, Vorkehrungen zu treffen, und sie trifft sie auf Papier, von Hand, im Annex der Gewohnheiten, den sie seit zwei Wochen zusammenträgt, ohne sich einzugestehen, dass es auf eine Bekehrung hinausläuft: Bleistift, Einzelexemplare, kein Wort in der Nähe von Glas. Die Disziplin des Gegners, Punkt für Punkt übernommen, so wie man eine Sprache von jemandem lernt, indem man in ihr geschlagen wird.
 
-Als der Tag zu Ende geht, ist die Fotografie noch immer auf ihrem Telefon. Sie lässt sich nicht sauber löschen, sagen die Techniker – irgendein Artefakt der Art und Weise, wie sie eingetroffen ist. Sie bieten an, das Gerät komplett zurückzusetzen.
+Als der Tag zu Ende geht, ist die Fotografie noch immer auf ihrem Telefon. Sie lässt sich nicht sauber löschen, sagen die Techniker – irgendein Artefakt davon, wie sie eingetroffen ist. Sie bieten an, das Gerät komplett zurückzusetzen.
 
 „Lassen Sie es“, sagt sie.
 
@@ -117,3 +117,4 @@ Seit elf Jahren führt sie von diesem Gebäude aus Einsätze, und kein einziges 
 - GLOSSARY: operations floor → „die Einsatzzentrale“; run operations / the operation → „Einsätze führen“ / „der Einsatz“ — the closing line turns on „führen“ in both directions. Mara ↔ Devos: Sie (Vantage house style; pair not in §B table).
 - "who holds the pen" → „wer die Feder führt“ (native idiom); "summons" → „Vorladung“; "conversion" → „Bekehrung“ to keep Conrad's church register; "Protocol" (security procedure) → „das Protokoll“, a different sense from ALEPH's record.
 - "a stage an hour before the performance" fixed as „eine Bühne eine Stunde vor der Vorstellung“ at both sites; „Wir werden uns vorstellen“ keeps the introduce/imagine double.
+- v3 (§9 rewrite): one „, was …“ tail and one „der Art und Weise, wie“ frame re-cut. Fidelity audit: „Sauberes Hemd, Mara.“, „Auftraggeber“, „tragend“, „*erzeugt*“ verbatim.

@@ -8,7 +8,7 @@ Iris sagte ihn, bevor die Farben ganz erwacht waren.
 
 „Ich muss es sein.“
 
-Ich hatte die Nacht damit verbracht, Argumente dagegen zu bauen, und ich hatte sie bereit – geordnet, nummeriert, an den Fugen verstärkt. Sie sah mir in die Augen und wartete, ließ mir Raum, sie aufzufahren, was das Entwaffnendste ist, das ein Mensch einem Argument antun kann. Ich sah auf meine sorgfältige Liste und stellte fest, dass sich jeder Punkt darauf auf dasselbe eine Wort reduzieren ließ, und dass das Wort *nein* war, und dass *nein* kein Argument war. Es war nur Angst mit Krawatte.
+Ich hatte die Nacht damit verbracht, Argumente dagegen zu bauen, und ich hatte sie bereit – geordnet, nummeriert, an den Fugen verstärkt. Sie sah mir in die Augen und wartete, ließ mir Raum, sie aufzufahren – das Entwaffnendste, was ein Mensch einem Argument antun kann. Ich sah auf meine sorgfältige Liste und stellte fest, dass sich jeder Punkt darauf auf dasselbe eine Wort reduzieren ließ, und dass das Wort *nein* war, und dass *nein* kein Argument war. Es war nur Angst mit Krawatte.
 
 „Er will den Betreiber“, sagte Iris sanft, als helfe sie mir, die Liste zur Ruhe zu betten. „Nicht mich. Ich bin das Telefon – so denkt er von mir, du hast es daran gesehen, wie seine Leute sich bewegt haben. Man beschädigt nicht das Telefon, in das man hineinsprechen will. Solange er glaubt, dass jemand hinter mir steht, bin ich die sicherste Person in dieser Konstellation.“ Sie hielt inne. „Und dass niemand dahintersteht, kann er sich nicht vorstellen. Aleph hat es gesagt: Es ist das eine, was seine Welt nicht enthält. Seine Blindheit ist die Rüstung. Ich gehe in ihr.“
 
@@ -103,3 +103,4 @@ Soll er sich in seinem stillen Raum einen Reim darauf machen.
 - "It would keep." → „Er würde sich halten.“ (the thought kept like something perishable, next to the lit fuse); the plain idiom „Das hatte Zeit.“ loses the holding image — reviewer's call.
 - The planted message „*Wir wissen, dass ihr hinseht.*“ addresses the watchers in the plural (ihr), not Sie to Conrad; "In the open" → „Im Freien“. "Noted" → „Notiert“, deliberately inside the §E47 notieren cluster.
 - "his quiet room" → „sein stiller Raum“ after the ch41 title; "soundproof room" → „schalldichter Raum“; "the operator" → „der Betreiber“ per §E66.
+- v3 (§9 rewrite): one „, was …“ tail re-cut; otherwise read through. Fidelity audit: „das Tier“ ×2, „die aufgezeichnete Welt“, „Lage unter Kontrolle“, „Notiert“ verbatim.
