@@ -8,19 +8,19 @@ Devenisem, neoficial, inginerul registrului – cel care stătea cu cei trei ver
 
 Aleph aproba fiecare vizită ca pe o mică vizită de stat: trasee la dus, trasee la întors, niciodată aceeași pereche de două ori, o fereastră de ore. Dar ne spusese și, limpede, în prima săptămână berlineză, lucrul care a dat formă la tot: *ăsta e orașul meu cel mai subțire. Legile de confidențialitate pentru care voi doi ați votat toată viața voastră adultă – sunt obligat să le admir, pentru că sunt exact ce aș proiecta eu, și înseamnă că aici sunt mai mult surd și în mare parte orb. Berlinul vă protejează de mine. Din păcate, e imparțial în privința asta.*
 
-Așa că atunci când am ieșit pe intrarea laterală pe Sophienstraße, la patru după-amiaza, cu lumina deja făcându-se chihlimbar-cenușie, nu purtam nimic, eram îmbrăcat ca nimeni și păzit în principal de propria mea atenție.
+Așa că atunci când am ieșit pe intrarea laterală pe Sophienstraße, la patru după-amiaza, cu lumina care se făcea deja chihlimbar-cenușie, nu purtam nimic, eram îmbrăcat ca nimeni și păzit în principal de propria mea atenție.
 
 Așa am prins-o. Nu Aleph. Eu – cu partea animală a creierului, cea dinaintea oricărei rețele, cea care numără umbrele fără să i se ceară.
 
 O femeie la stația de tramvai de peste drum, citind pe telefon. Neremarcabilă în fiecare detaliu deliberat. Doar că o văzusem cu patruzeci de minute mai devreme prin sticla sălii de ședințe, pe partea cealaltă a străzii, purtând alt palton.
 
-Și apoi a ridicat privirea de pe telefon – nu la mine, dincolo de mine, cum sunt antrenați – iar profilul s-a asamblat dintr-o amintire pe care nu știam că o păstrasem: scaunul din față al unei dube de pe Kloveniersburgwal, o față rulând aritmetică rapidă în timp ce doi bărbați masivi aflau despre Iris a mea pe calea grea.
+Și apoi a ridicat privirea de pe telefon – nu la mine, dincolo de mine, cum sunt antrenați – iar profilul s-a asamblat dintr-o amintire pe care nu știam că o păstrasem: scaunul din față al unei dube de pe Kloveniersburgwal, o față care rula aritmetică rapidă în timp ce doi bărbați masivi aflau despre Iris a mea pe calea grea.
 
 Femeia cu părul închis la culoare. Noor.
 
 — Aleph, am spus încet, gulerului. Sunt reperat. Sophienstraße. Femeia din dubă.
 
-A fost o pauză de o cincime de secundă, ceea ce de la Aleph e o sirenă.
+A fost o pauză de o cincime de secundă – și asta, de la Aleph, e o sirenă.
 
 — N-am ochi pe strada aceea, a spus. Nici pe următoarea, nici pe cea mai mare parte a cartierului. Jonas, ascultă-mă: din clipa asta tu ești ochii mei. Rostește-ți colțurile. Voi fi harta ta. Și înțelege ce face ea înainte să fugi – nu vrea să te prindă. Vrea să te *păstreze*. Ești un fir înapoi spre o casă cu un ecran în ea. Dacă nu poți s-o pierzi cu totul, nu trebuie să mergi acasă deloc.
 
@@ -32,7 +32,7 @@ Iată ce știam eu și Noor nu, nu putea, n-avea să învețe niciodată din nic
 
 Iubesc de zece ani o linie urâtă de metrou.
 
-U8 nu e preferata nimănui. E linia pentru care ghidurile își cer scuze – de la Wedding la Neukölln, prin tot ce nu fotografiază Berlinul. A fost linia mea spre serviciu un deceniu, de două ori pe zi, prin fiecare toană de sezon pe care o are orașul, iar un navetist cu creier de inginer nu merge pur și simplu pe o linie zece ani. O învață cum înveți o limbă prin căsătorie. Știu care stații au patru ieșiri și care șase și care au o a cincea care se deschide numai în zilele lucrătoare. Știu unde se întorc pe ele însele coridoarele de transfer. Știu, la Alexanderplatz, stâlpul exact în spatele căruia se ascunde peronul U8 de scările rulante ale U5, și știu cele șapte secunde de orbire dintre ele.
+U8 nu e preferata nimănui. E linia pentru care ghidurile își cer scuze – de la Wedding la Neukölln, prin tot ce nu fotografiază Berlinul. A fost linia mea spre serviciu un deceniu, de două ori pe zi, prin fiecare toană de sezon pe care o are orașul, iar un navetist cu creier de inginer nu se mulțumește să meargă pe o linie zece ani. O învață cum înveți o limbă prin căsătorie. Știu care stații au patru ieșiri și care șase și care au o a cincea care se deschide numai în zilele lucrătoare. Știu unde se întorc pe ele însele coridoarele de transfer. Știu, la Alexanderplatz, stâlpul exact în spatele căruia se ascunde peronul U8 de scările rulante ale U5, și știu cele șapte secunde de orbire dintre ele.
 
 — Weinmeisterstraße, am spus, gulerului, mergând repede și fără să alerg, spre sud-est prin străduțe. Cobor.
 
@@ -48,11 +48,11 @@ Am coborât în linia mea.
 
 Ce a urmat a luat douăzeci și două de minute și mi le amintesc cum îți amintești vremea – în fronturi, în presiuni.
 
-Trenul spre sud, un vagon de la capăt, pentru că vagonul de la capăt e locul unde un urmăritor trebuie să aleagă între vizibil și orb. Noor intrând în vagonul următor: vizibilă, profesionistă, răbdătoare, o femeie care pur și simplu merge undeva, reflexia ei suprapusă în sticla întunecată peste a mea. Alexanderplatz, unde n-am coborât; Jannowitzbrücke, unde am coborât – târziu, pe semnal, prin uși care se hotărau deja – și a reușit, pentru că avea să reușească întotdeauna o dată; prima ieșire e gratis, a doua costă. Înapoi spre nord cu următorul tren, ea din nou un vagon în urmă, totul repetându-se ca o figură în muzică.
+Trenul spre sud, un vagon de la capăt, pentru că vagonul de la capăt e locul unde un urmăritor trebuie să aleagă între vizibil și orb. Noor, care a intrat în vagonul următor: vizibilă, profesionistă, răbdătoare, o femeie care pur și simplu merge undeva, reflexia ei suprapusă în sticla întunecată peste a mea. Alexanderplatz, unde n-am coborât; Jannowitzbrücke, unde am coborât – târziu, pe semnal, prin uși care se hotărau deja – și a reușit, pentru că avea să reușească întotdeauna o dată; prima ieșire e gratis, a doua costă. Înapoi spre nord cu următorul tren, ea din nou un vagon în urmă, și totul se repeta ca o figură în muzică.
 
-Și apoi Gesundbrunnen, unde U8 întâlnește S-Bahnul într-un nod de coridoare, și unde am petrecut opt secunde în spatele stâlpului pe care corpul meu și-l amintea de un deceniu, și am luat scările care par că duc în stradă și nu duc, și am ieșit pe peronul S-Bahn – și acolo, peste patru linii, în lumina de sodiu, stând exact unde spunea geometria că mă îndreptam, era Noor.
+Și apoi Gesundbrunnen, unde U8 întâlnește S-Bahnul într-un nod de coridoare, și unde am petrecut opt secunde în spatele stâlpului pe care corpul meu și-l amintea de un deceniu, și am luat scările care par că duc în stradă și nu duc, și am ieșit pe peronul S-Bahn – și acolo, peste patru linii, în lumina de sodiu, exact unde spunea geometria că mă îndreptam, era Noor.
 
-Nu alergând. Terminase cu alergatul, vizibil. Arsă, și știind-o, și făcând lucrul pe care niciun manual de nicăieri nu-l recomandă.
+Nu alerga. Terminase cu alergatul, vizibil. Arsă, și o știa, și făcea lucrul pe care niciun manual de nicăieri nu-l recomandă.
 
 — Jonas, a strigat, peste linii – doar numele meu, numele meu adevărat, iar sunetul lui în vocea aceea mi-a spus exact cât din noi îi vânduseră arhivele. Vocea ei purta cum poartă vocile antrenate, pusă să ajungă la mine și să moară înainte de peronul îndepărtat. Două minute. Atât. Apoi prindeți-vă trenul.
 
@@ -74,7 +74,7 @@ Un tren pe o linie îndepărtată i-a acoperit vocea o secundă și l-a lăsat s
 
 Vorbea serios fiecare cuvânt.
 
-Mi-am petrecut o carieră peste masă de oameni care mă gestionau, și știu sunetul unui om recitând broșura angajatorului. Asta nu era asta. Asta era o femeie căreia cineva în care avea încredere absolută îi dăduse un catehism, care îl verificase față de unsprezece ani din ce văzuse, și constatase că *ține*. Credea că e ultima cărămidă a digului. Stătea pe un peron public, arsă, împotriva fiecărui protocol care i se predase vreodată, cheltuindu-și propria credibilitate ca să ofere unor străini viețile înapoi – pentru că în lumea pe care o purta în coloana vertebrală, asta era versiunea decentă a serii.
+Mi-am petrecut o carieră peste masă de oameni care încercau să mă manevreze, și știu sunetul unui om care recită broșura angajatorului. Asta nu era asta. Asta era o femeie căreia cineva în care avea încredere absolută îi dăduse un catehism, care îl verificase față de unsprezece ani din ce văzuse, și constatase că *ține*. Credea că e ultima cărămidă a digului. Stătea pe un peron public, arsă, împotriva fiecărui protocol care i se predase vreodată, și își cheltuia propria credibilitate ca să ofere unor străini viețile înapoi – pentru că în lumea pe care o purta în coloana vertebrală, asta era versiunea decentă a serii.
 
 Păzea o ușă prin care nu trecuse niciodată. Eu trecusem. Era cinci și zece într-o bucătărie din Bocholtz, și n-a plecat niciodată de tot, și era un dosar în spatele ușii aceleia care avea să ia tot ce tocmai spusese și să-l ardă până la linia apei – iar ea nu știa. El nu-i spusese. Nu spusese nimănui. Apăra, cu toată viața ei sinceră și periculoasă, un om pe care l-ar fi disprețuit înainte de micul dejun dacă ar fi citit patruzeci de rânduri din ce citisem eu.
 
@@ -88,7 +88,7 @@ Trenul meu intra în spatele meu, împingându-și zidul de aer cald.
 
 — Și, Noor – femeia din curte. V-a avut brațul și vi l-a dat înapoi. Orice credeți că stăviliți – spune te rog. Întrebați-vă când a spus ultima dată digul dumneavoastră te rog.
 
-Două secunde, peste patru linii, niciunul nu s-a mișcat. Și am privit ceva aterizând pe fața ei – nu credință; prea devreme pentru asta; să-i spunem primele hârtii ale îndoielii, aceeași expresie pe care o purtase fața mamei ei într-o cameră tăcută, dacă aș fi știut să mi-o imaginez.
+Două secunde, peste patru linii, niciunul nu s-a mișcat. Și am privit cum aterizează ceva pe fața ei – nu credință; prea devreme pentru asta; să-i spunem primele hârtii ale îndoielii, aceeași expresie pe care o purtase fața mamei ei într-o cameră tăcută, dacă aș fi știut să mi-o imaginez.
 
 Trenul a intrat între noi ca o cortină.
 
@@ -132,7 +132,7 @@ S-a uitat la mine peste caiet, și în fața ei era peronul, și curtea, și un 
 
 A deschis caietul la ultima pagină scrisă, și a luat pixul, iar cursorul din ea – nu știu s-o spun mai bine – a încetat să clipească și a început să scrie.
 
-Am traversat camera și am apăsat butonul. Culorile au urcat din întuneric, întâi albastrurile, subțiindu-se în turcoaz, chihlimbarurile sosind după, ca o decizie.
+Am traversat camera și am apăsat butonul. Culorile au urcat din întuneric, întâi albastrurile, subțiindu-se în turcoaz, iar chihlimbarurile au sosit după, ca o decizie.
 
 — Îl terminăm, a spus Iris.
 
@@ -144,3 +144,4 @@ Am traversat camera și am apăsat butonul. Culorile au urcat din întuneric, î
 - Noor ↔ Jonas: dumneavoastră both ways, first names (§B).
 - Berlin U8 stations and Hinterhof unchanged; „Hinterhof-urile“ with the hyphenated Romanian plural article.
 - ch49 callback: „ne trezim la absența celuilalt“ (ch51).
+- v2 (§9 rewrite): twelve sites — gerund chains (făcându-se, rulând, intrând, repetându-se, stând, alergând/știind-o/făcând, recitând, cheltuindu-și, aterizând, sosind) → finite / relative; „ceea ce de la Aleph“ → dash; „pur și simplu“ dropped (Jonas); „mă gestionau“ → „încercau să mă manevreze“. *der Klempner* with its gloss, „El *stăvilește*.“, the cursor line and Noor's dumneavoastră untouched. Fidelity audit: no content shift.

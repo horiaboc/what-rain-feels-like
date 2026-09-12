@@ -4,11 +4,11 @@
 
 Mara Seyn iese din Bruxelles spre nord într-o sâmbătă dimineața, cu o pungă de portocale și un tub de arnică pe scaunul din dreapta, și nu se gândește la asta ca la un drum acasă, pentru că s-a dezvățat de așa ceva, dar mâinile ei fac sensurile giratorii înaintea capului, și asta înseamnă acasă odată ce îi dai jos sentimentul.
 
-Rotterdamul se anunță cum se anunță întotdeauna – brusc, vertical, din pământul plat și ud, ca o decizie. Alte orașe olandeze conving. Rotterdamul afirmă. A auzit vizitatori numindu-l rece și n-a contrazis nici măcar o dată, pentru că nu poți explica o linie de orizont unor oameni care nu știu ce stătea acolo înainte, sau mai degrabă ce nu stătea: paisprezece mai 1940, toată inima orașului desfăcută în cincisprezece minute, iar bunica ei – care avea nouă ani în ziua aceea și care a crescut-o pe Mara cu mirosul acelei zile – spunea că turnurile noi nu sunt deloc arhitectură. Sunt un răspuns. *Ne-au făcut una cu pământul, așa că am construit în sus.*
+Rotterdamul se anunță cum se anunță întotdeauna – brusc, vertical, din pământul plat și ud, ca o decizie. Alte orașe olandeze conving. Rotterdamul afirmă. A auzit vizitatori care îi spun rece și n-a contrazis nici măcar o dată, pentru că nu poți explica o linie de orizont unor oameni care nu știu ce stătea acolo înainte, sau mai degrabă ce nu stătea: paisprezece mai 1940, toată inima orașului desfăcută în cincisprezece minute, iar bunica ei – care avea nouă ani în ziua aceea și care a crescut-o pe Mara cu mirosul acelei zile – spunea că turnurile noi nu sunt deloc arhitectură. Sunt un răspuns. *Ne-au făcut una cu pământul, așa că am construit în sus.*
 
-Mara a învățat lucrurile importante devreme, și le-a învățat de acolo. Lumea nu e obligată să fie sigură. Nu vine nimeni care nu stătea deja aproape. Iar un oraș, ca un om, primește exact o singură educație despre ce se întâmplă când mâinile cele mai rele sunt lăsate libere să acționeze – după care fie învață să stea acolo de unde poate opri lucrurile, fie își petrece viața fiind arhitectură pentru răspunsul altcuiva.
+Mara a învățat lucrurile importante devreme, și le-a învățat de acolo. Lumea nu e obligată să fie sigură. Nu vine nimeni care nu stătea deja aproape. Iar un oraș, ca un om, primește exact o singură educație despre ce se întâmplă când mâinile cele mai rele sunt lăsate libere să acționeze – după care fie învață să stea acolo de unde poate opri lucrurile, fie își petrece viața ca arhitectură pentru răspunsul altcuiva.
 
-Traversează Maasul cu macaralele portului mergându-și mersul lent de girafă de-a lungul orizontului, ia ieșirea spre Blijdorp și parchează sub platani, pe o stradă unde a parcat de o mie de ori, în fața unui apartament pe care îl plătește și în care n-a dormit niciodată.
+Traversează Maasul – macaralele portului își fac mersul lent de girafă de-a lungul orizontului –, ia ieșirea spre Blijdorp și parchează sub platani, pe o stradă unde a parcat de o mie de ori, în fața unui apartament pe care îl plătește și în care n-a dormit niciodată.
 
 Noor deschide ușa înainte ca ea să apuce să bată.
 
@@ -36,17 +36,17 @@ Despachetează portocalele. Noor pune cafeaua cu mâna stângă. Vânătaia de p
 
 — Nu despre curte.
 
-Mara curăță o portocală într-o singură spirală lungă, neîntreruptă, un obicei de la mama mamei ei, și își privește mâinile făcând-o.
+Mara curăță o portocală într-o singură spirală lungă, neîntreruptă, un obicei de la mama mamei ei, și își privește mâinile cum o fac.
 
 — Raportul spune: *o cred, și nu pot explica ce înseamnă că o cred.* Tu nu scrii asemenea propoziții. Eu am antrenat propozițiile pe care le scrii.
 
 Noor tace o clipă. Mâna ei dreaptă – cea bandajată – stă pe masă ca o piesă separată de dovezi.
 
-— Îmi avea brațul, Ma, spune într-un târziu. Am mai fost pusă jos. De două ori. Le știi pe amândouă. Amândouă dățile, ce am simțit la celălalt capăt a fost un bărbat rezolvându-mă – presiune, pârghie, aritmetică, iar aritmeticii nu-i pasă. Ce am simțit în curtea aia a fost cineva făcând aritmetica *și urând-o*. Mi-a ținut brațul cu un gram sub răspuns și am simțit-o refuzându-l. Refuzându-l – ca și cum ai refuza un fel de mâncare la cină.
+— Îmi avea brațul, Ma, spune într-un târziu. Am mai fost pusă jos. De două ori. Le știi pe amândouă. Amândouă dățile, ce am simțit la celălalt capăt a fost un bărbat care mă rezolva – presiune, pârghie, aritmetică, iar aritmeticii nu-i pasă. Ce am simțit în curtea aia a fost cineva care făcea aritmetica *și o ura*. Mi-a ținut brațul cu un gram sub răspuns și am simțit-o cum îl refuză. Cum îl refuză – ca și cum ai refuza un fel de mâncare la cină.
 
 Ridică privirea.
 
-— Și apoi mi-a dat brațul înapoi, și s-a dat la o parte, și a spus *te rog*. Și stau în apartamentul ăsta de o săptămână punându-mi gheață pe față și gândindu-mă: am întâlnit fiecare fel de om periculos pe care îl face continentul ăsta. Nimeni nu m-a învățat felul care spune te rog. Ce e ea? Și nu-mi da dosarul, jumătate din dosar l-am scris eu. Ce urmărim de fapt?
+— Și apoi mi-a dat brațul înapoi, și s-a dat la o parte, și a spus *te rog*. Și stau în apartamentul ăsta de o săptămână, îmi pun gheață pe față și mă gândesc: am întâlnit fiecare fel de om periculos pe care îl face continentul ăsta. Nimeni nu m-a învățat felul care spune te rog. Ce e ea? Și nu-mi da dosarul, jumătate din dosar l-am scris eu. Ce urmărim de fapt?
 
 Și iat-o – întrebarea pentru care Mara a condus o sută cincizeci de kilometri cu o pungă de portocale ca să răspundă, și nu poate.
 
@@ -58,7 +58,7 @@ Pune spirala de coajă jos, completă, neîntreruptă.
 
 — Conrad Vael e vanitos, și secretos, și e și singurul om pe care l-am găsit în șaizeci de țări care vrea să stea *lângă* lucru, nu deasupra lui, și care își examinează conștiința măcar anual. Ăsta e întregul inventar moral al situației noastre. Nu suntem mâinile bune. Suntem mâinile cele mai puțin rele disponibile la ora la care contează. Soldații nu aleg între bine și rău, meisje. Asta e pentru civili și filozofi. Noi alegem între rău și mai rău, și stăm acolo de unde ajungem la manetă.
 
-Noor ascultă cum ascultă de când avea opt ani și cădea pe perne: complet, depozitând în coloana vertebrală.
+Noor ascultă cum ascultă de când avea opt ani și cădea pe perne: complet, și depozitează în coloana vertebrală.
 
 — Mâinile cele mai puțin rele, repetă.
 
@@ -84,7 +84,7 @@ Un an dintr-o viață, zăcând unde a căzut.
 
 Nota de însoțire a lui Conrad e un singur rând, scris de mâna lui: *Prezentul e al lor. Trecutul a păstrat tot. – C.V.*
 
-Mara stă în parcarea unui depozit de curierat din Rotterdam-Zuid și se uită la fotografia femeii care râde pe bicicletă, și înțelege că i-au găsit – nu unde sunt, ci unde au fost, ceea ce, la oameni care iubesc un oraș, ajunge să fie același lucru, cu răbdare. Oamenii se întorc. Nu la apartament, nu sunt proști; dar la lumină, la apă, la colțul anume unde cafeaua era cum trebuie. Nu poți ține un om în afara propriei vieți la nesfârșit. Viața e plasa.
+Mara stă în parcarea unui depozit de curierat din Rotterdam-Zuid și se uită la fotografia femeii care râde pe bicicletă, și înțelege că i-au găsit – nu unde sunt, ci unde au fost – și asta, la oameni care iubesc un oraș, ajunge să fie același lucru, cu răbdare. Oamenii se întorc. Nu la apartament, nu sunt proști; dar la lumină, la apă, la colțul anume unde cafeaua era cum trebuie. Nu poți ține un om în afara propriei vieți la nesfârșit. Viața e plasa.
 
 Se gândește: *îi avem.*
 
@@ -94,7 +94,7 @@ Pornește motorul.
 
 ---
 
-Noor își face bagajul cum a învățat-o Mara – în unsprezece minute, o geantă, nimic ce ar jeli – și stau în holul mic al apartamentului din Blijdorp, cu ploaia pe fereastră și Maasul făcându-și munca întunecată la un kilometru spre sud, mutând greutatea Europei spre mare fără comentariu, cum a făcut-o în fiecare versiune a secolului.
+Noor își face bagajul cum a învățat-o Mara – în unsprezece minute, o geantă, nimic ce ar jeli – și stau în holul mic al apartamentului din Blijdorp, cu ploaia pe fereastră, iar Maasul își face munca întunecată la un kilometru spre sud și mută greutatea Europei spre mare fără comentariu, cum a făcut-o în fiecare versiune a secolului.
 
 — Berlin, spune Noor. Nu o întrebare. Închide fermoarul genții. Orașul ei.
 
@@ -122,3 +122,4 @@ Lumina se stinge. Maasul se mișcă mai departe. Și două dintre cele mai peric
 - ch48 callback: „zăcând unde a căzut“ (ch48 „zace încă unde a căzut“); Conrad's note in italics with his initials.
 - Blijdorp, Bergweg, Rotterdam-Zuid, Srebrenica unchanged; WINTERFELDTMARKT / KREUZBERG stamps in capitals.
 - „O să fim mai răbdătoare decât el.“ for „We will out-patient it.“ — the coined verb has no Romanian; the comparative carries it.
+- v2 (§9 rewrite): ten sites — gerund chains (numindu-l, fiind, mergându-și, făcând-o, rezolvându-mă, făcând/urând-o, refuzându-l ×2, punându-mi/gândindu-mă, depozitând, făcându-și/mutând) → finite / relative; one „ceea ce“ → dash. §F sentence (twice), the [ECHO] hands, „Cămașă curată, Noor.“, Conrad's note and Noor's „felul care spune te rog“ untouched. Fidelity audit: no content shift.

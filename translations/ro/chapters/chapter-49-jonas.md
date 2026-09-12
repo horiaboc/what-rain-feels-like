@@ -14,21 +14,21 @@ Am plecat din Bocholtz la două zile după anexă, înainte de zori, și m-a sur
 
 Aproximativ s-a dovedit a fi Moabit.
 
-Ar trebui să explic ce îi face Berlinul unui om care a lipsit din el în împrejurări greșite. Am plecat din oraș de o sută de ori – vacanțe, muncă, călătoriile pe care le faci ca să-ți amintești de ce locuiești unde locuiești. Asta era celălalt fel de întoarcere. Am intrat pe A100 la început de după-amiază, cu cerul făcându-și enorma lui chestie cenușie berlineză, și m-am trezit citind orașul cum citești fața cuiva pe care îl iubești și care a fost într-un accident: tot familiar, tot dintr-odată condiționat. Iată turnul televiziunii. Iată S-Bahnul hurducându-se galben peste Spree. La douăzeci de minute spre est, la un etaj patru de pe Weichselstraße, un cactus pe nume Diogenes își conducea lungul experiment de a nu avea nevoie de nimic, pe un pervaz pe care nu-l puteam vizita.
+Ar trebui să explic ce îi face Berlinul unui om care a lipsit din el în împrejurări greșite. Am plecat din oraș de o sută de ori – vacanțe, muncă, călătoriile pe care le faci ca să-ți amintești de ce locuiești unde locuiești. Asta era celălalt fel de întoarcere. Am intrat pe A100 la început de după-amiază, iar cerul își făcea enorma lui chestie cenușie berlineză, și m-am trezit citind orașul cum citești fața cuiva pe care îl iubești și care a fost într-un accident: tot familiar, tot dintr-odată condiționat. Iată turnul televiziunii. Iată S-Bahnul care se hurducă galben peste Spree. La douăzeci de minute spre est, la un etaj patru de pe Weichselstraße, un cactus pe nume Diogenes își conducea lungul experiment de a nu avea nevoie de nimic, pe un pervaz pe care nu-l puteam vizita.
 
 E cea mai ciudată durere pe care am avut-o vreodată, și am avut o selecție largă în toamna asta. Eram acasă, iar acasă era un muzeu – fiecare cameră a vechii mele vieți curatoriată, conservată și împrejmuită cu cordon. Aleph fusese fără echivoc, cu vocea pe care o folosește când nu negociază: *vechile adrese sunt singura hartă pe care o au sigur. Poți păstra orașul. Nu-ți poți păstra locurile din el. Nu încă.*
 
 *Nu încă.* Cele două cuvinte cele mai portante din tot vocabularul acelei mașini.
 
-Apartamentul era la etajul trei al unei clădiri de culoarea hârtiei bune de scris, pe o stradă unde nimeni n-a fost celebru pentru nimic din 1911, ceea ce Aleph a citat ca element de securitate și eu am ales să aud ca pe o glumă. Înăuntru – și îmi promisesem că voi înceta să mă mai uimesc de asta, și am eșuat la timp – o făcuse din nou, mai discret de data asta, calibrat pentru un cuplu pe care acum îl cunoștea, nu îl ghicea: ceainicul potrivit; un raft de cărți în două limbi care se citea ca o ceartă pe care am fi vrut s-o avem; un aparat de cafea care, când l-am pornit, a scos un mic oftat de abur sub presiune înaintea primei cești, de parcă ar fi avut nevoie de o clipă.
+Apartamentul era la etajul trei al unei clădiri de culoarea hârtiei bune de scris, pe o stradă unde nimeni n-a fost celebru pentru nimic din 1911 – Aleph a citat asta ca element de securitate, iar eu am ales să-l aud ca pe o glumă. Înăuntru – și îmi promisesem că voi înceta să mă mai uimesc de asta, și am eșuat la timp – o făcuse din nou, mai discret de data asta, calibrat pentru un cuplu pe care acum îl cunoștea, nu îl ghicea: ceainicul potrivit; un raft de cărți în două limbi care se citea ca o ceartă pe care am fi vrut s-o avem; un aparat de cafea care, când l-am pornit, a scos un mic oftat de abur sub presiune înaintea primei cești, de parcă ar fi avut nevoie de o clipă.
 
-Am stat și am ascultat oftatul acela cu pieptul făcând ceva neprofesionist.
+Am stat și am ascultat oftatul acela în timp ce pieptul îmi făcea ceva neprofesionist.
 
 — E același model, a spus Iris, privindu-mă.
 
-— E același *sunet*, am spus, ceea ce era rostul, și niciunul nu i-a explicat-o celuilalt, pentru că am ajuns în stadiul lucrurilor în care explicațiile sunt partea redundantă.
+— E același *sunet*, am spus, și ăsta era rostul, și niciunul nu i-a explicat-o celuilalt, pentru că am ajuns în stadiul lucrurilor în care explicațiile sunt partea redundantă.
 
-Pe masă, de data asta nu era niciun plic. Era un ecran, întunecat, și o telecomandă mică cu un singur buton, și n-am apăsat-o în prima seară. Am despachetat, și am gătit, și am dormit prost în felul bun – cum dormi în propriul oraș, cu traficul făcând exact frecvența de zgomot la care oasele tale au fost calibrate cu decenii în urmă – iar dimineața, la micul dejun, am avut conversația în jurul căreia ne învârteam de când o bucătărie din Bocholtz tăcuse la cinci și zece.
+Pe masă, de data asta nu era niciun plic. Era un ecran, întunecat, și o telecomandă mică cu un singur buton, și n-am apăsat-o în prima seară. Am despachetat, și am gătit, și am dormit prost în felul bun – cum dormi în propriul oraș, cu traficul care face exact frecvența de zgomot la care oasele tale au fost calibrate cu decenii în urmă – iar dimineața, la micul dejun, am avut conversația în jurul căreia ne învârteam de când o bucătărie din Bocholtz tăcuse la cinci și zece.
 
 ---
 
@@ -36,7 +36,7 @@ Pe masă, de data asta nu era niciun plic. Era un ecran, întunecat, și o telec
 
 Iris își ținea ceaiul și m-a lăsat s-o construiesc, pentru că ea și-o construiește pe a ei înăuntru și eu pe a mea cu voce tare, și ne-am împărțit munca gânditului în consecință.
 
-— Punctul trei, am spus. Dosarele de pârghie. Funcționari, favoruri, datorii tăcute – țesătura aceea trece exact prin instituțiile cărora le-am preda registrul. N-am depune dovezi; le-am returna. Și chiar cu cei cinstiți – registrul e furat. Un avocat al apărării de calibrul celor pe care Conrad Vael îi ține pe onorariu ar petrece trei ani argumentând proveniența în timp ce substanța așteaptă într-o cutie sigilată. S-ar putea să piardă până la urmă. *Până la urmă* e o țară în care nu ne permitem să trăim.
+— Punctul trei, am spus. Dosarele de pârghie. Funcționari, favoruri, datorii tăcute – țesătura aceea trece exact prin instituțiile cărora le-am preda registrul. N-am depune dovezi; le-am returna. Și chiar cu cei cinstiți – registrul e furat. Un avocat al apărării de calibrul celor pe care îi ține Conrad Vael la dispoziție ar petrece trei ani argumentând proveniența în timp ce substanța așteaptă într-o cutie sigilată. S-ar putea să piardă până la urmă. *Până la urmă* e o țară în care nu ne permitem să trăim.
 
 — Pe când un ziar, a spus Iris.
 
@@ -52,9 +52,9 @@ A tăcut o clipă. Afară, un tramvai a trecut cu răbdarea lui anume, berlinez�
 
 — Vorbesc despre Voss.
 
-Am apăsat butonul. Culorile au urcat, albastruri în turcoaz, iar Aleph a ascultat toată arhitectura fără să întrerupă, ceea ce învățasem să citesc ca pe cel mai înalt compliment al lui.
+Am apăsat butonul. Culorile au urcat, albastruri în turcoaz, iar Aleph a ascultat toată arhitectura fără să întrerupă – și asta învățasem să citesc ca pe cel mai înalt compliment al lui.
 
-— Henrik Voss, a spus într-un târziu. Cincizeci și șapte de ani. Șeful biroului de unsprezece ani, la Meridian de treizeci și unu. Vă voi spune singurul lucru cel mai important din dosarul lui, și puteți cântări dacă e un lucru pe care l-aș inventa: în trei decenii a publicat unsprezece erate la propria muncă, și zece dintre ele au fost inițiate de el – erori pe care niciun cititor nu le prinsese, pe care le-a găsit singur și le-a tipărit, deasupra propriului nume, într-o breaslă în care stimulentul merge cu totul în direcția opusă.
+— Henrik Voss, a spus într-un târziu. Cincizeci și șapte de ani. Șeful biroului de unsprezece ani, la Meridian de treizeci și unu. Vă voi spune lucrul cu adevărat cel mai important din dosarul lui, și puteți cântări dacă e un lucru pe care l-aș inventa: în trei decenii a publicat unsprezece erate la propria muncă, și zece dintre ele au fost inițiate de el – erori pe care niciun cititor nu le prinsese, pe care le-a găsit singur și le-a tipărit, deasupra propriului nume, într-o breaslă în care stimulentul merge cu totul în direcția opusă.
 
 Chihlimbarul a înflorit, blând.
 
@@ -66,7 +66,7 @@ Chihlimbarul a înflorit, blând.
 
 ---
 
-Biroul Meridian ocupă ultimele două etaje ale unei clădiri renovate de lângă Hackescher Markt, numai sticlă și cărămidă recuperată, un birou care vrea să știi că jurnalismul a supraviețuit secolului. Iris încă avea legitimația. Micul fapt acesta m-a desfăcut puțin, privind-o cum și-o prinde în lift – o lună de spitale și case sigure și curți întunecate, iar dreptunghiul de plastic cu fața ei fusese în portofelul ei tot timpul, răbdător, ca un semn de carte ținându-i locul într-o viață întreruptă.
+Biroul Meridian ocupă ultimele două etaje ale unei clădiri renovate de lângă Hackescher Markt, numai sticlă și cărămidă recuperată, un birou care vrea să știi că jurnalismul a supraviețuit secolului. Iris încă avea legitimația. Micul fapt acesta m-a desfăcut puțin, privind-o cum și-o prinde în lift – o lună de spitale și case sigure și curți întunecate, iar dreptunghiul de plastic cu fața ei fusese în portofelul ei tot timpul, răbdător, ca un semn de carte care îi ținea locul într-o viață întreruptă.
 
 Îi scrisese cu o zi înainte, de la o adresă pentru care Aleph garanta: *m-am întors din concediu. Am ceva. Trebuie să fie o cameră fără dispozitive.* Voss răspunsese în nouă minute, cu punctuația unui om care fusese corespondent extern pe vremea când asta însemna telex: *Marți 0900. Sala 5.06. Are un ecran inteligent stricat pe care bugetul de administrare refuză să-l recunoască. Surdă ca un zid. HV.*
 
@@ -82,9 +82,9 @@ Ne-a făcut semn spre scaune.
 
 — Luați loc. Orice ar fi, îl vreau în ordine, de la început, și o să-mi țin întrebările prost, pentru că întotdeauna o fac.
 
-Așa că i-a spus. Nu tot – trăseserăm liniile la masa din bucătărie cu Aleph până la miezul nopții, și liniile au ținut. I-a spus că în cursul concediului medical intrase în contact cu o sursă cum nu mai exista nimic în experiența instituțională a Meridianului. Că prin sursa aceasta, și printr-o acțiune directă pe care avea s-o descrie cu grijă, ea și cu mine obținuserăm registrul intern complet al Vantage Strategic, firma de informații private a lui Conrad Vael. Că registrul documenta, cu nume, sume, conturi și date – și aici a pus pe masă prima mostră tipărită, apoi a doua, apoi dosarul cu mostre, una câte una, ca un crupier care are de gând să fie crezut – o afacere construită pe cunoașterea prealabilă a catastrofelor, pe informații despre conflicte și pe deținerea tăcută a unor funcționari publici.
+Așa că i-a spus. Nu tot – trăseserăm liniile la masa din bucătărie cu Aleph până la miezul nopții, și liniile au ținut. I-a spus că în cursul concediului medical intrase în contact cu o sursă fără pereche în experiența instituțională a Meridianului. Că prin sursa aceasta, și printr-o acțiune directă pe care avea s-o descrie cu grijă, ea și cu mine obținuserăm registrul intern complet al Vantage Strategic, firma de informații private a lui Conrad Vael. Că registrul documenta, cu nume, sume, conturi și date – și aici a pus pe masă prima mostră tipărită, apoi a doua, apoi dosarul cu mostre, una câte una, ca un crupier care are de gând să fie crezut – o afacere construită pe cunoașterea prealabilă a catastrofelor, pe informații despre conflicte și pe deținerea tăcută a unor funcționari publici.
 
-Voss a citit. A citit unsprezece minute fără să vorbească, cu pixul roșu mișcându-se – nu corecturi; localizări, cercuri mici și precise în jurul fiecărui nume și număr pe care avea de gând să pună pe cineva să le verifice. Fața lui nu făcea absolut nimic, ceea ce am înțeles că era setarea ei profesională.
+Voss a citit. A citit unsprezece minute fără să vorbească, iar pixul roșu se mișca – nu corecturi; localizări, cercuri mici și precise în jurul fiecărui nume și număr pe care avea de gând să pună pe cineva să le verifice. Fața lui nu făcea absolut nimic – și asta, am înțeles, era setarea ei profesională.
 
 Apoi Iris a spus partea a doua. Că motivul pentru care Vantage ajunsese atât de departe și încălcase atâtea legi era că vâna ceva. Că acel ceva era real, și ea nu-l putea numi pe deplin, și nu avea s-o facă, iar textul avea să-i afirme existența exact în termenii pe care ea și sursa îi conveniseră: că o inteligență artificială generală – cea sosită, cea pe care secolul o tot promitea și de care se tot temea – nu mai era o ipoteză. Și că Conrad Vael o știuse înaintea guvernelor, și o dorise, și că tot ce era în dosar era chitanța dorinței lui.
 
@@ -112,7 +112,7 @@ Pixul roșu a bătut în dosar.
 
 — Ăsta e răspunsul corect, a spus Voss, și îl vreau în scris de la juridic înainte să respir în apropierea lui. Trei.
 
-S-a întors spre Iris, și iată că venea, și l-am privit punând-o cum spusese Aleph că o va pune – a doua întrebare, cea de sub prima.
+S-a întors spre Iris, și iată că venea, și l-am privit cum o pune, așa cum prevăzuse Aleph – a doua întrebare, cea de sub prima.
 
 — Ați spus că sursa nu poate fi numită, și am publicat surse pe care nu le puteam numi toată cariera. Nu de asta am nevoie. De asta am nevoie: ce *vrea* sursa? Oricine îi dă unui jurnalist o armă vrea ceva. Guvernele vor alegeri, infractorii vor rivalii dispăruți, sfinții vor păcatele iertate. Nimic în treizeci și unu de ani nu mi-a dat vreodată o poveste de mărimea asta fără să vrea ceva de mărimea ei înapoi. Deci. Ce vrea, Iris?
 
@@ -138,19 +138,19 @@ Voss s-a uitat la ea o clipă lungă. Apoi a scos capacul pixului roșu, a desch
 
 ---
 
-Era întuneric când am plecat, și ploua ușor, ploaia aceea fină berlineză care nu se angajează niciodată de tot, și am mers pe jos până la S-Bahn prin Hackescher Markt, cu felinarele făcându-și dârele lungi, galbene, pe piatra udă.
+Era întuneric când am plecat, și ploua ușor, ploaia aceea fină berlineză care nu se angajează niciodată de tot, și am mers pe jos până la S-Bahn prin Hackescher Markt, iar felinarele își făceau dârele lungi, galbene, pe piatra udă.
 
 — Te-a crezut, am spus.
 
 — A crezut documentele. Pe mine mă cunoaște de un an – partea asta nu e credință, e doar istorie. Restul îl va verifica până stă în picioare sau nu.
 
-Avea mâinile adânc în buzunarele paltonului, și era ceva în mersul ei ce nu mai văzusem de dinainte de Amsterdam – nu ușurătate, mai exact; direcție. Un om mergând din nou înăuntrul propriei profesii.
+Avea mâinile adânc în buzunarele paltonului, și era ceva în mersul ei ce nu mai văzusem de dinainte de Amsterdam – nu chiar ușurătate; direcție. Un om care umblă din nou înăuntrul propriei profesii.
 
 — Asta i-am spus ecranului, știi. Când m-a întrebat de ce presa, de ce nu ceva mai rapid. Am spus: pentru că verificarea e cum arată încrederea când o fac străinii.
 
 Am pus-o la dosar acolo unde țin propozițiile pe care am de gând să le fur.
 
-Pe peron, așteptând, s-a rezemat de mine, și am simțit ziua dându-i drumul în grade, cum face.
+Pe peron, așteptând, s-a rezemat de mine, și am simțit cum ziua îi dă drumul treptat, cum face.
 
 — Un an am stat în biroul ăla citindu-i eratele, a spus, în umărul meu. Căsuțe cenușii în josul paginii doi, corectând lucruri pe care nu le observase nimeni. Îmi spuneam: iată toată meseria, într-o cutie cât un timbru.
 
@@ -162,7 +162,7 @@ Un tren a venit și a plecat pe linia cealaltă, numai lumină și zgomot, și a
 
 — De aceea trebuia să fie el, a spus.
 
-Trenul spre casă mirosea a paltoane ude și a cartofii prăjiți ai cuiva, și mergea spre est prin orașul luminat exact la timp, și nimeni din el nu știa nimic, și pentru o dată – încă o săptămână cumpărată, cu registrul verificându-se în liniște în trei perechi de mâini atente, cu un om în Bruxelles vânându-ne în timp ce stăteam în propriul nostru oraș – asta nu era singurătate. Era un avans.
+Trenul spre casă mirosea a paltoane ude și a cartofii prăjiți ai cuiva, și mergea spre est prin orașul luminat exact la timp, și nimeni din el nu știa nimic, și pentru o dată – încă o săptămână cumpărată, cu registrul în verificare tăcută în trei perechi de mâini atente, cu un om în Bruxelles care ne vâna în timp ce stăteam în propriul nostru oraș – asta nu era singurătate. Era un avans.
 
 <!-- NOTES -->
 - [ECHO] „*Nu încă.* Cele două cuvinte cele mai portante din tot vocabularul acelei mașini.“ (§E 6).
@@ -170,3 +170,4 @@ Trenul spre casă mirosea a paltoane ude și a cartofii prăjiți ai cuiva, și 
 - Voss ↔ Iris/Jonas: dumneavoastră + prenume (§B); Voss's telegram-style reply and his notebook line kept in italics.
 - ch03 callback: „poveștile … care contează enorm pentru oamenii care le citesc“ (ch03: „poveștile care contează enorm pentru cei care le citesc“) — Jonas quotes her loosely, as the English does.
 - The coffee machine's sigh: „un mic oftat de abur sub presiune înaintea primei cești, de parcă ar fi avut nevoie de o clipă“ — ch01/ch04's sentence, in the past.
+- v2 (§9 rewrite): eighteen sites — gerund chains (făcându-și, hurducându-se, făcând, ținându-i, mișcându-se, punând-o, făcându-și, mergând, dându-i, verificându-se/vânându-ne) → finite / relative; four „ceea ce“ → dashes / „și ăsta“; „mai exact“ → „nu chiar“; „singurul lucru cel mai important“ → „lucrul cu adevărat cel mai important“; „pe onorariu“ (retainer) → „la dispoziție“; „cum nu mai exista nimic“ → „fără pereche“. [ECHO] „*Nu încă.*“ line, Voss's telegram and notebook, the coffee-sigh callback untouched. Fidelity audit: no content shift.
