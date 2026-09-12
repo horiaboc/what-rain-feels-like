@@ -36,7 +36,7 @@ Plus tard, après avoir mangé, nous nous sommes assis devant l'écran pour la d
 
 Je retournais cela depuis le kiosque, et c'était sorti, comme sortent les formes vraies, comme l'option la plus simple et la moins confortable sur la table.
 
-— La seule façon dont ça se termine, c'est si Conrad Vael cesse d'être quelqu'un que le monde écoute. Ce qui veut dire que le monde doit voir ce qu'il est réellement. Ce qui veut dire une preuve.
+— Ça ne se termine que d'une manière : si Conrad Vael cesse d'être quelqu'un que le monde écoute. Ce qui veut dire que le monde doit voir ce qu'il est réellement. Ce qui veut dire une preuve.
 
 — Les archives, a dit Iris.
 
