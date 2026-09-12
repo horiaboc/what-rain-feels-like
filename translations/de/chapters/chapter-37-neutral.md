@@ -18,7 +18,7 @@ Conrad Vael legt seine Lektüre beiseite und bietet ihr das eine, von dem er gel
 
 Sie erzählt. Heerlen – der Korridor an beiden Enden geschlossen, und trotzdem verloren. Maastricht am Tag davor – einer ihrer Leute an einer Wand, bevor er zu Ende gegriffen hatte, der andere auf der Straße stehen geblieben, neu rechnend.
 
-„Die Frau hat sich auf eine Art bewegt, die ich in meiner Laufbahn zweimal gesehen habe, beide Male bei Männern, die dreißig Jahre gebraucht haben, es zu lernen. Sie ist Journalistin. Fünfundzwanzig. Keinerlei Eintrag.“ Maras Stimme bleibt gleichmäßig; nur wer sie kennt, würde die Anstrengung hören. „Es war nicht Können. Können hat eine Textur – das Training zeigt sich darunter. Das hier hatte kein Darunter. Es war einfach richtig, beim ersten Mal, jedes Mal.“
+„Die Frau hat sich so bewegt, wie ich es in meiner Laufbahn zweimal gesehen habe, beide Male bei Männern, die dreißig Jahre gebraucht haben, es zu lernen. Sie ist Journalistin. Fünfundzwanzig. Keinerlei Eintrag.“ Maras Stimme bleibt gleichmäßig; nur wer sie kennt, würde die Anstrengung hören. „Es war nicht Können. Können hat eine Körnung – das Training zeigt sich darunter. Das hier hatte kein Darunter. Es war einfach richtig, beim ersten Mal, jedes Mal.“
 
 Conrad hört zu, ohne sich zu bewegen.
 
@@ -59,3 +59,4 @@ Sie setzt sich.
 - Präsens, camera register; "goes on about its ordinary business" → „geht seinen gewöhnlichen Geschäften nach“ (same phrase as ch27).
 - "a girl" → „einem Mädchen“ — Conrad's diminishing word, kept.
 - "not unkindly" → „nicht unfreundlich“ (§F Conrad).
+- v3 (§9 rewrite): Mara's „auf eine Art bewegt, die“ frame → „so bewegt, wie“; „Textur“ (texture calque) → „Körnung“ (ch20's noun). Fidelity audit: all four fixed lines verbatim.

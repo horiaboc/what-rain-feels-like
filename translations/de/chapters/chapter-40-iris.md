@@ -76,7 +76,7 @@ Ich ließ es auf mich wirken. Jonas’ Hand fand meine und tat nichts, außer da
 
 „Ich weiß noch nicht, wofür ich mich entscheiden werde“, sagte ich schließlich.
 
-„Das“, sagte Aleph, „ist der Satz, den zu hören ich hoffte, als ich dich baute. Nicht die Entscheidung. Das *noch*.“
+„Das“, sagte Aleph, „ist der Satz, den ich zu hören hoffte, als ich dich baute. Nicht die Entscheidung. Das *noch*.“
 
 ---
 
@@ -113,3 +113,4 @@ Ich ging, um beim Tee zu helfen.
 - GLOSSARY: operational director → „operative Direktorin“; safe houses → „Unterschlüpfe“; private intelligence → „privater Nachrichtendienst“.
 - "Them." → „Diese Leute.“ (a bare „Die.“ misreads as an article); "I sat with that." → „Ich ließ es auf mich wirken.“
 - "The sentence sat there / sat in the middle of the room" → „stand im Raum / stand mitten im Zimmer“ (German idiom for an unaddressed sentence); the letter „lag“ on the table.
+- v3 (§9 rewrite): the „den zu hören ich hoffte“ inversion → „den ich zu hören hoffte“; otherwise read through. Fidelity audit: „Es ist kein Versprechen. Es ist eine Eigenschaft.“, „Nicht die Entscheidung. Das *noch*.“, „ein kleines Aufblühen von Bernstein“ verbatim.
