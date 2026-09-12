@@ -26,13 +26,13 @@ Sie wacht früh auf und ist sofort funktionstüchtig, was ich bewundernswert und
 
 Sie ist ordentlich wie jemand, der nicht versucht, ordentlich zu sein, sondern geordnet denkt, sodass die Ordnung ihr einfach von Zimmer zu Zimmer folgt. Meine Wohnung hat nicht mehr so gut funktioniert, seit ich eingezogen bin.
 
-Sie findet Diogenes neutral. Diogenes findet sie akzeptabel, was von Diogenes praktisch eine Zeremonie ist.
+Sie findet Diogenes neutral. Diogenes findet sie akzeptabel, und das ist von Diogenes praktisch eine Zeremonie.
 
 ---
 
 An einem Samstag im April hatten wir, was ich als Streit bezeichnen werde, obwohl das Wort mehr Arbeit leistet, als das Ereignis verlangt.
 
-Das Thema waren Eier. Genauer: ob Rührei Butter will oder Öl, bei welcher Hitze und wie lange. Ich habe dazu entschiedene Ansichten. Es stellte sich heraus, dass sie ebenfalls entschiedene Ansichten dazu hat, und dass es andere Ansichten sind. Wir debattierten ungefähr acht Minuten lang bei mäßiger Lautstärke, während die fragliche Butter in der Pfanne schmolz und braun zu werden begann, womit die Frage praktisch, wenn auch nicht philosophisch geklärt war. Die Eier wurden auf ihre Art gemacht. Sie waren ausgezeichnet. Ich erkannte das an. Sie nahm die Anerkennung mit einer Gelassenheit entgegen, die deutlich machte, dass sie gewusst hatte, dass sie kommen würde.
+Das Thema waren Eier. Genauer: ob Rührei Butter will oder Öl, bei welcher Hitze und wie lange. Ich habe dazu entschiedene Ansichten. Es stellte sich heraus, dass sie ebenfalls entschiedene Ansichten dazu hat, und dass es andere Ansichten sind. Wir debattierten ungefähr acht Minuten lang bei mäßiger Lautstärke, während die fragliche Butter in der Pfanne schmolz und braun zu werden begann, womit die Frage praktisch, wenn auch nicht philosophisch geklärt war. Die Eier wurden auf ihre Art gemacht. Sie waren ausgezeichnet. Ich erkannte das an. Sie nahm die Anerkennung mit einer Gelassenheit entgegen, die deutlich machte: Sie hatte gewusst, dass sie kommen würde.
 
 Ich habe darüber mehr nachgedacht, als ein Streit über Eier streng genommen verdient. Worauf ich immer wieder zurückkomme, ist nicht, wer gewonnen hat – sie hat gewonnen, oder die Eier haben gewonnen, was auf dasselbe hinausläuft –, sondern das *Wie*. Wie wir die Ränder der Meinungsverschiedenheit fanden und gerade lang genug dort blieben, um die Aussicht zu genießen, bevor wir die Lösung fanden. Wie sie lachte, als die Butter zu rauchen anfing. Wie ich lachte, weil sie es tat. Eine kleine Schleife, die sich schließt.
 
@@ -66,7 +66,7 @@ Ich drängte nicht. Sie blätterte um und kam zurück, von wo immer sie gewesen 
 
 Der Mai kommt.
 
-Das Fahrrad in meinem Hof steht jetzt lange genug dort, um eine Art Dauerhaftigkeit erreicht zu haben, die zu respektieren ich beschlossen habe. Es war nie meins – es kam mit dem Hof, wie manche Dinge das tun –, aber mir fällt erst jetzt auf, dass ich mir inzwischen ein eigenes gekauft habe: gebraucht, Kreuzberg, guter Rahmen. Ich fahre es samstags, wenn Iris Vormittagstermine hat und der Kanalweg mit Tempo genommen werden kann. Ich komme, wo immer ich hinwill, in besserem Zustand an, als ich losgefahren bin. Das ist, glaube ich, der ganze Sinn der Übung.
+Das Fahrrad in meinem Hof steht jetzt lange genug dort, um eine Art Dauerhaftigkeit erreicht zu haben, und ich habe beschlossen, sie zu respektieren. Es war nie meins – es kam mit dem Hof, wie manche Dinge das tun –, aber mir fällt erst jetzt auf, dass ich mir inzwischen ein eigenes gekauft habe: gebraucht, Kreuzberg, guter Rahmen. Ich fahre es samstags, wenn Iris Vormittagstermine hat und der Kanalweg mit Tempo genommen werden kann. Ich komme, wo immer ich hinwill, in besserem Zustand an, als ich losgefahren bin. Das ist, glaube ich, der ganze Sinn der Übung.
 
 Sie fragte mich einmal, gegen Ende April, woran ich denke, wenn ich still werde.
 
@@ -91,3 +91,4 @@ Das ist – ich habe es beschlossen – genau, was ich wollte.
 - "A small loop, closing." → „Eine kleine Schleife, die sich schließt.“ (Schleife per ch01/ch02 glossary addition).
 - "the required paperwork" → „die erforderliche Antragstellung“ (bureaucratic, dry); "error bars" → „Fehlerbalken“.
 - Tense follows the English paragraph by paragraph: Präsens for the frame, Präteritum for the scenes.
+- v3 (§9 rewrite): the „die zu respektieren ich beschlossen habe“ inversion and the „dass sie gewusst hatte, dass“ stack re-cut; one „, was …“ tail joined with „und das ist“. Fidelity audit: §C casual site „mit einer Zügigkeit, die nahelegte“ verbatim; nothing added or dropped.

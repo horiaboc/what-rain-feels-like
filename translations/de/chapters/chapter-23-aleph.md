@@ -19,3 +19,4 @@ Das Zimmer wird wieder dunkel. Keiner von beiden rührt sich. Sein Arm bleibt, w
 - "two people" → „zwei Menschen“, not „Personen“ (police-report register); "sleep close" → „schlafen dicht beieinander“ — exact, not amplified („aneinandergeschmiegt“ rejected).
 - "pauses" → „pausiert“: signal register; „hält inne“ would personify the light, „setzt aus“ suggests a fault. "fades" → „verlischt“ (the gradual going-out of a light; „verblasst“ is for colour). Lektor may prefer „erlischt“.
 - Voice check: no „ich“, no sensory verb for the narrator, no name, no „Brief“/„Beobachtung“, no „effizient“; Iris is never named, as in the English; „Sein Arm“ is the chapter's only gendered word, as „His arm“ is.
+- v3 (§9 rewrite): read through, unchanged.

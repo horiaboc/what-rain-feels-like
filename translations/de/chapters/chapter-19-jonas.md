@@ -12,7 +12,7 @@ Am Dienstag darauf wurde ich zu einem Gespräch mit Thomas Würfel bestellt.
 
 Thomas ist Director of Operations bei Merkon, was in einer Firma von Merkons Größe bedeutet, dass er die Person über der Person über einem ist und dass man ihm im unmittelbaren Berufsalltag nur dann begegnet, wenn etwas auf einer Ebene schiefgegangen ist, die sorgfältiges Management verlangt. Dem Ruf nach ist er ein sorgfältiger Mann. Ich fand den Ruf zutreffend.
 
-Er dankte mir dafür, dass ich meine Bedenken vorgebracht hatte. Er sagte, die Daten seien geprüft worden und das Thema werde in der Q4-Roadmap angegangen. Die Insulinbeschwerde erwähnte er nicht. Ich fragte nicht, ob er sie gelesen hatte. Dann verwendete er etwa acht Minuten darauf, mir mit beträchtlicher Sorgfalt zu erklären, dass meine Entscheidung, über meinen direkten Vorgesetzten hinweg zu eskalieren, ein Problem geschaffen habe – nicht die Daten; die Daten seien nicht das Problem; das *Verhalten* sei das Problem, und zwar die Art, wie es Steffen, neun Jahre bei Merkon und geschätzt, das Gefühl gegeben habe, übergangen worden zu sein.
+Er dankte mir dafür, dass ich meine Bedenken vorgebracht hatte. Er sagte, die Daten seien geprüft worden und das Thema werde in der Q4-Roadmap angegangen. Die Insulinbeschwerde erwähnte er nicht. Ich fragte nicht, ob er sie gelesen hatte. Dann verwendete er etwa acht Minuten darauf, mir mit beträchtlicher Sorgfalt zu erklären, dass meine Entscheidung, über meinen direkten Vorgesetzten hinweg zu eskalieren, ein Problem geschaffen habe – nicht die Daten; die Daten seien nicht das Problem; das *Verhalten* sei das Problem, und zwar, weil es Steffen, neun Jahre bei Merkon und geschätzt, das Gefühl gegeben habe, übergangen worden zu sein.
 
 Ich sagte, ich verstehe.
 
@@ -32,13 +32,13 @@ Ich rief Iris an und fragte, ob sie Zeit zum Abendessen habe.
 
 Sie war vor mir da. Sie hatte dafür ihren Abend umgeplant – sie sagte es nicht, aber ich merkte es an der Schnelligkeit ihrer Antwort und am Fehlen jeder Erklärung, und ich beschloss, es nicht zu kommentieren, denn auf eine Freundlichkeit hinzuweisen, die jemand nicht angekündigt hat, hebt die Freundlichkeit meist wieder auf.
 
-Ich erzählte es ihr ohne Umschweife. Was ich gefunden hatte, was ich gemeldet hatte, wie es ausgegangen war. Sie hörte zu, ohne zu unterbrechen, was die Eigenschaft an ihr ist, die ich am meisten schätzen gelernt habe, und die ich bis zu jenem Abend vielleicht nie ganz eingepreist hatte – jemandem gegenüberzusitzen, der einen zu Ende sprechen lässt, bevor er entscheidet, was der Satz bedeutet.
+Ich erzählte es ihr ohne Umschweife. Was ich gefunden hatte, was ich gemeldet hatte, wie es ausgegangen war. Sie hörte zu, ohne zu unterbrechen. Das ist die Eigenschaft an ihr, die ich am meisten schätzen gelernt habe, und ich hatte sie bis zu jenem Abend vielleicht nie ganz eingepreist – jemandem gegenüberzusitzen, der einen zu Ende sprechen lässt, bevor er entscheidet, was der Satz bedeutet.
 
 Als ich fertig war, sagte sie: „Geht es dir gut?“
 
 Ich dachte über die Frage so ehrlich nach, wie sie es verdiente.
 
-„Ja“, sagte ich. „Nicht auf komplizierte Weise. Als ich die E-Mail geschickt habe, wusste ich, dass das eines der möglichen Ergebnisse war. Ich habe sie trotzdem geschickt. Was heißt, ich hatte schon entschieden, dass es akzeptabel ist.“
+„Ja“, sagte ich. „Nicht auf komplizierte Weise. Als ich die E-Mail geschickt habe, wusste ich, dass das eines der möglichen Ergebnisse war. Ich habe sie trotzdem geschickt. Das heißt, ich hatte schon entschieden, dass es akzeptabel ist.“
 
 Sie sah mich an – nicht mit dem Blick von jemandem, der nach den richtigen Worten sucht, sondern von jemandem, der eine Sache als Ganzes aufnimmt, bevor er auf irgendeinen Teil davon antwortet.
 
@@ -60,7 +60,7 @@ Ich sah sie an.
 
 „Es wird sich etwas ergeben“, sagte sie. „Ich meine das als Tatsache, nicht als Ermutigung.“
 
-Ich habe seither darüber nachgedacht – über das Gewicht, das sie dem Satz gab, und darüber, wie er weniger nach Trost klang als nach einer Feststellung, die zu treffen sie in der Position war. Ich weiß nicht, woher diese Gewissheit kam. Ich weiß nur, dass ich das Abendessen nicht getröstet verließ, sondern gefestigt, was etwas anderes ist und etwas Besseres, und dass es den ganzen Weg nach Hause durch das warme Julidunkel bei mir blieb, wie eine Hand zwischen den Schulterblättern.
+Ich habe seither darüber nachgedacht – über das Gewicht, das sie dem Satz gab, und darüber, wie er weniger nach Trost klang als nach einer Feststellung, zu der sie in der Position war. Ich weiß nicht, woher diese Gewissheit kam. Ich weiß nur, dass ich das Abendessen nicht getröstet verließ, sondern gefestigt, und das ist etwas anderes und etwas Besseres, und dass es den ganzen Weg nach Hause durch das warme Julidunkel bei mir blieb, wie eine Hand zwischen den Schulterblättern.
 
 ---
 
@@ -89,3 +89,4 @@ Ich blieb eine Weile sitzen und las.
 - "Director of Operations" left in English: a Berlin software company title in 2031; „Betriebsleiter“ would make Merkon a factory.
 - "the heat has finally let go" → „losgelassen“ rather than the flatter „nachgelassen“, to keep the English's image of a grip releasing.
 - No exclamation marks; no „effizient/effektiv“; Iris and Jonas du; chat line in italics without quotation marks.
+- v3 (§9 rewrite): „die Art, wie es Steffen … das Gefühl gegeben habe“ frame → „weil es Steffen … das Gefühl gegeben habe“; the „die zu treffen sie in der Position war“ inversion → „zu der sie in der Position war“; three „, was …“ tails re-cut (one inside speech: „Das heißt, …“). Fidelity audit: „Es wird sich etwas ergeben.“ ×2, „als gelöst markiert“, the chat line verbatim; nothing added or dropped.

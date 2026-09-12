@@ -2,9 +2,9 @@
 
 ---
 
-Am ersten Donnerstag ohne Job wachte ich um sieben auf, weil mein Körper es noch erwartete, und blieb dann zwanzig Minuten im Bett liegen und tat nichts, was ich jedem empfehlen kann.
+Am ersten Donnerstag ohne Job wachte ich um sieben auf, weil mein Körper es noch erwartete, und blieb dann zwanzig Minuten im Bett liegen und tat nichts. Das empfehle ich jedem.
 
-Freiheit hat morgens eine Textur. Die Wohnung kam mir bei Tageslicht anders vor – oder ich war anders in ihr, präsent auf eine Weise, wie ich es seit meiner Ankunft in Berlin nicht mehr gewesen war, als alles noch neu genug war, um einen Blick zu verdienen. Ich bemerkte, wie das Licht in der Stunde nach Sonnenaufgang durch die Küche wanderte, was es vermutlich seit Jahren tat, ohne Publikum. Ich bemerkte, dass Diogenes, vor einigen Monaten auf die sonnigere Fensterbank umgezogen, auf eine Weise gedieh, die nahelegte, dass er lange vor mir gewusst hatte, was er brauchte. Das weiß er meistens. Was ich an ihm schätze, ist, dass er nichts dazu sagt.
+Freiheit hat morgens eine Körnung. Die Wohnung kam mir bei Tageslicht anders vor – oder ich war anders in ihr, so präsent, wie ich es seit meiner Ankunft in Berlin nicht mehr gewesen war, als alles noch neu genug war, um einen Blick zu verdienen. Ich bemerkte, wie das Licht in der Stunde nach Sonnenaufgang durch die Küche wanderte – vermutlich tat es das seit Jahren, ohne Publikum. Ich bemerkte, dass Diogenes, vor einigen Monaten auf die sonnigere Fensterbank umgezogen, gedieh, als hätte er lange vor mir gewusst, was er brauchte. Das weiß er meistens. Was ich an ihm schätze, ist, dass er nichts dazu sagt.
 
 Ich kochte Kaffee. Ich saß damit da. Keine der beiden Tätigkeiten war bemerkenswert, und beide waren es, ein wenig.
 
@@ -12,9 +12,9 @@ Ich kochte Kaffee. Ich saß damit da. Keine der beiden Tätigkeiten war bemerken
 
 Mia schrieb am Mittwoch: *Hab’s gehört. Ich hoffe, du stellst dich deswegen jetzt nicht blöd an.* Dann, eine Minute später: *Außerdem finde ich, du hattest recht. Sag Steffen nicht, dass ich das gesagt habe.*
 
-Ich schickte etwas Kurzes, Beruhigendes zurück. Sie antwortete mit einem einzelnen Punkt, was bei Mia vollständige Zufriedenheit bedeutet und das Schließen der Akte.
+Ich schickte etwas Kurzes, Beruhigendes zurück. Sie antwortete mit einem einzelnen Punkt – bei Mia bedeutet das vollständige Zufriedenheit und das Schließen der Akte.
 
-Am Freitag rief ich meine Eltern in Heidelberg an. Meine Mutter stellte praktische Fragen in der methodischen Reihenfolge, in der sie sie immer in Stellung bringt: Welche Optionen gibt es, wie sieht der Zeitplan aus, hast du mit jemandem gesprochen. Sie fragte auch nach Iris – vorsichtig, wie es ihre Art ist –, ob das etwas belasten würde, ob Iris damit zurechtkäme. Ich sagte, Iris habe mich eher gefestigt, als dass sie sich gesorgt hätte, und hörte zu, wie meine Mutter mir nicht ganz glaubte und dann beschloss, es zu tun. Mein Vater sagte, er sei froh, dass ich nicht an einem Ort geblieben sei, der mich nicht verdient habe – so etwas sagt er, und ich habe gelernt, es als die besondere Form von Liebe anzunehmen, die es ist. Ich sagte ihnen, mir gehe es gut, was stimmte, und ich hätte es nicht eilig mit dem, was als Nächstes käme, was sie mit unterschiedlich viel Gleichmut hinnahmen.
+Am Freitag rief ich meine Eltern in Heidelberg an. Meine Mutter stellte praktische Fragen in der methodischen Reihenfolge, in der sie sie immer in Stellung bringt: Welche Optionen gibt es, wie sieht der Zeitplan aus, hast du mit jemandem gesprochen. Sie fragte auch nach Iris – vorsichtig, wie es ihre Art ist –, ob das etwas belasten würde, ob Iris damit zurechtkäme. Ich sagte, Iris habe mich eher gefestigt, als dass sie sich gesorgt hätte, und hörte zu, wie meine Mutter mir nicht ganz glaubte und dann beschloss, es zu tun. Mein Vater sagte, er sei froh, dass ich nicht an einem Ort geblieben sei, der mich nicht verdient habe – so etwas sagt er, und ich habe gelernt, es als die besondere Form von Liebe anzunehmen, die es ist. Ich sagte ihnen, mir gehe es gut – das stimmte –, und ich hätte es nicht eilig mit dem, was als Nächstes käme. Das nahmen sie mit unterschiedlich viel Gleichmut hin.
 
 Danach saß ich einen Moment mit dem Nachklang dieses Anrufs da – seiner Leichtigkeit, der Tatsache, dass nichts hatte erklärt werden müssen. In diesem einen Ressort habe ich mein Leben lang Glück gehabt, und ich weiß es, und ich versuche, es weiter zu wissen.
 
@@ -36,7 +36,7 @@ Ich hörte ihr zu, wie sie es beschrieb – die Quergrachten im Nachmittagslicht
 
 Ich merkte, dass ich mich auf all das freute.
 
-Bis zur Reise waren es zehn Tage. Ich verbrachte die Zwischenzeit auf eine Weise, wie ich seit Jahren keine Zeit mehr verbracht hatte: ohne Dringlichkeit, ohne ein Problem, das ich mit mir herumtrug und noch nicht bereit war abzusetzen. Was auch immer als Nächstes kam, konnte warten, bis es an der Reihe war. Die Bloemgracht wartete, Iris würde mir Amsterdam zeigen, und es war August, und fürs Erste – eine Wendung, in der ich zu wohnen lernte – war das genug.
+Bis zur Reise waren es zehn Tage. Ich verbrachte die Zwischenzeit so, wie ich seit Jahren keine Zeit mehr verbracht hatte: ohne Dringlichkeit, ohne ein Problem, das ich mit mir herumtrug und noch nicht bereit war abzusetzen. Was auch immer als Nächstes kam, konnte warten, bis es an der Reihe war. Die Bloemgracht wartete, Iris würde mir Amsterdam zeigen, und es war August, und fürs Erste – eine Wendung, in der ich zu wohnen lernte – war das genug.
 
 <!-- NOTES -->
 - GLOSSARY: piece (journalism, Iris's article) → „die Geschichte“ (newsroom sense: „Es sei eine gute Geschichte“); alternative „der Text“. Fix one for ch21/22, where the English says *the piece* again.
@@ -50,3 +50,4 @@ Bis zur Reise waren es zehn Tage. Ich verbrachte die Zwischenzeit auf eine Weise
 - v2 (native pass): „die Art von Adresse, die …“ and „die Qualität dieses Anrufs“ re-planned; *steadying* now „gefestigt“, the word ch19 uses.
 - „the closing of the file“ → „das Schließen der Akte“ — „Akte“ as in NOTES ch55 („Ich habe die Akte ergänzt“); not „Ordner“ (reserved for *folder*).
 - Reserved word check: no „effizient/Effizienz/effektiv“, no „zu perfekt“ („nüchterne Klarheit“ for *matter-of-fact clarity*).
+- v3 (§9 rewrite): „Freiheit hat morgens eine Textur“ (texture calque) → „eine Körnung“; three „auf eine Weise, wie/die …“ frames re-cut („so präsent, wie“ / „als hätte er … gewusst“ / „so, wie ich seit Jahren“); four „, was …“ tails opened as sentences or dashes. Fidelity audit: „gefestigt“, „Schließen der Akte“, „fürs Erste – eine Wendung, in der ich zu wohnen lernte“ verbatim; nothing added or dropped.

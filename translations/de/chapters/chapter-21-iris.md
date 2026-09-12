@@ -6,7 +6,7 @@ Eine Woche vor Amsterdam ertappte ich mich dabei, dass ich mehr daran dachte, al
 
 Nicht gerade mit Vorfreude – oder nicht nur. Unter der Vorfreude lief etwas mit, ein tiefer Ton unter der Melodie. Ich schrieb es der Geschichte zu, die noch nicht ganz fertig war, oder dem Druck, eine Woche fort zu sein, während die Deadline weiter auf mich zuging. Das waren vernünftige Erklärungen, und ich nahm sie an, wie man von einem Fremden das Wechselgeld annimmt, ohne es nachzuzählen.
 
-Am Donnerstagabend saß ich mit meinen Notizen am Schreibtisch und versuchte, mir Amsterdam ins Gedächtnis zu rufen, wie man sich einen vertrauten Ort ins Gedächtnis ruft, bevor man dorthin zurückkehrt – um ihn im Voraus zu spüren, anzukommen vor dem Ankommen. Das Spui am Morgen. Der besondere Winkel des Lichts über den Grachten. Der Geruch der Stadt im Sommer, der etwas Eigenes ist und unverwechselbar. Ich griff danach, und sie kamen, jedes gegenwärtig, jedes erkennbar – und jedes flach, auf eine Weise, die ich mir nicht erklären konnte. Wie Fotografien eines Ortes anstelle des Ortes. Wie Postkarten, die jemand anderes ausgesucht hatte.
+Am Donnerstagabend saß ich mit meinen Notizen am Schreibtisch und versuchte, mir Amsterdam ins Gedächtnis zu rufen, wie man sich einen vertrauten Ort ins Gedächtnis ruft, bevor man dorthin zurückkehrt – um ihn im Voraus zu spüren, anzukommen vor dem Ankommen. Das Spui am Morgen. Der besondere Winkel des Lichts über den Grachten. Der Geruch der Stadt im Sommer, der etwas Eigenes ist und unverwechselbar. Ich griff danach, und sie kamen, jedes gegenwärtig, jedes erkennbar – und jedes flach, ohne dass ich hätte sagen können, warum. Wie Fotografien eines Ortes anstelle des Ortes. Wie Postkarten, die jemand anderes ausgesucht hatte.
 
 Ich bin eine Weile fort gewesen, sagte ich mir. Fast ein Jahr in Berlin. Erinnerung verblasst.
 
@@ -24,7 +24,7 @@ Jonas saß am Küchentisch, als ich hereinkam, und arbeitete an etwas, das er ni
 
 „Mm.“ Er blätterte eine Seite um. „Großraum Amsterdam.“
 
-Ich setzte mich ihm gegenüber und schloss die Hände um die Tasse. Draußen führte der Hof den Spätaugust auf: die letzte Wärme des Sommers, die Linde noch in vollem Laub, das Licht, das jeden Abend ein wenig früher golden wurde, als hätte das Jahr leise zu packen begonnen. Jonas sah auf und gab mir seinen Nachdenkblick – nicht auf mich, sondern durch mich hindurch, auf was immer er dahinter gerade durchdachte.
+Ich setzte mich ihm gegenüber und schloss die Hände um die Tasse. Draußen führte der Hof den Spätaugust auf: die letzte Wärme des Sommers, die Linde noch in vollem Laub, das Licht, das jeden Abend ein wenig früher golden wurde, als hätte das Jahr leise zu packen begonnen. Jonas sah auf und gab mir seinen Nachdenkblick – nicht auf mich, sondern durch mich hindurch, auf das, was er dahinter gerade durchdachte.
 
 „Nervös?“, sagte er.
 
@@ -55,3 +55,4 @@ Ich packte zu Ende. Ich ging ins Bett.
 - §C site verbatim: „Zügig, wie ich die meisten Dinge tue“; no „effizient“ in the chapter. Heading per §D; closing line „Man kommt an, und dann erinnert man sich.“ rhymes with the title without quoting it.
 - *the piece* → „die Geschichte“ (as ch20); „Amsterdam-adjacent“ → „Großraum Amsterdam.“ (Jonas's dry administrative joke; alternative „Amsterdam-nah.“); „his thinking look“ → „seinen Nachdenkblick“; „parse“ → „aufschlüsseln“ (Iris's technical verb).
 - Generic *you* → man throughout.
+- v3 (§9 rewrite): „auf eine Weise, die ich mir nicht erklären konnte“ → „ohne dass ich hätte sagen können, warum“; „auf was immer er“ → „auf das, was er“. Fidelity audit: §C site „Zügig, wie ich die meisten Dinge tue“ verbatim; nothing added or dropped.
