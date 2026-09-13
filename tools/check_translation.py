@@ -62,6 +62,28 @@ RULES = {
         "ratio": (0.9, 1.4),
         "tics": ["le genre de", "une sorte de", "la façon dont", "la manière dont", "en quelque sorte", "en fait", "pas vraiment", "dis-je", "dit-elle", "dit-il"],
     },
+    "ru": {
+        "label_re": re.compile(r"^# Глава [а-яё]+(?: [а-яё]+)?(?::\s+.+)?$"),
+        # Russian keeps the spaced em dash inside sentences, so it is not flagged here.
+        "bad_typography": [("\"", "straight double quote (use «…»)"),
+                           ("\u201c", "English opening quote “ (use «)"),
+                           ("\u201d", "English closing quote ” (use »)"),
+                           (" - ", "hyphen used as dash (use —)"),
+                           ("–", "en dash (Russian uses — in prose)")],
+        # Russian runs shorter than English in words (no articles).
+        "ratio": (0.70, 1.10),
+        "tics": ["своего рода", "в некотором роде", "на самом деле", "то, как ", "что-то вроде",
+                 "в каком-то смысле", "сказал я", "сказала она"],
+        # Cyrillic forms (stems or declined variants) for the name-presence test.
+        "names": {
+            "Jonas": ["Йонас"], "Iris": ["Ирис"], "Claudia": ["Клауди"], "Mia": ["Мия", "Мии", "Мие", "Мию", "Мией"],
+            "Lukas": ["Лукас"], "Conrad": ["Конрад"], "Vael": ["Ваэл"], "Mara": ["Мара", "Мары", "Маре", "Мару", "Марой"],
+            "Seyn": ["Сейн"], "Kees": ["Кес"], "Ingrid": ["Ингрид"], "Steffen": ["Штеффен"], "Würfel": ["Вюрфел"],
+            "Diogenes": ["Диоген"], "Merkon": ["Меркон"], "Vantage": ["Вантидж"], "Arcturus": ["Арктурус"],
+            "Weichselstraße": ["Вайхзельштрассе"], "Neukölln": ["Нойкёльн"], "Hermannstraße": ["Херманнштрассе"],
+            "Bloemgracht": ["Блумграхт"], "Oosterpark": ["Остерпарк"], "Heerlen": ["Хеерлен"], "Aleph": ["Алеф"],
+        },
+    },
 }
 
 
@@ -118,8 +140,10 @@ def main(lang: str) -> int:
             name_key = lambda nm: nm.replace("á", "a").replace("é", "e").casefold()
         else:
             body_names, name_key = body, lambda nm: nm
+        name_map = rules.get("names", {})
         for name in NAMES:
-            n_en, n_de = en.count(name), body_names.count(name_key(name))
+            variants = name_map.get(name) or [name_key(name)]
+            n_en, n_de = en.count(name), sum(body_names.count(v) for v in variants)
             if n_en and not n_de:
                 issues.append(f"name lost: {name}")
         w_en, w_de = words(en), words(de)

@@ -101,6 +101,20 @@ EDITIONS: dict[str, dict] = {
         "title_lines": ["Ce que", "ça fait", "la pluie"],
         "isbn_paperback": "[assigned by KDP at publish]",
     },
+    # Russian. Title and closing line are one decision — see
+    # translations/ru/NOTES.md §A before changing either.
+    "ru": {
+        "name": "Russian",
+        "locale": "ru-RU",
+        "title": "Каков дождь на ощупь",
+        "subtitle": "роман",
+        "slug": "Kakov-Dozhd-Na-Oshchup",
+        "scene_break": "·   ·   ·",
+        "contents_label": "Содержание",
+        "byline_prefix": "",
+        "title_lines": ["Каков", "дождь", "на ощупь"],
+        "isbn_paperback": "[assigned by KDP at publish]",
+    },
 }
 
 # ─────────────────────────────────────────────────────────────────────────────
