@@ -16,7 +16,7 @@ plain spaces and drops *italic* markers, so typography passes do not trip it.
 import json, pathlib, re, sys
 
 # opening quote, and the set of closing quotes accepted (NOTES files mix “ and ” after „)
-QUOTES = {"de": ("„", "“”"), "ro": ("„", "“”"), "hu": ("„", "“”"), "fr": ("«", "»")}
+QUOTES = {"de": ("„", "“”"), "ro": ("„", "“”"), "hu": ("„", "“”"), "fr": ("«", "»"), "ru": ("«", "»")}
 SECTIONS = re.compile(r"^## ([ACE])\.", re.M)
 
 def norm(s: str) -> str:

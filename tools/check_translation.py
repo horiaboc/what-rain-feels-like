@@ -66,7 +66,6 @@ RULES = {
         "label_re": re.compile(r"^# Глава [а-яё]+(?: [а-яё]+)?(?::\s+.+)?$"),
         # Russian keeps the spaced em dash inside sentences, so it is not flagged here.
         "bad_typography": [("\"", "straight double quote (use «…»)"),
-                           ("\u201c", "English opening quote “ (use «)"),
                            ("\u201d", "English closing quote ” (use »)"),
                            (" - ", "hyphen used as dash (use —)"),
                            ("–", "en dash (Russian uses — in prose)")],

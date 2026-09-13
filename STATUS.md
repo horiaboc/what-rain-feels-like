@@ -279,8 +279,8 @@ catch a 74-line deletion — eyeball dialogue after any mechanical pass.*
 git. Generalised to one directory per edition; de/ro/hu release sets committed.
 
 **Quality standing, honest estimate (2026-09-12, evening).** Self-assessments;
-no native speaker has read any edition. All four editions now have the §9
-rewrite — Hungarian and French folded in at the write, German (v3) and
+no native speaker has read any edition. All five editions now have the §9
+rewrite — Hungarian, French and Russian folded in at the write, German (v3) and
 Romanian (v2) as guarded revision passes — and sit at ~98%. Romanian's pass
 touched more per chapter than German's (its calques were gerund chains and
 „ceea ce“ afterthoughts rather than frame nouns) and found one real
@@ -297,6 +297,29 @@ ch13 „Miei, ale cărei consecințe“ grammar. Full build to `build/ro/` (269
 pages, spine 0.6725in), `REVIEW-NOTES.md` regenerated as v2, EPUB emailed.
 Not yet: the native review pass, ISBN, KDP.
 
+**Russian edition — v1 complete (2026-09-13):** all 55 chapters + book-matter
+written natively in the main context by Fable 5.1 with §7/§8/§9 folded into
+each chapter. Title «Каков дождь на ощупь» (one decision with the closing
+line «— Я знаю, что ты меня видишь, — говорит она. — Так что слушай. Вот каков
+дождь на ощупь…» and ch38's «Я не знаю, каков дождь на ощупь!»); reserved
+«Слишком идеально. Слишком — эффективно.» (ch22/47 only); labels «Глава
+первая … пятьдесят пятая»; ты/вы table in NOTES §B (Jonas↔Iris switch at the
+ch08 name exchange, Conrad↔Mara вы + имя, Aleph→Mara «Вы были правы. Спасибо.»
+= «Четыре слова.»). Gates clean (эффективн-/слишком идеально only ch22/47;
+«на ощупь» only ch38/55; no «письмо»/«я» in ALEPH ch02/05/23); checker 0
+issues; `check_echoes.py ru` 103 guarded phrases, 0 regressions. Decisions and
+glossary in `translations/ru/NOTES.md`, `NATIVE-SHEET.md`, per-chapter notes in
+`REVIEW-NOTES.md`. Full build to `build/ru/` (285 pages, spine 0.7125in; cover
+«Каков / дождь / на ощупь», Cyrillic in EB Garamond checked), EPUB emailed and
+sent to the session. Mid-run the session resumed on another model after a
+usage reset; the one chapter drafted before the switch was noticed (ch47) was
+discarded and regenerated under Fable before commit. Not yet: native review
+(§H lists 12 questions), ISBN, paperback.
+
+Build-side: `ru` in EDITIONS; `RULES["ru"]` with a Cyrillic name map and the
+checker's name test generalised to variants; the «“» rule dropped for ru
+(„…“ is the inner-quote pair); `"ru"` added to `check_echoes.py` QUOTES.
+
 **Echo-integrity tool (2026-09-12):** `tools/check_echoes.py <lang> --snapshot`
 records every quoted phrase (≥10 chars) from NOTES.md §A/§C/§E per chapter;
 `--check` fails on any decrease. German snapshot committed
@@ -306,7 +329,7 @@ after every German edit. Phrases that live only in chapter trailers (e.g.
 
 **Priority (Horia, 2026-09-11):** publish the German edition soon. French,
 the German revision and the Romanian revision are all done (2026-09-12).
-**No translation work is pending.** Next are publication steps (German first)
+**No translation work is pending (Russian v1 delivered 2026-09-13).** Next are publication steps (German first)
 and, when a native reader is available, the §H questions per edition. All
 four editions are at the same procedural standard; any further quality gain
 needs a native reader, not another pass.
