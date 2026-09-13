@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Echo-integrity check for a translated edition.
+"""Echo-integrity check for the English source or a translated edition.
 
 The fixed lines and seeded echoes live in translations/<lang>/NOTES.md (sections
 A, C, E) as quoted German/French/… strings. A nativeness rewrite is exactly the
@@ -9,6 +9,10 @@ and later verifies that no count has gone down.
 
   tools/check_echoes.py <lang> --snapshot   # write translations/<lang>/ECHOES.snapshot.json
   tools/check_echoes.py <lang> --check      # compare current text against the snapshot
+
+"en" is the English source: its phrases come from ./ECHOES.md (every line that
+begins with "- "), its chapters from ./chapters/, its snapshot from
+./ECHOES.snapshot.json. Everything else reads translations/<lang>/.
 
 Exit status 1 on any regression. Matching normalises no-break/thin spaces to
 plain spaces and drops *italic* markers, so typography passes do not trip it.
@@ -23,6 +27,15 @@ def norm(s: str) -> str:
     return re.sub(r"[  ]", " ", s).replace("*", "")
 
 def phrases(lang: str) -> list[str]:
+    if lang == "en":
+        text = pathlib.Path("ECHOES.md").read_text(encoding="utf-8")
+        out = []
+        for line in text.splitlines():
+            if line.startswith("- "):
+                f = norm(line[2:]).strip()
+                if f and f not in out:
+                    out.append(f)
+        return out
     notes = pathlib.Path(f"translations/{lang}/NOTES.md").read_text(encoding="utf-8")
     parts = re.split(r"^## ", notes, flags=re.M)
     keep = [p for p in parts if re.match(r"[ACE]\.", p)]
@@ -40,7 +53,8 @@ def phrases(lang: str) -> list[str]:
 
 def bodies(lang: str) -> dict[str, str]:
     d = {}
-    for p in sorted(pathlib.Path(f"translations/{lang}/chapters").glob("*.md")):
+    root = "chapters" if lang == "en" else f"translations/{lang}/chapters"
+    for p in sorted(pathlib.Path(root).glob("*.md")):
         d[p.name] = norm(p.read_text(encoding="utf-8").split("<!-- NOTES")[0])
     return d
 
@@ -55,12 +69,14 @@ def count(lang: str) -> dict[str, dict[str, int]]:
 
 def main():
     lang, mode = sys.argv[1], sys.argv[2]
-    snap = pathlib.Path(f"translations/{lang}/ECHOES.snapshot.json")
+    snap = pathlib.Path("ECHOES.snapshot.json" if lang == "en"
+                        else f"translations/{lang}/ECHOES.snapshot.json")
     res, ph = count(lang)
     if mode == "--snapshot":
         missing = [f for f in ph if f not in res]
         snap.write_text(json.dumps({"phrases": res, "not_found": missing}, ensure_ascii=False, indent=1), encoding="utf-8")
-        print(f"{lang}: {len(ph)} quoted phrases in NOTES §A/§C/§E; {len(res)} present in the text ({sum(sum(v.values()) for v in res.values())} sites); {len(missing)} not found (listed in the snapshot).")
+        src = "ECHOES.md" if lang == "en" else "NOTES §A/§C/§E"
+        print(f"{lang}: {len(ph)} phrases in {src}; {len(res)} present in the text ({sum(sum(v.values()) for v in res.values())} sites); {len(missing)} not found (listed in the snapshot).")
         return 0
     old = json.loads(snap.read_text(encoding="utf-8"))["phrases"]
     bad = []
