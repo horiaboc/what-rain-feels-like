@@ -34,6 +34,21 @@ This edition has no `NOTES.md` §H list, because its decisions were not
 translation decisions. Use the `question` category for anything a reader
 raises that needs an author ruling rather than a fix.
 
+## How a reader should point at something
+
+The EPUB is reflowable and carries no page map, so page numbers depend on the
+reader's font size, device and margins. Two readers see different numbers for
+the same sentence. Page numbers are only stable in the print interior PDF.
+
+Ask for this instead, in order of usefulness:
+
+1. **The chapter number, plus the words themselves** quoted as they appear.
+   Even three or four words is enough to locate a line exactly. This is what
+   actually works, and costs the reader nothing.
+2. Roughly where in the chapter, if the words are common: near the start, the
+   middle, or the end.
+3. Page number as a bonus, useful only if they are reading the print PDF.
+
 ## Tally
 
 Open: 0 · Accepted: 0 · Declined: 0 · Applied: 0
