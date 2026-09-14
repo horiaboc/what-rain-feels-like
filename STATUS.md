@@ -143,6 +143,55 @@ Iris writes an article — describing the shift from AI to AGI as a public recko
 
 ---
 
+---
+
+## Audiobooks — decided 2026-09-14
+
+**Target:** English and German on Audible. Both editions run just under eighty
+thousand words, so each is roughly eight and a half finished hours, about
+seventeen hours of narration in total.
+
+**ACX is closed to us.** ACX accepts rights holders resident in the US, UK,
+Canada or Ireland only, and requires a local taxpayer identification number and
+a bank account in one of those four countries. The author is resident in
+Germany, so the requirement cannot be met. This is a tax and banking rule, not
+a language rule — being able to *buy* English audiobooks on Audible.de says
+nothing about being able to *publish* through ACX from Germany.
+
+**Consequence: plan without Whispersync for Voice.** Whispersync pairing is
+described in terms of an ACX audiobook matched to the KDP ebook. Without ACX we
+should assume no sync and no bundled ebook-plus-audio discount, in either
+language. If an aggregator later confirms in writing that titles it delivers to
+Audible remain eligible, treat that as upside, not as the basis of the plan.
+
+**Route for both languages:** produce the audio, then distribute through a
+non-exclusive aggregator (INaudio, formerly Findaway Voices; Author's Republic;
+or equivalent). These reach Audible and Audible.de and carry the same files on
+to Spotify, Apple, Kobo and the library systems at no extra effort. Note that
+ACX's best rate requires Audible exclusivity, which was never available to us,
+so against ACX's *non-exclusive* rate the aggregator route is competitive
+rather than a downgrade.
+
+**Rejected:** holding rights through an entity in an eligible country. Real
+tax, accounting and legal cost, very unlikely to pay for itself across two
+titles.
+
+**Sequencing, in order:**
+
+1. Finish the native-reader passes on every edition (in progress; feedback is
+   collected in the per-edition `FEEDBACK.md` boxes).
+2. Apply accepted corrections in one pass **on Fable 5.1 at max effort**, then
+   re-run `tools/check_echoes.py <lang> --check` on every edition touched.
+3. Publish the German ebook to KDP. Audio platforms generally require the ebook
+   on sale before audio rights can be claimed, and German is still unpublished
+   (ISBN, Buchpreisbindung price, metadata check outstanding).
+4. Only then commission narration. An ebook can be revised quietly after
+   publication; eight and a half hours of recorded audio cannot.
+
+**Open question for the aggregator, to be asked in writing before any narration
+is commissioned:** do titles you deliver to Audible remain eligible for
+Whispersync pairing with the KDP ebook?
+
 ## Immediate Next Action
 
 **PUBLISHED.** Both editions are live on KDP — Kindle and the 6×9 paperback.
