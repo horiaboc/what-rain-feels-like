@@ -113,6 +113,65 @@ where promotion becomes worth doing. Everything in Phase 5 waits for this.
 
 ---
 
+---
+
+## Phase 4b — Announcing it socially (launch week, alongside Phase 4)
+
+**Status: waiting on author copies of the paperback (decided 2026-09-15).**
+The post is held deliberately until the physical book is in hand, because the
+photograph is the part that carries it.
+
+**Links.** Instagram captions do not render clickable links, so a pasted Amazon
+URL is dead text. Only two placements work: the Amazon link in the profile bio,
+with "link in bio" in the caption; and a Story posted alongside the feed post
+using a link sticker, which is tappable and is where most clicks come from.
+Stories expire after 24h — pin it as a Highlight ("The book").
+
+**Image, ranked by what actually performs:**
+1. A photograph of the physical paperback in a real place — in hand, on a desk,
+   by a window. It proves the object exists and reads as a moment, not an ad.
+2. The flat cover file (`build/en/What-Rain-Feels-Like_ebook-cover.jpg`) as a
+   fallback. Noticeably weaker; looks like a product listing.
+3. A screenshot of the Amazon page. Don't. It reads as a receipt.
+
+→ Order author copies. For a debut the photo of the physical thing is worth
+more than any caption.
+
+**Text: tell the story, not the pitch.** The strongest material is not the
+book's premise but why it exists and what it cost — written around a full-time
+developer job, by a Romanian living in Germany, with readers following it
+chapter by chapter as it was written. That last detail is the most interesting
+thing in the announcement and belongs near the top.
+
+Draft to adapt into his own words:
+
+```
+I wrote a novel.
+
+It took [time], mostly evenings, around a full-time job writing software.
+Some of you read it chapter by chapter as it was being written, which is
+the only reason it got finished.
+
+It is called What Rain Feels Like. It is about memory, freedom, and what
+it means to be fully known by someone. It is out now, in ebook and
+paperback.
+
+Link in bio. If you read it, an honest review helps more than you think.
+```
+
+**Keep the central turn out of it**, exactly as the blurb does. The public
+framing is memory, freedom, and being fully known — nothing about what Iris is.
+
+**Sequencing.** Phase 5's warning against promoting a page with no reviews is
+about *paid traffic to strangers*. A personal announcement to people who
+already know him converts on relationship, not social proof, so it can run
+before the reviews exist. The closing line also feeds Phase 4. Paid promotion
+still waits.
+
+**German edition:** hold any German-language announcement until that edition is
+actually live, for the same reason the German author bio anchors on the English
+title — don't point readers at a book they cannot buy.
+
 ## Phase 5 — Promotion, once there are reviews (roughly weeks 3–8)
 
 Only start here when Phase 4's reviews exist. Promoting a book with two reviews
